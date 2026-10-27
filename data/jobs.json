@@ -43,7 +43,8 @@
    },
    "read": true,
    "fitAdjust": 1.5,
-   "adjustWhy": "English only, no years asked, and the role is the affiliate network itself. The formula cannot see that the posting asks for no experience count."
+   "adjustWhy": "English only, no years asked, and the role is the affiliate network itself. The formula cannot see that the posting asks for no experience count.",
+   "below": false
   },
   {
    "title": "Product Growth & Partnerships Manager",
@@ -100,7 +101,8 @@
    },
    "read": true,
    "fitAdjust": 1.5,
-   "adjustWhy": "Stated pay of EUR 3,500 gross a month and partnerships plus growth in one role. The rating formula cannot see that the posting names no years."
+   "adjustWhy": "Stated pay of EUR 3,500 gross a month and partnerships plus growth in one role. The rating formula cannot see that the posting names no years.",
+   "below": false
   },
   {
    "title": "Partnership Specialist",
@@ -155,7 +157,8 @@
     ],
     "check": []
    },
-   "read": true
+   "read": true,
+   "below": false
   },
   {
    "title": "Senior Partnerships Manager, Product Partnerships",
@@ -209,7 +212,8 @@
     ],
     "check": []
    },
-   "read": true
+   "read": true,
+   "below": false
   },
   {
    "title": "Senior Strategic Partnerships Manager",
@@ -255,7 +259,8 @@
      "text not read"
     ]
    },
-   "read": true
+   "read": true,
+   "below": true
   },
   {
    "title": "Growth Marketing Manager, B2C",
@@ -301,7 +306,8 @@
      "text not read"
     ]
    },
-   "read": true
+   "read": true,
+   "below": true
   },
   {
    "title": "Account Manager, Affiliate Marketing",
@@ -352,7 +358,8 @@
     ],
     "check": []
    },
-   "read": true
+   "read": true,
+   "below": false
   },
   {
    "title": "Growth Manager",
@@ -397,7 +404,8 @@
     ],
     "check": []
    },
-   "read": true
+   "read": true,
+   "below": true
   },
   {
    "title": "Affiliate Manager",
@@ -440,7 +448,8 @@
      "text not read"
     ]
    },
-   "read": true
+   "read": true,
+   "below": false
   },
   {
    "title": "Growth Marketing Manager (SaaS, remote, EU)",
@@ -482,7 +491,8 @@
      "text not read"
     ]
    },
-   "read": true
+   "read": true,
+   "below": false
   },
   {
    "title": "Growth & Lifecycle Marketing Specialist",
@@ -528,7 +538,8 @@
      "text not read"
     ]
    },
-   "read": true
+   "read": true,
+   "below": false
   },
   {
    "title": "Partnerships and Activation Manager",
@@ -576,7 +587,8 @@
      "text not read"
     ]
    },
-   "read": true
+   "read": true,
+   "below": true
   },
   {
    "title": "Growth Marketing Lead (Multi Market)",
@@ -622,7 +634,8 @@
      "text not read"
     ]
    },
-   "read": true
+   "read": true,
+   "below": true
   },
   {
    "title": "Organic Growth Lead",
@@ -666,7 +679,8 @@
      "text not read"
     ]
    },
-   "read": true
+   "read": true,
+   "below": true
   },
   {
    "title": "Senior Affiliate Manager",
@@ -710,7 +724,8 @@
      "text not read"
     ]
    },
-   "read": true
+   "read": true,
+   "below": true
   },
   {
    "title": "Regional Trade & Partnership Manager, Europe",
@@ -756,7 +771,8 @@
      "text not read"
     ]
    },
-   "read": true
+   "read": true,
+   "below": true
   },
   {
    "title": "Partnerships Manager (UK)",
@@ -798,7 +814,8 @@
      "text not read"
     ]
    },
-   "read": true
+   "read": true,
+   "below": true
   },
   {
    "title": "Partnership Development Manager",
@@ -840,7 +857,8 @@
      "text not read"
     ]
    },
-   "read": true
+   "read": true,
+   "below": false
   },
   {
    "title": "Global Alliances Partner Manager",
@@ -893,7 +911,8 @@
      "older than three weeks"
     ]
    },
-   "read": true
+   "read": true,
+   "below": false
   },
   {
    "title": "Partner Manager (UK market)",
@@ -938,7 +957,8 @@
      "text not read"
     ]
    },
-   "read": true
+   "read": true,
+   "below": true
   },
   {
    "title": "Senior Business Development Consultant & European Events Lead",
@@ -986,7 +1006,8 @@
     ],
     "check": []
    },
-   "read": true
+   "read": true,
+   "below": true
   },
   {
    "title": "Airlines Partnership Manager",
@@ -1028,7 +1049,8 @@
      "text not read"
     ]
    },
-   "read": true
+   "read": true,
+   "below": true
   },
   {
    "title": "Model Partnerships, ElevenCreative",
@@ -1079,7 +1101,8 @@
     ],
     "check": []
    },
-   "read": true
+   "read": true,
+   "below": false
   },
   {
    "title": "Channel Manager, EMEA",
@@ -1124,7 +1147,8 @@
     ],
     "check": []
    },
-   "read": true
+   "read": true,
+   "below": false
   },
   {
    "id": "sumsub",
@@ -1183,7 +1207,8 @@
      "detailed description"
     ],
     "check": []
-   }
+   },
+   "below": false
   },
   {
    "id": "feather",
@@ -1241,7 +1266,8 @@
     "check": []
    },
    "fitAdjust": 1.5,
-   "adjustWhy": "Runs the affiliate network itself and the posting asks for no year count. The formula marks it down for the fixed term contract."
+   "adjustWhy": "Runs the affiliate network itself and the posting asks for no year count. The formula marks it down for the fixed term contract.",
+   "below": false
   },
   {
    "id": "ixopay",
@@ -1297,7 +1323,8 @@
      "detailed description"
     ],
     "check": []
-   }
+   },
+   "below": false
   },
   {
    "id": "hhhub",
@@ -1350,7 +1377,8 @@
      "detailed description"
     ],
     "check": []
-   }
+   },
+   "below": false
   },
   {
    "id": "surfshark",
@@ -1398,7 +1426,8 @@
      "detailed description"
     ],
     "check": []
-   }
+   },
+   "below": true
   },
   {
    "id": "stellartech",
@@ -1450,7 +1479,8 @@
     "check": []
    },
    "fitAdjust": -2.0,
-   "adjustWhy": "Hands on Meta budget ownership sits further from your affiliate and partnerships core than the title suggests."
+   "adjustWhy": "Hands on Meta budget ownership sits further from your affiliate and partnerships core than the title suggests.",
+   "below": true
   },
   {
    "id": "wildix",
@@ -1507,7 +1537,8 @@
     "check": []
    },
    "fitAdjust": -2.0,
-   "adjustWhy": "Asks for 5+ years of channel and telecom experience and UK right to work, which the formula cannot see."
+   "adjustWhy": "Asks for 5+ years of channel and telecom experience and UK right to work, which the formula cannot see.",
+   "below": true
   },
   {
    "id": "perena",
@@ -1555,8 +1586,9 @@
     "check": []
    },
    "fitAdjust": -1.5,
-   "adjustWhy": "Wants a record of growing a character first IP, which you may not have."
+   "adjustWhy": "Wants a record of growing a character first IP, which you may not have.",
+   "below": true
   }
  ],
- "rated": "27 Oct 2026 14:29 UTC"
+ "rated": "27 Oct 2026 14:31 UTC"
 }

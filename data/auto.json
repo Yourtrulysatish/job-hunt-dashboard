@@ -1,5 +1,5 @@
 {
- "generated": "27 Oct 2026 14:29 UTC",
+ "generated": "27 Oct 2026 14:31 UTC",
  "count": 6,
  "items": [
   {
@@ -152,53 +152,6 @@
    "why": "Found by the daily scan. Open the posting and read it before applying."
   },
   {
-   "id": "afc2bf3aff6",
-   "title": "Amazon Brand Growth Manager",
-   "company": "ScaleJet",
-   "country": "Spain",
-   "region": "e",
-   "tier": "auto",
-   "fit": 7.0,
-   "rating": {
-    "fit": 7.0,
-    "conf": "Medium",
-    "parts": {
-     "role": 2.0,
-     "level": 2.0,
-     "place": 0.8,
-     "pay": 0.5,
-     "sector": 1.5,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "analytics",
-     "paid media"
-    ],
-    "missing": [
-     "api",
-     "retention"
-    ]
-   },
-   "posted": "2026-10-25",
-   "firstSeen": "2026-10-27",
-   "url": "https://himalayas.app/companies/scalejet/jobs/amazon-brand-growth-manager-29182204?utm_source=api",
-   "source": "himalayas",
-   "flags": [
-    "asks up to 3+ years"
-   ],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying."
-  },
-  {
    "id": "afc0373a090",
    "title": "Partnership Development Manager",
    "company": "1st for Awarding Ltd",
@@ -232,6 +185,53 @@
    "posted": "2026-10-25",
    "firstSeen": "2026-10-27",
    "url": "https://himalayas.app/companies/1st-for-awarding-ltd/jobs/partnership-development-manager?utm_source=api",
+   "source": "himalayas",
+   "flags": [],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
+  },
+  {
+   "id": "afdd23e424f",
+   "title": "Business Development Manager",
+   "company": "Eightcap",
+   "country": "France",
+   "region": "e",
+   "tier": "auto",
+   "fit": 7.0,
+   "rating": {
+    "fit": 7.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.0,
+     "level": 1.0,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "affiliate",
+     "analytics",
+     "business development",
+     "content and social",
+     "negotiation",
+     "partnerships",
+     "web3"
+    ],
+    "missing": []
+   },
+   "posted": "2026-10-24",
+   "firstSeen": "2026-10-27",
+   "url": "https://himalayas.app/companies/eightcap/jobs/business-development-manager?utm_source=api",
    "source": "himalayas",
    "flags": [],
    "check": {

@@ -32,7 +32,8 @@ function todayIso(){var d=new Date();return d.getFullYear()+'-'+String(d.getMont
 function rel(n){return n===0?'today':n===1?'tomorrow':n===-1?'yesterday':n>0?'in '+n+' days':(-n)+' days ago'}
 function st(j){var t=track[j.id];return (t&&t.status)||'to_apply'}
 function closed(j){var l=LIVE[j.url];return !!(l&&l.state==='closed')}
-function counted(j){return !closed(j)&&(j.tier!=='auto'||!!(track[j.id]&&track[j.id].status))}
+function hiddenJob(j){return !!(j.below&&!(track[j.id]&&track[j.id].status))}
+function counted(j){return !hiddenJob(j)&&!closed(j)&&(j.tier!=='auto'||!!(track[j.id]&&track[j.id].status))}
 function fitText(n){return n==null?'':String(n)}
 function rebuild(){var ids={},m=curated.concat(autoItems);m.forEach(function(j){ids[j.id]=1});
   Object.keys(track).forEach(function(id){var t=track[id];if(t&&t.snap&&!ids[id]){var j=Object.assign({},t.snap,{id:id,gone:true});m.push(j)}});jobs=m}
@@ -66,7 +67,7 @@ function build(){
   R.list.addEventListener('focusout',function(){setTimeout(function(){if(dirty&&!editing()){dirty=false;render(true)}},0)});
   R.scanHead=h('div',{class:'scanhead'});R.scan=h('ul',{class:'scan'});
   app.appendChild(h('section',{class:'panel'},R.scanHead,R.scan));
-  app.appendChild(h('p',{class:'foot',text:'The fit rating is out of 10, scored on role match, seniority, work model and place, pay and sector, with red flags subtracted (the method borrows from the open source career-ops project). Roles marked Checked by hand were read posting by posting. Auto found roles and the list below come from the daily scan, and a rating based on the title only is a rough guess. Statuses and notes are saved in this browser only. Use Backup and Restore to move them to another device.'}));
+  app.appendChild(h('p',{class:'foot',text:'Only roles rated above 6 out of 10 are shown. The fit rating is out of 10, scored on role match, seniority, work model and place, pay and sector, with red flags subtracted (the method borrows from the open source career-ops project). Roles marked Checked by hand were read posting by posting. Auto found roles and the list below come from the daily scan, and a rating based on the title only is a rough guess. Statuses and notes are saved in this browser only. Use Backup and Restore to move them to another device.'}));
 }
 function sel(label,opts,key){
   var s=h('select',{'aria-label':label,onchange:function(){ui[key]=s.value;render(true)}});
@@ -80,6 +81,7 @@ function visible(){
   var q=ui.q.trim().toLowerCase();
   var list=jobs.filter(function(j){
     var s=st(j);
+    if(hiddenJob(j))return false;
     if(ui.status==='active'){if(!activeStatus(s)||(closed(j)&&!(track[j.id]&&track[j.id].status)))return false}else if(ui.status!=='all'&&s!==ui.status)return false;
     if(ui.region!=='all'&&j.region!==ui.region)return false;
     if(ui.tier!=='all'&&j.tier!==ui.tier)return false;
@@ -127,7 +129,7 @@ function render(force){
   if(!names.length)R.bars.appendChild(h('p',{class:'empty',text:'No open roles yet.'}));
   var allC=Object.keys(jobs.reduce(function(o,j){o[j.country]=1;return o},{})).sort();
   setOptions(R.country,[['all','All countries']].concat(allC.map(function(c){return [c,c]})),'country');
-  var vis=visible();R.count.textContent=vis.length+' of '+jobs.length+' shown';
+  var vis=visible();R.count.textContent=vis.length+' shown';
   clear(R.list);
   if(!loaded)R.list.appendChild(h('p',{class:'loading',text:'Loading jobs...'}));
   else if(!jobs.length)R.list.appendChild(h('p',{class:'empty',text:'The job list did not load. Reload the page.'}));

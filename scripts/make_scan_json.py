@@ -70,7 +70,7 @@ for r in rows:
                 new=(first == TODAY) or (age is not None and age <= 1), why='Found by the daily scan' + ('' if r['desc'] else ' from a national job board') + '. Open the posting and read it before applying.')
     if 'mode' in job: item['mode'] = job['mode']
     if ev['fit'] >= 7 and r['desc'] and POS.search(r['title']) and not any(x.startswith('LANGUAGE') for x in f): auto.append(item)
-    elif ev['fit'] >= 6 and not any(x.startswith('LANGUAGE') for x in f): rest.append(item)
+    elif ev['fit'] > 6 and not any(x.startswith('LANGUAGE') for x in f): rest.append(item)
 def key(x): return (-x['fit'], -int((x['posted'] or x['firstSeen']).replace('-', '')))
 auto.sort(key=key); rest.sort(key=key)
 cut = NOW.timestamp() - 30 * 86400
@@ -82,6 +82,7 @@ for j in cur:
     ev = evaluate(j, jd)
     j['rating'] = pack(ev)
     j['fit'] = max(1.0, min(10.0, ev['fit'] + j.get('fitAdjust', 0)))
+    j['below'] = j['fit'] <= 6
     j['check'] = posting_check(j, jd, age_of(j['posted'] + 'T00:00:00+00:00') if j.get('posted') else None)
 stamp = NOW.strftime('%d %b %Y %H:%M UTC')
 doc['rated'] = stamp
