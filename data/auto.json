@@ -1,6 +1,6 @@
 {
- "generated": "27 Oct 2026 14:09 UTC",
- "count": 6,
+ "generated": "27 Oct 2026 14:12 UTC",
+ "count": 5,
  "items": [
   {
    "id": "a752b5156c8",
@@ -185,53 +185,6 @@
    "posted": "2026-10-25",
    "firstSeen": "2026-10-27",
    "url": "https://himalayas.app/companies/1st-for-awarding-ltd/jobs/partnership-development-manager?utm_source=api",
-   "source": "himalayas",
-   "flags": [],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying."
-  },
-  {
-   "id": "afdd23e424f",
-   "title": "Business Development Manager",
-   "company": "Eightcap",
-   "country": "France",
-   "region": "e",
-   "tier": "auto",
-   "fit": 7.0,
-   "rating": {
-    "fit": 7.0,
-    "conf": "Medium",
-    "parts": {
-     "role": 3.0,
-     "level": 1.0,
-     "place": 0.8,
-     "pay": 0.5,
-     "sector": 1.5,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "affiliate",
-     "analytics",
-     "business development",
-     "content and social",
-     "negotiation",
-     "partnerships",
-     "web3"
-    ],
-    "missing": []
-   },
-   "posted": "2026-10-24",
-   "firstSeen": "2026-10-27",
-   "url": "https://himalayas.app/companies/eightcap/jobs/business-development-manager?utm_source=api",
    "source": "himalayas",
    "flags": [],
    "check": {
