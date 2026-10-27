@@ -1200,9 +1200,9 @@
    "visaState": "unstated",
    "pay": "Not stated",
    "why": "Runs the affiliate network and partner acquisition across countries, including payouts and negotiation. This is a maternity cover, so ask how long the contract runs.",
-   "url": "https://himalayas.app/companies/feather/jobs/growth-marketing-manager-affiliates-partnerships-maternity-cover-",
+   "url": "https://himalayas.app/companies/feather/jobs/growth-marketing-manager-affiliates-partnerships-maternity-cover-f-m-x?utm_source=api",
    "source": "Himalayas",
-   "fit": 6.5,
+   "fit": 8.0,
    "read": true,
    "rating": {
     "fit": 6.5,
@@ -1218,18 +1218,30 @@
     "notes": [
      "contract rather than employee"
     ],
-    "have": [],
-    "missing": []
+    "have": [
+     "affiliate",
+     "analytics",
+     "b2b",
+     "business development",
+     "crm",
+     "negotiation",
+     "partnerships",
+     "testing"
+    ],
+    "missing": [
+     "stakeholder"
+    ]
    },
    "check": {
-    "tier": "Check first",
+    "tier": "Looks live",
     "good": [
-     "posted in the last two weeks"
+     "posted in the last two weeks",
+     "detailed description"
     ],
-    "check": [
-     "text not read"
-    ]
-   }
+    "check": []
+   },
+   "fitAdjust": 1.5,
+   "adjustWhy": "Runs the affiliate network itself and the posting asks for no year count. The formula marks it down for the fixed term contract."
   },
   {
    "id": "ixopay",
@@ -1339,7 +1351,212 @@
     ],
     "check": []
    }
+  },
+  {
+   "id": "surfshark",
+   "company": "Surfshark",
+   "title": "Community Manager (Reddit and UGC platforms)",
+   "country": "Lithuania",
+   "city": "Vilnius",
+   "region": "n",
+   "tier": "apply",
+   "mode": "Hybrid, up to 2 remote days a week",
+   "posted": "2026-10-23",
+   "source": "Surfshark careers (Ashby)",
+   "exp": "No year count. Wants hands-on Reddit moderation, community building or brand participation.",
+   "lang": "English",
+   "pay": "2,500 to 3,300 EUR gross per month",
+   "visa": "Not mentioned",
+   "visaState": "unstated",
+   "why": "Community role with no years asked and the pay stated. The catch is that it is Reddit and AI search visibility specific, so lead with any Reddit or community work you can show.",
+   "url": "https://jobs.ashbyhq.com/surfshark/c00871cb-341d-433f-8bb6-42f9dd9c4431",
+   "read": true,
+   "rating": {
+    "fit": 6.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 1.8,
+     "level": 1.0,
+     "place": 0.9,
+     "pay": 1.0,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "content and social"
+    ],
+    "missing": [
+     "impact"
+    ]
+   },
+   "fit": 6.0,
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   }
+  },
+  {
+   "id": "stellartech",
+   "company": "Stellar Tech",
+   "title": "User Acquisition Manager (Meta Ads, new AI EdTech project)",
+   "country": "Remote",
+   "region": "r",
+   "tier": "stretch",
+   "mode": "Remote, global",
+   "posted": "2026-10-24",
+   "source": "Himalayas",
+   "exp": "3+ years in user acquisition or performance marketing, strong Meta Ads, large paid social budgets, subscription or B2C product experience.",
+   "lang": "English B1+",
+   "pay": "Not stated",
+   "visa": "Remote role, not applicable",
+   "why": "Open worldwide, so Croatia is fine. Stretch because it is hands-on Meta budget ownership with ROAS and LTV, which is further from affiliate and partnerships work.",
+   "url": "https://himalayas.app/companies/stellar-tech/jobs/user-acquisition-manager-meta-new-project-2220303613?utm_source=api",
+   "read": true,
+   "rating": {
+    "fit": 7.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.0,
+     "level": 2.0,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "paid media",
+     "testing"
+    ],
+    "missing": [
+     "attribution",
+     "impact",
+     "ltv"
+    ]
+   },
+   "fit": 5.0,
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "fitAdjust": -2.0,
+   "adjustWhy": "Hands on Meta budget ownership sits further from your affiliate and partnerships core than the title suggests."
+  },
+  {
+   "id": "wildix",
+   "company": "Wildix",
+   "title": "Partner Development Manager, UK (remote)",
+   "country": "United Kingdom",
+   "city": "Remote within the UK",
+   "region": "n",
+   "tier": "stretch",
+   "mode": "Remote (UK based)",
+   "posted": "2026-10-24",
+   "source": "Himalayas",
+   "exp": "Listed as asking up to 5+ years, with channel partner experience (resellers, integrators, MSPs).",
+   "lang": "English",
+   "pay": "105,000 to 115,000 GBP including commission",
+   "visa": "Not mentioned. UK right to work needed.",
+   "visaState": "unstated",
+   "why": "Partner management role at a company based in Tallinn, but the channel and telecom background and the years asked are above your level. Stretch.",
+   "url": "https://himalayas.app/companies/wildix/jobs/partner-development-manager-uk-remote-4238745627?utm_source=api",
+   "read": true,
+   "rating": {
+    "fit": 6.0,
+    "conf": "High",
+    "parts": {
+     "role": 3.0,
+     "level": 1.0,
+     "place": 0.8,
+     "pay": 1.0,
+     "sector": 0.7,
+     "flags": -0.5
+    },
+    "notes": [
+     "needs existing right to work"
+    ],
+    "have": [
+     "analytics",
+     "business development",
+     "testing"
+    ],
+    "missing": [
+     "account management",
+     "api",
+     "commission",
+     "impact"
+    ]
+   },
+   "fit": 4.0,
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "fitAdjust": -2.0,
+   "adjustWhy": "Asks for 5+ years of channel and telecom experience and UK right to work, which the formula cannot see."
+  },
+  {
+   "id": "perena",
+   "company": "Perena",
+   "title": "Perenimals Growth Lead (crypto character IP)",
+   "country": "Remote",
+   "region": "r",
+   "tier": "stretch",
+   "mode": "Remote, worldwide",
+   "posted": "2026-10-17",
+   "source": "Himalayas",
+   "exp": "No year count. Wants someone who has grown a character first IP from small to mid size and run collabs or partnerships.",
+   "lang": "English",
+   "pay": "Paid in USD, amount not stated",
+   "visa": "Remote role, not applicable",
+   "why": "Solana stablecoin protocol with an NFT style community. Matches crypto community and partnership work, but it asks for IP and world building experience. Stretch.",
+   "url": "https://himalayas.app/companies/perena/jobs/perenimals-growth-lead?utm_source=api",
+   "read": true,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.0,
+     "level": 0.5,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "content and social",
+     "partnerships",
+     "web3"
+    ],
+    "missing": []
+   },
+   "fit": 5.0,
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "fitAdjust": -1.5,
+   "adjustWhy": "Wants a record of growing a character first IP, which you may not have."
   }
  ],
- "rated": "27 Oct 2026 14:12 UTC"
+ "rated": "27 Oct 2026 14:29 UTC"
 }

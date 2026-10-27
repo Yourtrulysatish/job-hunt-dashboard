@@ -1,6 +1,6 @@
 {
- "generated": "27 Oct 2026 14:12 UTC",
- "count": 5,
+ "generated": "27 Oct 2026 14:29 UTC",
+ "count": 6,
  "items": [
   {
    "id": "a752b5156c8",
@@ -139,6 +139,53 @@
    "source": "arbeitnow",
    "flags": [
     "asks up to 5+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
+  },
+  {
+   "id": "afc2bf3aff6",
+   "title": "Amazon Brand Growth Manager",
+   "company": "ScaleJet",
+   "country": "Spain",
+   "region": "e",
+   "tier": "auto",
+   "fit": 7.0,
+   "rating": {
+    "fit": 7.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.0,
+     "level": 2.0,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "paid media"
+    ],
+    "missing": [
+     "api",
+     "retention"
+    ]
+   },
+   "posted": "2026-10-25",
+   "firstSeen": "2026-10-27",
+   "url": "https://himalayas.app/companies/scalejet/jobs/amazon-brand-growth-manager-29182204?utm_source=api",
+   "source": "himalayas",
+   "flags": [
+    "asks up to 3+ years"
    ],
    "check": {
     "tier": "Looks live",

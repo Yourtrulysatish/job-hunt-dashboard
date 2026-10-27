@@ -1,6 +1,6 @@
 {
- "generated": "27 Oct 2026 14:12 UTC",
- "count": 29,
+ "generated": "27 Oct 2026 14:29 UTC",
+ "count": 21,
  "items": [
   {
    "id": "a53c788719a",
@@ -106,56 +106,6 @@
    "why": "Found by the daily scan. Open the posting and read it before applying."
   },
   {
-   "id": "a090636089b",
-   "title": "User Acquisition Manager (Meta, New Project)",
-   "company": "Stellar Tech",
-   "country": "Remote",
-   "region": "r",
-   "tier": "auto",
-   "fit": 7.0,
-   "rating": {
-    "fit": 7.0,
-    "conf": "Medium",
-    "parts": {
-     "role": 2.0,
-     "level": 2.0,
-     "place": 2.0,
-     "pay": 0.5,
-     "sector": 0.7,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "analytics",
-     "paid media",
-     "testing"
-    ],
-    "missing": [
-     "attribution",
-     "impact",
-     "ltv"
-    ]
-   },
-   "posted": "2026-10-24",
-   "firstSeen": "2026-10-27",
-   "url": "https://himalayas.app/companies/stellar-tech/jobs/user-acquisition-manager-meta-new-project-2220303613?utm_source=api",
-   "source": "himalayas",
-   "flags": [
-    "asks up to 3+ years"
-   ],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying.",
-   "mode": "Remote"
-  },
-  {
    "id": "acca1b2e1f4",
    "title": "Events Marketing Manager, EMEA",
    "company": "Customer.io",
@@ -243,55 +193,6 @@
    "posted": "2026-10-27",
    "firstSeen": "2026-10-27",
    "url": "https://himalayas.app/companies/qargo/jobs/business-development-manager-germany?utm_source=api",
-   "source": "himalayas",
-   "flags": [],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying."
-  },
-  {
-   "id": "a0aadd24bd9",
-   "title": "Business Development Manager (Netherlands)",
-   "company": "Qargo",
-   "country": "Netherlands",
-   "region": "e",
-   "tier": "auto",
-   "fit": 6.5,
-   "rating": {
-    "fit": 6.5,
-    "conf": "Medium",
-    "parts": {
-     "role": 2.5,
-     "level": 1.0,
-     "place": 0.8,
-     "pay": 0.5,
-     "sector": 1.5,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "analytics",
-     "b2b",
-     "business development",
-     "crm"
-    ],
-    "missing": [
-     "api",
-     "commission",
-     "impact",
-     "stakeholder"
-    ]
-   },
-   "posted": "2026-10-26",
-   "firstSeen": "2026-10-27",
-   "url": "https://himalayas.app/companies/qargo/jobs/business-development-manager-netherlands?utm_source=api",
    "source": "himalayas",
    "flags": [],
    "check": {
@@ -456,202 +357,6 @@
    "why": "Found by the daily scan. Open the posting and read it before applying."
   },
   {
-   "id": "af45080e365",
-   "title": "Product Marketing Manager (AI-Powered Affiliate Platform, iGaming)",
-   "company": "AllCares",
-   "country": "Spain",
-   "region": "e",
-   "tier": "auto",
-   "fit": 6.5,
-   "rating": {
-    "fit": 6.5,
-    "conf": "Medium",
-    "parts": {
-     "role": 3.5,
-     "level": 1.0,
-     "place": 0.8,
-     "pay": 0.5,
-     "sector": 0.7,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "affiliate",
-     "b2b",
-     "content and social",
-     "partnerships"
-    ],
-    "missing": [
-     "account management",
-     "api",
-     "go-to-market",
-     "gtm",
-     "impact",
-     "retention",
-     "stakeholder",
-     "tracking"
-    ]
-   },
-   "posted": "2026-10-18",
-   "firstSeen": "2026-10-27",
-   "url": "https://himalayas.app/companies/allcares/jobs/product-marketing-manager-ai-powered-affiliate-platform-igaming?utm_source=api",
-   "source": "himalayas",
-   "flags": [],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying."
-  },
-  {
-   "id": "a5e8f50f68c",
-   "title": "Customer Success Manager (AI-Powered Affiliate Platform, iGaming)",
-   "company": "AllCares",
-   "country": "Spain",
-   "region": "e",
-   "tier": "auto",
-   "fit": 6.5,
-   "rating": {
-    "fit": 6.5,
-    "conf": "Medium",
-    "parts": {
-     "role": 3.5,
-     "level": 1.0,
-     "place": 0.8,
-     "pay": 0.5,
-     "sector": 0.7,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "affiliate",
-     "b2b",
-     "partnerships"
-    ],
-    "missing": [
-     "account management",
-     "integration",
-     "lifecycle",
-     "retention",
-     "tracking"
-    ]
-   },
-   "posted": "2026-10-18",
-   "firstSeen": "2026-10-27",
-   "url": "https://himalayas.app/companies/allcares/jobs/customer-success-manager-ai-powered-affiliate-platform-igaming?utm_source=api",
-   "source": "himalayas",
-   "flags": [],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying."
-  },
-  {
-   "id": "a8e1782c7cf",
-   "title": "Perenimals Growth Lead",
-   "company": "Perena",
-   "country": "Remote",
-   "region": "r",
-   "tier": "auto",
-   "fit": 6.5,
-   "rating": {
-    "fit": 6.5,
-    "conf": "Medium",
-    "parts": {
-     "role": 2.0,
-     "level": 0.5,
-     "place": 2.0,
-     "pay": 0.5,
-     "sector": 1.5,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "content and social",
-     "partnerships",
-     "web3"
-    ],
-    "missing": []
-   },
-   "posted": "2026-10-17",
-   "firstSeen": "2026-10-27",
-   "url": "https://himalayas.app/companies/perena/jobs/perenimals-growth-lead?utm_source=api",
-   "source": "himalayas",
-   "flags": [],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying.",
-   "mode": "Remote"
-  },
-  {
-   "id": "afd8f6fc248",
-   "title": "Growth Marketing Manager - Affiliates & Partnerships (Maternity cover) (f/m/x)",
-   "company": "Feather",
-   "country": "Germany",
-   "region": "e",
-   "tier": "auto",
-   "fit": 6.5,
-   "rating": {
-    "fit": 6.5,
-    "conf": "Medium",
-    "parts": {
-     "role": 3.5,
-     "level": 1.0,
-     "place": 0.8,
-     "pay": 0.5,
-     "sector": 0.7,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "affiliate",
-     "analytics",
-     "b2b",
-     "business development",
-     "crm",
-     "negotiation",
-     "partnerships",
-     "testing"
-    ],
-    "missing": [
-     "stakeholder"
-    ]
-   },
-   "posted": "2026-10-14",
-   "firstSeen": "2026-10-27",
-   "url": "https://himalayas.app/companies/feather/jobs/growth-marketing-manager-affiliates-partnerships-maternity-cover-f-m-x?utm_source=api",
-   "source": "himalayas",
-   "flags": [],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying."
-  },
-  {
    "id": "ace84ef525a",
    "title": "Growth Marketing Manager (SaaS / Remote / EU)",
    "company": "Publitas.com",
@@ -794,6 +499,61 @@
    },
    "new": true,
    "why": "Found by the daily scan. Open the posting and read it before applying."
+  },
+  {
+   "id": "a8f13ea5b51",
+   "title": "Sr Product Marketing Manager",
+   "company": "offchainlabs",
+   "country": "Remote",
+   "region": "r",
+   "tier": "auto",
+   "fit": 6.0,
+   "rating": {
+    "fit": 6.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 0.8,
+     "level": 1.0,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "b2b",
+     "content and social",
+     "crm",
+     "seo",
+     "web3"
+    ],
+    "missing": [
+     "enterprise",
+     "go-to-market",
+     "gtm",
+     "lifecycle",
+     "tracking"
+    ]
+   },
+   "posted": "2026-10-26",
+   "firstSeen": "2026-10-27",
+   "url": "https://jobs.lever.co/offchainlabs/ab942e1a-e976-4837-a666-d8ff24606829",
+   "source": "lever",
+   "flags": [
+    "asks up to 5+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Remote"
   },
   {
    "id": "a5c0c23644b",
@@ -986,100 +746,6 @@
    "why": "Found by the daily scan. Open the posting and read it before applying."
   },
   {
-   "id": "a7a563b06a6",
-   "title": "Partner Development Manager - UK, Remote",
-   "company": "Wildix",
-   "country": "United Kingdom",
-   "region": "e",
-   "tier": "auto",
-   "fit": 6.0,
-   "rating": {
-    "fit": 6.0,
-    "conf": "Medium",
-    "parts": {
-     "role": 3.0,
-     "level": 1.0,
-     "place": 0.8,
-     "pay": 0.5,
-     "sector": 0.7,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "analytics",
-     "business development",
-     "testing"
-    ],
-    "missing": [
-     "account management",
-     "api",
-     "commission",
-     "impact"
-    ]
-   },
-   "posted": "2026-10-24",
-   "firstSeen": "2026-10-27",
-   "url": "https://himalayas.app/companies/wildix/jobs/partner-development-manager-uk-remote-4238745627?utm_source=api",
-   "source": "himalayas",
-   "flags": [
-    "asks up to 5+ years"
-   ],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying."
-  },
-  {
-   "id": "ae0a960dd5f",
-   "title": "Community Manager",
-   "company": "surfshark",
-   "country": "Lithuania",
-   "region": "r",
-   "tier": "auto",
-   "fit": 6.0,
-   "rating": {
-    "fit": 6.0,
-    "conf": "Medium",
-    "parts": {
-     "role": 1.8,
-     "level": 1.0,
-     "place": 1.0,
-     "pay": 0.5,
-     "sector": 1.5,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "content and social"
-    ],
-    "missing": [
-     "impact"
-    ]
-   },
-   "posted": "2026-10-23",
-   "firstSeen": "2026-10-27",
-   "url": "https://jobs.ashbyhq.com/surfshark/c00871cb-341d-433f-8bb6-42f9dd9c4431",
-   "source": "ashby",
-   "flags": [],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying.",
-   "mode": "Remote"
-  },
-  {
    "id": "a7216a3deec",
    "title": "Partner Engagement Specialist",
    "company": "getyourguide",
@@ -1178,56 +844,6 @@
    "new": true,
    "why": "Found by the daily scan. Open the posting and read it before applying.",
    "mode": "Remote"
-  },
-  {
-   "id": "a4f6c8bc590",
-   "title": "Storyous Partnerships & Integrations Manager",
-   "company": "Teya",
-   "country": "Czechia",
-   "region": "e",
-   "tier": "auto",
-   "fit": 6.0,
-   "rating": {
-    "fit": 6.0,
-    "conf": "Medium",
-    "parts": {
-     "role": 3.0,
-     "level": 1.0,
-     "place": 0.9,
-     "pay": 0.5,
-     "sector": 0.7,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "analytics",
-     "b2b",
-     "business development",
-     "partnerships"
-    ],
-    "missing": [
-     "go-to-market",
-     "integration",
-     "lifecycle",
-     "stakeholder"
-    ]
-   },
-   "posted": "2026-10-20",
-   "firstSeen": "2026-10-27",
-   "url": "https://himalayas.app/companies/teya/jobs/storyous-partnerships-integrations-manager-9865662275?utm_source=api",
-   "source": "himalayas",
-   "flags": [],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying.",
-   "mode": "Hybrid or office"
   },
   {
    "id": "aed55564936",
