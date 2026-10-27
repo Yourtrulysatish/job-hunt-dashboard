@@ -1,7 +1,116 @@
 {
- "generated": "26 Oct 2026 19:45 UTC",
- "count": 63,
+ "generated": "27 Oct 2026 13:44 UTC",
+ "count": 49,
  "items": [
+  {
+   "title": "Channel Manager, Organic Social",
+   "company": "H & M Hennes & Mauritz GBC AB",
+   "loc": "Stockholm, Sweden",
+   "date": "2026-10-27T11:05:30+00:00",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31649348",
+   "north": true,
+   "age_days": 0,
+   "src": "jobtech",
+   "flags": []
+  },
+  {
+   "title": "Senior Growth Marketing Manager",
+   "company": "M Kopa",
+   "loc": "London",
+   "date": "2026-10-27T09:40:18+00:00",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/m-kopa/senior-growth-marketing-manager-london-474447",
+   "north": true,
+   "age_days": 0,
+   "src": "arbeitnow",
+   "flags": [
+    "asks up to 5+ years"
+   ]
+  },
+  {
+   "title": "Model Partnerships - ElevenCreative",
+   "company": "ElevenLabs",
+   "loc": "Remote, Remote",
+   "date": "2026-10-27T09:40:14+00:00",
+   "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-model-partnerships-elevencreative-312522",
+   "north": false,
+   "age_days": 0,
+   "src": "arbeitnow",
+   "flags": [
+    "asks up to 5+ years"
+   ]
+  },
+  {
+   "title": "Business Development Manager - Strategic Accounts",
+   "company": "Qargo",
+   "loc": "Belgium, France, Germany, Netherlands, United Kingdom",
+   "date": "2026-10-27T03:04:40+00:00",
+   "url": "https://himalayas.app/companies/qargo/jobs/business-development-manager-strategic-accounts?utm_source=api",
+   "north": true,
+   "age_days": 0,
+   "src": "himalayas",
+   "flags": []
+  },
+  {
+   "title": "Senior Growth Marketing Manager",
+   "company": "M-KOPA",
+   "loc": "Ireland, Spain, United Kingdom",
+   "date": "2026-10-27T02:00:32+00:00",
+   "url": "https://himalayas.app/companies/m-kopa/jobs/senior-growth-marketing-manager-5596778689?utm_source=api",
+   "north": true,
+   "age_days": 0,
+   "src": "himalayas",
+   "flags": [
+    "asks up to 5+ years"
+   ]
+  },
+  {
+   "title": "Partnership Manager iGaming",
+   "company": "sumsub",
+   "loc": "EU London United Kingdom",
+   "date": "2026-10-26T22:00:19+00:00",
+   "url": "https://careers.sumsub.com/jobs/8620630-partnership-manager-igaming",
+   "north": true,
+   "age_days": 0,
+   "src": "teamtailor",
+   "flags": [
+    "asks up to 3+ years"
+   ]
+  },
+  {
+   "title": "(Senior) Strategic Partner Manager   (f/m/d)",
+   "company": "Moss",
+   "loc": "London",
+   "date": "2026-10-26T21:40:18+00:00",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/moss/senior-strategic-partner-manager-london-207273",
+   "north": true,
+   "age_days": 0,
+   "src": "arbeitnow",
+   "flags": [
+    "asks up to 5+ years"
+   ]
+  },
+  {
+   "title": "Partner Solutions Architect (EMEA)",
+   "company": "Datadog",
+   "loc": "Remote",
+   "date": "2026-10-26T18:55:24+00:00",
+   "url": "https://www.arbeitnow.fr/jobs/companies/datadog/remote-partner-solutions-architect-emea-40452",
+   "north": false,
+   "age_days": 0,
+   "src": "arbeitnow",
+   "flags": []
+  },
+  {
+   "title": "Business Development Manager",
+   "company": "Carwow",
+   "loc": "Manchester",
+   "date": "2026-10-26T18:40:14+00:00",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/carwow/business-development-manager-greater-manchester-79338",
+   "north": true,
+   "age_days": 0,
+   "src": "arbeitnow",
+   "flags": []
+  },
   {
    "title": "Enterprise Business Development Manager",
    "company": "ELP Consult Ltd.",
@@ -16,24 +125,13 @@
    ]
   },
   {
-   "title": "Chargé(e) de Marketing & Communication / Business Development",
-   "company": "Augmented Energy",
-   "loc": "Remote, Paris",
-   "date": "2026-10-26T15:17:31+00:00",
-   "url": "https://www.arbeitnow.fr/jobs/companies/augmented-energy/chargee-de-marketing-communication-business-development-paris-438010",
-   "north": false,
-   "age_days": 0,
-   "src": "arbeitnow",
-   "flags": []
-  },
-  {
    "title": "Business Mentor & Partner (m/w/d)",
    "company": "thexton armstrong Nord und Ost Deutschland",
    "loc": "Remote, Berlin",
    "date": "2026-10-26T13:30:59+00:00",
    "url": "https://www.arbeitnow.com/jobs/companies/thexton-armstrong-nord-und-ost-deutschland/business-mentor-partner-berlin-332713",
    "north": false,
-   "age_days": 0,
+   "age_days": 1,
    "src": "arbeitnow",
    "flags": []
   },
@@ -44,7 +142,7 @@
    "date": "2026-10-26T06:13:09+00:00",
    "url": "https://himalayas.app/companies/kognitiv-academy-ltd/jobs/kognitiv-influencer-affiliate-rewards-partner?utm_source=api",
    "north": false,
-   "age_days": 0,
+   "age_days": 1,
    "src": "himalayas",
    "flags": []
   },
@@ -55,7 +153,7 @@
    "date": "2026-10-25T09:29:56+00:00",
    "url": "https://himalayas.app/companies/knowledgebrief/jobs/business-development-manager-apprenticeships-enterprise?utm_source=api",
    "north": true,
-   "age_days": 1,
+   "age_days": 2,
    "src": "himalayas",
    "flags": [
     "needs right to work"
@@ -68,7 +166,7 @@
    "date": "2026-10-25T08:03:42+00:00",
    "url": "https://himalayas.app/companies/open-systems/jobs/senior-sales-channel-manager-uki-nordics-4380792655?utm_source=api",
    "north": true,
-   "age_days": 1,
+   "age_days": 2,
    "src": "himalayas",
    "flags": [
     "hybrid/office days"
@@ -81,7 +179,7 @@
    "date": "2026-10-25T07:25:53+00:00",
    "url": "https://himalayas.app/companies/flyttr/jobs/commercial-and-business-development-leadership-opportunities?utm_source=api",
    "north": true,
-   "age_days": 1,
+   "age_days": 2,
    "src": "himalayas",
    "flags": []
   },
@@ -92,7 +190,7 @@
    "date": "2026-10-25T06:56:27+00:00",
    "url": "https://himalayas.app/companies/knowledgebrief/jobs/business-development-manager-apprenticeships-public-sector?utm_source=api",
    "north": true,
-   "age_days": 1,
+   "age_days": 2,
    "src": "himalayas",
    "flags": [
     "needs right to work"
@@ -105,7 +203,7 @@
    "date": "2026-10-25T06:52:11+00:00",
    "url": "https://himalayas.app/companies/futures-for-all/jobs/senior-partnership-manager?utm_source=api",
    "north": true,
-   "age_days": 1,
+   "age_days": 2,
    "src": "himalayas",
    "flags": [
     "needs right to work"
@@ -118,7 +216,7 @@
    "date": "2026-10-25T02:46:53+00:00",
    "url": "https://himalayas.app/companies/1st-for-awarding-ltd/jobs/partnership-development-manager?utm_source=api",
    "north": true,
-   "age_days": 1,
+   "age_days": 2,
    "src": "himalayas",
    "flags": []
   },
@@ -129,7 +227,7 @@
    "date": "2026-10-25T00:54:18+00:00",
    "url": "https://himalayas.app/companies/phiture/jobs/mobile-growth-manager-crm-braze?utm_source=api",
    "north": false,
-   "age_days": 1,
+   "age_days": 2,
    "src": "himalayas",
    "flags": []
   },
@@ -140,7 +238,7 @@
    "date": "2026-10-24T23:21:06+00:00",
    "url": "https://himalayas.app/companies/ingrammicro/jobs/aws-business-development-executive?utm_source=api",
    "north": true,
-   "age_days": 1,
+   "age_days": 2,
    "src": "himalayas",
    "flags": []
   },
@@ -151,7 +249,7 @@
    "date": "2026-10-24T20:40:17+00:00",
    "url": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/partner-engagements-manager-compliance-strategy-london-425342",
    "north": true,
-   "age_days": 1,
+   "age_days": 2,
    "src": "arbeitnow",
    "flags": [
     "asks up to 5+ years",
@@ -191,7 +289,7 @@
    "date": "2026-10-24T05:53:52+00:00",
    "url": "https://himalayas.app/companies/usebloom/jobs/affiliate-career-champion-career-and-leadership-coach-5977391647?utm_source=api",
    "north": false,
-   "age_days": 2,
+   "age_days": 3,
    "src": "himalayas",
    "flags": [
     "asks up to 5+ years"
@@ -204,7 +302,7 @@
    "date": "2026-10-24T05:34:39+00:00",
    "url": "https://himalayas.app/companies/3p-learning/jobs/education-sales-partner-7838227480?utm_source=api",
    "north": true,
-   "age_days": 2,
+   "age_days": 3,
    "src": "himalayas",
    "flags": [
     "asks up to 4+ years"
@@ -217,7 +315,7 @@
    "date": "2026-10-24T02:00:41+00:00",
    "url": "https://himalayas.app/companies/stellar-tech/jobs/user-acquisition-manager-meta-new-project-2220303613?utm_source=api",
    "north": false,
-   "age_days": 2,
+   "age_days": 3,
    "src": "himalayas",
    "flags": [
     "asks up to 3+ years"
@@ -230,7 +328,7 @@
    "date": "2026-10-23T23:39:00+00:00",
    "url": "https://himalayas.app/companies/nectar-life/jobs/growth-marketing-manager-paid-media-klaviyo-ai-first?utm_source=api",
    "north": false,
-   "age_days": 2,
+   "age_days": 3,
    "src": "himalayas",
    "flags": [
     "asks up to 3+ years"
@@ -256,7 +354,7 @@
    "date": "2026-10-23T07:31:21+00:00",
    "url": "https://weworkremotely.com/remote-jobs/storyblok-partner-manager-usa",
    "north": false,
-   "age_days": 3,
+   "age_days": 4,
    "src": "wwr",
    "flags": [
     "asks up to 5+ years"
@@ -269,7 +367,7 @@
    "date": "2026-10-22T03:27:20+00:00",
    "url": "https://himalayas.app/companies/gravity-team/jobs/business-development-manager?utm_source=api",
    "north": true,
-   "age_days": 4,
+   "age_days": 5,
    "src": "himalayas",
    "flags": [
     "asks up to 2+ years"
@@ -282,7 +380,7 @@
    "date": "2026-10-21T21:06:39+00:00",
    "url": "https://himalayas.app/companies/motionart/jobs/youtube-channel-manager-analyst?utm_source=api",
    "north": false,
-   "age_days": 4,
+   "age_days": 5,
    "src": "himalayas",
    "flags": []
   },
@@ -319,7 +417,7 @@
    "date": "2026-10-21T06:35:15+00:00",
    "url": "https://himalayas.app/companies/excelstra/jobs/youtube-channel-growth-manager?utm_source=api",
    "north": false,
-   "age_days": 5,
+   "age_days": 6,
    "src": "himalayas",
    "flags": []
   },
@@ -354,7 +452,7 @@
    "date": "2026-10-20T12:53:27+00:00",
    "url": "https://job-boards.eu.greenhouse.io/flipdish/jobs/5011114101",
    "north": true,
-   "age_days": 6,
+   "age_days": 7,
    "src": "greenhouse",
    "flags": [
     "asks up to 5+ years",
@@ -368,7 +466,7 @@
    "date": "2026-10-19T23:33:07+00:00",
    "url": "https://himalayas.app/companies/bluoryn/jobs/business-development-executive-remote-partner-role?utm_source=api",
    "north": true,
-   "age_days": 6,
+   "age_days": 7,
    "src": "himalayas",
    "flags": []
   },
@@ -417,7 +515,7 @@
    "date": "2026-10-17T02:17:40+00:00",
    "url": "https://himalayas.app/companies/einfochips/jobs/cloud-technical-business-development-manager?utm_source=api",
    "north": true,
-   "age_days": 9,
+   "age_days": 10,
    "src": "himalayas",
    "flags": []
   },
@@ -428,7 +526,7 @@
    "date": "2026-10-16T08:31:01+00:00",
    "url": "https://job-boards.eu.greenhouse.io/bybit/jobs/5008303101",
    "north": false,
-   "age_days": 10,
+   "age_days": 11,
    "src": "greenhouse",
    "flags": []
   },
@@ -452,7 +550,7 @@
    "date": "2026-10-15T11:31:11+00:00",
    "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8236339",
    "north": true,
-   "age_days": 11,
+   "age_days": 12,
    "src": "greenhouse",
    "flags": [
     "asks up to 5+ years"
@@ -465,7 +563,7 @@
    "date": "2026-10-15T08:42:17+00:00",
    "url": "https://weworkremotely.com/remote-jobs/egear-senior-google-ads-media-buyer-performance-marketing-lead-1",
    "north": false,
-   "age_days": 11,
+   "age_days": 12,
    "src": "wwr",
    "flags": []
   },
@@ -476,7 +574,7 @@
    "date": "2026-10-14T12:37:04.054000+00:00",
    "url": "https://jobs.ashbyhq.com/mollie/f383de79-f6d7-4167-8fcf-7bf68913fc80",
    "north": false,
-   "age_days": 12,
+   "age_days": 13,
    "src": "ashby",
    "flags": [
     "asks up to 5+ years"
@@ -486,10 +584,10 @@
    "title": "Strategy & Business Development Lead to Alleima",
    "company": "Alleima AB",
    "loc": "Sandviken, Sweden",
-   "date": "2026-10-14T07:41:00+00:00",
+   "date": "2026-10-14T09:41:00+00:00",
    "url": "https://arbetsformedlingen.se/platsbanken/annonser/31593895",
    "north": true,
-   "age_days": 12,
+   "age_days": 13,
    "src": "jobtech",
    "flags": []
   },
@@ -500,296 +598,10 @@
    "date": "2026-10-14T02:53:21+00:00",
    "url": "https://job-boards.greenhouse.io/okx/jobs/8032195003",
    "north": false,
-   "age_days": 12,
+   "age_days": 13,
    "src": "greenhouse",
    "flags": [
     "asks up to 3+ years"
-   ]
-  },
-  {
-   "title": "Senior Data Product Partner - London",
-   "company": "perk",
-   "loc": "London | ",
-   "date": "2026-10-12T08:51:18.895000+00:00",
-   "url": "https://jobs.ashbyhq.com/perk/084d9724-052d-4a30-9dc3-4a819c6646d8",
-   "north": true,
-   "age_days": 14,
-   "src": "ashby",
-   "flags": [
-    "hybrid/office days",
-    "relocation/visa mentioned"
-   ]
-  },
-  {
-   "title": "Senior Data Product Partner - Barcelona ",
-   "company": "perk",
-   "loc": "Barcelona | Hybrid | remote",
-   "date": "2026-10-12T08:51:16.644000+00:00",
-   "url": "https://jobs.ashbyhq.com/perk/2661dc02-cad3-4351-a4b7-2da29bd0446d",
-   "north": false,
-   "age_days": 14,
-   "src": "ashby",
-   "flags": [
-    "hybrid/office days",
-    "relocation/visa mentioned"
-   ]
-  },
-  {
-   "title": "JV Partnership Manager",
-   "company": "iSpeedtoLead",
-   "loc": "Azerbaijan, Poland, Serbia, United Kingdom, United States",
-   "date": "2026-10-12T01:26:15+00:00",
-   "url": "https://himalayas.app/companies/ispeedtolead/jobs/jv-partnership-manager-7058091619?utm_source=api",
-   "north": true,
-   "age_days": 14,
-   "src": "himalayas",
-   "flags": [
-    "asks up to 2+ years"
-   ]
-  },
-  {
-   "title": "Channel Sales Manager",
-   "company": "artemis",
-   "loc": "London | Remote | remote",
-   "date": "2026-10-11T22:16:24.160000+00:00",
-   "url": "https://jobs.ashbyhq.com/artemis/1d121302-57d0-4646-b5c8-a4946786d94b",
-   "north": true,
-   "age_days": 14,
-   "src": "ashby",
-   "flags": [
-    "asks up to 5+ years"
-   ]
-  },
-  {
-   "title": "Technology Alliances Manager",
-   "company": "artemis",
-   "loc": "Remote | ",
-   "date": "2026-10-11T22:15:48.305000+00:00",
-   "url": "https://jobs.ashbyhq.com/artemis/acb45316-3371-46d3-86f6-639180f3d09e",
-   "north": false,
-   "age_days": 14,
-   "src": "ashby",
-   "flags": [
-    "asks up to 5+ years"
-   ]
-  },
-  {
-   "title": "Partnerships Marketing Manager, EMEA",
-   "company": "adyen",
-   "loc": "Amsterdam; Berlin; London",
-   "date": "2026-10-11T10:33:28+00:00",
-   "url": "https://job-boards.greenhouse.io/adyen/jobs/8166549",
-   "north": true,
-   "age_days": 15,
-   "src": "greenhouse",
-   "flags": [
-    "asks up to 5+ years"
-   ]
-  },
-  {
-   "title": "Account Partner - SMB - Nordics",
-   "company": "Veeva Systems",
-   "loc": "Sweden",
-   "date": "2026-10-09T06:55:01+00:00",
-   "url": "https://himalayas.app/companies/veeva-systems/jobs/account-partner-smb-nordics-9967102527?utm_source=api",
-   "north": true,
-   "age_days": 17,
-   "src": "himalayas",
-   "flags": [
-    "asks up to 5+ years"
-   ]
-  },
-  {
-   "title": "Account Partner - Veeva Basics",
-   "company": "Veeva Systems",
-   "loc": "Denmark",
-   "date": "2026-10-09T04:11:36+00:00",
-   "url": "https://himalayas.app/companies/veeva-systems/jobs/account-partner-veeva-basics-3205428642?utm_source=api",
-   "north": true,
-   "age_days": 17,
-   "src": "himalayas",
-   "flags": [
-    "asks up to 5+ years"
-   ]
-  },
-  {
-   "title": "Account Partner - R&D and Quality",
-   "company": "Veeva Systems",
-   "loc": "Denmark",
-   "date": "2026-10-08T18:43:10+00:00",
-   "url": "https://himalayas.app/companies/veeva-systems/jobs/account-partner-r-d-and-quality?utm_source=api",
-   "north": true,
-   "age_days": 18,
-   "src": "himalayas",
-   "flags": [
-    "asks up to 3+ years"
-   ]
-  },
-  {
-   "title": "Partnerships Manager Mofibo",
-   "company": "storytel",
-   "loc": "København København Denmark",
-   "date": "2026-10-08T07:01:26+00:00",
-   "url": "https://jobs.storytel.com/jobs/8514884-partnerships-manager-mofibo",
-   "north": true,
-   "age_days": 18,
-   "src": "teamtailor",
-   "flags": []
-  },
-  {
-   "title": "Field-Based Business Development Executive - Brighton",
-   "company": "deliveroo",
-   "loc": "Brighton, United Kingdom; London, United Kingdom - Deliveroo",
-   "date": "2026-10-06T11:43:36+00:00",
-   "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8258360",
-   "north": true,
-   "age_days": 20,
-   "src": "greenhouse",
-   "flags": [
-    "hybrid/office days"
-   ]
-  },
-  {
-   "title": "Application: Affiliate, Volunteer, Unpaid Practicum",
-   "company": "Power to Change",
-   "loc": "Worldwide",
-   "date": "2026-10-06T07:46:59+00:00",
-   "url": "https://himalayas.app/companies/p2c/jobs/application-affiliate-volunteer-unpaid-practicum?utm_source=api",
-   "north": false,
-   "age_days": 20,
-   "src": "himalayas",
-   "flags": []
-  },
-  {
-   "title": "Growth Marketing Manager (SaaS / Remote / EU)",
-   "company": "Publitas.com",
-   "loc": "Worldwide",
-   "date": "2026-10-06T04:07:11+00:00",
-   "url": "https://himalayas.app/companies/publitas-com/jobs/growth-marketing-manager-saas-remote-eu?utm_source=api",
-   "north": false,
-   "age_days": 20,
-   "src": "himalayas",
-   "flags": []
-  },
-  {
-   "title": "Client Partner",
-   "company": "deliveroo",
-   "loc": "London, United Kingdom - Deliveroo",
-   "date": "2026-10-05T15:02:21+00:00",
-   "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8202578",
-   "north": true,
-   "age_days": 21,
-   "src": "greenhouse",
-   "flags": [
-    "hybrid/office days",
-    "relocation/visa mentioned"
-   ]
-  },
-  {
-   "title": "Channel Manager",
-   "company": "snyk",
-   "loc": "United Kingdom - London Office | OnSite",
-   "date": "2026-10-05T14:52:46.772000+00:00",
-   "url": "https://jobs.ashbyhq.com/snyk/96b70a9a-0f0a-4129-8611-5420b1233bde",
-   "north": true,
-   "age_days": 21,
-   "src": "ashby",
-   "flags": []
-  },
-  {
-   "title": "TikTok Shop Growth Manager",
-   "company": "ScaleJet",
-   "loc": "Latvia",
-   "date": "2026-10-04T07:39:11+00:00",
-   "url": "https://himalayas.app/companies/scalejet/jobs/tiktok-shop-growth-manager-4864032571?utm_source=api",
-   "north": true,
-   "age_days": 22,
-   "src": "himalayas",
-   "flags": [
-    "asks up to 5+ years"
-   ]
-  },
-  {
-   "title": "Strategic Partnerships Manager - EMEA",
-   "company": "SkyCell AG",
-   "loc": "Remote, Europe/EMEA (many countries)",
-   "date": "2026-10-03T07:54:22+00:00",
-   "url": "https://himalayas.app/companies/skycell-ag/jobs/strategic-partnerships-manager-emea?utm_source=api",
-   "north": false,
-   "age_days": 23,
-   "src": "himalayas",
-   "flags": [
-    "hybrid/office days",
-    "relocation/visa mentioned"
-   ]
-  },
-  {
-   "title": "Business Development & Growth Associate, Pharma",
-   "company": "Talkspace",
-   "loc": "Anywhere in the World",
-   "date": "2026-10-03T07:31:07+00:00",
-   "url": "https://weworkremotely.com/remote-jobs/talkspace-business-development-growth-associate-pharma",
-   "north": false,
-   "age_days": 23,
-   "src": "wwr",
-   "flags": [
-    "asks up to 3+ years"
-   ]
-  },
-  {
-   "title": "Affiliate Manager",
-   "company": "Growe Talents",
-   "loc": "Worldwide",
-   "date": "2026-10-02T20:13:49+00:00",
-   "url": "https://himalayas.app/companies/growe-talents/jobs/affiliate-manager?utm_source=api",
-   "north": false,
-   "age_days": 23,
-   "src": "himalayas",
-   "flags": [
-    "hybrid/office days"
-   ]
-  },
-  {
-   "title": "Paid Growth / Performance Marketing Manager",
-   "company": "tourlane",
-   "loc": "Berlin | Hybrid | remote",
-   "date": "2026-10-02T13:59:29.112000+00:00",
-   "url": "https://jobs.ashbyhq.com/tourlane/1c384da5-4517-4eb4-ab72-05a771f8e41e",
-   "north": false,
-   "age_days": 24,
-   "src": "ashby",
-   "flags": [
-    "asks up to 4+ years",
-    "hybrid/office days"
-   ]
-  },
-  {
-   "title": "Senior Partner Marketing Manager",
-   "company": "n8n",
-   "loc": "Berlin Office | Remote | remote",
-   "date": "2026-09-28T12:56:42.993000+00:00",
-   "url": "https://jobs.ashbyhq.com/n8n/d350543e-b663-4d36-8dc9-72cd02957818",
-   "north": false,
-   "age_days": 28,
-   "src": "ashby",
-   "flags": [
-    "hybrid/office days",
-    "needs right to work"
-   ]
-  },
-  {
-   "title": "[London] Applied AI Architect, Partnerships",
-   "company": "anthropic",
-   "loc": "London, UK",
-   "date": "2026-09-28T07:22:51+00:00",
-   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5432583008",
-   "north": true,
-   "age_days": 28,
-   "src": "greenhouse",
-   "flags": [
-    "asks up to 5+ years",
-    "hybrid/office days",
-    "relocation/visa mentioned"
    ]
   }
  ]
