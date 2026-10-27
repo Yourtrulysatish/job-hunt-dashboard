@@ -1,608 +1,1425 @@
 {
- "generated": "27 Oct 2026 13:44 UTC",
- "count": 49,
+ "generated": "27 Oct 2026 14:09 UTC",
+ "count": 29,
  "items": [
   {
-   "title": "Channel Manager, Organic Social",
-   "company": "H & M Hennes & Mauritz GBC AB",
-   "loc": "Stockholm, Sweden",
-   "date": "2026-10-27T11:05:30+00:00",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31649348",
-   "north": true,
-   "age_days": 0,
-   "src": "jobtech",
-   "flags": []
-  },
-  {
-   "title": "Senior Growth Marketing Manager",
-   "company": "M Kopa",
-   "loc": "London",
-   "date": "2026-10-27T09:40:18+00:00",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/m-kopa/senior-growth-marketing-manager-london-474447",
-   "north": true,
-   "age_days": 0,
-   "src": "arbeitnow",
-   "flags": [
-    "asks up to 5+ years"
-   ]
-  },
-  {
+   "id": "a53c788719a",
    "title": "Model Partnerships - ElevenCreative",
    "company": "ElevenLabs",
-   "loc": "Remote, Remote",
-   "date": "2026-10-27T09:40:14+00:00",
+   "country": "Remote",
+   "region": "r",
+   "tier": "auto",
+   "fit": 7.0,
+   "rating": {
+    "fit": 7.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.0,
+     "level": 1.0,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "business development",
+     "partnerships",
+     "testing"
+    ],
+    "missing": [
+     "api",
+     "enterprise",
+     "impact",
+     "integration",
+     "stakeholder"
+    ]
+   },
+   "posted": "2026-10-27",
+   "firstSeen": "2026-10-27",
    "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-model-partnerships-elevencreative-312522",
-   "north": false,
-   "age_days": 0,
-   "src": "arbeitnow",
+   "source": "arbeitnow",
    "flags": [
     "asks up to 5+ years"
-   ]
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Remote"
   },
   {
-   "title": "Business Development Manager - Strategic Accounts",
-   "company": "Qargo",
-   "loc": "Belgium, France, Germany, Netherlands, United Kingdom",
-   "date": "2026-10-27T03:04:40+00:00",
-   "url": "https://himalayas.app/companies/qargo/jobs/business-development-manager-strategic-accounts?utm_source=api",
-   "north": true,
-   "age_days": 0,
-   "src": "himalayas",
-   "flags": []
-  },
-  {
-   "title": "Senior Growth Marketing Manager",
-   "company": "M-KOPA",
-   "loc": "Ireland, Spain, United Kingdom",
-   "date": "2026-10-27T02:00:32+00:00",
-   "url": "https://himalayas.app/companies/m-kopa/jobs/senior-growth-marketing-manager-5596778689?utm_source=api",
-   "north": true,
-   "age_days": 0,
-   "src": "himalayas",
+   "id": "a2d8f96a60f",
+   "title": "Business Development & Deal Origination Associate",
+   "company": "Adaptive Teams",
+   "country": "Croatia",
+   "region": "e",
+   "tier": "auto",
+   "fit": 7.0,
+   "rating": {
+    "fit": 7.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.0,
+     "level": 1.0,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "b2b",
+     "business development",
+     "crm"
+    ],
+    "missing": [
+     "api",
+     "enterprise",
+     "impact"
+    ]
+   },
+   "posted": "2026-10-24",
+   "firstSeen": "2026-10-27",
+   "url": "https://himalayas.app/companies/adaptive-teams/jobs/business-development-deal-origination-associate-9570114135?utm_source=api",
+   "source": "himalayas",
    "flags": [
     "asks up to 5+ years"
-   ]
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
   },
   {
-   "title": "Partnership Manager iGaming",
-   "company": "sumsub",
-   "loc": "EU London United Kingdom",
-   "date": "2026-10-26T22:00:19+00:00",
-   "url": "https://careers.sumsub.com/jobs/8620630-partnership-manager-igaming",
-   "north": true,
-   "age_days": 0,
-   "src": "teamtailor",
-   "flags": [
-    "asks up to 3+ years"
-   ]
-  },
-  {
-   "title": "(Senior) Strategic Partner Manager   (f/m/d)",
-   "company": "Moss",
-   "loc": "London",
-   "date": "2026-10-26T21:40:18+00:00",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/moss/senior-strategic-partner-manager-london-207273",
-   "north": true,
-   "age_days": 0,
-   "src": "arbeitnow",
-   "flags": [
-    "asks up to 5+ years"
-   ]
-  },
-  {
-   "title": "Partner Solutions Architect (EMEA)",
-   "company": "Datadog",
-   "loc": "Remote",
-   "date": "2026-10-26T18:55:24+00:00",
-   "url": "https://www.arbeitnow.fr/jobs/companies/datadog/remote-partner-solutions-architect-emea-40452",
-   "north": false,
-   "age_days": 0,
-   "src": "arbeitnow",
-   "flags": []
-  },
-  {
-   "title": "Business Development Manager",
-   "company": "Carwow",
-   "loc": "Manchester",
-   "date": "2026-10-26T18:40:14+00:00",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/carwow/business-development-manager-greater-manchester-79338",
-   "north": true,
-   "age_days": 0,
-   "src": "arbeitnow",
-   "flags": []
-  },
-  {
-   "title": "Enterprise Business Development Manager",
-   "company": "ELP Consult Ltd.",
-   "loc": "Sweden",
-   "date": "2026-10-26T16:58:37+00:00",
-   "url": "https://himalayas.app/companies/elp-consult-ltd/jobs/enterprise-business-development-manager?utm_source=api",
-   "north": true,
-   "age_days": 0,
-   "src": "himalayas",
-   "flags": [
-    "asks up to 5+ years"
-   ]
-  },
-  {
-   "title": "Business Mentor & Partner (m/w/d)",
-   "company": "thexton armstrong Nord und Ost Deutschland",
-   "loc": "Remote, Berlin",
-   "date": "2026-10-26T13:30:59+00:00",
-   "url": "https://www.arbeitnow.com/jobs/companies/thexton-armstrong-nord-und-ost-deutschland/business-mentor-partner-berlin-332713",
-   "north": false,
-   "age_days": 1,
-   "src": "arbeitnow",
-   "flags": []
-  },
-  {
-   "title": "Kognitiv Influencer | Affiliate & Rewards Partner",
-   "company": "Kognitiv Academy Ltd",
-   "loc": "Worldwide",
-   "date": "2026-10-26T06:13:09+00:00",
-   "url": "https://himalayas.app/companies/kognitiv-academy-ltd/jobs/kognitiv-influencer-affiliate-rewards-partner?utm_source=api",
-   "north": false,
-   "age_days": 1,
-   "src": "himalayas",
-   "flags": []
-  },
-  {
-   "title": "Business Development Manager (Apprenticeships) – Enterprise",
-   "company": "KnowledgeBrief",
-   "loc": "United Kingdom",
-   "date": "2026-10-25T09:29:56+00:00",
-   "url": "https://himalayas.app/companies/knowledgebrief/jobs/business-development-manager-apprenticeships-enterprise?utm_source=api",
-   "north": true,
-   "age_days": 2,
-   "src": "himalayas",
-   "flags": [
-    "needs right to work"
-   ]
-  },
-  {
-   "title": "Senior Sales Channel Manager UKI & Nordics",
-   "company": "Open Systems",
-   "loc": "United Kingdom",
-   "date": "2026-10-25T08:03:42+00:00",
-   "url": "https://himalayas.app/companies/open-systems/jobs/senior-sales-channel-manager-uki-nordics-4380792655?utm_source=api",
-   "north": true,
-   "age_days": 2,
-   "src": "himalayas",
-   "flags": [
-    "hybrid/office days"
-   ]
-  },
-  {
-   "title": "Commercial and Business Development Leadership Opportunities",
-   "company": "Flyttr",
-   "loc": "United Kingdom, United States",
-   "date": "2026-10-25T07:25:53+00:00",
-   "url": "https://himalayas.app/companies/flyttr/jobs/commercial-and-business-development-leadership-opportunities?utm_source=api",
-   "north": true,
-   "age_days": 2,
-   "src": "himalayas",
-   "flags": []
-  },
-  {
-   "title": "Business Development Manager (Apprenticeships) – Public Sector",
-   "company": "KnowledgeBrief",
-   "loc": "United Kingdom",
-   "date": "2026-10-25T06:56:27+00:00",
-   "url": "https://himalayas.app/companies/knowledgebrief/jobs/business-development-manager-apprenticeships-public-sector?utm_source=api",
-   "north": true,
-   "age_days": 2,
-   "src": "himalayas",
-   "flags": [
-    "needs right to work"
-   ]
-  },
-  {
-   "title": "Senior Partnership Manager",
-   "company": "Futures For All",
-   "loc": "United Kingdom",
-   "date": "2026-10-25T06:52:11+00:00",
-   "url": "https://himalayas.app/companies/futures-for-all/jobs/senior-partnership-manager?utm_source=api",
-   "north": true,
-   "age_days": 2,
-   "src": "himalayas",
-   "flags": [
-    "needs right to work"
-   ]
-  },
-  {
-   "title": "Partnership Development Manager",
-   "company": "1st for Awarding Ltd",
-   "loc": "United Kingdom",
-   "date": "2026-10-25T02:46:53+00:00",
-   "url": "https://himalayas.app/companies/1st-for-awarding-ltd/jobs/partnership-development-manager?utm_source=api",
-   "north": true,
-   "age_days": 2,
-   "src": "himalayas",
-   "flags": []
-  },
-  {
-   "title": "Mobile Growth Manager - CRM (Braze)",
-   "company": "Phiture",
-   "loc": "Worldwide",
-   "date": "2026-10-25T00:54:18+00:00",
-   "url": "https://himalayas.app/companies/phiture/jobs/mobile-growth-manager-crm-braze?utm_source=api",
-   "north": false,
-   "age_days": 2,
-   "src": "himalayas",
-   "flags": []
-  },
-  {
-   "title": "AWS Business Development Executive",
-   "company": "Ingram Micro",
-   "loc": "United Kingdom",
-   "date": "2026-10-24T23:21:06+00:00",
-   "url": "https://himalayas.app/companies/ingrammicro/jobs/aws-business-development-executive?utm_source=api",
-   "north": true,
-   "age_days": 2,
-   "src": "himalayas",
-   "flags": []
-  },
-  {
-   "title": "Partner Engagements Manager, Compliance Strategy",
-   "company": "Checkout.com",
-   "loc": "London",
-   "date": "2026-10-24T20:40:17+00:00",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/checkoutcom/partner-engagements-manager-compliance-strategy-london-425342",
-   "north": true,
-   "age_days": 2,
-   "src": "arbeitnow",
-   "flags": [
-    "asks up to 5+ years",
-    "hybrid/office days"
-   ]
-  },
-  {
-   "title": "Marketing Specialist (Field & Channel)",
-   "company": "Sendmarc",
-   "loc": "United Kingdom",
-   "date": "2026-10-24T19:13:51+00:00",
-   "url": "https://himalayas.app/companies/sendmarc/jobs/marketing-specialist-field-channel?utm_source=api",
-   "north": true,
-   "age_days": 2,
-   "src": "himalayas",
-   "flags": [
-    "asks up to 5+ years"
-   ]
-  },
-  {
-   "title": "Interim Delivery Partner Manager",
-   "company": "Futures For All",
-   "loc": "United Kingdom",
-   "date": "2026-10-24T17:06:35+00:00",
-   "url": "https://himalayas.app/companies/futures-for-all/jobs/interim-delivery-partner-manager-6224797460?utm_source=api",
-   "north": true,
-   "age_days": 2,
-   "src": "himalayas",
-   "flags": [
-    "needs right to work"
-   ]
-  },
-  {
-   "title": "Affiliate Career Champion | Career and Leadership Coach",
-   "company": "Bloom",
-   "loc": "Worldwide",
-   "date": "2026-10-24T05:53:52+00:00",
-   "url": "https://himalayas.app/companies/usebloom/jobs/affiliate-career-champion-career-and-leadership-coach-5977391647?utm_source=api",
-   "north": false,
-   "age_days": 3,
-   "src": "himalayas",
-   "flags": [
-    "asks up to 5+ years"
-   ]
-  },
-  {
-   "title": "Education Sales Partner",
-   "company": "3P Learning",
-   "loc": "United Kingdom",
-   "date": "2026-10-24T05:34:39+00:00",
-   "url": "https://himalayas.app/companies/3p-learning/jobs/education-sales-partner-7838227480?utm_source=api",
-   "north": true,
-   "age_days": 3,
-   "src": "himalayas",
-   "flags": [
-    "asks up to 4+ years"
-   ]
-  },
-  {
+   "id": "a090636089b",
    "title": "User Acquisition Manager (Meta, New Project)",
    "company": "Stellar Tech",
-   "loc": "Worldwide",
-   "date": "2026-10-24T02:00:41+00:00",
+   "country": "Remote",
+   "region": "r",
+   "tier": "auto",
+   "fit": 7.0,
+   "rating": {
+    "fit": 7.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.0,
+     "level": 2.0,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "paid media",
+     "testing"
+    ],
+    "missing": [
+     "attribution",
+     "impact",
+     "ltv"
+    ]
+   },
+   "posted": "2026-10-24",
+   "firstSeen": "2026-10-27",
    "url": "https://himalayas.app/companies/stellar-tech/jobs/user-acquisition-manager-meta-new-project-2220303613?utm_source=api",
-   "north": false,
-   "age_days": 3,
-   "src": "himalayas",
+   "source": "himalayas",
    "flags": [
     "asks up to 3+ years"
-   ]
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Remote"
   },
   {
-   "title": "Growth Marketing Manager – Paid Media & Klaviyo (AI-First)",
-   "company": "Nectar Life",
-   "loc": "Worldwide",
-   "date": "2026-10-23T23:39:00+00:00",
-   "url": "https://himalayas.app/companies/nectar-life/jobs/growth-marketing-manager-paid-media-klaviyo-ai-first?utm_source=api",
-   "north": false,
-   "age_days": 3,
-   "src": "himalayas",
+   "id": "acca1b2e1f4",
+   "title": "Events Marketing Manager, EMEA",
+   "company": "Customer.io",
+   "country": "Remote",
+   "region": "r",
+   "tier": "auto",
+   "fit": 7.0,
+   "rating": {
+    "fit": 7.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 0.8,
+     "level": 2.0,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "b2b",
+     "content and social",
+     "crm",
+     "partnerships"
+    ],
+    "missing": [
+     "attribution",
+     "impact",
+     "lifecycle"
+    ]
+   },
+   "posted": "2026-10-15",
+   "firstSeen": "2026-10-27",
+   "url": "https://weworkremotely.com/remote-jobs/customer-io-events-marketing-manager-emea",
+   "source": "wwr",
    "flags": [
-    "asks up to 3+ years"
-   ]
+    "asks up to 4+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Remote"
   },
   {
-   "title": "Client Partner (Strategic Account Management Lead- National Accounts)",
-   "company": "deliveroo",
-   "loc": "Deliveroo; London, United Kingdom",
-   "date": "2026-10-23T14:33:00+00:00",
-   "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8206489",
-   "north": true,
-   "age_days": 3,
-   "src": "greenhouse",
-   "flags": [
-    "asks up to 5+ years"
-   ]
+   "id": "ace52ac8c44",
+   "title": "Business Development Manager (Germany)",
+   "company": "Qargo",
+   "country": "Germany",
+   "region": "e",
+   "tier": "auto",
+   "fit": 6.5,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.5,
+     "level": 1.0,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "b2b",
+     "business development",
+     "crm"
+    ],
+    "missing": [
+     "api",
+     "commission",
+     "impact",
+     "stakeholder"
+    ]
+   },
+   "posted": "2026-10-27",
+   "firstSeen": "2026-10-27",
+   "url": "https://himalayas.app/companies/qargo/jobs/business-development-manager-germany?utm_source=api",
+   "source": "himalayas",
+   "flags": [],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
   },
   {
-   "title": "Partner Manager - USA",
-   "company": "Storyblok",
-   "loc": "Anywhere in the World",
-   "date": "2026-10-23T07:31:21+00:00",
-   "url": "https://weworkremotely.com/remote-jobs/storyblok-partner-manager-usa",
-   "north": false,
-   "age_days": 4,
-   "src": "wwr",
-   "flags": [
-    "asks up to 5+ years"
-   ]
+   "id": "a0aadd24bd9",
+   "title": "Business Development Manager (Netherlands)",
+   "company": "Qargo",
+   "country": "Netherlands",
+   "region": "e",
+   "tier": "auto",
+   "fit": 6.5,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.5,
+     "level": 1.0,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "b2b",
+     "business development",
+     "crm"
+    ],
+    "missing": [
+     "api",
+     "commission",
+     "impact",
+     "stakeholder"
+    ]
+   },
+   "posted": "2026-10-26",
+   "firstSeen": "2026-10-27",
+   "url": "https://himalayas.app/companies/qargo/jobs/business-development-manager-netherlands?utm_source=api",
+   "source": "himalayas",
+   "flags": [],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
   },
   {
+   "id": "a9e84e3bd10",
    "title": "Business Development Manager",
-   "company": "Gravity Team",
-   "loc": "Latvia, Netherlands, Singapore, Thailand, United Kingdom",
-   "date": "2026-10-22T03:27:20+00:00",
-   "url": "https://himalayas.app/companies/gravity-team/jobs/business-development-manager?utm_source=api",
-   "north": true,
-   "age_days": 5,
-   "src": "himalayas",
+   "company": "Carwow",
+   "country": "United Kingdom",
+   "region": "e",
+   "tier": "auto",
+   "fit": 6.5,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.5,
+     "level": 1.0,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "business development",
+     "crm",
+     "negotiation",
+     "partnerships"
+    ],
+    "missing": [
+     "account management"
+    ]
+   },
+   "posted": "2026-10-26",
+   "firstSeen": "2026-10-27",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/carwow/business-development-manager-greater-manchester-79338",
+   "source": "arbeitnow",
+   "flags": [],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
+  },
+  {
+   "id": "a18474aec9e",
+   "title": "Business Development Manager (m/f/d) - Mobility Solutions",
+   "company": "Enghouse Systems",
+   "country": "Germany",
+   "region": "e",
+   "tier": "auto",
+   "fit": 6.5,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.5,
+     "level": 2.0,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "b2b",
+     "business development",
+     "negotiation",
+     "partnerships"
+    ],
+    "missing": [
+     "account management",
+     "api",
+     "enterprise",
+     "impact",
+     "stakeholder"
+    ]
+   },
+   "posted": "2026-10-24",
+   "firstSeen": "2026-10-27",
+   "url": "https://himalayas.app/companies/enghouse-systems/jobs/business-development-manager-m-f-d-mobility-solutions?utm_source=api",
+   "source": "himalayas",
+   "flags": [
+    "asks up to 3+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
+  },
+  {
+   "id": "a0629b62afe",
+   "title": "CRM Manager - Sportsbook Global Promotions ",
+   "company": "betsson",
+   "country": "Malta",
+   "region": "e",
+   "tier": "auto",
+   "fit": 6.5,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 1.8,
+     "level": 2.0,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "crm",
+     "testing"
+    ],
+    "missing": [
+     "email marketing",
+     "impact",
+     "retention",
+     "stakeholder"
+    ]
+   },
+   "posted": "2026-10-20",
+   "firstSeen": "2026-10-27",
+   "url": "https://job-boards.greenhouse.io/betsson/jobs/8273485",
+   "source": "greenhouse",
+   "flags": [
+    "asks up to 4+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
+  },
+  {
+   "id": "af45080e365",
+   "title": "Product Marketing Manager (AI-Powered Affiliate Platform, iGaming)",
+   "company": "AllCares",
+   "country": "Spain",
+   "region": "e",
+   "tier": "auto",
+   "fit": 6.5,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.5,
+     "level": 1.0,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "affiliate",
+     "b2b",
+     "content and social",
+     "partnerships"
+    ],
+    "missing": [
+     "account management",
+     "api",
+     "go-to-market",
+     "gtm",
+     "impact",
+     "retention",
+     "stakeholder",
+     "tracking"
+    ]
+   },
+   "posted": "2026-10-18",
+   "firstSeen": "2026-10-27",
+   "url": "https://himalayas.app/companies/allcares/jobs/product-marketing-manager-ai-powered-affiliate-platform-igaming?utm_source=api",
+   "source": "himalayas",
+   "flags": [],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
+  },
+  {
+   "id": "a5e8f50f68c",
+   "title": "Customer Success Manager (AI-Powered Affiliate Platform, iGaming)",
+   "company": "AllCares",
+   "country": "Spain",
+   "region": "e",
+   "tier": "auto",
+   "fit": 6.5,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.5,
+     "level": 1.0,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "affiliate",
+     "b2b",
+     "partnerships"
+    ],
+    "missing": [
+     "account management",
+     "integration",
+     "lifecycle",
+     "retention",
+     "tracking"
+    ]
+   },
+   "posted": "2026-10-18",
+   "firstSeen": "2026-10-27",
+   "url": "https://himalayas.app/companies/allcares/jobs/customer-success-manager-ai-powered-affiliate-platform-igaming?utm_source=api",
+   "source": "himalayas",
+   "flags": [],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
+  },
+  {
+   "id": "a8e1782c7cf",
+   "title": "Perenimals Growth Lead",
+   "company": "Perena",
+   "country": "Remote",
+   "region": "r",
+   "tier": "auto",
+   "fit": 6.5,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.0,
+     "level": 0.5,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "content and social",
+     "partnerships",
+     "web3"
+    ],
+    "missing": []
+   },
+   "posted": "2026-10-17",
+   "firstSeen": "2026-10-27",
+   "url": "https://himalayas.app/companies/perena/jobs/perenimals-growth-lead?utm_source=api",
+   "source": "himalayas",
+   "flags": [],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Remote"
+  },
+  {
+   "id": "afd8f6fc248",
+   "title": "Growth Marketing Manager - Affiliates & Partnerships (Maternity cover) (f/m/x)",
+   "company": "Feather",
+   "country": "Germany",
+   "region": "e",
+   "tier": "auto",
+   "fit": 6.5,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.5,
+     "level": 1.0,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "affiliate",
+     "analytics",
+     "b2b",
+     "business development",
+     "crm",
+     "negotiation",
+     "partnerships",
+     "testing"
+    ],
+    "missing": [
+     "stakeholder"
+    ]
+   },
+   "posted": "2026-10-14",
+   "firstSeen": "2026-10-27",
+   "url": "https://himalayas.app/companies/feather/jobs/growth-marketing-manager-affiliates-partnerships-maternity-cover-f-m-x?utm_source=api",
+   "source": "himalayas",
+   "flags": [],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
+  },
+  {
+   "id": "ace84ef525a",
+   "title": "Growth Marketing Manager (SaaS / Remote / EU)",
+   "company": "Publitas.com",
+   "country": "Remote",
+   "region": "r",
+   "tier": "auto",
+   "fit": 6.5,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.5,
+     "level": 1.0,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "affiliate",
+     "analytics",
+     "b2b",
+     "content and social",
+     "paid media",
+     "partnerships",
+     "seo",
+     "testing"
+    ],
+    "missing": [
+     "impact",
+     "lifecycle",
+     "retention",
+     "tracking"
+    ]
+   },
+   "posted": "2026-10-06",
+   "firstSeen": "2026-10-27",
+   "url": "https://himalayas.app/companies/publitas-com/jobs/growth-marketing-manager-saas-remote-eu?utm_source=api",
+   "source": "himalayas",
+   "flags": [],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Remote"
+  },
+  {
+   "id": "a8903c16a5b",
+   "title": "Business Development Manager – Multi-Omics Services (m/f/d)",
+   "company": "Omics Empower GmbH",
+   "country": "Germany",
+   "region": "e",
+   "tier": "auto",
+   "fit": 6.0,
+   "rating": {
+    "fit": 6.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.5,
+     "level": 1.0,
+     "place": 1.3,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "business development",
+     "negotiation"
+    ],
+    "missing": [
+     "api"
+    ]
+   },
+   "posted": "2026-10-27",
+   "firstSeen": "2026-10-27",
+   "url": "https://www.arbeitnow.com/jobs/companies/omics-empower-gmbh/business-development-manager-multi-omics-services-berlin-162333",
+   "source": "arbeitnow",
+   "flags": [
+    "relocation/visa mentioned"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
+  },
+  {
+   "id": "a845d9c1c06",
+   "title": "Channel Manager, Organic Social",
+   "company": "H & M Hennes & Mauritz GBC AB",
+   "country": "Sweden",
+   "region": "e",
+   "tier": "auto",
+   "fit": 6.0,
+   "rating": {
+    "fit": 6.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.3,
+     "level": 1.0,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "content and social"
+    ],
+    "missing": [
+     "api",
+     "stakeholder"
+    ]
+   },
+   "posted": "2026-10-27",
+   "firstSeen": "2026-10-27",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31649348",
+   "source": "jobtech",
+   "flags": [],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
+  },
+  {
+   "id": "a5c0c23644b",
+   "title": "Events & Community Manager",
+   "company": "Tebi",
+   "country": "Netherlands",
+   "region": "e",
+   "tier": "auto",
+   "fit": 6.0,
+   "rating": {
+    "fit": 6.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.3,
+     "level": 1.0,
+     "place": 0.9,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "affiliate",
+     "analytics",
+     "b2b",
+     "content and social",
+     "crm",
+     "partnerships"
+    ],
+    "missing": [
+     "account management",
+     "api"
+    ]
+   },
+   "posted": "2026-10-26",
+   "firstSeen": "2026-10-27",
+   "url": "https://www.arbeitnow.nl/jobs/companies/tebi/events-community-manager-amsterdam-4220",
+   "source": "arbeitnow",
+   "flags": [
+    "asks up to 5+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Hybrid or office"
+  },
+  {
+   "id": "a51710a5ca1",
+   "title": "Senior Business Development Manager - German Speaker",
+   "company": "Emma – The Sleep Company",
+   "country": "Germany",
+   "region": "e",
+   "tier": "auto",
+   "fit": 6.0,
+   "rating": {
+    "fit": 6.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.5,
+     "level": 0.5,
+     "place": 0.9,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "business development",
+     "content and social"
+    ],
+    "missing": [
+     "go-to-market",
+     "impact"
+    ]
+   },
+   "posted": "2026-10-25",
+   "firstSeen": "2026-10-27",
+   "url": "https://www.arbeitnow.com/jobs/companies/emma-the-sleep-company/senior-business-development-manager-german-speaker-frankfurt-125295",
+   "source": "arbeitnow",
+   "flags": [],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Hybrid or office"
+  },
+  {
+   "id": "ab9be3383ce",
+   "title": "Product Marketing Manager, AI Governance (EMEA)",
+   "company": "Kong Inc.",
+   "country": "Remote",
+   "region": "r",
+   "tier": "auto",
+   "fit": 6.0,
+   "rating": {
+    "fit": 6.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 0.8,
+     "level": 2.0,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "b2b",
+     "content and social"
+    ],
+    "missing": [
+     "api",
+     "enterprise",
+     "go-to-market"
+    ]
+   },
+   "posted": "2026-10-25",
+   "firstSeen": "2026-10-27",
+   "url": "https://jobicy.com/jobs/156927-product-marketing-manager-ai-governance-emea",
+   "source": "jobicy",
    "flags": [
     "asks up to 2+ years"
-   ]
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Remote"
   },
   {
-   "title": "YouTube Channel Manager & Analyst",
-   "company": "MOTIONART",
-   "loc": "Worldwide",
-   "date": "2026-10-21T21:06:39+00:00",
-   "url": "https://himalayas.app/companies/motionart/jobs/youtube-channel-manager-analyst?utm_source=api",
-   "north": false,
-   "age_days": 5,
-   "src": "himalayas",
-   "flags": []
+   "id": "aece44164f4",
+   "title": "Commercial and Business Development Leadership Opportunities",
+   "company": "Flyttr",
+   "country": "United Kingdom",
+   "region": "e",
+   "tier": "auto",
+   "fit": 6.0,
+   "rating": {
+    "fit": 6.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.5,
+     "level": 0.5,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "business development",
+     "partnerships"
+    ],
+    "missing": []
+   },
+   "posted": "2026-10-25",
+   "firstSeen": "2026-10-27",
+   "url": "https://himalayas.app/companies/flyttr/jobs/commercial-and-business-development-leadership-opportunities?utm_source=api",
+   "source": "himalayas",
+   "flags": [],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
   },
   {
-   "title": "CTV & Programmatic Media Buyer – Affiliate Lead Gen",
-   "company": "Talent Hackers",
-   "loc": "Worldwide",
-   "date": "2026-10-21T19:30:43+00:00",
-   "url": "https://himalayas.app/companies/trytalenthackers/jobs/ctv-programmatic-media-buyer-affiliate-lead-gen?utm_source=api",
-   "north": false,
-   "age_days": 5,
-   "src": "himalayas",
+   "id": "a7a563b06a6",
+   "title": "Partner Development Manager - UK, Remote",
+   "company": "Wildix",
+   "country": "United Kingdom",
+   "region": "e",
+   "tier": "auto",
+   "fit": 6.0,
+   "rating": {
+    "fit": 6.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.0,
+     "level": 1.0,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "business development",
+     "testing"
+    ],
+    "missing": [
+     "account management",
+     "api",
+     "commission",
+     "impact"
+    ]
+   },
+   "posted": "2026-10-24",
+   "firstSeen": "2026-10-27",
+   "url": "https://himalayas.app/companies/wildix/jobs/partner-development-manager-uk-remote-4238745627?utm_source=api",
+   "source": "himalayas",
    "flags": [
     "asks up to 5+ years"
-   ]
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
   },
   {
-   "title": "Account Manager (Partner Fulfilment)",
-   "company": "asos",
-   "loc": "London, GB",
-   "date": "2026-10-21T16:47:27.536000+00:00",
-   "url": "https://jobs.smartrecruiters.com/asos/744000156854069",
-   "north": true,
-   "age_days": 5,
-   "src": "smartrecruiters",
+   "id": "ae0a960dd5f",
+   "title": "Community Manager",
+   "company": "surfshark",
+   "country": "Lithuania",
+   "region": "r",
+   "tier": "auto",
+   "fit": 6.0,
+   "rating": {
+    "fit": 6.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 1.8,
+     "level": 1.0,
+     "place": 1.0,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "content and social"
+    ],
+    "missing": [
+     "impact"
+    ]
+   },
+   "posted": "2026-10-23",
+   "firstSeen": "2026-10-27",
+   "url": "https://jobs.ashbyhq.com/surfshark/c00871cb-341d-433f-8bb6-42f9dd9c4431",
+   "source": "ashby",
+   "flags": [],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Remote"
+  },
+  {
+   "id": "a7216a3deec",
+   "title": "Partner Engagement Specialist",
+   "company": "getyourguide",
+   "country": "Germany",
+   "region": "e",
+   "tier": "auto",
+   "fit": 6.0,
+   "rating": {
+    "fit": 6.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 1.0,
+     "level": 2.0,
+     "place": 0.9,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "b2b",
+     "content and social",
+     "crm"
+    ],
+    "missing": [
+     "stakeholder"
+    ]
+   },
+   "posted": "2026-10-21",
+   "firstSeen": "2026-10-27",
+   "url": "https://job-boards.greenhouse.io/getyourguide/jobs/8305682",
+   "source": "greenhouse",
    "flags": [
-    "hybrid/office days"
-   ]
+    "asks up to 4+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Hybrid or office"
   },
   {
-   "title": "YouTube Channel Growth Manager",
-   "company": "Excelstra",
-   "loc": "Worldwide",
-   "date": "2026-10-21T06:35:15+00:00",
-   "url": "https://himalayas.app/companies/excelstra/jobs/youtube-channel-growth-manager?utm_source=api",
-   "north": false,
-   "age_days": 6,
-   "src": "himalayas",
-   "flags": []
-  },
-  {
-   "title": "Growth Marketer, Creators & Channels",
-   "company": "supabase",
-   "loc": "Remote, AMER | Remote | remote",
-   "date": "2026-10-20T18:32:12.114000+00:00",
-   "url": "https://jobs.ashbyhq.com/supabase/d6af503b-acc4-40c9-83d8-d4fe0dcc2dd5",
-   "north": false,
-   "age_days": 6,
-   "src": "ashby",
+   "id": "a7a96f695a1",
+   "title": "Experiential Marketing Manager",
+   "company": "consensys",
+   "country": "Remote",
+   "region": "r",
+   "tier": "auto",
+   "fit": 6.0,
+   "rating": {
+    "fit": 6.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 0.8,
+     "level": 1.0,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "b2b",
+     "business development",
+     "content and social",
+     "negotiation",
+     "web3"
+    ],
+    "missing": [
+     "api",
+     "stakeholder"
+    ]
+   },
+   "posted": "2026-10-21",
+   "firstSeen": "2026-10-27",
+   "url": "https://job-boards.greenhouse.io/consensys/jobs/8292214",
+   "source": "greenhouse",
    "flags": [
-    "asks up to 3+ years"
-   ]
+    "asks up to 5+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Remote"
   },
   {
-   "title": "Business Development Manager (Whitepay)",
-   "company": "whitebit",
-   "loc": "Office, EU",
-   "date": "2026-10-20T14:43:04+00:00",
-   "url": "https://job-boards.eu.greenhouse.io/whitebit/jobs/5010804101",
-   "north": false,
-   "age_days": 6,
-   "src": "greenhouse",
-   "flags": []
+   "id": "a4f6c8bc590",
+   "title": "Storyous Partnerships & Integrations Manager",
+   "company": "Teya",
+   "country": "Czechia",
+   "region": "e",
+   "tier": "auto",
+   "fit": 6.0,
+   "rating": {
+    "fit": 6.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.0,
+     "level": 1.0,
+     "place": 0.9,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "b2b",
+     "business development",
+     "partnerships"
+    ],
+    "missing": [
+     "go-to-market",
+     "integration",
+     "lifecycle",
+     "stakeholder"
+    ]
+   },
+   "posted": "2026-10-20",
+   "firstSeen": "2026-10-27",
+   "url": "https://himalayas.app/companies/teya/jobs/storyous-partnerships-integrations-manager-9865662275?utm_source=api",
+   "source": "himalayas",
+   "flags": [],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Hybrid or office"
   },
   {
-   "title": "Performance Marketing Manager ",
-   "company": "flipdish",
-   "loc": "Ireland - Dublin Hub (Hybrid) ",
-   "date": "2026-10-20T12:53:27+00:00",
-   "url": "https://job-boards.eu.greenhouse.io/flipdish/jobs/5011114101",
-   "north": true,
-   "age_days": 7,
-   "src": "greenhouse",
-   "flags": [
-    "asks up to 5+ years",
-    "hybrid/office days"
-   ]
-  },
-  {
-   "title": "🌍 Business Development Executive (Remote | Partner Role)",
-   "company": "Bluoryn",
-   "loc": "Germany, Norway, Switzerland",
-   "date": "2026-10-19T23:33:07+00:00",
-   "url": "https://himalayas.app/companies/bluoryn/jobs/business-development-executive-remote-partner-role?utm_source=api",
-   "north": true,
-   "age_days": 7,
-   "src": "himalayas",
-   "flags": []
-  },
-  {
+   "id": "aed55564936",
    "title": "Loyalty & Customer Growth Manager",
    "company": "farfetch",
-   "loc": "UK London, United Kingdom | hybrid",
-   "date": "2026-10-19T15:54:27.830000+00:00",
+   "country": "United Kingdom",
+   "region": "e",
+   "tier": "auto",
+   "fit": 6.0,
+   "rating": {
+    "fit": 6.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.0,
+     "level": 1.0,
+     "place": 0.9,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "crm",
+     "partnerships",
+     "testing"
+    ],
+    "missing": [
+     "lifecycle",
+     "looker",
+     "ltv"
+    ]
+   },
+   "posted": "2026-10-19",
+   "firstSeen": "2026-10-27",
    "url": "https://jobs.lever.co/farfetch/881837e3-557e-4bab-b530-84244250fd78",
-   "north": true,
-   "age_days": 7,
-   "src": "lever",
+   "source": "lever",
+   "flags": [],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Hybrid or office"
+  },
+  {
+   "id": "a77b03ff9da",
+   "title": "People Programs Partner",
+   "company": "eneba",
+   "country": "Lithuania",
+   "region": "r",
+   "tier": "auto",
+   "fit": 6.0,
+   "rating": {
+    "fit": 6.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 1.0,
+     "level": 2.0,
+     "place": 1.0,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics"
+    ],
+    "missing": [
+     "impact",
+     "stakeholder"
+    ]
+   },
+   "posted": "2026-10-16",
+   "firstSeen": "2026-10-27",
+   "url": "https://jobs.ashbyhq.com/eneba/e683a489-02ed-4efc-93db-70d7c7256337",
+   "source": "ashby",
    "flags": [
-    "hybrid/office days"
-   ]
+    "asks up to 2+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Remote"
   },
   {
-   "title": "Senior Affiliate Manager",
-   "company": "ledger",
-   "loc": "Paris, France | Hybrid | remote",
-   "date": "2026-10-19T15:03:09.601000+00:00",
-   "url": "https://jobs.ashbyhq.com/ledger/457c1dc7-36d7-49e7-8d72-59ddc2dfa2f9",
-   "north": false,
-   "age_days": 7,
-   "src": "ashby",
+   "id": "afff2e5bf60",
+   "title": "Product Marketing Manager (TEMPORARY)",
+   "company": "Tebra",
+   "country": "Remote",
+   "region": "r",
+   "tier": "auto",
+   "fit": 6.0,
+   "rating": {
+    "fit": 6.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 0.8,
+     "level": 2.0,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "b2b",
+     "content and social"
+    ],
+    "missing": [
+     "retention",
+     "tracking"
+    ]
+   },
+   "posted": "2026-10-13",
+   "firstSeen": "2026-10-27",
+   "url": "https://weworkremotely.com/remote-jobs/tebra-product-marketing-manager-temporary",
+   "source": "wwr",
    "flags": [
-    "asks up to 5+ years",
-    "hybrid/office days"
-   ]
+    "asks up to 4+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Remote"
   },
   {
-   "title": "Podcast Distribution & Growth Manager",
-   "company": "podcasthub ",
-   "loc": "Anywhere in the World",
-   "date": "2026-10-19T14:45:59+00:00",
-   "url": "https://weworkremotely.com/remote-jobs/podcasthub-podcast-distribution-growth-manager",
-   "north": false,
-   "age_days": 7,
-   "src": "wwr",
-   "flags": []
-  },
-  {
-   "title": "Cloud Technical Business Development Manager",
-   "company": "eInfochips",
-   "loc": "Latvia",
-   "date": "2026-10-17T02:17:40+00:00",
-   "url": "https://himalayas.app/companies/einfochips/jobs/cloud-technical-business-development-manager?utm_source=api",
-   "north": true,
-   "age_days": 10,
-   "src": "himalayas",
-   "flags": []
-  },
-  {
-   "title": "[EU] Business Development Specialist, CZ,SL,SK",
-   "company": "bybit",
-   "loc": "Europe - Remote",
-   "date": "2026-10-16T08:31:01+00:00",
-   "url": "https://job-boards.eu.greenhouse.io/bybit/jobs/5008303101",
-   "north": false,
-   "age_days": 11,
-   "src": "greenhouse",
-   "flags": []
-  },
-  {
-   "title": "Senior Strategic Partnerships Manager, Deliveroo Express ",
-   "company": "deliveroo",
-   "loc": "London, United Kingdom - Deliveroo",
-   "date": "2026-10-15T15:39:39+00:00",
-   "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8205942",
-   "north": true,
-   "age_days": 11,
-   "src": "greenhouse",
-   "flags": [
-    "asks up to 6+ years"
-   ]
-  },
-  {
-   "title": "Strategy & Operations Manager, Subscription Partnerships ",
-   "company": "deliveroo",
-   "loc": "London, England",
-   "date": "2026-10-15T11:31:11+00:00",
-   "url": "https://job-boards.greenhouse.io/deliveroo/jobs/8236339",
-   "north": true,
-   "age_days": 12,
-   "src": "greenhouse",
+   "id": "afe25445770",
+   "title": "Content Marketing Manager",
+   "company": "Amwell",
+   "country": "Remote",
+   "region": "r",
+   "tier": "auto",
+   "fit": 6.0,
+   "rating": {
+    "fit": 6.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 1.8,
+     "level": 1.0,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "b2b",
+     "content and social"
+    ],
+    "missing": [
+     "commission"
+    ]
+   },
+   "posted": "2026-10-09",
+   "firstSeen": "2026-10-27",
+   "url": "https://weworkremotely.com/remote-jobs/amwell-content-marketing-manager",
+   "source": "wwr",
    "flags": [
     "asks up to 5+ years"
-   ]
-  },
-  {
-   "title": "Senior Google Ads Media Buyer / Performance Marketing Lead ",
-   "company": "Egear ",
-   "loc": "Anywhere in the World",
-   "date": "2026-10-15T08:42:17+00:00",
-   "url": "https://weworkremotely.com/remote-jobs/egear-senior-google-ads-media-buyer-performance-marketing-lead-1",
-   "north": false,
-   "age_days": 12,
-   "src": "wwr",
-   "flags": []
-  },
-  {
-   "title": "Partner Manager Digital Agencies - Iberia",
-   "company": "mollie",
-   "loc": "Madrid/Barcelona | Hybrid | remote",
-   "date": "2026-10-14T12:37:04.054000+00:00",
-   "url": "https://jobs.ashbyhq.com/mollie/f383de79-f6d7-4167-8fcf-7bf68913fc80",
-   "north": false,
-   "age_days": 13,
-   "src": "ashby",
-   "flags": [
-    "asks up to 5+ years"
-   ]
-  },
-  {
-   "title": "Strategy & Business Development Lead to Alleima",
-   "company": "Alleima AB",
-   "loc": "Sandviken, Sweden",
-   "date": "2026-10-14T09:41:00+00:00",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31593895",
-   "north": true,
-   "age_days": 13,
-   "src": "jobtech",
-   "flags": []
-  },
-  {
-   "title": "Affiliate Business Development Manager, Southeast Asia",
-   "company": "okx",
-   "loc": "Indonesia (Remote); Philippines (Remote); Thailand (Remote)",
-   "date": "2026-10-14T02:53:21+00:00",
-   "url": "https://job-boards.greenhouse.io/okx/jobs/8032195003",
-   "north": false,
-   "age_days": 13,
-   "src": "greenhouse",
-   "flags": [
-    "asks up to 3+ years"
-   ]
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Remote"
   }
  ]
 }

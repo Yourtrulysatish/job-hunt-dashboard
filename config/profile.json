@@ -1,0 +1,110 @@
+{
+  "about": "What the fit rating is measured against. Edit this file to change the ratings.",
+  "years_experience": 4,
+  "home_country": "Croatia",
+  "languages": [
+    "English"
+  ],
+  "target_roles": [
+    "affiliate manager",
+    "partnerships manager",
+    "partner manager",
+    "alliances manager",
+    "business development manager",
+    "growth manager",
+    "channel manager",
+    "ecosystem manager",
+    "marketing manager",
+    "seo manager",
+    "paid media manager",
+    "community manager",
+    "content marketing manager"
+  ],
+  "strong_sectors": [
+    "web3",
+    "crypto",
+    "blockchain",
+    "artificial intelligence",
+    "fintech",
+    "payments",
+    "fashion",
+    "e-commerce",
+    "ecommerce",
+    "marketplace",
+    "travel",
+    "tourism",
+    "events",
+    "conference",
+    "affiliate network",
+    "affiliate program"
+  ],
+  "skills": {
+    "affiliate": [
+      "affiliate",
+      "affiliates"
+    ],
+    "partnerships": [
+      "partnership",
+      "partnerships",
+      "partner management",
+      "partner onboarding",
+      "alliances"
+    ],
+    "business development": [
+      "business development",
+      "bizdev",
+      "new business"
+    ],
+    "negotiation": [
+      "negotiat"
+    ],
+    "crm": [
+      "crm",
+      "hubspot",
+      "salesforce"
+    ],
+    "paid media": [
+      "google ads",
+      "meta ads",
+      "paid media",
+      "paid social",
+      "ppc",
+      "performance marketing"
+    ],
+    "seo": [
+      "seo",
+      "organic growth",
+      "search engine"
+    ],
+    "analytics": [
+      "analytics",
+      "reporting",
+      "kpi",
+      "dashboard",
+      "excel",
+      "google sheets"
+    ],
+    "testing": [
+      "a/b test",
+      "experiment",
+      "testing"
+    ],
+    "content and social": [
+      "content",
+      "social media",
+      "community",
+      "influencer"
+    ],
+    "web3": [
+      "web3",
+      "crypto",
+      "blockchain"
+    ],
+    "b2b": [
+      "b2b",
+      "saas",
+      "fintech",
+      "payments"
+    ]
+  }
+}

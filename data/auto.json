@@ -1,0 +1,298 @@
+{
+ "generated": "27 Oct 2026 14:09 UTC",
+ "count": 6,
+ "items": [
+  {
+   "id": "a752b5156c8",
+   "title": "Strategic Partner Manager Nordics",
+   "company": "Klar",
+   "country": "Sweden",
+   "region": "e",
+   "tier": "auto",
+   "fit": 8.0,
+   "rating": {
+    "fit": 8.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.0,
+     "level": 2.0,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "b2b",
+     "crm",
+     "paid media",
+     "partnerships"
+    ],
+    "missing": [
+     "attribution",
+     "retention"
+    ]
+   },
+   "posted": "2026-10-21",
+   "firstSeen": "2026-10-27",
+   "url": "https://himalayas.app/companies/klar/jobs/strategic-partner-manager-nordics?utm_source=api",
+   "source": "himalayas",
+   "flags": [
+    "asks up to 3+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
+  },
+  {
+   "id": "a1124a0ea03",
+   "title": "Product Growth Manager",
+   "company": "Nelly Solutions",
+   "country": "Germany",
+   "region": "e",
+   "tier": "auto",
+   "fit": 7.0,
+   "rating": {
+    "fit": 7.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.0,
+     "level": 2.0,
+     "place": 0.9,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "b2b",
+     "partnerships",
+     "testing"
+    ],
+    "missing": [
+     "gtm",
+     "impact",
+     "retention"
+    ]
+   },
+   "posted": "2026-10-27",
+   "firstSeen": "2026-10-27",
+   "url": "https://www.arbeitnow.com/jobs/companies/nelly-solutions/product-growth-manager-berlin-126021",
+   "source": "arbeitnow",
+   "flags": [
+    "asks up to 3+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Hybrid or office"
+  },
+  {
+   "id": "a97e47e2f56",
+   "title": "(Senior) Strategic Partner Manager   (f/m/d)",
+   "company": "Moss",
+   "country": "United Kingdom",
+   "region": "e",
+   "tier": "auto",
+   "fit": 7.0,
+   "rating": {
+    "fit": 7.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.5,
+     "level": 0.5,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "b2b",
+     "business development",
+     "partnerships"
+    ],
+    "missing": [
+     "api",
+     "integration",
+     "stakeholder"
+    ]
+   },
+   "posted": "2026-10-26",
+   "firstSeen": "2026-10-27",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/moss/senior-strategic-partner-manager-london-207273",
+   "source": "arbeitnow",
+   "flags": [
+    "asks up to 5+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
+  },
+  {
+   "id": "afc0373a090",
+   "title": "Partnership Development Manager",
+   "company": "1st for Awarding Ltd",
+   "country": "United Kingdom",
+   "region": "e",
+   "tier": "auto",
+   "fit": 7.0,
+   "rating": {
+    "fit": 7.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.0,
+     "level": 1.0,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "business development",
+     "crm",
+     "partnerships"
+    ],
+    "missing": [
+     "impact",
+     "stakeholder"
+    ]
+   },
+   "posted": "2026-10-25",
+   "firstSeen": "2026-10-27",
+   "url": "https://himalayas.app/companies/1st-for-awarding-ltd/jobs/partnership-development-manager?utm_source=api",
+   "source": "himalayas",
+   "flags": [],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
+  },
+  {
+   "id": "afdd23e424f",
+   "title": "Business Development Manager",
+   "company": "Eightcap",
+   "country": "France",
+   "region": "e",
+   "tier": "auto",
+   "fit": 7.0,
+   "rating": {
+    "fit": 7.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.0,
+     "level": 1.0,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "affiliate",
+     "analytics",
+     "business development",
+     "content and social",
+     "negotiation",
+     "partnerships",
+     "web3"
+    ],
+    "missing": []
+   },
+   "posted": "2026-10-24",
+   "firstSeen": "2026-10-27",
+   "url": "https://himalayas.app/companies/eightcap/jobs/business-development-manager?utm_source=api",
+   "source": "himalayas",
+   "flags": [],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
+  },
+  {
+   "id": "a8d526d188b",
+   "title": "Partnerships Marketing Manager, EMEA",
+   "company": "adyen",
+   "country": "United Kingdom",
+   "region": "e",
+   "tier": "auto",
+   "fit": 7.0,
+   "rating": {
+    "fit": 7.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.0,
+     "level": 1.0,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "b2b",
+     "partnerships"
+    ],
+    "missing": [
+     "enterprise",
+     "go-to-market",
+     "impact",
+     "stakeholder"
+    ]
+   },
+   "posted": "2026-10-11",
+   "firstSeen": "2026-10-27",
+   "url": "https://job-boards.greenhouse.io/adyen/jobs/8166549",
+   "source": "greenhouse",
+   "flags": [
+    "asks up to 5+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
+  }
+ ]
+}

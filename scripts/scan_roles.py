@@ -109,9 +109,9 @@ def jobtech():
             a = j.get('workplace_address') or {}
             add('jobtech', j.get('headline'), (j.get('employer') or {}).get('name'), j.get('publication_date'), f"{a.get('municipality') or a.get('region') or ''}, Sweden", j.get('webpage_url'), '', (j.get('description') or {}).get('text'))
 def himalayas_search():
-    for c in ('SE', 'NO', 'DK', 'FI', 'IS', 'EE', 'LV', 'LT', 'IE', 'GB'):
-        for q in ('partnerships', 'affiliate', 'business development', 'growth', 'partner manager'):
-            d = get(f'https://himalayas.app/jobs/api/search?sort=recent&country={c}&q=' + urllib.parse.quote(q))
+    for c in ('', 'HR', 'SE', 'NO', 'DK', 'FI', 'IS', 'EE', 'LV', 'LT', 'IE', 'GB', 'DE', 'NL', 'FR', 'ES', 'PT', 'IT', 'PL', 'CZ', 'AT', 'CH', 'BE'):
+        for q in ('partnerships', 'affiliate', 'business development', 'growth', 'partner manager', 'alliances', 'channel'):
+            d = get('https://himalayas.app/jobs/api/search?sort=recent' + (f'&country={c}' if c else '') + '&q=' + urllib.parse.quote(q))
             for j in (d or {}).get('jobs', []):
                 add('himalayas', j.get('title'), j.get('companyName'), j.get('pubDate'), j.get('locationRestrictions') or 'Worldwide', j.get('applicationLink') or j.get('guid'), f"{j.get('minSalary','')}-{j.get('maxSalary','')} {j.get('currency','')}", j.get('description') or j.get('excerpt'))
 for n, f in (('remotive search', remotive_search), ('jobicy by country', jobicy_geo), ('jobtech sweden', jobtech), ('himalayas by country', himalayas_search)): feed(n, f)
@@ -198,8 +198,8 @@ def flags(r):
     if re.search(r'relocat|visa sponsor', t, re.I): f.append('relocation/visa mentioned')
     if re.search(r'right to work', t, re.I): f.append('needs right to work')
     return f
-NORTH = re.compile(r'\b(sweden|stockholm|gothenburg|goteborg|g\u00f6teborg|malm\u00f6|malmo|uppsala|link\u00f6ping|norway|oslo|bergen|trondheim|stavanger|denmark|copenhagen|k\u00f8benhavn|aarhus|odense|aalborg|finland|helsinki|espoo|tampere|oulu|iceland|reykjavik|estonia|tallinn|tartu|latvia|riga|lithuania|vilnius|kaunas|ireland|dublin|cork|galway|limerick|united kingdom|uk|london|manchester|edinburgh|england|scotland|wales|belfast|bristol|birmingham|leeds|glasgow|cambridge|oxford)\b', re.I)
-KEY2 = re.compile(r'growth (?:marketing )?(?:manager|lead|specialist|associate)|performance marketing|partner success|acquisition manager|marketing partnerships|community partnerships', re.I)
+NORTH = re.compile(r'\b(sweden|stockholm|gothenburg|goteborg|g\u00f6teborg|malm\u00f6|malmo|uppsala|link\u00f6ping|norway|oslo|bergen|trondheim|stavanger|denmark|copenhagen|k\u00f8benhavn|aarhus|odense|aalborg|finland|helsinki|espoo|tampere|oulu|iceland|reykjavik|estonia|tallinn|tartu|latvia|riga|lithuania|vilnius|kaunas|ireland|dublin|cork|galway|limerick|united kingdom|uk|london|manchester|edinburgh|england|scotland|wales|belfast|bristol|birmingham|leeds|glasgow|cambridge|oxford|brighton|germany|berlin|munich|m\u00fcnchen|hamburg|frankfurt|cologne|k\u00f6ln|stuttgart|d\u00fcsseldorf|leipzig|france|paris|lyon|marseille|toulouse|nice|netherlands|amsterdam|rotterdam|the hague|utrecht|eindhoven|belgium|brussels|antwerp|luxembourg|austria|vienna|wien|graz|switzerland|zurich|z\u00fcrich|geneva|basel|zug|spain|madrid|barcelona|valencia|seville|malaga|portugal|lisbon|porto|italy|milan|milano|rome|roma|turin|bologna|malta|valletta|cyprus|nicosia|limassol|greece|athens|thessaloniki|poland|warsaw|krakow|krak\u00f3w|wroclaw|gda\u0144sk|czechia|czech republic|prague|brno|slovakia|bratislava|hungary|budapest|romania|bucharest|cluj|bulgaria|sofia|croatia|zagreb|split|slovenia|ljubljana|serbia|belgrade|bosnia|sarajevo|montenegro|podgorica|albania|tirana|north macedonia|skopje)\b', re.I)
+KEY2 = re.compile(r'marketing manager|seo (?:manager|lead|specialist)|paid (?:media|social|search) (?:manager|specialist)|community manager|content marketing (?:manager|lead)|social media manager|email marketing manager|crm manager|lifecycle|growth (?:marketing )?(?:manager|lead|specialist|associate)|performance marketing|partner success|acquisition manager|marketing partnerships|community partnerships', re.I)
 def nonenglish(t):
     w = re.findall(r"[a-z\u00e5\u00e4\u00f6\u00e6\u00f8]+", t.lower()[:3000])
     en = sum(1 for x in w if x in ('the', 'and', 'to', 'of', 'you', 'we', 'with', 'for', 'our', 'will'))

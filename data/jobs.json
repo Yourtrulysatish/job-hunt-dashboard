@@ -1,14 +1,14 @@
 {
- "updated": "26 Oct 2026",
+ "updated": "27 Oct 2026",
  "jobs": [
   {
    "title": "Affiliate & Partnerships Manager",
    "company": "Flatpay",
    "country": "Denmark",
    "city": "Herlev",
-   "region": "n",
+   "region": "e",
    "tier": "apply",
-   "fit": 9,
+   "fit": 8.0,
    "posted": "2026-10-11",
    "exp": "Experience in affiliate marketing, performance partnerships or lead generation. No year count.",
    "lang": "English only. Danish not mentioned.",
@@ -18,17 +18,42 @@
    "why": "Runs a network of affiliates, publishers and lead partners and sets commission terms. Closest match to your CryptoNewsZ affiliate work (40% ROI lift, 30% network growth).",
    "url": "https://www.jobindex.dk/jobannonce/r14045061",
    "source": "Jobindex and The Hub",
-   "id": "flatpay"
+   "id": "flatpay",
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.5,
+     "level": 1.0,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [],
+    "missing": []
+   },
+   "check": {
+    "tier": "Check first",
+    "good": [],
+    "check": [
+     "text not read"
+    ]
+   },
+   "read": true,
+   "fitAdjust": 1.5,
+   "adjustWhy": "English only, no years asked, and the role is the affiliate network itself. The formula cannot see that the posting asks for no experience count."
   },
   {
    "title": "Product Growth & Partnerships Manager",
    "company": "Hostinger",
    "country": "Lithuania",
    "city": "Vilnius",
-   "region": "n",
+   "region": "e",
    "mode": "Hybrid",
    "tier": "apply",
-   "fit": 9,
+   "fit": 8.5,
    "posted": "2026-10-18",
    "exp": "No year count in the posting.",
    "lang": "English. No local language mentioned.",
@@ -38,17 +63,54 @@
    "why": "Partnerships plus growth in one role, with a stated salary well above your floor.",
    "url": "https://jobs.ashbyhq.com/hostinger/c97b29b4-cff1-4018-b34e-e67cd946da90",
    "source": "Hostinger careers",
-   "id": "hostinger"
+   "id": "hostinger",
+   "rating": {
+    "fit": 7.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.5,
+     "level": 1.0,
+     "place": 0.9,
+     "pay": 1.0,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "affiliate",
+     "b2b",
+     "content and social",
+     "paid media",
+     "partnerships",
+     "testing"
+    ],
+    "missing": [
+     "impact",
+     "ltv",
+     "stakeholder"
+    ]
+   },
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "read": true,
+   "fitAdjust": 1.5,
+   "adjustWhy": "Stated pay of EUR 3,500 gross a month and partnerships plus growth in one role. The rating formula cannot see that the posting names no years."
   },
   {
    "title": "Partnership Specialist",
    "company": "Farfetch",
    "country": "United Kingdom",
    "city": "London",
-   "region": "n",
+   "region": "e",
    "mode": "Hybrid, 3 office days",
    "tier": "apply",
-   "fit": 9,
+   "fit": 8.5,
    "posted": "2026-10-13",
    "exp": "2 to 3 years in partnerships and affiliate marketing, including affiliate network work (onboarding, tracking, reporting).",
    "lang": "English",
@@ -58,7 +120,42 @@
    "why": "Reads like your CV: affiliate networks, partner onboarding, reporting. Fashion marketplace, which is one of your target sectors.",
    "url": "https://jobs.ashbyhq.com/farfetch/fe459418-7ebb-4b11-8ab0-97adb86bb369",
    "source": "Farfetch careers",
-   "id": "farfetch"
+   "id": "farfetch",
+   "rating": {
+    "fit": 8.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.5,
+     "level": 2.0,
+     "place": 0.9,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "affiliate",
+     "analytics",
+     "content and social",
+     "negotiation",
+     "paid media",
+     "partnerships"
+    ],
+    "missing": [
+     "looker",
+     "stakeholder",
+     "tracking"
+    ]
+   },
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "read": true
   },
   {
    "title": "Senior Partnerships Manager, Product Partnerships",
@@ -67,7 +164,7 @@
    "region": "r",
    "mode": "Remote",
    "tier": "apply",
-   "fit": 7,
+   "fit": 8.5,
    "posted": "2026-10-26",
    "exp": "4+ years of partnerships, including product, integration or platform partnerships, at a startup or scale up.",
    "lang": "English",
@@ -76,17 +173,53 @@
    "why": "Matches your 4 years exactly. Product and integration partnerships is a step away from affiliate work, so lead with the onboarding and partner growth results.",
    "url": "https://jobicy.com/jobs/157213-senior-partnerships-manager-product-partnerships",
    "source": "Jobicy, remote EMEA",
-   "id": "revenuecat"
+   "id": "revenuecat",
+   "rating": {
+    "fit": 8.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.0,
+     "level": 1.5,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "b2b",
+     "negotiation",
+     "partnerships",
+     "testing"
+    ],
+    "missing": [
+     "api",
+     "attribution",
+     "gtm",
+     "impact",
+     "integration"
+    ]
+   },
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "read": true
   },
   {
    "title": "Senior Strategic Partnerships Manager",
    "company": "Bolt",
    "country": "Estonia",
    "city": "Tallinn",
-   "region": "n",
+   "region": "e",
    "mode": "Hybrid, 12 office days a month",
    "tier": "apply",
-   "fit": 7,
+   "fit": 5.5,
    "posted": "2026-10-09",
    "closes": "2026-11-08",
    "exp": "Proven experience in strategic partnerships or business development. No year count. Title is senior.",
@@ -97,7 +230,32 @@
    "why": "Large European tech employer with a real partnerships function. The senior title is the risk, so apply with a short, specific note on the results you drove. Needs a free CV Keskus login to apply.",
    "url": "https://www.cvkeskus.ee/senior-strategic-partnerships-manager-tallinnas-bolt-technology-ou-1058960",
    "source": "CV Keskus",
-   "id": "bolt"
+   "id": "bolt",
+   "rating": {
+    "fit": 5.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.0,
+     "level": 0.5,
+     "place": 0.9,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [],
+    "missing": []
+   },
+   "check": {
+    "tier": "Check first",
+    "good": [
+     "has a closing date"
+    ],
+    "check": [
+     "text not read"
+    ]
+   },
+   "read": true
   },
   {
    "title": "Growth Marketing Manager, B2C",
@@ -106,7 +264,7 @@
    "region": "r",
    "mode": "Remote, UK",
    "tier": "apply",
-   "fit": 7,
+   "fit": 4.5,
    "posted": "2026-10-25",
    "exp": "No year count. Commercial, numbers first.",
    "lang": "English",
@@ -116,17 +274,44 @@
    "why": "Owns affiliate, referral and influencer programmes plus paid channels. Overlaps your affiliate and Google and Meta Ads background.",
    "url": "https://himalayas.app/companies/digital-science/jobs/growth-marketing-manager-b2c",
    "source": "Himalayas",
-   "id": "digitalscience"
+   "id": "digitalscience",
+   "rating": {
+    "fit": 4.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.0,
+     "level": 1.0,
+     "place": 1.0,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -0.5
+    },
+    "notes": [
+     "needs existing right to work"
+    ],
+    "have": [],
+    "missing": []
+   },
+   "check": {
+    "tier": "Check first",
+    "good": [
+     "posted in the last two weeks"
+    ],
+    "check": [
+     "text not read"
+    ]
+   },
+   "read": true
   },
   {
    "title": "Account Manager, Affiliate Marketing",
    "company": "Awin",
    "country": "United Kingdom",
    "city": "London or Manchester",
-   "region": "n",
+   "region": "e",
    "mode": "Hybrid or remote",
    "tier": "apply",
-   "fit": 7,
+   "fit": 8.5,
    "posted": "2026-10-06",
    "exp": "1+ year of account management. Junior to your level.",
    "lang": "English",
@@ -136,7 +321,38 @@
    "why": "Affiliate network inside the industry you work in. Lower seniority than your four years, but a safe way into a large affiliate employer.",
    "url": "https://boards.greenhouse.io/awin/jobs/8002452003?gh_jid=8002452003",
    "source": "Awin careers",
-   "id": "awin"
+   "id": "awin",
+   "rating": {
+    "fit": 8.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.5,
+     "level": 2.0,
+     "place": 0.9,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "affiliate",
+     "analytics",
+     "partnerships"
+    ],
+    "missing": [
+     "account management",
+     "awin",
+     "tracking"
+    ]
+   },
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "detailed description"
+    ],
+    "check": []
+   },
+   "read": true
   },
   {
    "title": "Growth Manager",
@@ -145,7 +361,7 @@
    "region": "r",
    "mode": "Remote",
    "tier": "apply",
-   "fit": 7,
+   "fit": 6.0,
    "posted": "2026-10-20",
    "exp": "No year count.",
    "lang": "English",
@@ -154,7 +370,34 @@
    "why": "Remote and open worldwide.",
    "url": "https://weworkremotely.com/remote-jobs/lemon-io-growth-manager",
    "source": "We Work Remotely",
-   "id": "lemon"
+   "id": "lemon",
+   "rating": {
+    "fit": 6.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.0,
+     "level": 1.0,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "content and social",
+     "testing"
+    ],
+    "missing": []
+   },
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks"
+    ],
+    "check": []
+   },
+   "read": true
   },
   {
    "title": "Affiliate Manager",
@@ -163,7 +406,7 @@
    "region": "r",
    "mode": "Remote, travel to events",
    "tier": "apply",
-   "fit": 7,
+   "fit": 7.5,
    "posted": "2026-10-22",
    "exp": "Proven affiliate management, ideally iGaming, fintech, SaaS or B2B telecom. No year count.",
    "lang": "English",
@@ -172,7 +415,32 @@
    "why": "Recruits and manages traffic affiliates on CPA and revenue share terms for a business phone provider. Direct use of your affiliate onboarding experience.",
    "url": "https://himalayas.app/companies/did-global/jobs/affiliate-manager",
    "source": "Himalayas",
-   "id": "didglobal"
+   "id": "didglobal",
+   "rating": {
+    "fit": 7.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.5,
+     "level": 1.0,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [],
+    "missing": []
+   },
+   "check": {
+    "tier": "Check first",
+    "good": [
+     "posted in the last two weeks"
+    ],
+    "check": [
+     "text not read"
+    ]
+   },
+   "read": true
   },
   {
    "title": "Growth Marketing Manager (SaaS, remote, EU)",
@@ -181,7 +449,7 @@
    "region": "r",
    "mode": "Remote, EU",
    "tier": "apply",
-   "fit": 6,
+   "fit": 6.5,
    "posted": "2026-10-06",
    "exp": "Values affiliate network and coupon platform experience. No year count.",
    "lang": "English",
@@ -191,7 +459,30 @@
    "why": "Remote from Zagreb works. B2C growth with affiliate and platform channels, and a clear salary band.",
    "url": "https://himalayas.app/companies/publitas-com/jobs/growth-marketing-manager-saas-remote-eu",
    "source": "Himalayas",
-   "id": "publitas"
+   "id": "publitas",
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.0,
+     "level": 1.0,
+     "place": 2.0,
+     "pay": 1.0,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [],
+    "missing": []
+   },
+   "check": {
+    "tier": "Check first",
+    "good": [],
+    "check": [
+     "text not read"
+    ]
+   },
+   "read": true
   },
   {
    "title": "Growth & Lifecycle Marketing Specialist",
@@ -200,7 +491,7 @@
    "region": "r",
    "mode": "Remote",
    "tier": "apply",
-   "fit": 6,
+   "fit": 6.5,
    "posted": "2026-10-26",
    "closes": "2026-11-25",
    "exp": "Proven retention, lifetime value and revenue growth work. No year count.",
@@ -211,16 +502,42 @@
    "why": "Email and SMS journeys plus Google and Meta ads for clients. Pay is lower, but it is remote and fresh. Needs a free CV Keskus login to apply.",
    "url": "https://www.cvkeskus.ee/growth-lifecycle-marketing-specialist-kodukontori-voimalusega-scandi-commerce-accelerator-europe-sia-1061679",
    "source": "CV Keskus",
-   "id": "scandiweb"
+   "id": "scandiweb",
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.0,
+     "level": 1.0,
+     "place": 2.0,
+     "pay": 0.6,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [],
+    "missing": []
+   },
+   "check": {
+    "tier": "Check first",
+    "good": [
+     "posted in the last two weeks",
+     "has a closing date"
+    ],
+    "check": [
+     "text not read"
+    ]
+   },
+   "read": true
   },
   {
    "title": "Partnerships and Activation Manager",
    "company": "CeramicSpeed",
    "country": "Denmark",
    "city": "Holstebro",
-   "region": "n",
+   "region": "e",
    "tier": "apply",
-   "fit": 6,
+   "fit": 6.0,
    "posted": "2026-09-29",
    "closes": "2026-11-09",
    "exp": "Proven sponsorship, partnerships, sports marketing or business development. Cycling industry knowledge expected.",
@@ -233,17 +550,43 @@
    "source": "CeramicSpeed careers",
    "email": "job-partnerships-manager@ceramicspeed.com",
    "emailNote": "Subject: Partnerships Manager. Say where you saw the job.",
-   "id": "ceramicspeed"
+   "id": "ceramicspeed",
+   "rating": {
+    "fit": 6.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.0,
+     "level": 1.0,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [],
+    "missing": []
+   },
+   "check": {
+    "tier": "Check first",
+    "good": [
+     "has a closing date"
+    ],
+    "check": [
+     "older than three weeks",
+     "text not read"
+    ]
+   },
+   "read": true
   },
   {
    "title": "Growth Marketing Lead (Multi Market)",
    "company": "Benrey",
    "country": "Estonia",
    "city": "Tallinn",
-   "region": "n",
+   "region": "e",
    "mode": "Office, occasional remote",
    "tier": "apply",
-   "fit": 5,
+   "fit": 5.5,
    "posted": "2026-10-06",
    "closes": "2026-11-05",
    "exp": "About 2 years in growth, social or content marketing.",
@@ -254,17 +597,42 @@
    "why": "Growth across video, social, email and partnerships with AI content workflows. Content heavy, so a weaker fit than the affiliate roles. Needs a free CV Keskus login to apply.",
    "url": "https://www.cvkeskus.ee/growth-marketing-lead-multi-market-tallinnas-benrey-ou-1058496",
    "source": "CV Keskus",
-   "id": "benrey"
+   "id": "benrey",
+   "rating": {
+    "fit": 5.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.0,
+     "level": 1.5,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [],
+    "missing": []
+   },
+   "check": {
+    "tier": "Check first",
+    "good": [
+     "has a closing date"
+    ],
+    "check": [
+     "text not read"
+    ]
+   },
+   "read": true
   },
   {
    "title": "Organic Growth Lead",
    "company": "TransferGo",
    "country": "Lithuania",
    "city": "Vilnius",
-   "region": "n",
+   "region": "e",
    "mode": "Hybrid, 2 office days a week",
    "tier": "apply",
-   "fit": 5,
+   "fit": 5.0,
    "posted": "2026-10-01",
    "exp": "Strong SEO and organic growth results, lead level, fintech or marketplace background preferred.",
    "lang": "English",
@@ -274,17 +642,41 @@
    "why": "Good pay and an SEO lead role. Uses your +150% traffic result, but it is a lead position, so treat it as a stretch.",
    "url": "https://job-boards.greenhouse.io/transfergo/jobs/6212845004",
    "source": "TransferGo careers",
-   "id": "transfergo"
+   "id": "transfergo",
+   "rating": {
+    "fit": 5.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.0,
+     "level": 0.5,
+     "place": 0.9,
+     "pay": 1.0,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [],
+    "missing": []
+   },
+   "check": {
+    "tier": "Check first",
+    "good": [],
+    "check": [
+     "older than three weeks",
+     "text not read"
+    ]
+   },
+   "read": true
   },
   {
    "title": "Senior Affiliate Manager",
    "company": "GoWish",
    "country": "Denmark",
    "city": "Copenhagen",
-   "region": "n",
+   "region": "e",
    "mode": "Flexible hybrid",
    "tier": "stretch",
-   "fit": 6,
+   "fit": 6.0,
    "posted": "2026-10-15",
    "exp": "Asks for 5+ years in affiliate, media or adtech. You have 4+.",
    "lang": "English required, Danish not mentioned",
@@ -293,17 +685,42 @@
    "why": "Owns affiliate and brand partnerships in the US and Europe. One year short on the stated experience.",
    "url": "https://www.jobindex.dk/jobannonce/r14052273",
    "source": "Jobindex",
-   "id": "gowish"
+   "id": "gowish",
+   "rating": {
+    "fit": 6.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.5,
+     "level": 0.5,
+     "place": 0.9,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [],
+    "missing": []
+   },
+   "check": {
+    "tier": "Check first",
+    "good": [
+     "posted in the last two weeks"
+    ],
+    "check": [
+     "text not read"
+    ]
+   },
+   "read": true
   },
   {
    "title": "Regional Trade & Partnership Manager, Europe",
    "company": "LEGO",
    "country": "Denmark",
    "city": "Billund",
-   "region": "n",
+   "region": "e",
    "mode": "Hybrid, 3 office days",
    "tier": "stretch",
-   "fit": 6,
+   "fit": 5.5,
    "posted": "2026-10-21",
    "closes": "2026-11-06",
    "exp": "Experience building and managing commercial partnerships or trade accounts. No year count.",
@@ -313,7 +730,33 @@
    "why": "Closes 6 Nov. Only works if you can already work in Denmark.",
    "url": "https://www.lego.com/en-us/careers/job/regional-trade-partnership-manager-europe-69bbf0b99d4d1000ac3cf9fe8f310000",
    "source": "LEGO careers",
-   "id": "lego"
+   "id": "lego",
+   "rating": {
+    "fit": 5.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.0,
+     "level": 1.0,
+     "place": 0.2,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [],
+    "missing": []
+   },
+   "check": {
+    "tier": "Check first",
+    "good": [
+     "posted in the last two weeks",
+     "has a closing date"
+    ],
+    "check": [
+     "text not read"
+    ]
+   },
+   "read": true
   },
   {
    "title": "Partnerships Manager (UK)",
@@ -322,7 +765,7 @@
    "region": "r",
    "mode": "Remote, UK",
    "tier": "stretch",
-   "fit": 5,
+   "fit": 6.0,
    "posted": "2026-10-24",
    "exp": "Listed as asking up to 5+ years. Owns a portfolio of SaaS partners across EMEA.",
    "visa": "Needs UK work rights.",
@@ -330,7 +773,32 @@
    "why": "Stretch on years, and needs UK work rights.",
    "url": "https://himalayas.app/companies/mitto/jobs/partnerships-manager-uk-1112813413",
    "source": "Himalayas",
-   "id": "mitto"
+   "id": "mitto",
+   "rating": {
+    "fit": 6.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.0,
+     "level": 1.0,
+     "place": 1.0,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [],
+    "missing": []
+   },
+   "check": {
+    "tier": "Check first",
+    "good": [
+     "posted in the last two weeks"
+    ],
+    "check": [
+     "text not read"
+    ]
+   },
+   "read": true
   },
   {
    "title": "Partnership Development Manager",
@@ -339,7 +807,7 @@
    "region": "r",
    "mode": "Remote first, UK",
    "tier": "stretch",
-   "fit": 4,
+   "fit": 6.5,
    "posted": "2026-10-25",
    "pay": "GBP 28,000 to 30,000",
    "visa": "Needs UK work rights.",
@@ -347,34 +815,95 @@
    "why": "Partners are training providers, so the sector is far from yours.",
    "url": "https://himalayas.app/companies/1st-for-awarding-ltd/jobs/partnership-development-manager",
    "source": "Himalayas",
-   "id": "firstforawarding"
+   "id": "firstforawarding",
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.0,
+     "level": 1.0,
+     "place": 1.0,
+     "pay": 1.0,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [],
+    "missing": []
+   },
+   "check": {
+    "tier": "Check first",
+    "good": [
+     "posted in the last two weeks"
+    ],
+    "check": [
+     "text not read"
+    ]
+   },
+   "read": true
   },
   {
    "title": "Global Alliances Partner Manager",
    "company": "Adyen",
    "country": "United Kingdom",
    "city": "London",
-   "region": "n",
+   "region": "e",
    "mode": "Office first",
    "tier": "stretch",
-   "fit": 5,
+   "fit": 7.0,
    "posted": "2026-10-05",
    "visa": "Not mentioned",
    "visaState": "unstated",
    "why": "The feed shows no requirements, so open the page first. Adyen does not offer remote only roles.",
    "url": "https://job-boards.greenhouse.io/adyen/jobs/8255687",
    "source": "Adyen careers",
-   "id": "adyen"
+   "id": "adyen",
+   "rating": {
+    "fit": 7.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.0,
+     "level": 1.0,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "b2b",
+     "business development",
+     "crm",
+     "partnerships"
+    ],
+    "missing": [
+     "api",
+     "enterprise",
+     "go-to-market",
+     "gtm"
+    ]
+   },
+   "check": {
+    "tier": "Check first",
+    "good": [
+     "detailed description"
+    ],
+    "check": [
+     "older than three weeks"
+    ]
+   },
+   "read": true
   },
   {
    "title": "Partner Manager (UK market)",
    "company": "Nettbureau",
    "country": "Norway",
    "city": "Oslo",
-   "region": "n",
+   "region": "e",
    "mode": "Hybrid",
    "tier": "stretch",
-   "fit": 4,
+   "fit": 6.0,
    "posted": "2026-10-19",
    "closes": "2026-11-08",
    "lang": "Asks for native or C2 British English. Norwegian not required.",
@@ -383,24 +912,81 @@
    "why": "Mostly outbound B2B sales to UK businesses. Posted date is the last edit date.",
    "url": "https://www.finn.no/job/ad/479100039",
    "source": "FINN",
-   "id": "nettbureau"
+   "id": "nettbureau",
+   "rating": {
+    "fit": 6.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.0,
+     "level": 1.0,
+     "place": 0.9,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [],
+    "missing": []
+   },
+   "check": {
+    "tier": "Check first",
+    "good": [
+     "posted in the last two weeks",
+     "has a closing date"
+    ],
+    "check": [
+     "text not read"
+    ]
+   },
+   "read": true
   },
   {
    "title": "Senior Business Development Consultant & European Events Lead",
    "company": "BTR Personnel (recruiter)",
    "country": "Sweden",
    "city": "Stockholm",
-   "region": "n",
+   "region": "e",
    "mode": "Hybrid",
    "tier": "stretch",
-   "fit": 5,
+   "fit": 6.0,
    "posted": "2026-10-16",
    "visa": "Not mentioned",
    "visaState": "unstated",
    "why": "Events plus editorial plus Nordic sponsors for an unnamed financial media client. Senior, no year count.",
    "url": "https://arbetsformedlingen.se/platsbanken/annonser/31608968",
    "source": "Platsbanken",
-   "id": "btr"
+   "id": "btr",
+   "rating": {
+    "fit": 6.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.5,
+     "level": 0.5,
+     "place": 0.9,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "business development",
+     "partnerships"
+    ],
+    "missing": [
+     "impact",
+     "stakeholder"
+    ]
+   },
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "read": true
   },
   {
    "title": "Airlines Partnership Manager",
@@ -409,13 +995,40 @@
    "region": "r",
    "mode": "Remote or hybrid",
    "tier": "stretch",
-   "fit": 4,
+   "fit": 6.0,
    "posted": "2026-10-23",
    "visa": "Remote role, not applicable",
    "why": "Asks for B2B business development, ideally in aviation. Offered as a service contract or permanent, so ask which.",
    "url": "https://himalayas.app/companies/astonfly/jobs/airlines-partnership-manager",
    "source": "Himalayas",
-   "id": "astonfly"
+   "id": "astonfly",
+   "rating": {
+    "fit": 6.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.0,
+     "level": 1.0,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -1.0
+    },
+    "notes": [
+     "contract rather than employee"
+    ],
+    "have": [],
+    "missing": []
+   },
+   "check": {
+    "tier": "Check first",
+    "good": [
+     "posted in the last two weeks"
+    ],
+    "check": [
+     "text not read"
+    ]
+   },
+   "read": true
   },
   {
    "title": "Model Partnerships, ElevenCreative",
@@ -424,14 +1037,49 @@
    "region": "r",
    "mode": "Remote",
    "tier": "stretch",
-   "fit": 5,
+   "fit": 7.0,
    "posted": "2026-10-26",
    "exp": "Listed as asking up to 5+ years.",
    "visa": "Remote role, not applicable",
    "why": "Stretch on years.",
    "url": "https://jobs.ashbyhq.com/elevenlabs/8e1735ec-c5e2-4292-adbd-764a58e7ce17",
    "source": "ElevenLabs careers",
-   "id": "elevenlabs"
+   "id": "elevenlabs",
+   "rating": {
+    "fit": 7.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.0,
+     "level": 1.0,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "business development",
+     "partnerships",
+     "testing"
+    ],
+    "missing": [
+     "api",
+     "enterprise",
+     "impact",
+     "integration",
+     "stakeholder"
+    ]
+   },
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "read": true
   },
   {
    "title": "Channel Manager, EMEA",
@@ -440,14 +1088,258 @@
    "region": "r",
    "mode": "Remote, Netherlands",
    "tier": "stretch",
-   "fit": 4,
+   "fit": 6.5,
    "posted": "2026-10-06",
    "exp": "Asks for 5 or more years of channel sales in the security partner ecosystem.",
    "visa": "Remote role, not applicable",
    "why": "Security channel sales, a different field from yours.",
    "url": "https://jobs.ashbyhq.com/snyk/c5019c70-8dfd-4852-97b2-295055303e11",
    "source": "Snyk careers",
-   "id": "snyk"
+   "id": "snyk",
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.3,
+     "level": 1.0,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "partnerships"
+    ],
+    "missing": [
+     "go-to-market",
+     "stakeholder"
+    ]
+   },
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "detailed description"
+    ],
+    "check": []
+   },
+   "read": true
+  },
+  {
+   "id": "sumsub",
+   "title": "Partnership Manager, iGaming",
+   "company": "Sumsub",
+   "country": "Remote",
+   "region": "r",
+   "mode": "Remote first, no office days",
+   "tier": "apply",
+   "posted": "2026-10-26",
+   "exp": "3+ years in partnerships, business development or sales in iGaming, B2B SaaS, RegTech or payments.",
+   "lang": "English",
+   "visa": "Remote role, not applicable. Open to candidates in several countries.",
+   "visaState": "na",
+   "pay": "Not stated, varies by country",
+   "why": "Owns the partner lifecycle from outreach to contract and growth. Remote first with no mandatory office days. iGaming is the preferred background, so lead with your affiliate and crypto partner work.",
+   "url": "https://careers.sumsub.com/jobs/8620630-partnership-manager-igaming",
+   "source": "Sumsub careers",
+   "fit": 8.5,
+   "read": true,
+   "rating": {
+    "fit": 8.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.5,
+     "level": 2.0,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "b2b",
+     "business development",
+     "content and social",
+     "crm",
+     "negotiation",
+     "partnerships",
+     "web3"
+    ],
+    "missing": [
+     "account management",
+     "api",
+     "go-to-market",
+     "impact",
+     "integration",
+     "lifecycle",
+     "stakeholder"
+    ]
+   },
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   }
+  },
+  {
+   "id": "feather",
+   "title": "Growth Marketing Manager, Affiliates & Partnerships (maternity cover)",
+   "company": "Feather",
+   "country": "Remote",
+   "region": "r",
+   "mode": "Remote first, office in Berlin",
+   "tier": "apply",
+   "posted": "2026-10-14",
+   "exp": "Experience in business development, affiliate or partnership marketing. Closed deals with affiliate networks and agencies. No year count.",
+   "lang": "English",
+   "visa": "Not mentioned",
+   "visaState": "unstated",
+   "pay": "Not stated",
+   "why": "Runs the affiliate network and partner acquisition across countries, including payouts and negotiation. This is a maternity cover, so ask how long the contract runs.",
+   "url": "https://himalayas.app/companies/feather/jobs/growth-marketing-manager-affiliates-partnerships-maternity-cover-",
+   "source": "Himalayas",
+   "fit": 6.5,
+   "read": true,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.5,
+     "level": 1.0,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -1.0
+    },
+    "notes": [
+     "contract rather than employee"
+    ],
+    "have": [],
+    "missing": []
+   },
+   "check": {
+    "tier": "Check first",
+    "good": [
+     "posted in the last two weeks"
+    ],
+    "check": [
+     "text not read"
+    ]
+   }
+  },
+  {
+   "id": "ixopay",
+   "title": "Partner Business Manager (Europe based)",
+   "company": "IXOPAY",
+   "country": "Remote",
+   "region": "r",
+   "mode": "Flexible remote, Europe",
+   "tier": "apply",
+   "posted": "2026-10-07",
+   "exp": "3+ years in strategic partnerships, channel, alliances or business development in SaaS, fintech or payments.",
+   "lang": "English. Another European language is preferred, not required.",
+   "visa": "Europe based. Check what residence they need.",
+   "visaState": "unstated",
+   "pay": "Not stated, plus incentive pay",
+   "why": "Builds partnerships with European payment and technology partners, from integrations to joint campaigns. Payments is a target sector for you.",
+   "url": "https://himalayas.app/companies/ixopay/jobs/partner-business-manager-europe-based?utm_source=api",
+   "source": "Himalayas",
+   "fit": 7.0,
+   "read": true,
+   "rating": {
+    "fit": 7.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 1.0,
+     "level": 2.0,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "b2b",
+     "business development",
+     "content and social",
+     "crm",
+     "partnerships"
+    ],
+    "missing": [
+     "enterprise",
+     "go-to-market",
+     "integration",
+     "lifecycle",
+     "partnerstack",
+     "stakeholder"
+    ]
+   },
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "detailed description"
+    ],
+    "check": []
+   }
+  },
+  {
+   "id": "hhhub",
+   "title": "Partner Marketing Manager (fintech client)",
+   "company": "HHHUB (recruiter)",
+   "country": "Remote",
+   "region": "r",
+   "mode": "Remote first, EU or UK",
+   "tier": "apply",
+   "posted": "2026-10-27",
+   "exp": "4+ years in partner marketing, ecosystem, business development or partnerships.",
+   "lang": "English",
+   "visa": "Work from anywhere in the EU or UK. Baltic based candidates preferred.",
+   "visaState": "unstated",
+   "pay": "Not stated",
+   "why": "Matches your 4 years. The employer is a payments and card issuing company, hiring through a recruiter. Baltic based candidates are preferred, so say you can work from the EU.",
+   "url": "https://himalayas.app/companies/hhhub-uab/jobs/partner-marketing-manager?utm_source=api",
+   "source": "Himalayas",
+   "fit": 8.0,
+   "read": true,
+   "rating": {
+    "fit": 8.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.0,
+     "level": 2.0,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "b2b",
+     "business development",
+     "content and social",
+     "partnerships",
+     "web3"
+    ],
+    "missing": [
+     "impact",
+     "stakeholder"
+    ]
+   },
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   }
   }
- ]
+ ],
+ "rated": "27 Oct 2026 14:09 UTC"
 }
