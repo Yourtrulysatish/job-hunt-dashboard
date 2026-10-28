@@ -152,7 +152,6 @@
    "check": {
     "tier": "Looks live",
     "good": [
-     "posted in the last two weeks",
      "detailed description"
     ],
     "check": []
@@ -352,11 +351,13 @@
     ]
    },
    "check": {
-    "tier": "Looks live",
+    "tier": "Check first",
     "good": [
      "detailed description"
     ],
-    "check": []
+    "check": [
+     "older than three weeks"
+    ]
    },
    "read": true,
    "below": false
@@ -488,6 +489,7 @@
     "tier": "Check first",
     "good": [],
     "check": [
+     "older than three weeks",
      "text not read"
     ]
    },
@@ -631,6 +633,7 @@
      "has a closing date"
     ],
     "check": [
+     "older than three weeks",
      "text not read"
     ]
    },
@@ -868,7 +871,7 @@
    "region": "e",
    "mode": "Office first",
    "tier": "stretch",
-   "fit": 7.0,
+   "fit": 6.0,
    "posted": "2026-10-05",
    "visa": "Not mentioned",
    "visaState": "unstated",
@@ -877,42 +880,30 @@
    "source": "Adyen careers",
    "id": "adyen",
    "rating": {
-    "fit": 7.0,
+    "fit": 6.0,
     "conf": "Medium",
     "parts": {
      "role": 3.0,
      "level": 1.0,
      "place": 0.8,
      "pay": 0.5,
-     "sector": 1.5,
+     "sector": 0.7,
      "flags": -0.0
     },
     "notes": [],
-    "have": [
-     "analytics",
-     "b2b",
-     "business development",
-     "crm",
-     "partnerships"
-    ],
-    "missing": [
-     "api",
-     "enterprise",
-     "go-to-market",
-     "gtm"
-    ]
+    "have": [],
+    "missing": []
    },
    "check": {
     "tier": "Check first",
-    "good": [
-     "detailed description"
-    ],
+    "good": [],
     "check": [
-     "older than three weeks"
+     "older than three weeks",
+     "text not read"
     ]
    },
    "read": true,
-   "below": false
+   "below": true
   },
   {
    "title": "Partner Manager (UK market)",
@@ -1141,11 +1132,13 @@
     ]
    },
    "check": {
-    "tier": "Looks live",
+    "tier": "Check first",
     "good": [
      "detailed description"
     ],
-    "check": []
+    "check": [
+     "older than three weeks"
+    ]
    },
    "read": true,
    "below": false
@@ -1343,13 +1336,13 @@
    "why": "Matches your 4 years. The employer is a payments and card issuing company, hiring through a recruiter. Baltic based candidates are preferred, so say you can work from the EU.",
    "url": "https://himalayas.app/companies/hhhub-uab/jobs/partner-marketing-manager?utm_source=api",
    "source": "Himalayas",
-   "fit": 8.0,
+   "fit": 7.5,
    "read": true,
    "rating": {
-    "fit": 8.0,
+    "fit": 7.5,
     "conf": "Medium",
     "parts": {
-     "role": 2.0,
+     "role": 1.5,
      "level": 2.0,
      "place": 2.0,
      "pay": 0.5,
@@ -1357,26 +1350,17 @@
      "flags": -0.0
     },
     "notes": [],
-    "have": [
-     "analytics",
-     "b2b",
-     "business development",
-     "content and social",
-     "partnerships",
-     "web3"
-    ],
-    "missing": [
-     "impact",
-     "stakeholder"
-    ]
+    "have": [],
+    "missing": []
    },
    "check": {
-    "tier": "Looks live",
+    "tier": "Check first",
     "good": [
-     "posted in the last two weeks",
-     "detailed description"
+     "posted in the last two weeks"
     ],
-    "check": []
+    "check": [
+     "text not read"
+    ]
    },
    "below": false
   },
@@ -1590,5 +1574,5 @@
    "below": true
   }
  ],
- "rated": "27 Oct 2026 14:31 UTC"
+ "rated": "28 Oct 2026 11:39 UTC"
 }

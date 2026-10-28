@@ -1,6 +1,6 @@
 {
- "generated": "27 Oct 2026 14:31 UTC",
- "count": 11,
+ "generated": "28 Oct 2026 11:39 UTC",
+ "count": 14,
  "items": [
   {
    "id": "a53c788719a",
@@ -102,7 +102,7 @@
     ],
     "check": []
    },
-   "new": true,
+   "new": false,
    "why": "Found by the daily scan. Open the posting and read it before applying."
   },
   {
@@ -153,9 +153,214 @@
     ],
     "check": []
    },
+   "new": false,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Remote"
+  },
+  {
+   "id": "aa47b808b57",
+   "title": "Growth Lead - Performance Marketing",
+   "company": "Plasma",
+   "country": "United Kingdom",
+   "region": "e",
+   "tier": "auto",
+   "fit": 6.5,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.5,
+     "level": 0.5,
+     "place": 1.4,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "b2b",
+     "paid media",
+     "testing",
+     "web3"
+    ],
+    "missing": [
+     "attribution",
+     "lifecycle",
+     "retention",
+     "tracking"
+    ]
+   },
+   "posted": "2026-10-28",
+   "firstSeen": "2026-10-28",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/plasma/growth-lead-performance-marketing-london-434832",
+   "source": "arbeitnow",
+   "flags": [
+    "relocation/visa mentioned"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Hybrid or office"
+  },
+  {
+   "id": "a9d117efab7",
+   "title": "B2B Sponsorship Sales Executive",
+   "company": "Pmmalliance",
+   "country": "United Kingdom",
+   "region": "r",
+   "tier": "auto",
+   "fit": 6.5,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.3,
+     "level": 1.0,
+     "place": 1.0,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "b2b",
+     "business development",
+     "content and social",
+     "negotiation"
+    ],
+    "missing": [
+     "commission",
+     "lead generation"
+    ]
+   },
+   "posted": "2026-10-27",
+   "firstSeen": "2026-10-28",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/pmmalliance/remote-b2b-sponsorship-sales-executive-242742",
+   "source": "arbeitnow",
+   "flags": [],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
    "new": true,
    "why": "Found by the daily scan. Open the posting and read it before applying.",
    "mode": "Remote"
+  },
+  {
+   "id": "af6f5171cb4",
+   "title": "Growth Lead, Marketplace",
+   "company": "circle",
+   "country": "Remote",
+   "region": "r",
+   "tier": "auto",
+   "fit": 6.5,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.0,
+     "level": 0.5,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "b2b",
+     "paid media",
+     "partnerships",
+     "seo",
+     "testing"
+    ],
+    "missing": [
+     "impact",
+     "lifecycle",
+     "retention"
+    ]
+   },
+   "posted": "2026-10-27",
+   "firstSeen": "2026-10-28",
+   "url": "https://jobs.ashbyhq.com/circle/b65d87cb-70bf-4716-992c-53c3c7540311",
+   "source": "ashby",
+   "flags": [],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Remote"
+  },
+  {
+   "id": "a3358ded8c0",
+   "title": "CRM Manager- Consumer",
+   "company": "sumup",
+   "country": "United Kingdom",
+   "region": "e",
+   "tier": "auto",
+   "fit": 6.5,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 1.8,
+     "level": 2.0,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "b2b",
+     "crm",
+     "testing"
+    ],
+    "missing": [
+     "api",
+     "gtm",
+     "lifecycle",
+     "retention",
+     "sql"
+    ]
+   },
+   "posted": "2026-10-27",
+   "firstSeen": "2026-10-28",
+   "url": "https://sumup.com/careers/positions/8888611002?gh_jid=8888611002",
+   "source": "greenhouse",
+   "flags": [
+    "asks up to 3+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
   },
   {
    "id": "ace52ac8c44",
@@ -256,10 +461,10 @@
    "why": "Found by the daily scan. Open the posting and read it before applying."
   },
   {
-   "id": "a9e84e3bd10",
-   "title": "Business Development Manager",
-   "company": "Carwow",
-   "country": "United Kingdom",
+   "id": "a36da6a2189",
+   "title": "Senior BD & Partnerships Manager (Europe)",
+   "company": "Cointelegraph",
+   "country": "Spain",
    "region": "e",
    "tier": "auto",
    "fit": 6.5,
@@ -267,8 +472,8 @@
     "fit": 6.5,
     "conf": "Medium",
     "parts": {
-     "role": 2.5,
-     "level": 1.0,
+     "role": 3.0,
+     "level": 0.5,
      "place": 0.8,
      "pay": 0.5,
      "sector": 1.5,
@@ -276,21 +481,24 @@
     },
     "notes": [],
     "have": [
-     "analytics",
      "business development",
-     "crm",
-     "negotiation",
-     "partnerships"
+     "content and social",
+     "partnerships",
+     "web3"
     ],
     "missing": [
-     "account management"
+     "api",
+     "impact",
+     "stakeholder"
     ]
    },
-   "posted": "2026-10-26",
+   "posted": "2026-10-25",
    "firstSeen": "2026-10-27",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/carwow/business-development-manager-greater-manchester-79338",
-   "source": "arbeitnow",
-   "flags": [],
+   "url": "https://himalayas.app/companies/cointelegraph/jobs/senior-bd-partnerships-manager-europe?utm_source=api",
+   "source": "himalayas",
+   "flags": [
+    "asks up to 5+ years"
+   ],
    "check": {
     "tier": "Looks live",
     "good": [
@@ -299,7 +507,7 @@
     ],
     "check": []
    },
-   "new": true,
+   "new": false,
    "why": "Found by the daily scan. Open the posting and read it before applying."
   },
   {
@@ -352,7 +560,7 @@
     ],
     "check": []
    },
-   "new": true,
+   "new": false,
    "why": "Found by the daily scan. Open the posting and read it before applying."
   },
   {
@@ -402,7 +610,7 @@
     ],
     "check": []
    },
-   "new": true,
+   "new": false,
    "why": "Found by the daily scan. Open the posting and read it before applying."
   },
   {
@@ -455,7 +663,7 @@
     ],
     "check": []
    },
-   "new": true,
+   "new": false,
    "why": "Found by the daily scan. Open the posting and read it before applying."
   },
   {
@@ -504,61 +712,8 @@
     ],
     "check": []
    },
-   "new": true,
+   "new": false,
    "why": "Found by the daily scan. Open the posting and read it before applying."
-  },
-  {
-   "id": "ace84ef525a",
-   "title": "Growth Marketing Manager (SaaS / Remote / EU)",
-   "company": "Publitas.com",
-   "country": "Remote",
-   "region": "r",
-   "tier": "auto",
-   "fit": 6.5,
-   "rating": {
-    "fit": 6.5,
-    "conf": "Medium",
-    "parts": {
-     "role": 2.5,
-     "level": 1.0,
-     "place": 2.0,
-     "pay": 0.5,
-     "sector": 0.7,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "affiliate",
-     "analytics",
-     "b2b",
-     "content and social",
-     "paid media",
-     "partnerships",
-     "seo",
-     "testing"
-    ],
-    "missing": [
-     "impact",
-     "lifecycle",
-     "retention",
-     "tracking"
-    ]
-   },
-   "posted": "2026-10-06",
-   "firstSeen": "2026-10-27",
-   "url": "https://himalayas.app/companies/publitas-com/jobs/growth-marketing-manager-saas-remote-eu?utm_source=api",
-   "source": "himalayas",
-   "flags": [],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying.",
-   "mode": "Remote"
   }
  ]
 }
