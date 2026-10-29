@@ -1,7 +1,303 @@
 {
- "generated": "28 Oct 2026 11:39 UTC",
- "count": 7,
+ "generated": "29 Oct 2026 11:48 UTC",
+ "count": 20,
  "items": [
+  {
+   "id": "a10450082fb",
+   "title": "Partnerships Manager",
+   "company": "Spocket",
+   "country": "Remote",
+   "region": "r",
+   "tier": "auto",
+   "fit": 8.5,
+   "rating": {
+    "fit": 8.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.5,
+     "level": 2.0,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "affiliate",
+     "analytics",
+     "b2b",
+     "content and social",
+     "negotiation",
+     "partnerships"
+    ],
+    "missing": [
+     "impact"
+    ]
+   },
+   "posted": "2026-10-29",
+   "firstSeen": "2026-10-29",
+   "url": "https://himalayas.app/companies/spocket/jobs/partnerships-manager?utm_source=api",
+   "source": "himalayas",
+   "flags": [
+    "asks up to 4+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Remote"
+  },
+  {
+   "id": "a1568c972b2",
+   "title": "Partnership Manager",
+   "company": "TechBiz Global",
+   "country": "Remote",
+   "region": "r",
+   "tier": "auto",
+   "fit": 8.5,
+   "rating": {
+    "fit": 8.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.5,
+     "level": 1.0,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "b2b",
+     "negotiation",
+     "partnerships",
+     "web3"
+    ],
+    "missing": [
+     "api",
+     "cac",
+     "stakeholder"
+    ]
+   },
+   "posted": "2026-10-29",
+   "firstSeen": "2026-10-29",
+   "url": "https://himalayas.app/companies/techbiz-global/jobs/partnership-manager-187405016?utm_source=api",
+   "source": "himalayas",
+   "flags": [
+    "asks up to 5+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Remote"
+  },
+  {
+   "id": "af61733c0ad",
+   "title": "Affiliate Manager",
+   "company": "Ludicrum",
+   "country": "Croatia",
+   "region": "e",
+   "tier": "auto",
+   "fit": 8.5,
+   "rating": {
+    "fit": 8.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.5,
+     "level": 1.0,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "affiliate",
+     "analytics",
+     "negotiation",
+     "partnerships",
+     "seo"
+    ],
+    "missing": [
+     "impact",
+     "tracking"
+    ]
+   },
+   "posted": "2026-10-21",
+   "firstSeen": "2026-10-29",
+   "url": "https://himalayas.app/companies/ludicrum/jobs/affiliate-manager?utm_source=api",
+   "source": "himalayas",
+   "flags": [],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
+  },
+  {
+   "id": "a13e2a88feb",
+   "title": "Affiliate Manager - Casino & Sports",
+   "company": "CoinPoker",
+   "country": "Remote",
+   "region": "r",
+   "tier": "auto",
+   "fit": 8.5,
+   "rating": {
+    "fit": 8.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.5,
+     "level": 1.0,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "affiliate",
+     "analytics",
+     "content and social",
+     "negotiation",
+     "partnerships",
+     "web3"
+    ],
+    "missing": [
+     "api"
+    ]
+   },
+   "posted": "2026-10-15",
+   "firstSeen": "2026-10-29",
+   "url": "https://himalayas.app/companies/coinpoker/jobs/affiliate-manager-casino-sports?utm_source=api",
+   "source": "himalayas",
+   "flags": [],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Remote"
+  },
+  {
+   "id": "a34326c9a62",
+   "title": "Affiliate Manager - Poker",
+   "company": "CoinPoker",
+   "country": "Remote",
+   "region": "r",
+   "tier": "auto",
+   "fit": 8.5,
+   "rating": {
+    "fit": 8.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.5,
+     "level": 1.0,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "affiliate",
+     "content and social",
+     "negotiation",
+     "partnerships",
+     "web3"
+    ],
+    "missing": [
+     "api"
+    ]
+   },
+   "posted": "2026-10-14",
+   "firstSeen": "2026-10-29",
+   "url": "https://himalayas.app/companies/coinpoker/jobs/affiliate-manager-poker?utm_source=api",
+   "source": "himalayas",
+   "flags": [],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Remote"
+  },
+  {
+   "id": "a796bd49cc4",
+   "title": "Data Partnerships Manager",
+   "company": "micro1",
+   "country": "Remote",
+   "region": "r",
+   "tier": "auto",
+   "fit": 8.5,
+   "rating": {
+    "fit": 8.5,
+    "conf": "High",
+    "parts": {
+     "role": 3.0,
+     "level": 2.0,
+     "place": 2.0,
+     "pay": 1.0,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "b2b",
+     "business development",
+     "crm",
+     "negotiation",
+     "partnerships"
+    ],
+    "missing": [
+     "enterprise"
+    ]
+   },
+   "posted": "2026-10-13",
+   "firstSeen": "2026-10-29",
+   "url": "https://himalayas.app/companies/micro1/jobs/data-partnerships-manager?utm_source=api",
+   "source": "himalayas",
+   "flags": [
+    "asks up to 3+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Remote"
+  },
   {
    "id": "a752b5156c8",
    "title": "Strategic Partner Manager Nordics",
@@ -50,6 +346,311 @@
    },
    "new": false,
    "why": "Found by the daily scan. Open the posting and read it before applying."
+  },
+  {
+   "id": "a079e73f8a5",
+   "title": "Business Development Manager",
+   "company": "RGH-Global Limited",
+   "country": "United Kingdom",
+   "region": "e",
+   "tier": "auto",
+   "fit": 8.0,
+   "rating": {
+    "fit": 8.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.0,
+     "level": 2.0,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "affiliate",
+     "analytics",
+     "b2b",
+     "business development",
+     "crm",
+     "negotiation",
+     "paid media"
+    ],
+    "missing": [
+     "commission"
+    ]
+   },
+   "posted": "2026-10-10",
+   "firstSeen": "2026-10-29",
+   "url": "https://himalayas.app/companies/rgh-global-limited/jobs/business-development-manager?utm_source=api",
+   "source": "himalayas",
+   "flags": [
+    "asks up to 2+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
+  },
+  {
+   "id": "a995ed7df33",
+   "title": "Partner Manager - Agency Partnerships",
+   "company": "Tracksuit",
+   "country": "United Kingdom",
+   "region": "e",
+   "tier": "auto",
+   "fit": 7.5,
+   "rating": {
+    "fit": 7.5,
+    "conf": "High",
+    "parts": {
+     "role": 3.0,
+     "level": 2.0,
+     "place": 0.8,
+     "pay": 1.0,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "b2b",
+     "business development",
+     "partnerships"
+    ],
+    "missing": [
+     "commission",
+     "stakeholder",
+     "tracking"
+    ]
+   },
+   "posted": "2026-10-29",
+   "firstSeen": "2026-10-29",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/tracksuit/partner-manager-agency-partnerships-london-211642",
+   "source": "arbeitnow",
+   "flags": [
+    "asks up to 2+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
+  },
+  {
+   "id": "ac9bfc4f76d",
+   "title": "Business Development Manager (Europe, Defense & Government Markets)",
+   "company": "Sky Spy",
+   "country": "Poland",
+   "region": "e",
+   "tier": "auto",
+   "fit": 7.5,
+   "rating": {
+    "fit": 7.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.5,
+     "level": 2.0,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "b2b",
+     "business development",
+     "crm",
+     "negotiation",
+     "partnerships"
+    ],
+    "missing": [
+     "account management",
+     "api",
+     "commission",
+     "integration",
+     "stakeholder"
+    ]
+   },
+   "posted": "2026-10-22",
+   "firstSeen": "2026-10-27",
+   "url": "https://himalayas.app/companies/sky-spy/jobs/business-development-manager-europe-defense-government-markets-9603180421?utm_source=api",
+   "source": "himalayas",
+   "flags": [
+    "asks up to 4+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": false,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
+  },
+  {
+   "id": "abd26de9c7d",
+   "title": "Affiliate Manager",
+   "company": "TAKKT Industrial & Packaging GmbH (Germany)",
+   "country": "United Kingdom",
+   "region": "e",
+   "tier": "auto",
+   "fit": 7.5,
+   "rating": {
+    "fit": 7.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.5,
+     "level": 1.0,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "affiliate",
+     "analytics",
+     "b2b",
+     "content and social",
+     "negotiation",
+     "paid media",
+     "partnerships"
+    ],
+    "missing": [
+     "attribution",
+     "awin",
+     "commission",
+     "impact",
+     "stakeholder",
+     "tracking"
+    ]
+   },
+   "posted": "2026-10-08",
+   "firstSeen": "2026-10-29",
+   "url": "https://himalayas.app/companies/takkt-industrial-packaging-gmbh-germany/jobs/affiliate-manager?utm_source=api",
+   "source": "himalayas",
+   "flags": [],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
+  },
+  {
+   "id": "ac16e68f645",
+   "title": "Strategic Partnerships Manager",
+   "company": "Timeless Medical Systems",
+   "country": "Remote",
+   "region": "r",
+   "tier": "auto",
+   "fit": 7.0,
+   "rating": {
+    "fit": 7.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.0,
+     "level": 1.0,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "b2b",
+     "business development",
+     "negotiation",
+     "partnerships"
+    ],
+    "missing": [
+     "account management",
+     "api",
+     "go-to-market",
+     "gtm",
+     "impact",
+     "stakeholder"
+    ]
+   },
+   "posted": "2026-10-29",
+   "firstSeen": "2026-10-29",
+   "url": "https://himalayas.app/companies/timeless-medical-systems/jobs/strategic-partnerships-manager?utm_source=api",
+   "source": "himalayas",
+   "flags": [
+    "asks up to 5+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Remote"
+  },
+  {
+   "id": "ad5d655695d",
+   "title": "Business Development Executive",
+   "company": "Neudata",
+   "country": "United Kingdom",
+   "region": "e",
+   "tier": "auto",
+   "fit": 7.0,
+   "rating": {
+    "fit": 7.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.5,
+     "level": 1.0,
+     "place": 1.4,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "b2b",
+     "business development"
+    ],
+    "missing": []
+   },
+   "posted": "2026-10-29",
+   "firstSeen": "2026-10-29",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/neudata/business-development-executive-london-260258",
+   "source": "arbeitnow",
+   "flags": [
+    "relocation/visa mentioned"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Hybrid or office"
   },
   {
    "id": "a3f1c01c29a",
@@ -103,57 +704,6 @@
    "why": "Found by the daily scan. Open the posting and read it before applying."
   },
   {
-   "id": "a1124a0ea03",
-   "title": "Product Growth Manager",
-   "company": "Nelly Solutions",
-   "country": "Germany",
-   "region": "e",
-   "tier": "auto",
-   "fit": 7.0,
-   "rating": {
-    "fit": 7.0,
-    "conf": "Medium",
-    "parts": {
-     "role": 2.0,
-     "level": 2.0,
-     "place": 0.9,
-     "pay": 0.5,
-     "sector": 1.5,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "analytics",
-     "b2b",
-     "partnerships",
-     "testing"
-    ],
-    "missing": [
-     "gtm",
-     "impact",
-     "retention"
-    ]
-   },
-   "posted": "2026-10-27",
-   "firstSeen": "2026-10-27",
-   "url": "https://www.arbeitnow.com/jobs/companies/nelly-solutions/product-growth-manager-berlin-126021",
-   "source": "arbeitnow",
-   "flags": [
-    "asks up to 3+ years"
-   ],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying.",
-   "mode": "Hybrid or office"
-  },
-  {
    "id": "afc2bf3aff6",
    "title": "Amazon Brand Growth Manager",
    "company": "ScaleJet",
@@ -188,6 +738,59 @@
    "source": "himalayas",
    "flags": [
     "asks up to 3+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": false,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
+  },
+  {
+   "id": "af7a669a3e9",
+   "title": "ISV Partnerships Manager (Founding Role)",
+   "company": "Replenit",
+   "country": "Poland",
+   "region": "e",
+   "tier": "auto",
+   "fit": 7.0,
+   "rating": {
+    "fit": 7.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.0,
+     "level": 1.0,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "b2b",
+     "business development",
+     "crm",
+     "partnerships",
+     "testing"
+    ],
+    "missing": [
+     "enterprise",
+     "go-to-market",
+     "gtm",
+     "impact",
+     "integration"
+    ]
+   },
+   "posted": "2026-10-25",
+   "firstSeen": "2026-10-27",
+   "url": "https://himalayas.app/companies/replenit/jobs/isv-partnerships-manager-founding-role-3114018180?utm_source=api",
+   "source": "himalayas",
+   "flags": [
+    "asks up to 5+ years"
    ],
    "check": {
     "tier": "Looks live",
@@ -248,10 +851,10 @@
    "why": "Found by the daily scan. Open the posting and read it before applying."
   },
   {
-   "id": "afdd23e424f",
+   "id": "a3ee60b6f19",
    "title": "Business Development Manager",
    "company": "Eightcap",
-   "country": "France",
+   "country": "Italy",
    "region": "e",
    "tier": "auto",
    "fit": 7.0,
@@ -280,7 +883,7 @@
    },
    "posted": "2026-10-24",
    "firstSeen": "2026-10-27",
-   "url": "https://himalayas.app/companies/eightcap/jobs/business-development-manager?utm_source=api",
+   "url": "https://himalayas.app/companies/eightcap/jobs/business-development-manager-390496511?utm_source=api",
    "source": "himalayas",
    "flags": [],
    "check": {
@@ -295,10 +898,10 @@
    "why": "Found by the daily scan. Open the posting and read it before applying."
   },
   {
-   "id": "a8d526d188b",
-   "title": "Partnerships Marketing Manager, EMEA",
-   "company": "adyen",
-   "country": "United Kingdom",
+   "id": "a70a029c51a",
+   "title": "Partnerships, Webinars & Events Manager",
+   "company": "Darkroom",
+   "country": "Spain",
    "region": "e",
    "tier": "auto",
    "fit": 7.0,
@@ -315,21 +918,16 @@
     },
     "notes": [],
     "have": [
-     "analytics",
      "b2b",
+     "content and social",
      "partnerships"
     ],
-    "missing": [
-     "enterprise",
-     "go-to-market",
-     "impact",
-     "stakeholder"
-    ]
+    "missing": []
    },
-   "posted": "2026-10-11",
-   "firstSeen": "2026-10-27",
-   "url": "https://job-boards.greenhouse.io/adyen/jobs/8166549",
-   "source": "greenhouse",
+   "posted": "2026-10-10",
+   "firstSeen": "2026-10-29",
+   "url": "https://himalayas.app/companies/darkroom/jobs/partnerships-webinars-events-manager?utm_source=api",
+   "source": "himalayas",
    "flags": [
     "asks up to 5+ years"
    ],
@@ -340,8 +938,59 @@
     ],
     "check": []
    },
-   "new": false,
+   "new": true,
    "why": "Found by the daily scan. Open the posting and read it before applying."
+  },
+  {
+   "id": "a8eb27d241a",
+   "title": "Partnership Manager",
+   "company": "Trengo",
+   "country": "Netherlands",
+   "region": "e",
+   "tier": "auto",
+   "fit": 7.0,
+   "rating": {
+    "fit": 7.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.0,
+     "level": 2.0,
+     "place": 0.9,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "b2b",
+     "business development",
+     "crm",
+     "negotiation",
+     "partnerships"
+    ],
+    "missing": [
+     "go-to-market",
+     "impact"
+    ]
+   },
+   "posted": "2026-10-08",
+   "firstSeen": "2026-10-29",
+   "url": "https://himalayas.app/companies/trengo/jobs/partnership-manager?utm_source=api",
+   "source": "himalayas",
+   "flags": [
+    "asks up to 2+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Hybrid or office"
   }
  ]
 }

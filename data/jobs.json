@@ -316,7 +316,7 @@
    "region": "e",
    "mode": "Hybrid or remote",
    "tier": "apply",
-   "fit": 8.5,
+   "fit": 6.5,
    "posted": "2026-10-06",
    "exp": "1+ year of account management. Junior to your level.",
    "lang": "English",
@@ -328,35 +328,26 @@
    "source": "Awin careers",
    "id": "awin",
    "rating": {
-    "fit": 8.5,
+    "fit": 6.5,
     "conf": "Medium",
     "parts": {
      "role": 3.5,
-     "level": 2.0,
+     "level": 1.0,
      "place": 0.9,
      "pay": 0.5,
-     "sector": 1.5,
+     "sector": 0.7,
      "flags": -0.0
     },
     "notes": [],
-    "have": [
-     "affiliate",
-     "analytics",
-     "partnerships"
-    ],
-    "missing": [
-     "account management",
-     "awin",
-     "tracking"
-    ]
+    "have": [],
+    "missing": []
    },
    "check": {
     "tier": "Check first",
-    "good": [
-     "detailed description"
-    ],
+    "good": [],
     "check": [
-     "older than three weeks"
+     "older than three weeks",
+     "text not read"
     ]
    },
    "read": true,
@@ -1122,22 +1113,15 @@
      "flags": -0.0
     },
     "notes": [],
-    "have": [
-     "analytics",
-     "partnerships"
-    ],
-    "missing": [
-     "go-to-market",
-     "stakeholder"
-    ]
+    "have": [],
+    "missing": []
    },
    "check": {
     "tier": "Check first",
-    "good": [
-     "detailed description"
-    ],
+    "good": [],
     "check": [
-     "older than three weeks"
+     "older than three weeks",
+     "text not read"
     ]
    },
    "read": true,
@@ -1253,7 +1237,6 @@
    "check": {
     "tier": "Looks live",
     "good": [
-     "posted in the last two weeks",
      "detailed description"
     ],
     "check": []
@@ -1311,11 +1294,13 @@
     ]
    },
    "check": {
-    "tier": "Looks live",
+    "tier": "Check first",
     "good": [
      "detailed description"
     ],
-    "check": []
+    "check": [
+     "older than three weeks"
+    ]
    },
    "below": false
   },
@@ -1336,13 +1321,13 @@
    "why": "Matches your 4 years. The employer is a payments and card issuing company, hiring through a recruiter. Baltic based candidates are preferred, so say you can work from the EU.",
    "url": "https://himalayas.app/companies/hhhub-uab/jobs/partner-marketing-manager?utm_source=api",
    "source": "Himalayas",
-   "fit": 7.5,
+   "fit": 8.0,
    "read": true,
    "rating": {
-    "fit": 7.5,
+    "fit": 8.0,
     "conf": "Medium",
     "parts": {
-     "role": 1.5,
+     "role": 2.0,
      "level": 2.0,
      "place": 2.0,
      "pay": 0.5,
@@ -1350,17 +1335,26 @@
      "flags": -0.0
     },
     "notes": [],
-    "have": [],
-    "missing": []
+    "have": [
+     "analytics",
+     "b2b",
+     "business development",
+     "content and social",
+     "partnerships",
+     "web3"
+    ],
+    "missing": [
+     "impact",
+     "stakeholder"
+    ]
    },
    "check": {
-    "tier": "Check first",
+    "tier": "Looks live",
     "good": [
-     "posted in the last two weeks"
+     "posted in the last two weeks",
+     "detailed description"
     ],
-    "check": [
-     "text not read"
-    ]
+    "check": []
    },
    "below": false
   },
@@ -1574,5 +1568,5 @@
    "below": true
   }
  ],
- "rated": "28 Oct 2026 11:39 UTC"
+ "rated": "29 Oct 2026 11:48 UTC"
 }

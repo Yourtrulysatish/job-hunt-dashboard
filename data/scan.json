@@ -1,11 +1,110 @@
 {
- "generated": "28 Oct 2026 11:39 UTC",
- "count": 14,
+ "generated": "29 Oct 2026 11:48 UTC",
+ "count": 23,
  "items": [
   {
-   "id": "a53c788719a",
-   "title": "Model Partnerships - ElevenCreative",
-   "company": "ElevenLabs",
+   "id": "a18f262cc5d",
+   "title": "Remote General Radiologist - Radiology Alliance",
+   "company": "Radiology Partners",
+   "country": "Sweden",
+   "region": "e",
+   "tier": "auto",
+   "fit": 7.5,
+   "rating": {
+    "fit": 7.5,
+    "conf": "High",
+    "parts": {
+     "role": 3.0,
+     "level": 2.0,
+     "place": 0.8,
+     "pay": 1.0,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "affiliate",
+     "partnerships"
+    ],
+    "missing": [
+     "impact"
+    ]
+   },
+   "posted": "2026-10-28",
+   "firstSeen": "2026-10-29",
+   "url": "https://himalayas.app/companies/radpartners-avature/jobs/remote-general-radiologist-radiology-alliance?utm_source=api",
+   "source": "himalayas",
+   "flags": [
+    "asks up to 2+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
+  },
+  {
+   "id": "af1e1aad25a",
+   "title": "Senior User Acquisition Manager, Meta & Google Ads (US Degree Programs)",
+   "company": "TripleTen",
+   "country": "Remote",
+   "region": "r",
+   "tier": "auto",
+   "fit": 7.0,
+   "rating": {
+    "fit": 7.0,
+    "conf": "High",
+    "parts": {
+     "role": 2.0,
+     "level": 1.5,
+     "place": 2.0,
+     "pay": 1.0,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "content and social",
+     "crm",
+     "paid media",
+     "partnerships",
+     "testing"
+    ],
+    "missing": [
+     "api",
+     "cac",
+     "tracking"
+    ]
+   },
+   "posted": "2026-10-29",
+   "firstSeen": "2026-10-29",
+   "url": "https://himalayas.app/companies/tripleten/jobs/senior-user-acquisition-manager-meta-google-ads-us-degree-programs-1335563117?utm_source=api",
+   "source": "himalayas",
+   "flags": [
+    "asks up to 4+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Remote"
+  },
+  {
+   "id": "a84781d8daf",
+   "title": "Marketing Manager",
+   "company": "Powerful Medical",
    "country": "Remote",
    "region": "r",
    "tier": "auto",
@@ -14,8 +113,60 @@
     "fit": 7.0,
     "conf": "Medium",
     "parts": {
-     "role": 3.0,
+     "role": 2.0,
      "level": 1.0,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "b2b",
+     "content and social",
+     "crm",
+     "seo",
+     "testing"
+    ],
+    "missing": [
+     "api",
+     "cac",
+     "commission",
+     "gtm",
+     "ltv"
+    ]
+   },
+   "posted": "2026-10-29",
+   "firstSeen": "2026-10-29",
+   "url": "https://himalayas.app/companies/powerful-medical/jobs/marketing-manager?utm_source=api",
+   "source": "himalayas",
+   "flags": [],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Remote"
+  },
+  {
+   "id": "a9e9683e0cf",
+   "title": "SEO Specialist with Webflow, SEMrush, and Yext Experience",
+   "company": "Radarhire.com",
+   "country": "Remote",
+   "region": "r",
+   "tier": "auto",
+   "fit": 7.0,
+   "rating": {
+    "fit": 7.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 1.8,
+     "level": 2.0,
      "place": 2.0,
      "pay": 0.5,
      "sector": 0.7,
@@ -24,24 +175,21 @@
     "notes": [],
     "have": [
      "analytics",
-     "business development",
-     "partnerships",
+     "content and social",
+     "seo",
      "testing"
     ],
     "missing": [
-     "api",
-     "enterprise",
      "impact",
-     "integration",
-     "stakeholder"
+     "tracking"
     ]
    },
-   "posted": "2026-10-27",
-   "firstSeen": "2026-10-27",
-   "url": "https://www.arbeitnow.com/jobs/companies/elevenlabs/remote-model-partnerships-elevencreative-312522",
-   "source": "arbeitnow",
+   "posted": "2026-10-29",
+   "firstSeen": "2026-10-29",
+   "url": "https://himalayas.app/companies/radarhire-com/jobs/seo-specialist-with-webflow-semrush-and-yext-experience?utm_source=api",
+   "source": "himalayas",
    "flags": [
-    "asks up to 5+ years"
+    "asks up to 3+ years"
    ],
    "check": {
     "tier": "Looks live",
@@ -156,6 +304,313 @@
    "new": false,
    "why": "Found by the daily scan. Open the posting and read it before applying.",
    "mode": "Remote"
+  },
+  {
+   "id": "a647b1ad385",
+   "title": "Senior Lifecycle Marketing Manager (Europe/Asia)",
+   "company": "Careerxtra",
+   "country": "Remote",
+   "region": "r",
+   "tier": "auto",
+   "fit": 6.5,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.0,
+     "level": 0.5,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "b2b",
+     "content and social",
+     "crm",
+     "testing"
+    ],
+    "missing": [
+     "api",
+     "attribution",
+     "lifecycle",
+     "ltv",
+     "retention",
+     "tracking"
+    ]
+   },
+   "posted": "2026-10-29",
+   "firstSeen": "2026-10-29",
+   "url": "https://himalayas.app/companies/careerxtra/jobs/senior-lifecycle-marketing-manager-europe-asia?utm_source=api",
+   "source": "himalayas",
+   "flags": [],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Remote"
+  },
+  {
+   "id": "ace84ef525a",
+   "title": "Growth Marketing Manager (SaaS / Remote / EU)",
+   "company": "Publitas.com",
+   "country": "Remote",
+   "region": "r",
+   "tier": "auto",
+   "fit": 6.5,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.5,
+     "level": 1.0,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "affiliate",
+     "analytics",
+     "b2b",
+     "content and social",
+     "paid media",
+     "partnerships",
+     "seo",
+     "testing"
+    ],
+    "missing": [
+     "impact",
+     "lifecycle",
+     "retention",
+     "tracking"
+    ]
+   },
+   "posted": "2026-10-29",
+   "firstSeen": "2026-10-27",
+   "url": "https://himalayas.app/companies/publitas-com/jobs/growth-marketing-manager-saas-remote-eu?utm_source=api",
+   "source": "himalayas",
+   "flags": [],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Remote"
+  },
+  {
+   "id": "a4738e84091",
+   "title": "Partnerships Manager",
+   "company": "Bookboost",
+   "country": "Remote",
+   "region": "r",
+   "tier": "auto",
+   "fit": 6.5,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.0,
+     "level": 1.0,
+     "place": 1.0,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.5
+    },
+    "notes": [
+     "needs existing right to work"
+    ],
+    "have": [
+     "b2b",
+     "business development",
+     "content and social",
+     "negotiation",
+     "partnerships"
+    ],
+    "missing": [
+     "api",
+     "go-to-market",
+     "impact",
+     "integration"
+    ]
+   },
+   "posted": "2026-10-29",
+   "firstSeen": "2026-10-29",
+   "url": "https://himalayas.app/companies/bookboost/jobs/partnerships-manager?utm_source=api",
+   "source": "himalayas",
+   "flags": [
+    "asks up to 5+ years",
+    "relocation/visa mentioned",
+    "needs right to work"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Remote"
+  },
+  {
+   "id": "a1bcaea8a4d",
+   "title": "Business Development Manager Metalworking Fluids",
+   "company": "Q8",
+   "country": "Belgium",
+   "region": "e",
+   "tier": "auto",
+   "fit": 6.5,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.5,
+     "level": 1.0,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "business development",
+     "partnerships"
+    ],
+    "missing": [
+     "go-to-market",
+     "impact",
+     "stakeholder"
+    ]
+   },
+   "posted": "2026-10-29",
+   "firstSeen": "2026-10-29",
+   "url": "https://himalayas.app/companies/q8/jobs/business-development-manager-metalworking-fluids?utm_source=api",
+   "source": "himalayas",
+   "flags": [
+    "asks up to 5+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
+  },
+  {
+   "id": "a20ffcdda07",
+   "title": "Business Development Manager (Gaming / iGaming)",
+   "company": "iLogos Game Studios",
+   "country": "Estonia",
+   "region": "e",
+   "tier": "auto",
+   "fit": 6.5,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.5,
+     "level": 2.0,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "business development",
+     "negotiation",
+     "partnerships"
+    ],
+    "missing": [
+     "account management",
+     "api",
+     "commission",
+     "stakeholder"
+    ]
+   },
+   "posted": "2026-10-28",
+   "firstSeen": "2026-10-29",
+   "url": "https://himalayas.app/companies/ilogos-game-studios/jobs/business-development-manager-gaming-igaming?utm_source=api",
+   "source": "himalayas",
+   "flags": [
+    "asks up to 3+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
+  },
+  {
+   "id": "a07b980eb47",
+   "title": "Remote Overnight General Radiologist - Radiology Alliance",
+   "company": "Radiology Partners",
+   "country": "Ireland",
+   "region": "e",
+   "tier": "auto",
+   "fit": 6.5,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.0,
+     "level": 1.0,
+     "place": 0.8,
+     "pay": 1.0,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "affiliate"
+    ],
+    "missing": [
+     "enterprise",
+     "impact"
+    ]
+   },
+   "posted": "2026-10-28",
+   "firstSeen": "2026-10-29",
+   "url": "https://himalayas.app/companies/radpartners-avature/jobs/remote-overnight-general-radiologist-radiology-alliance?utm_source=api",
+   "source": "himalayas",
+   "flags": [],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
   },
   {
    "id": "aa47b808b57",
@@ -363,55 +818,6 @@
    "why": "Found by the daily scan. Open the posting and read it before applying."
   },
   {
-   "id": "ace52ac8c44",
-   "title": "Business Development Manager (Germany)",
-   "company": "Qargo",
-   "country": "Germany",
-   "region": "e",
-   "tier": "auto",
-   "fit": 6.5,
-   "rating": {
-    "fit": 6.5,
-    "conf": "Medium",
-    "parts": {
-     "role": 2.5,
-     "level": 1.0,
-     "place": 0.8,
-     "pay": 0.5,
-     "sector": 1.5,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "analytics",
-     "b2b",
-     "business development",
-     "crm"
-    ],
-    "missing": [
-     "api",
-     "commission",
-     "impact",
-     "stakeholder"
-    ]
-   },
-   "posted": "2026-10-27",
-   "firstSeen": "2026-10-27",
-   "url": "https://himalayas.app/companies/qargo/jobs/business-development-manager-germany?utm_source=api",
-   "source": "himalayas",
-   "flags": [],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying."
-  },
-  {
    "id": "a0aadd24bd9",
    "title": "Business Development Manager (Netherlands)",
    "company": "Qargo",
@@ -457,7 +863,7 @@
     ],
     "check": []
    },
-   "new": true,
+   "new": false,
    "why": "Found by the daily scan. Open the posting and read it before applying."
   },
   {
@@ -564,9 +970,9 @@
    "why": "Found by the daily scan. Open the posting and read it before applying."
   },
   {
-   "id": "a0629b62afe",
-   "title": "CRM Manager - Sportsbook Global Promotions ",
-   "company": "betsson",
+   "id": "a4bfbe65a25",
+   "title": "Business Development Manager (Banking) - Senior",
+   "company": "FinteqHub",
    "country": "Malta",
    "region": "e",
    "tier": "auto",
@@ -575,32 +981,33 @@
     "fit": 6.5,
     "conf": "Medium",
     "parts": {
-     "role": 1.8,
-     "level": 2.0,
+     "role": 3.0,
+     "level": 1.5,
      "place": 0.8,
      "pay": 0.5,
-     "sector": 1.5,
+     "sector": 0.7,
      "flags": -0.0
     },
     "notes": [],
     "have": [
-     "analytics",
-     "crm",
-     "testing"
+     "b2b",
+     "business development",
+     "negotiation",
+     "partnerships",
+     "web3"
     ],
     "missing": [
-     "email marketing",
+     "account management",
      "impact",
-     "retention",
-     "stakeholder"
+     "integration"
     ]
    },
-   "posted": "2026-10-20",
+   "posted": "2026-10-22",
    "firstSeen": "2026-10-27",
-   "url": "https://job-boards.greenhouse.io/betsson/jobs/8273485",
-   "source": "greenhouse",
+   "url": "https://himalayas.app/companies/finteqhub/jobs/business-development-manager-banking-senior?utm_source=api",
+   "source": "himalayas",
    "flags": [
-    "asks up to 4+ years"
+    "asks up to 3+ years"
    ],
    "check": {
     "tier": "Looks live",
@@ -714,6 +1121,57 @@
    },
    "new": false,
    "why": "Found by the daily scan. Open the posting and read it before applying."
+  },
+  {
+   "id": "ae9a58e3216",
+   "title": "Technical Sales Lead, Ecosystems",
+   "company": "OpenZeppelin",
+   "country": "Remote",
+   "region": "r",
+   "tier": "auto",
+   "fit": 6.5,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.3,
+     "level": 0.0,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "business development",
+     "content and social",
+     "negotiation",
+     "partnerships",
+     "web3"
+    ],
+    "missing": [
+     "api",
+     "lifecycle"
+    ]
+   },
+   "posted": "2026-10-12",
+   "firstSeen": "2026-10-29",
+   "url": "https://himalayas.app/companies/openzeppelin/jobs/technical-sales-lead-ecosystems?utm_source=api",
+   "source": "himalayas",
+   "flags": [
+    "asks up to 6+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Remote"
   }
  ]
 }
