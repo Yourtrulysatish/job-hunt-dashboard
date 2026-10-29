@@ -1,6 +1,6 @@
 {
- "generated": "29 Oct 2026 11:48 UTC",
- "count": 23,
+ "generated": "29 Oct 2026 20:16 UTC",
+ "count": 11,
  "items": [
   {
    "id": "a18f262cc5d",
@@ -49,147 +49,39 @@
    "why": "Found by the daily scan. Open the posting and read it before applying."
   },
   {
-   "id": "af1e1aad25a",
-   "title": "Senior User Acquisition Manager, Meta & Google Ads (US Degree Programs)",
-   "company": "TripleTen",
-   "country": "Remote",
-   "region": "r",
-   "tier": "auto",
-   "fit": 7.0,
-   "rating": {
-    "fit": 7.0,
-    "conf": "High",
-    "parts": {
-     "role": 2.0,
-     "level": 1.5,
-     "place": 2.0,
-     "pay": 1.0,
-     "sector": 0.7,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "analytics",
-     "content and social",
-     "crm",
-     "paid media",
-     "partnerships",
-     "testing"
-    ],
-    "missing": [
-     "api",
-     "cac",
-     "tracking"
-    ]
-   },
-   "posted": "2026-10-29",
-   "firstSeen": "2026-10-29",
-   "url": "https://himalayas.app/companies/tripleten/jobs/senior-user-acquisition-manager-meta-google-ads-us-degree-programs-1335563117?utm_source=api",
-   "source": "himalayas",
-   "flags": [
-    "asks up to 4+ years"
-   ],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying.",
-   "mode": "Remote"
-  },
-  {
-   "id": "a84781d8daf",
-   "title": "Marketing Manager",
-   "company": "Powerful Medical",
-   "country": "Remote",
-   "region": "r",
+   "id": "adf8ef11b21",
+   "title": "Manufacturing Innovation Consultant (Scale-ups, Production Partnerships) for NAT",
+   "company": "WLG",
+   "country": "Poland",
+   "region": "e",
    "tier": "auto",
    "fit": 7.0,
    "rating": {
     "fit": 7.0,
     "conf": "Medium",
     "parts": {
-     "role": 2.0,
+     "role": 3.0,
      "level": 1.0,
-     "place": 2.0,
+     "place": 0.8,
      "pay": 0.5,
      "sector": 1.5,
      "flags": -0.0
     },
     "notes": [],
     "have": [
-     "b2b",
-     "content and social",
-     "crm",
-     "seo",
-     "testing"
-    ],
-    "missing": [
-     "api",
-     "cac",
-     "commission",
-     "gtm",
-     "ltv"
-    ]
-   },
-   "posted": "2026-10-29",
-   "firstSeen": "2026-10-29",
-   "url": "https://himalayas.app/companies/powerful-medical/jobs/marketing-manager?utm_source=api",
-   "source": "himalayas",
-   "flags": [],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying.",
-   "mode": "Remote"
-  },
-  {
-   "id": "a9e9683e0cf",
-   "title": "SEO Specialist with Webflow, SEMrush, and Yext Experience",
-   "company": "Radarhire.com",
-   "country": "Remote",
-   "region": "r",
-   "tier": "auto",
-   "fit": 7.0,
-   "rating": {
-    "fit": 7.0,
-    "conf": "Medium",
-    "parts": {
-     "role": 1.8,
-     "level": 2.0,
-     "place": 2.0,
-     "pay": 0.5,
-     "sector": 0.7,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
      "analytics",
-     "content and social",
-     "seo",
-     "testing"
+     "partnerships"
     ],
     "missing": [
-     "impact",
-     "tracking"
+     "stakeholder"
     ]
    },
    "posted": "2026-10-29",
    "firstSeen": "2026-10-29",
-   "url": "https://himalayas.app/companies/radarhire-com/jobs/seo-specialist-with-webflow-semrush-and-yext-experience?utm_source=api",
+   "url": "https://himalayas.app/companies/wlg/jobs/manufacturing-innovation-consultant-scale-ups-production-partnerships-for-nat?utm_source=api",
    "source": "himalayas",
    "flags": [
-    "asks up to 3+ years"
+    "asks up to 5+ years"
    ],
    "check": {
     "tier": "Looks live",
@@ -200,8 +92,7 @@
     "check": []
    },
    "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying.",
-   "mode": "Remote"
+   "why": "Found by the daily scan. Open the posting and read it before applying."
   },
   {
    "id": "a2d8f96a60f",
@@ -306,9 +197,9 @@
    "mode": "Remote"
   },
   {
-   "id": "a647b1ad385",
-   "title": "Senior Lifecycle Marketing Manager (Europe/Asia)",
-   "company": "Careerxtra",
+   "id": "af6f5171cb4",
+   "title": "Growth Lead, Marketplace",
+   "company": "circle",
    "country": "Remote",
    "region": "r",
    "tier": "auto",
@@ -328,23 +219,21 @@
     "have": [
      "analytics",
      "b2b",
-     "content and social",
-     "crm",
+     "paid media",
+     "partnerships",
+     "seo",
      "testing"
     ],
     "missing": [
-     "api",
-     "attribution",
+     "impact",
      "lifecycle",
-     "ltv",
-     "retention",
-     "tracking"
+     "retention"
     ]
    },
    "posted": "2026-10-29",
-   "firstSeen": "2026-10-29",
-   "url": "https://himalayas.app/companies/careerxtra/jobs/senior-lifecycle-marketing-manager-europe-asia?utm_source=api",
-   "source": "himalayas",
+   "firstSeen": "2026-10-28",
+   "url": "https://jobs.ashbyhq.com/circle/b65d87cb-70bf-4716-992c-53c3c7540311",
+   "source": "ashby",
    "flags": [],
    "check": {
     "tier": "Looks live",
@@ -470,54 +359,6 @@
    "mode": "Remote"
   },
   {
-   "id": "a1bcaea8a4d",
-   "title": "Business Development Manager Metalworking Fluids",
-   "company": "Q8",
-   "country": "Belgium",
-   "region": "e",
-   "tier": "auto",
-   "fit": 6.5,
-   "rating": {
-    "fit": 6.5,
-    "conf": "Medium",
-    "parts": {
-     "role": 2.5,
-     "level": 1.0,
-     "place": 0.8,
-     "pay": 0.5,
-     "sector": 1.5,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "business development",
-     "partnerships"
-    ],
-    "missing": [
-     "go-to-market",
-     "impact",
-     "stakeholder"
-    ]
-   },
-   "posted": "2026-10-29",
-   "firstSeen": "2026-10-29",
-   "url": "https://himalayas.app/companies/q8/jobs/business-development-manager-metalworking-fluids?utm_source=api",
-   "source": "himalayas",
-   "flags": [
-    "asks up to 5+ years"
-   ],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying."
-  },
-  {
    "id": "a20ffcdda07",
    "title": "Business Development Manager (Gaming / iGaming)",
    "company": "iLogos Game Studios",
@@ -613,159 +454,6 @@
    "why": "Found by the daily scan. Open the posting and read it before applying."
   },
   {
-   "id": "aa47b808b57",
-   "title": "Growth Lead - Performance Marketing",
-   "company": "Plasma",
-   "country": "United Kingdom",
-   "region": "e",
-   "tier": "auto",
-   "fit": 6.5,
-   "rating": {
-    "fit": 6.5,
-    "conf": "Medium",
-    "parts": {
-     "role": 2.5,
-     "level": 0.5,
-     "place": 1.4,
-     "pay": 0.5,
-     "sector": 1.5,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "analytics",
-     "b2b",
-     "paid media",
-     "testing",
-     "web3"
-    ],
-    "missing": [
-     "attribution",
-     "lifecycle",
-     "retention",
-     "tracking"
-    ]
-   },
-   "posted": "2026-10-28",
-   "firstSeen": "2026-10-28",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/plasma/growth-lead-performance-marketing-london-434832",
-   "source": "arbeitnow",
-   "flags": [
-    "relocation/visa mentioned"
-   ],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying.",
-   "mode": "Hybrid or office"
-  },
-  {
-   "id": "a9d117efab7",
-   "title": "B2B Sponsorship Sales Executive",
-   "company": "Pmmalliance",
-   "country": "United Kingdom",
-   "region": "r",
-   "tier": "auto",
-   "fit": 6.5,
-   "rating": {
-    "fit": 6.5,
-    "conf": "Medium",
-    "parts": {
-     "role": 2.3,
-     "level": 1.0,
-     "place": 1.0,
-     "pay": 0.5,
-     "sector": 1.5,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "analytics",
-     "b2b",
-     "business development",
-     "content and social",
-     "negotiation"
-    ],
-    "missing": [
-     "commission",
-     "lead generation"
-    ]
-   },
-   "posted": "2026-10-27",
-   "firstSeen": "2026-10-28",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/pmmalliance/remote-b2b-sponsorship-sales-executive-242742",
-   "source": "arbeitnow",
-   "flags": [],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying.",
-   "mode": "Remote"
-  },
-  {
-   "id": "af6f5171cb4",
-   "title": "Growth Lead, Marketplace",
-   "company": "circle",
-   "country": "Remote",
-   "region": "r",
-   "tier": "auto",
-   "fit": 6.5,
-   "rating": {
-    "fit": 6.5,
-    "conf": "Medium",
-    "parts": {
-     "role": 2.0,
-     "level": 0.5,
-     "place": 2.0,
-     "pay": 0.5,
-     "sector": 1.5,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "analytics",
-     "b2b",
-     "paid media",
-     "partnerships",
-     "seo",
-     "testing"
-    ],
-    "missing": [
-     "impact",
-     "lifecycle",
-     "retention"
-    ]
-   },
-   "posted": "2026-10-27",
-   "firstSeen": "2026-10-28",
-   "url": "https://jobs.ashbyhq.com/circle/b65d87cb-70bf-4716-992c-53c3c7540311",
-   "source": "ashby",
-   "flags": [],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying.",
-   "mode": "Remote"
-  },
-  {
    "id": "a3358ded8c0",
    "title": "CRM Manager- Consumer",
    "company": "sumup",
@@ -806,311 +494,6 @@
    "flags": [
     "asks up to 3+ years"
    ],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying."
-  },
-  {
-   "id": "a0aadd24bd9",
-   "title": "Business Development Manager (Netherlands)",
-   "company": "Qargo",
-   "country": "Netherlands",
-   "region": "e",
-   "tier": "auto",
-   "fit": 6.5,
-   "rating": {
-    "fit": 6.5,
-    "conf": "Medium",
-    "parts": {
-     "role": 2.5,
-     "level": 1.0,
-     "place": 0.8,
-     "pay": 0.5,
-     "sector": 1.5,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "analytics",
-     "b2b",
-     "business development",
-     "crm"
-    ],
-    "missing": [
-     "api",
-     "commission",
-     "impact",
-     "stakeholder"
-    ]
-   },
-   "posted": "2026-10-26",
-   "firstSeen": "2026-10-27",
-   "url": "https://himalayas.app/companies/qargo/jobs/business-development-manager-netherlands?utm_source=api",
-   "source": "himalayas",
-   "flags": [],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": false,
-   "why": "Found by the daily scan. Open the posting and read it before applying."
-  },
-  {
-   "id": "a36da6a2189",
-   "title": "Senior BD & Partnerships Manager (Europe)",
-   "company": "Cointelegraph",
-   "country": "Spain",
-   "region": "e",
-   "tier": "auto",
-   "fit": 6.5,
-   "rating": {
-    "fit": 6.5,
-    "conf": "Medium",
-    "parts": {
-     "role": 3.0,
-     "level": 0.5,
-     "place": 0.8,
-     "pay": 0.5,
-     "sector": 1.5,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "business development",
-     "content and social",
-     "partnerships",
-     "web3"
-    ],
-    "missing": [
-     "api",
-     "impact",
-     "stakeholder"
-    ]
-   },
-   "posted": "2026-10-25",
-   "firstSeen": "2026-10-27",
-   "url": "https://himalayas.app/companies/cointelegraph/jobs/senior-bd-partnerships-manager-europe?utm_source=api",
-   "source": "himalayas",
-   "flags": [
-    "asks up to 5+ years"
-   ],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": false,
-   "why": "Found by the daily scan. Open the posting and read it before applying."
-  },
-  {
-   "id": "a18474aec9e",
-   "title": "Business Development Manager (m/f/d) - Mobility Solutions",
-   "company": "Enghouse Systems",
-   "country": "Germany",
-   "region": "e",
-   "tier": "auto",
-   "fit": 6.5,
-   "rating": {
-    "fit": 6.5,
-    "conf": "Medium",
-    "parts": {
-     "role": 2.5,
-     "level": 2.0,
-     "place": 0.8,
-     "pay": 0.5,
-     "sector": 0.7,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "analytics",
-     "b2b",
-     "business development",
-     "negotiation",
-     "partnerships"
-    ],
-    "missing": [
-     "account management",
-     "api",
-     "enterprise",
-     "impact",
-     "stakeholder"
-    ]
-   },
-   "posted": "2026-10-24",
-   "firstSeen": "2026-10-27",
-   "url": "https://himalayas.app/companies/enghouse-systems/jobs/business-development-manager-m-f-d-mobility-solutions?utm_source=api",
-   "source": "himalayas",
-   "flags": [
-    "asks up to 3+ years"
-   ],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": false,
-   "why": "Found by the daily scan. Open the posting and read it before applying."
-  },
-  {
-   "id": "a4bfbe65a25",
-   "title": "Business Development Manager (Banking) - Senior",
-   "company": "FinteqHub",
-   "country": "Malta",
-   "region": "e",
-   "tier": "auto",
-   "fit": 6.5,
-   "rating": {
-    "fit": 6.5,
-    "conf": "Medium",
-    "parts": {
-     "role": 3.0,
-     "level": 1.5,
-     "place": 0.8,
-     "pay": 0.5,
-     "sector": 0.7,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "b2b",
-     "business development",
-     "negotiation",
-     "partnerships",
-     "web3"
-    ],
-    "missing": [
-     "account management",
-     "impact",
-     "integration"
-    ]
-   },
-   "posted": "2026-10-22",
-   "firstSeen": "2026-10-27",
-   "url": "https://himalayas.app/companies/finteqhub/jobs/business-development-manager-banking-senior?utm_source=api",
-   "source": "himalayas",
-   "flags": [
-    "asks up to 3+ years"
-   ],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": false,
-   "why": "Found by the daily scan. Open the posting and read it before applying."
-  },
-  {
-   "id": "af45080e365",
-   "title": "Product Marketing Manager (AI-Powered Affiliate Platform, iGaming)",
-   "company": "AllCares",
-   "country": "Spain",
-   "region": "e",
-   "tier": "auto",
-   "fit": 6.5,
-   "rating": {
-    "fit": 6.5,
-    "conf": "Medium",
-    "parts": {
-     "role": 3.5,
-     "level": 1.0,
-     "place": 0.8,
-     "pay": 0.5,
-     "sector": 0.7,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "affiliate",
-     "b2b",
-     "content and social",
-     "partnerships"
-    ],
-    "missing": [
-     "account management",
-     "api",
-     "go-to-market",
-     "gtm",
-     "impact",
-     "retention",
-     "stakeholder",
-     "tracking"
-    ]
-   },
-   "posted": "2026-10-18",
-   "firstSeen": "2026-10-27",
-   "url": "https://himalayas.app/companies/allcares/jobs/product-marketing-manager-ai-powered-affiliate-platform-igaming?utm_source=api",
-   "source": "himalayas",
-   "flags": [],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": false,
-   "why": "Found by the daily scan. Open the posting and read it before applying."
-  },
-  {
-   "id": "a5e8f50f68c",
-   "title": "Customer Success Manager (AI-Powered Affiliate Platform, iGaming)",
-   "company": "AllCares",
-   "country": "Spain",
-   "region": "e",
-   "tier": "auto",
-   "fit": 6.5,
-   "rating": {
-    "fit": 6.5,
-    "conf": "Medium",
-    "parts": {
-     "role": 3.5,
-     "level": 1.0,
-     "place": 0.8,
-     "pay": 0.5,
-     "sector": 0.7,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "affiliate",
-     "b2b",
-     "partnerships"
-    ],
-    "missing": [
-     "account management",
-     "integration",
-     "lifecycle",
-     "retention",
-     "tracking"
-    ]
-   },
-   "posted": "2026-10-18",
-   "firstSeen": "2026-10-27",
-   "url": "https://himalayas.app/companies/allcares/jobs/customer-success-manager-ai-powered-affiliate-platform-igaming?utm_source=api",
-   "source": "himalayas",
-   "flags": [],
    "check": {
     "tier": "Looks live",
     "good": [

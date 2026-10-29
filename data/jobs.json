@@ -166,7 +166,7 @@
    "region": "r",
    "mode": "Remote",
    "tier": "apply",
-   "fit": 8.5,
+   "fit": 7.5,
    "posted": "2026-10-26",
    "exp": "4+ years of partnerships, including product, integration or platform partnerships, at a startup or scale up.",
    "lang": "English",
@@ -177,39 +177,28 @@
    "source": "Jobicy, remote EMEA",
    "id": "revenuecat",
    "rating": {
-    "fit": 8.5,
+    "fit": 7.5,
     "conf": "Medium",
     "parts": {
      "role": 3.0,
      "level": 1.5,
      "place": 2.0,
      "pay": 0.5,
-     "sector": 1.5,
+     "sector": 0.7,
      "flags": -0.0
     },
     "notes": [],
-    "have": [
-     "analytics",
-     "b2b",
-     "negotiation",
-     "partnerships",
-     "testing"
-    ],
-    "missing": [
-     "api",
-     "attribution",
-     "gtm",
-     "impact",
-     "integration"
-    ]
+    "have": [],
+    "missing": []
    },
    "check": {
-    "tier": "Looks live",
+    "tier": "Check first",
     "good": [
-     "posted in the last two weeks",
-     "detailed description"
+     "posted in the last two weeks"
     ],
-    "check": []
+    "check": [
+     "text not read"
+    ]
    },
    "read": true,
    "below": false
@@ -1220,26 +1209,15 @@
     "notes": [
      "contract rather than employee"
     ],
-    "have": [
-     "affiliate",
-     "analytics",
-     "b2b",
-     "business development",
-     "crm",
-     "negotiation",
-     "partnerships",
-     "testing"
-    ],
-    "missing": [
-     "stakeholder"
-    ]
+    "have": [],
+    "missing": []
    },
    "check": {
-    "tier": "Looks live",
-    "good": [
-     "detailed description"
-    ],
-    "check": []
+    "tier": "Check first",
+    "good": [],
+    "check": [
+     "text not read"
+    ]
    },
    "fitAdjust": 1.5,
    "adjustWhy": "Runs the affiliate network itself and the posting asks for no year count. The formula marks it down for the fixed term contract.",
@@ -1321,13 +1299,13 @@
    "why": "Matches your 4 years. The employer is a payments and card issuing company, hiring through a recruiter. Baltic based candidates are preferred, so say you can work from the EU.",
    "url": "https://himalayas.app/companies/hhhub-uab/jobs/partner-marketing-manager?utm_source=api",
    "source": "Himalayas",
-   "fit": 8.0,
+   "fit": 7.5,
    "read": true,
    "rating": {
-    "fit": 8.0,
+    "fit": 7.5,
     "conf": "Medium",
     "parts": {
-     "role": 2.0,
+     "role": 1.5,
      "level": 2.0,
      "place": 2.0,
      "pay": 0.5,
@@ -1335,26 +1313,17 @@
      "flags": -0.0
     },
     "notes": [],
-    "have": [
-     "analytics",
-     "b2b",
-     "business development",
-     "content and social",
-     "partnerships",
-     "web3"
-    ],
-    "missing": [
-     "impact",
-     "stakeholder"
-    ]
+    "have": [],
+    "missing": []
    },
    "check": {
-    "tier": "Looks live",
+    "tier": "Check first",
     "good": [
-     "posted in the last two weeks",
-     "detailed description"
+     "posted in the last two weeks"
     ],
-    "check": []
+    "check": [
+     "text not read"
+    ]
    },
    "below": false
   },
@@ -1493,26 +1462,18 @@
     "notes": [
      "needs existing right to work"
     ],
-    "have": [
-     "analytics",
-     "business development",
-     "testing"
-    ],
-    "missing": [
-     "account management",
-     "api",
-     "commission",
-     "impact"
-    ]
+    "have": [],
+    "missing": []
    },
    "fit": 4.0,
    "check": {
-    "tier": "Looks live",
+    "tier": "Check first",
     "good": [
-     "posted in the last two weeks",
-     "detailed description"
+     "posted in the last two weeks"
     ],
-    "check": []
+    "check": [
+     "text not read"
+    ]
    },
    "fitAdjust": -2.0,
    "adjustWhy": "Asks for 5+ years of channel and telecom experience and UK right to work, which the formula cannot see.",
@@ -1568,5 +1529,5 @@
    "below": true
   }
  ],
- "rated": "29 Oct 2026 11:48 UTC"
+ "rated": "29 Oct 2026 20:16 UTC"
 }
