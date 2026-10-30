@@ -700,9 +700,7 @@
    },
    "check": {
     "tier": "Check first",
-    "good": [
-     "posted in the last two weeks"
-    ],
+    "good": [],
     "check": [
      "text not read"
     ]
@@ -1209,15 +1207,26 @@
     "notes": [
      "contract rather than employee"
     ],
-    "have": [],
-    "missing": []
+    "have": [
+     "affiliate",
+     "analytics",
+     "b2b",
+     "business development",
+     "crm",
+     "negotiation",
+     "partnerships",
+     "testing"
+    ],
+    "missing": [
+     "stakeholder"
+    ]
    },
    "check": {
-    "tier": "Check first",
-    "good": [],
-    "check": [
-     "text not read"
-    ]
+    "tier": "Looks live",
+    "good": [
+     "detailed description"
+    ],
+    "check": []
    },
    "fitAdjust": 1.5,
    "adjustWhy": "Runs the affiliate network itself and the posting asks for no year count. The formula marks it down for the fixed term contract.",
@@ -1462,18 +1471,26 @@
     "notes": [
      "needs existing right to work"
     ],
-    "have": [],
-    "missing": []
+    "have": [
+     "analytics",
+     "business development",
+     "testing"
+    ],
+    "missing": [
+     "account management",
+     "api",
+     "commission",
+     "impact"
+    ]
    },
    "fit": 4.0,
    "check": {
-    "tier": "Check first",
+    "tier": "Looks live",
     "good": [
-     "posted in the last two weeks"
+     "posted in the last two weeks",
+     "detailed description"
     ],
-    "check": [
-     "text not read"
-    ]
+    "check": []
    },
    "fitAdjust": -2.0,
    "adjustWhy": "Asks for 5+ years of channel and telecom experience and UK right to work, which the formula cannot see.",
@@ -1529,5 +1546,5 @@
    "below": true
   }
  ],
- "rated": "29 Oct 2026 20:16 UTC"
+ "rated": "30 Oct 2026 05:04 UTC"
 }

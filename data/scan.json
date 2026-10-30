@@ -1,6 +1,6 @@
 {
- "generated": "29 Oct 2026 20:16 UTC",
- "count": 11,
+ "generated": "30 Oct 2026 05:04 UTC",
+ "count": 12,
  "items": [
   {
    "id": "a18f262cc5d",
@@ -49,39 +49,45 @@
    "why": "Found by the daily scan. Open the posting and read it before applying."
   },
   {
-   "id": "adf8ef11b21",
-   "title": "Manufacturing Innovation Consultant (Scale-ups, Production Partnerships) for NAT",
-   "company": "WLG",
-   "country": "Poland",
+   "id": "ae79733cfac",
+   "title": "Senior User Acquisition Manager, Meta & Google Ads (US Degree Programs)",
+   "company": "TripleTen",
+   "country": "Croatia",
    "region": "e",
    "tier": "auto",
    "fit": 7.0,
    "rating": {
     "fit": 7.0,
-    "conf": "Medium",
+    "conf": "High",
     "parts": {
-     "role": 3.0,
-     "level": 1.0,
-     "place": 0.8,
-     "pay": 0.5,
-     "sector": 1.5,
+     "role": 2.0,
+     "level": 1.5,
+     "place": 2.0,
+     "pay": 1.0,
+     "sector": 0.7,
      "flags": -0.0
     },
     "notes": [],
     "have": [
      "analytics",
-     "partnerships"
+     "content and social",
+     "crm",
+     "paid media",
+     "partnerships",
+     "testing"
     ],
     "missing": [
-     "stakeholder"
+     "api",
+     "cac",
+     "tracking"
     ]
    },
    "posted": "2026-10-29",
-   "firstSeen": "2026-10-29",
-   "url": "https://himalayas.app/companies/wlg/jobs/manufacturing-innovation-consultant-scale-ups-production-partnerships-for-nat?utm_source=api",
+   "firstSeen": "2026-10-30",
+   "url": "https://himalayas.app/companies/tripleten/jobs/senior-user-acquisition-manager-meta-google-ads-us-degree-programs-7070038409?utm_source=api",
    "source": "himalayas",
    "flags": [
-    "asks up to 5+ years"
+    "asks up to 4+ years"
    ],
    "check": {
     "tier": "Looks live",
@@ -506,20 +512,20 @@
    "why": "Found by the daily scan. Open the posting and read it before applying."
   },
   {
-   "id": "ae9a58e3216",
-   "title": "Technical Sales Lead, Ecosystems",
-   "company": "OpenZeppelin",
-   "country": "Remote",
-   "region": "r",
+   "id": "a0aadd24bd9",
+   "title": "Business Development Manager (Netherlands)",
+   "company": "Qargo",
+   "country": "Netherlands",
+   "region": "e",
    "tier": "auto",
    "fit": 6.5,
    "rating": {
     "fit": 6.5,
     "conf": "Medium",
     "parts": {
-     "role": 2.3,
-     "level": 0.0,
-     "place": 2.0,
+     "role": 2.5,
+     "level": 1.0,
+     "place": 0.8,
      "pay": 0.5,
      "sector": 1.5,
      "flags": -0.0
@@ -527,34 +533,85 @@
     "notes": [],
     "have": [
      "analytics",
+     "b2b",
      "business development",
-     "content and social",
-     "negotiation",
-     "partnerships",
-     "web3"
+     "crm"
     ],
     "missing": [
      "api",
-     "lifecycle"
+     "commission",
+     "impact",
+     "stakeholder"
     ]
    },
-   "posted": "2026-10-12",
-   "firstSeen": "2026-10-29",
-   "url": "https://himalayas.app/companies/openzeppelin/jobs/technical-sales-lead-ecosystems?utm_source=api",
+   "posted": "2026-10-26",
+   "firstSeen": "2026-10-27",
+   "url": "https://himalayas.app/companies/qargo/jobs/business-development-manager-netherlands?utm_source=api",
    "source": "himalayas",
-   "flags": [
-    "asks up to 6+ years"
-   ],
+   "flags": [],
    "check": {
     "tier": "Looks live",
     "good": [
+     "posted in the last two weeks",
      "detailed description"
     ],
     "check": []
    },
-   "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying.",
-   "mode": "Remote"
+   "new": false,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
+  },
+  {
+   "id": "a18474aec9e",
+   "title": "Business Development Manager (m/f/d) - Mobility Solutions",
+   "company": "Enghouse Systems",
+   "country": "Germany",
+   "region": "e",
+   "tier": "auto",
+   "fit": 6.5,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.5,
+     "level": 2.0,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "b2b",
+     "business development",
+     "negotiation",
+     "partnerships"
+    ],
+    "missing": [
+     "account management",
+     "api",
+     "enterprise",
+     "impact",
+     "stakeholder"
+    ]
+   },
+   "posted": "2026-10-24",
+   "firstSeen": "2026-10-27",
+   "url": "https://himalayas.app/companies/enghouse-systems/jobs/business-development-manager-m-f-d-mobility-solutions?utm_source=api",
+   "source": "himalayas",
+   "flags": [
+    "asks up to 3+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": false,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
   }
  ]
 }
