@@ -1,6 +1,6 @@
 {
- "generated": "30 Oct 2026 05:04 UTC",
- "count": 12,
+ "generated": "31 Oct 2026 05:03 UTC",
+ "count": 10,
  "items": [
   {
    "id": "a18f262cc5d",
@@ -45,7 +45,7 @@
     ],
     "check": []
    },
-   "new": true,
+   "new": false,
    "why": "Found by the daily scan. Open the posting and read it before applying."
   },
   {
@@ -101,56 +101,6 @@
    "why": "Found by the daily scan. Open the posting and read it before applying."
   },
   {
-   "id": "a2d8f96a60f",
-   "title": "Business Development & Deal Origination Associate",
-   "company": "Adaptive Teams",
-   "country": "Croatia",
-   "region": "e",
-   "tier": "auto",
-   "fit": 7.0,
-   "rating": {
-    "fit": 7.0,
-    "conf": "Medium",
-    "parts": {
-     "role": 3.0,
-     "level": 1.0,
-     "place": 2.0,
-     "pay": 0.5,
-     "sector": 0.7,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "analytics",
-     "b2b",
-     "business development",
-     "crm"
-    ],
-    "missing": [
-     "api",
-     "enterprise",
-     "impact"
-    ]
-   },
-   "posted": "2026-10-24",
-   "firstSeen": "2026-10-27",
-   "url": "https://himalayas.app/companies/adaptive-teams/jobs/business-development-deal-origination-associate-9570114135?utm_source=api",
-   "source": "himalayas",
-   "flags": [
-    "asks up to 5+ years"
-   ],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": false,
-   "why": "Found by the daily scan. Open the posting and read it before applying."
-  },
-  {
    "id": "acca1b2e1f4",
    "title": "Events Marketing Manager, EMEA",
    "company": "Customer.io",
@@ -193,7 +143,6 @@
    "check": {
     "tier": "Looks live",
     "good": [
-     "posted in the last two weeks",
      "detailed description"
     ],
     "check": []
@@ -201,6 +150,57 @@
    "new": false,
    "why": "Found by the daily scan. Open the posting and read it before applying.",
    "mode": "Remote"
+  },
+  {
+   "id": "adb35f651bb",
+   "title": "Affiliate Manager (iGaming) for TrueGroup",
+   "company": "TalentIn",
+   "country": "Latvia",
+   "region": "e",
+   "tier": "auto",
+   "fit": 6.5,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.5,
+     "level": 1.0,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "affiliate",
+     "analytics",
+     "crm",
+     "negotiation",
+     "partnerships"
+    ],
+    "missing": [
+     "impact",
+     "ltv",
+     "retention"
+    ]
+   },
+   "posted": "2026-10-30",
+   "firstSeen": "2026-10-31",
+   "url": "https://himalayas.app/companies/talentin/jobs/affiliate-manager-igaming-for-truegroup?utm_source=api",
+   "source": "himalayas",
+   "flags": [
+    "asks up to 5+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
   },
   {
    "id": "af6f5171cb4",
@@ -412,7 +412,7 @@
     ],
     "check": []
    },
-   "new": true,
+   "new": false,
    "why": "Found by the daily scan. Open the posting and read it before applying."
   },
   {
@@ -456,7 +456,7 @@
     ],
     "check": []
    },
-   "new": true,
+   "new": false,
    "why": "Found by the daily scan. Open the posting and read it before applying."
   },
   {
@@ -497,108 +497,6 @@
    "firstSeen": "2026-10-28",
    "url": "https://sumup.com/careers/positions/8888611002?gh_jid=8888611002",
    "source": "greenhouse",
-   "flags": [
-    "asks up to 3+ years"
-   ],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": false,
-   "why": "Found by the daily scan. Open the posting and read it before applying."
-  },
-  {
-   "id": "a0aadd24bd9",
-   "title": "Business Development Manager (Netherlands)",
-   "company": "Qargo",
-   "country": "Netherlands",
-   "region": "e",
-   "tier": "auto",
-   "fit": 6.5,
-   "rating": {
-    "fit": 6.5,
-    "conf": "Medium",
-    "parts": {
-     "role": 2.5,
-     "level": 1.0,
-     "place": 0.8,
-     "pay": 0.5,
-     "sector": 1.5,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "analytics",
-     "b2b",
-     "business development",
-     "crm"
-    ],
-    "missing": [
-     "api",
-     "commission",
-     "impact",
-     "stakeholder"
-    ]
-   },
-   "posted": "2026-10-26",
-   "firstSeen": "2026-10-27",
-   "url": "https://himalayas.app/companies/qargo/jobs/business-development-manager-netherlands?utm_source=api",
-   "source": "himalayas",
-   "flags": [],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": false,
-   "why": "Found by the daily scan. Open the posting and read it before applying."
-  },
-  {
-   "id": "a18474aec9e",
-   "title": "Business Development Manager (m/f/d) - Mobility Solutions",
-   "company": "Enghouse Systems",
-   "country": "Germany",
-   "region": "e",
-   "tier": "auto",
-   "fit": 6.5,
-   "rating": {
-    "fit": 6.5,
-    "conf": "Medium",
-    "parts": {
-     "role": 2.5,
-     "level": 2.0,
-     "place": 0.8,
-     "pay": 0.5,
-     "sector": 0.7,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "analytics",
-     "b2b",
-     "business development",
-     "negotiation",
-     "partnerships"
-    ],
-    "missing": [
-     "account management",
-     "api",
-     "enterprise",
-     "impact",
-     "stakeholder"
-    ]
-   },
-   "posted": "2026-10-24",
-   "firstSeen": "2026-10-27",
-   "url": "https://himalayas.app/companies/enghouse-systems/jobs/business-development-manager-m-f-d-mobility-solutions?utm_source=api",
-   "source": "himalayas",
    "flags": [
     "asks up to 3+ years"
    ],

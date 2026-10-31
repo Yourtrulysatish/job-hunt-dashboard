@@ -1,13 +1,13 @@
 {
- "generated": "30 Oct 2026 05:04 UTC",
- "count": 14,
+ "generated": "31 Oct 2026 05:03 UTC",
+ "count": 11,
  "items": [
   {
-   "id": "a0cbd52ba30",
-   "title": "Affiliate manager",
-   "company": "Rainmaker Technology Corporation",
-   "country": "Spain",
-   "region": "e",
+   "id": "a07fadadf1e",
+   "title": "Affiliate Manager | Propr.xyz",
+   "company": "SwissBorg",
+   "country": "Remote",
+   "region": "r",
    "tier": "auto",
    "fit": 8.5,
    "rating": {
@@ -16,7 +16,7 @@
     "parts": {
      "role": 3.5,
      "level": 2.0,
-     "place": 0.8,
+     "place": 2.0,
      "pay": 0.5,
      "sector": 1.5,
      "flags": -0.0
@@ -25,18 +25,27 @@
     "have": [
      "affiliate",
      "analytics",
-     "negotiation"
+     "b2b",
+     "content and social",
+     "negotiation",
+     "paid media",
+     "web3"
     ],
     "missing": [
+     "api",
+     "attribution",
+     "cac",
+     "ltv",
+     "sql",
      "tracking"
     ]
    },
-   "posted": "2026-10-29",
-   "firstSeen": "2026-10-29",
-   "url": "https://himalayas.app/companies/rainmaker-technology-corporation/jobs/affiliate-manager?utm_source=api",
+   "posted": "2026-10-30",
+   "firstSeen": "2026-10-31",
+   "url": "https://himalayas.app/companies/swissborg/jobs/affiliate-manager-propr-xyz?utm_source=api",
    "source": "himalayas",
    "flags": [
-    "asks up to 1+ years"
+    "asks up to 3+ years"
    ],
    "check": {
     "tier": "Looks live",
@@ -47,7 +56,8 @@
     "check": []
    },
    "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying."
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Remote"
   },
   {
    "id": "a1568c972b2",
@@ -188,7 +198,6 @@
    "check": {
     "tier": "Looks live",
     "good": [
-     "posted in the last two weeks",
      "detailed description"
     ],
     "check": []
@@ -344,11 +353,11 @@
    "why": "Found by the daily scan. Open the posting and read it before applying."
   },
   {
-   "id": "a59a268ed76",
-   "title": "Business Development Manager (API)",
-   "company": "CoinMarketCap",
-   "country": "United Kingdom",
-   "region": "e",
+   "id": "a2005871508",
+   "title": "New Business Development Manager Europe - The 10% Club",
+   "company": "Hästens",
+   "country": "Remote",
+   "region": "r",
    "tier": "auto",
    "fit": 7.5,
    "rating": {
@@ -356,8 +365,8 @@
     "conf": "Medium",
     "parts": {
      "role": 2.5,
-     "level": 2.0,
-     "place": 0.8,
+     "level": 1.0,
+     "place": 2.0,
      "pay": 0.5,
      "sector": 1.5,
      "flags": -0.0
@@ -365,123 +374,72 @@
     "notes": [],
     "have": [
      "analytics",
-     "b2b",
      "business development",
      "crm",
-     "web3"
-    ],
-    "missing": [
-     "api",
-     "integration",
-     "tracking"
-    ]
-   },
-   "posted": "2026-10-30",
-   "firstSeen": "2026-10-30",
-   "url": "https://himalayas.app/companies/coinmarketcap/jobs/business-development-manager-api?utm_source=api",
-   "source": "himalayas",
-   "flags": [
-    "asks up to 3+ years"
-   ],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying."
-  },
-  {
-   "id": "ab3aa733c43",
-   "title": "Business Development Manager- 3 months renewable Contractor",
-   "company": "CoinMarketCap",
-   "country": "United Kingdom",
-   "region": "e",
-   "tier": "auto",
-   "fit": 7.5,
-   "rating": {
-    "fit": 7.5,
-    "conf": "Medium",
-    "parts": {
-     "role": 2.5,
-     "level": 2.0,
-     "place": 0.8,
-     "pay": 0.5,
-     "sector": 1.5,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "analytics",
-     "b2b",
-     "business development",
-     "content and social",
      "negotiation",
-     "partnerships",
-     "web3"
-    ],
-    "missing": [
-     "api"
-    ]
-   },
-   "posted": "2026-10-29",
-   "firstSeen": "2026-10-30",
-   "url": "https://himalayas.app/companies/coinmarketcap/jobs/business-development-manager-3-months-renewable-contractor?utm_source=api",
-   "source": "himalayas",
-   "flags": [
-    "asks up to 3+ years"
-   ],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying."
-  },
-  {
-   "id": "a995ed7df33",
-   "title": "Partner Manager - Agency Partnerships",
-   "company": "Tracksuit",
-   "country": "United Kingdom",
-   "region": "e",
-   "tier": "auto",
-   "fit": 7.5,
-   "rating": {
-    "fit": 7.5,
-    "conf": "High",
-    "parts": {
-     "role": 3.0,
-     "level": 2.0,
-     "place": 0.8,
-     "pay": 1.0,
-     "sector": 0.7,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "b2b",
-     "business development",
      "partnerships"
     ],
     "missing": [
-     "commission",
-     "stakeholder",
-     "tracking"
+     "commission"
     ]
    },
-   "posted": "2026-10-29",
-   "firstSeen": "2026-10-29",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/tracksuit/partner-manager-agency-partnerships-london-211642",
+   "posted": "2026-10-30",
+   "firstSeen": "2026-10-31",
+   "url": "https://himalayas.app/companies/hastens/jobs/new-business-development-manager-europe-the-10-club?utm_source=api",
+   "source": "himalayas",
+   "flags": [],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Remote"
+  },
+  {
+   "id": "ae70ee70b98",
+   "title": "Channel Partnerships Manager, DACH",
+   "company": "Airwallex",
+   "country": "Germany",
+   "region": "e",
+   "tier": "auto",
+   "fit": 7.0,
+   "rating": {
+    "fit": 7.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.0,
+     "level": 1.0,
+     "place": 0.9,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "b2b",
+     "business development",
+     "negotiation",
+     "partnerships",
+     "testing"
+    ],
+    "missing": [
+     "gtm",
+     "impact",
+     "looker"
+    ]
+   },
+   "posted": "2026-10-31",
+   "firstSeen": "2026-10-31",
+   "url": "https://www.arbeitnow.com/jobs/companies/airwallex/channel-partnerships-manager-dach-berlin-394035",
    "source": "arbeitnow",
    "flags": [
-    "asks up to 2+ years"
+    "asks up to 5+ years"
    ],
    "check": {
     "tier": "Looks live",
@@ -492,7 +450,66 @@
     "check": []
    },
    "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying."
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Hybrid or office"
+  },
+  {
+   "id": "aa27de39d79",
+   "title": "Growth Partnerships Manager",
+   "company": "Lendable",
+   "country": "United Kingdom",
+   "region": "e",
+   "tier": "auto",
+   "fit": 7.0,
+   "rating": {
+    "fit": 7.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.0,
+     "level": 1.0,
+     "place": 0.9,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "affiliate",
+     "analytics",
+     "b2b",
+     "content and social",
+     "negotiation",
+     "partnerships"
+    ],
+    "missing": [
+     "api",
+     "attribution",
+     "awin",
+     "cac",
+     "commission",
+     "impact",
+     "lifecycle",
+     "ltv"
+    ]
+   },
+   "posted": "2026-10-30",
+   "firstSeen": "2026-10-31",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/growth-partnerships-manager-london-390352",
+   "source": "arbeitnow",
+   "flags": [
+    "asks up to 5+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Hybrid or office"
   },
   {
    "id": "a1e29bd1928",
@@ -544,149 +561,6 @@
     "check": []
    },
    "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying."
-  },
-  {
-   "id": "ad5d655695d",
-   "title": "Business Development Executive",
-   "company": "Neudata",
-   "country": "United Kingdom",
-   "region": "e",
-   "tier": "auto",
-   "fit": 7.0,
-   "rating": {
-    "fit": 7.0,
-    "conf": "Medium",
-    "parts": {
-     "role": 2.5,
-     "level": 1.0,
-     "place": 1.4,
-     "pay": 0.5,
-     "sector": 1.5,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "b2b",
-     "business development"
-    ],
-    "missing": []
-   },
-   "posted": "2026-10-29",
-   "firstSeen": "2026-10-29",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/neudata/business-development-executive-london-260258",
-   "source": "arbeitnow",
-   "flags": [
-    "relocation/visa mentioned"
-   ],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying.",
-   "mode": "Hybrid or office"
-  },
-  {
-   "id": "a3f1c01c29a",
-   "title": "Inside Channel Manager II (WORKS FROM HOME, DE, US)",
-   "company": "CenturyLink",
-   "country": "Germany",
-   "region": "e",
-   "tier": "auto",
-   "fit": 7.0,
-   "rating": {
-    "fit": 7.0,
-    "conf": "High",
-    "parts": {
-     "role": 2.3,
-     "level": 2.0,
-     "place": 0.8,
-     "pay": 1.0,
-     "sector": 0.7,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "analytics",
-     "business development",
-     "content and social",
-     "crm",
-     "negotiation"
-    ],
-    "missing": [
-     "api",
-     "enterprise",
-     "impact"
-    ]
-   },
-   "posted": "2026-10-28",
-   "firstSeen": "2026-10-28",
-   "url": "https://himalayas.app/companies/centurylink/jobs/inside-channel-manager-ii-works-from-home-de-us?utm_source=api",
-   "source": "himalayas",
-   "flags": [
-    "asks up to 2+ years"
-   ],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying."
-  },
-  {
-   "id": "afdd23e424f",
-   "title": "Business Development Manager",
-   "company": "Eightcap",
-   "country": "France",
-   "region": "e",
-   "tier": "auto",
-   "fit": 7.0,
-   "rating": {
-    "fit": 7.0,
-    "conf": "Medium",
-    "parts": {
-     "role": 3.0,
-     "level": 1.0,
-     "place": 0.8,
-     "pay": 0.5,
-     "sector": 1.5,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "affiliate",
-     "analytics",
-     "business development",
-     "content and social",
-     "negotiation",
-     "partnerships",
-     "web3"
-    ],
-    "missing": []
-   },
-   "posted": "2026-10-24",
-   "firstSeen": "2026-10-27",
-   "url": "https://himalayas.app/companies/eightcap/jobs/business-development-manager?utm_source=api",
-   "source": "himalayas",
-   "flags": [],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": false,
    "why": "Found by the daily scan. Open the posting and read it before applying."
   }
  ]
