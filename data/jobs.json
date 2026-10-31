@@ -1,5 +1,5 @@
 {
- "updated": "27 Oct 2026",
+ "updated": "31 Oct 2026",
  "jobs": [
   {
    "title": "Affiliate & Partnerships Manager",
@@ -54,7 +54,7 @@
    "region": "e",
    "mode": "Hybrid",
    "tier": "apply",
-   "fit": 8.5,
+   "fit": 8.0,
    "posted": "2026-10-18",
    "exp": "No year count in the posting.",
    "lang": "English. No local language mentioned.",
@@ -66,10 +66,10 @@
    "source": "Hostinger careers",
    "id": "hostinger",
    "rating": {
-    "fit": 7.0,
+    "fit": 6.5,
     "conf": "Medium",
     "parts": {
-     "role": 3.5,
+     "role": 3.0,
      "level": 1.0,
      "place": 0.9,
      "pay": 1.0,
@@ -77,27 +77,17 @@
      "flags": -0.0
     },
     "notes": [],
-    "have": [
-     "affiliate",
-     "b2b",
-     "content and social",
-     "paid media",
-     "partnerships",
-     "testing"
-    ],
-    "missing": [
-     "impact",
-     "ltv",
-     "stakeholder"
-    ]
+    "have": [],
+    "missing": []
    },
    "check": {
-    "tier": "Looks live",
+    "tier": "Check first",
     "good": [
-     "posted in the last two weeks",
-     "detailed description"
+     "posted in the last two weeks"
     ],
-    "check": []
+    "check": [
+     "text not read"
+    ]
    },
    "read": true,
    "fitAdjust": 1.5,
@@ -112,7 +102,7 @@
    "region": "e",
    "mode": "Hybrid, 3 office days",
    "tier": "apply",
-   "fit": 8.5,
+   "fit": 7.0,
    "posted": "2026-10-13",
    "exp": "2 to 3 years in partnerships and affiliate marketing, including affiliate network work (onboarding, tracking, reporting).",
    "lang": "English",
@@ -124,37 +114,26 @@
    "source": "Farfetch careers",
    "id": "farfetch",
    "rating": {
-    "fit": 8.5,
+    "fit": 7.0,
     "conf": "Medium",
     "parts": {
-     "role": 3.5,
+     "role": 3.0,
      "level": 2.0,
      "place": 0.9,
      "pay": 0.5,
-     "sector": 1.5,
+     "sector": 0.7,
      "flags": -0.0
     },
     "notes": [],
-    "have": [
-     "affiliate",
-     "analytics",
-     "content and social",
-     "negotiation",
-     "paid media",
-     "partnerships"
-    ],
-    "missing": [
-     "looker",
-     "stakeholder",
-     "tracking"
-    ]
+    "have": [],
+    "missing": []
    },
    "check": {
-    "tier": "Looks live",
-    "good": [
-     "detailed description"
-    ],
-    "check": []
+    "tier": "Check first",
+    "good": [],
+    "check": [
+     "text not read"
+    ]
    },
    "read": true,
    "below": false
@@ -1131,46 +1110,31 @@
    "why": "Owns the partner lifecycle from outreach to contract and growth. Remote first with no mandatory office days. iGaming is the preferred background, so lead with your affiliate and crypto partner work.",
    "url": "https://careers.sumsub.com/jobs/8620630-partnership-manager-igaming",
    "source": "Sumsub careers",
-   "fit": 8.5,
+   "fit": 8.0,
    "read": true,
    "rating": {
-    "fit": 8.5,
+    "fit": 8.0,
     "conf": "Medium",
     "parts": {
-     "role": 3.5,
+     "role": 3.0,
      "level": 2.0,
      "place": 2.0,
      "pay": 0.5,
-     "sector": 1.5,
+     "sector": 0.7,
      "flags": -0.0
     },
     "notes": [],
-    "have": [
-     "b2b",
-     "business development",
-     "content and social",
-     "crm",
-     "negotiation",
-     "partnerships",
-     "web3"
-    ],
-    "missing": [
-     "account management",
-     "api",
-     "go-to-market",
-     "impact",
-     "integration",
-     "lifecycle",
-     "stakeholder"
-    ]
+    "have": [],
+    "missing": []
    },
    "check": {
-    "tier": "Looks live",
+    "tier": "Check first",
     "good": [
-     "posted in the last two weeks",
-     "detailed description"
+     "posted in the last two weeks"
     ],
-    "check": []
+    "check": [
+     "text not read"
+    ]
    },
    "below": false
   },
@@ -1207,15 +1171,26 @@
     "notes": [
      "contract rather than employee"
     ],
-    "have": [],
-    "missing": []
+    "have": [
+     "affiliate",
+     "analytics",
+     "b2b",
+     "business development",
+     "crm",
+     "negotiation",
+     "partnerships",
+     "testing"
+    ],
+    "missing": [
+     "stakeholder"
+    ]
    },
    "check": {
-    "tier": "Check first",
-    "good": [],
-    "check": [
-     "text not read"
-    ]
+    "tier": "Looks live",
+    "good": [
+     "detailed description"
+    ],
+    "check": []
    },
    "fitAdjust": 1.5,
    "adjustWhy": "Runs the affiliate network itself and the posting asks for no year count. The formula marks it down for the fixed term contract.",
@@ -1238,47 +1213,32 @@
    "why": "Builds partnerships with European payment and technology partners, from integrations to joint campaigns. Payments is a target sector for you.",
    "url": "https://himalayas.app/companies/ixopay/jobs/partner-business-manager-europe-based?utm_source=api",
    "source": "Himalayas",
-   "fit": 7.0,
+   "fit": 6.0,
    "read": true,
    "rating": {
-    "fit": 7.0,
+    "fit": 6.0,
     "conf": "Medium",
     "parts": {
      "role": 1.0,
      "level": 2.0,
      "place": 2.0,
      "pay": 0.5,
-     "sector": 1.5,
+     "sector": 0.7,
      "flags": -0.0
     },
     "notes": [],
-    "have": [
-     "analytics",
-     "b2b",
-     "business development",
-     "content and social",
-     "crm",
-     "partnerships"
-    ],
-    "missing": [
-     "enterprise",
-     "go-to-market",
-     "integration",
-     "lifecycle",
-     "partnerstack",
-     "stakeholder"
-    ]
+    "have": [],
+    "missing": []
    },
    "check": {
     "tier": "Check first",
-    "good": [
-     "detailed description"
-    ],
+    "good": [],
     "check": [
-     "older than three weeks"
+     "older than three weeks",
+     "text not read"
     ]
    },
-   "below": false
+   "below": true
   },
   {
    "id": "hhhub",
@@ -1345,32 +1305,29 @@
    "url": "https://jobs.ashbyhq.com/surfshark/c00871cb-341d-433f-8bb6-42f9dd9c4431",
    "read": true,
    "rating": {
-    "fit": 6.0,
+    "fit": 5.5,
     "conf": "Medium",
     "parts": {
      "role": 1.8,
      "level": 1.0,
      "place": 0.9,
      "pay": 1.0,
-     "sector": 1.5,
+     "sector": 0.7,
      "flags": -0.0
     },
     "notes": [],
-    "have": [
-     "content and social"
-    ],
-    "missing": [
-     "impact"
-    ]
+    "have": [],
+    "missing": []
    },
-   "fit": 6.0,
+   "fit": 5.5,
    "check": {
-    "tier": "Looks live",
+    "tier": "Check first",
     "good": [
-     "posted in the last two weeks",
-     "detailed description"
+     "posted in the last two weeks"
     ],
-    "check": []
+    "check": [
+     "text not read"
+    ]
    },
    "below": true
   },
@@ -1460,18 +1417,26 @@
     "notes": [
      "needs existing right to work"
     ],
-    "have": [],
-    "missing": []
+    "have": [
+     "analytics",
+     "business development",
+     "testing"
+    ],
+    "missing": [
+     "account management",
+     "api",
+     "commission",
+     "impact"
+    ]
    },
    "fit": 4.0,
    "check": {
-    "tier": "Check first",
+    "tier": "Looks live",
     "good": [
-     "posted in the last two weeks"
+     "posted in the last two weeks",
+     "detailed description"
     ],
-    "check": [
-     "text not read"
-    ]
+    "check": []
    },
    "fitAdjust": -2.0,
    "adjustWhy": "Asks for 5+ years of channel and telecom experience and UK right to work, which the formula cannot see.",
@@ -1525,7 +1490,180 @@
    "fitAdjust": -1.5,
    "adjustWhy": "Wants a record of growing a character first IP, which you may not have.",
    "below": true
+  },
+  {
+   "id": "propr-xyz",
+   "company": "Propr.xyz",
+   "title": "Affiliate Manager",
+   "country": "Remote",
+   "city": "Remote, Europe time zones",
+   "region": "r",
+   "tier": "apply",
+   "mode": "Remote, open across Europe including Croatia",
+   "posted": "2026-10-30",
+   "source": "Himalayas",
+   "exp": "3+ years running an affiliate program as the owner. Track record in fintech, crypto exchanges, betting or brokers is named.",
+   "lang": "English",
+   "pay": "Not stated",
+   "visa": "Remote role, not applicable",
+   "visaState": "unstated",
+   "why": "Crypto prop trading platform (listed under SwissBorg) building its affiliate program with creators, trading content sites and Telegram or Discord operators, which is very close to your CryptoNewsZ work. The catch is they want someone who owned and built a program, and you apply by sending a POST request to their API.",
+   "url": "https://himalayas.app/companies/swissborg/jobs/affiliate-manager-propr-xyz?utm_source=api",
+   "read": true,
+   "rating": {
+    "fit": 8.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.5,
+     "level": 2.0,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "affiliate",
+     "analytics",
+     "b2b",
+     "content and social",
+     "negotiation",
+     "paid media",
+     "web3"
+    ],
+    "missing": [
+     "api",
+     "attribution",
+     "cac",
+     "ltv",
+     "sql",
+     "tracking"
+    ]
+   },
+   "fit": 7.5,
+   "below": false,
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "fitAdjust": -1.0,
+   "adjustWhy": "Wants someone who has owned and built an affiliate program for 3+ years, and you ran affiliate work inside a publisher rather than owning a full program."
+  },
+  {
+   "id": "ludicrum",
+   "company": "Ludicrum",
+   "title": "Affiliate Manager",
+   "country": "Croatia",
+   "city": "Croatia",
+   "region": "e",
+   "tier": "stretch",
+   "mode": "Listed for Croatia, work mode not stated",
+   "posted": "2026-10-21",
+   "source": "Himalayas",
+   "exp": "No year count, but prior experience as an Affiliate Manager in iGaming, with international and unregulated markets, is a must.",
+   "lang": "English. Malay or Chinese is a nice to have.",
+   "pay": "Not stated",
+   "visa": "Not mentioned. Croatia based, which suits you.",
+   "visaState": "unstated",
+   "why": "iGaming operator hiring an affiliate manager in Croatia to recruit and grow partners across markets, so the role and location fit well. The catch is they require past iGaming affiliate experience and tools like MyAffiliates, which you do not have.",
+   "url": "https://himalayas.app/companies/ludicrum/jobs/affiliate-manager?utm_source=api",
+   "read": true,
+   "rating": {
+    "fit": 8.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.5,
+     "level": 1.0,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "affiliate",
+     "analytics",
+     "negotiation",
+     "partnerships",
+     "seo"
+    ],
+    "missing": [
+     "impact",
+     "tracking"
+    ]
+   },
+   "fit": 5.5,
+   "below": true,
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "fitAdjust": -3.0,
+   "adjustWhy": "Prior iGaming affiliate manager experience is a must, plus MyAffiliates and unregulated markets, which you do not have."
+  },
+  {
+   "id": "coinpoker-casino",
+   "company": "CoinPoker",
+   "title": "Affiliate Manager - Casino & Sports",
+   "country": "Remote",
+   "city": "Remote (Croatia among listed countries)",
+   "region": "r",
+   "tier": "stretch",
+   "mode": "Remote, flexible hours",
+   "posted": "2026-10-15",
+   "source": "Himalayas",
+   "exp": "No year count. Wants a record of closing casino or sports betting affiliate deals with FTD and NGR numbers, and regional affiliate contacts.",
+   "lang": "English",
+   "pay": "Salary not stated, performance bonuses",
+   "visa": "Remote role, not applicable",
+   "visaState": "unstated",
+   "why": "Crypto poker and casino brand that wants someone to source and close affiliate deals with review sites, tipsters, streamers and community channels, which overlaps with your crypto affiliate work. The catch is it expects iGaming deal results and an existing betting affiliate network.",
+   "url": "https://himalayas.app/companies/coinpoker/jobs/affiliate-manager-casino-sports?utm_source=api",
+   "read": true,
+   "rating": {
+    "fit": 8.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.5,
+     "level": 1.0,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "affiliate",
+     "analytics",
+     "content and social",
+     "negotiation",
+     "partnerships",
+     "web3"
+    ],
+    "missing": [
+     "api"
+    ]
+   },
+   "fit": 5.5,
+   "below": true,
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "detailed description"
+    ],
+    "check": []
+   },
+   "fitAdjust": -3.0,
+   "adjustWhy": "Expects closed casino or sports betting affiliate deals with FTD and NGR numbers and an existing betting affiliate network."
   }
  ],
- "rated": "31 Oct 2026 05:03 UTC"
+ "rated": "31 Oct 2026 15:05 UTC"
 }
