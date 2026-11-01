@@ -1,12 +1,12 @@
 {
- "generated": "31 Oct 2026 15:05 UTC",
- "count": 11,
+ "generated": "01 Nov 2026 05:03 UTC",
+ "count": 10,
  "items": [
   {
-   "id": "a0cbd52ba30",
-   "title": "Affiliate manager",
-   "company": "Rainmaker Technology Corporation",
-   "country": "Spain",
+   "id": "a2c6acde9be",
+   "title": "Channel Partner Manager, Accounting",
+   "company": "Ramp",
+   "country": "United Kingdom",
    "region": "e",
    "tier": "auto",
    "fit": 8.5,
@@ -16,27 +16,32 @@
     "parts": {
      "role": 3.5,
      "level": 2.0,
-     "place": 0.8,
+     "place": 1.4,
      "pay": 0.5,
      "sector": 1.5,
      "flags": -0.0
     },
     "notes": [],
     "have": [
-     "affiliate",
      "analytics",
-     "negotiation"
+     "b2b",
+     "business development",
+     "crm",
+     "partnerships"
     ],
     "missing": [
+     "go-to-market",
+     "stakeholder",
      "tracking"
     ]
    },
-   "posted": "2026-10-29",
-   "firstSeen": "2026-10-29",
-   "url": "https://himalayas.app/companies/rainmaker-technology-corporation/jobs/affiliate-manager?utm_source=api",
-   "source": "himalayas",
+   "posted": "2026-11-01",
+   "firstSeen": "2026-11-01",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/ramp/channel-partner-manager-accounting-london-418123",
+   "source": "arbeitnow",
    "flags": [
-    "asks up to 1+ years"
+    "asks up to 4+ years",
+    "relocation/visa mentioned"
    ],
    "check": {
     "tier": "Looks live",
@@ -46,8 +51,9 @@
     ],
     "check": []
    },
-   "new": false,
-   "why": "Found by the daily scan. Open the posting and read it before applying."
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Hybrid or office"
   },
   {
    "id": "a1568c972b2",
@@ -148,6 +154,58 @@
    "mode": "Remote"
   },
   {
+   "id": "ac4c364130c",
+   "title": "Channel Partner Manager, Flex",
+   "company": "Ramp",
+   "country": "United Kingdom",
+   "region": "e",
+   "tier": "auto",
+   "fit": 8.0,
+   "rating": {
+    "fit": 8.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.5,
+     "level": 1.0,
+     "place": 1.4,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "b2b",
+     "business development",
+     "partnerships"
+    ],
+    "missing": [
+     "account management",
+     "api",
+     "go-to-market"
+    ]
+   },
+   "posted": "2026-11-01",
+   "firstSeen": "2026-11-01",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/ramp/channel-partner-manager-flex-london-40296",
+   "source": "arbeitnow",
+   "flags": [
+    "asks up to 5+ years",
+    "relocation/visa mentioned"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Hybrid or office"
+  },
+  {
    "id": "a079e73f8a5",
    "title": "Business Development Manager",
    "company": "RGH-Global Limited",
@@ -246,112 +304,10 @@
    "mode": "Remote"
   },
   {
-   "id": "a59a268ed76",
-   "title": "Business Development Manager (API)",
-   "company": "CoinMarketCap",
+   "id": "ab9b2e0a704",
+   "title": "Corporate Partnerships Manager",
+   "company": "Cool Earth",
    "country": "United Kingdom",
-   "region": "e",
-   "tier": "auto",
-   "fit": 7.5,
-   "rating": {
-    "fit": 7.5,
-    "conf": "Medium",
-    "parts": {
-     "role": 2.5,
-     "level": 2.0,
-     "place": 0.8,
-     "pay": 0.5,
-     "sector": 1.5,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "analytics",
-     "b2b",
-     "business development",
-     "crm",
-     "web3"
-    ],
-    "missing": [
-     "api",
-     "integration",
-     "tracking"
-    ]
-   },
-   "posted": "2026-10-30",
-   "firstSeen": "2026-10-30",
-   "url": "https://himalayas.app/companies/coinmarketcap/jobs/business-development-manager-api?utm_source=api",
-   "source": "himalayas",
-   "flags": [
-    "asks up to 3+ years"
-   ],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying."
-  },
-  {
-   "id": "ab3aa733c43",
-   "title": "Business Development Manager- 3 months renewable Contractor",
-   "company": "CoinMarketCap",
-   "country": "United Kingdom",
-   "region": "e",
-   "tier": "auto",
-   "fit": 7.5,
-   "rating": {
-    "fit": 7.5,
-    "conf": "Medium",
-    "parts": {
-     "role": 2.5,
-     "level": 2.0,
-     "place": 0.8,
-     "pay": 0.5,
-     "sector": 1.5,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "analytics",
-     "b2b",
-     "business development",
-     "content and social",
-     "negotiation",
-     "partnerships",
-     "web3"
-    ],
-    "missing": [
-     "api"
-    ]
-   },
-   "posted": "2026-10-29",
-   "firstSeen": "2026-10-30",
-   "url": "https://himalayas.app/companies/coinmarketcap/jobs/business-development-manager-3-months-renewable-contractor?utm_source=api",
-   "source": "himalayas",
-   "flags": [
-    "asks up to 3+ years"
-   ],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying."
-  },
-  {
-   "id": "a1e29bd1928",
-   "title": "Senior Affiliate Manager – Consumer AI",
-   "company": "RMG Talent",
-   "country": "Cyprus",
    "region": "e",
    "tier": "auto",
    "fit": 7.0,
@@ -359,32 +315,87 @@
     "fit": 7.0,
     "conf": "Medium",
     "parts": {
-     "role": 3.5,
-     "level": 0.5,
-     "place": 0.8,
-     "pay": 0.5,
-     "sector": 1.5,
+     "role": 3.0,
+     "level": 1.0,
+     "place": 1.3,
+     "pay": 1.0,
+     "sector": 0.7,
      "flags": -0.0
     },
     "notes": [],
     "have": [
      "affiliate",
      "analytics",
-     "b2b",
+     "business development",
      "content and social",
-     "paid media",
-     "partnerships",
-     "seo"
+     "crm",
+     "negotiation",
+     "partnerships"
     ],
     "missing": [
-     "api",
-     "tracking"
+     "account management",
+     "cac",
+     "impact",
+     "retention",
+     "stakeholder"
     ]
    },
-   "posted": "2026-10-30",
-   "firstSeen": "2026-10-30",
-   "url": "https://himalayas.app/companies/rmg-talent/jobs/senior-affiliate-manager-consumer-ai?utm_source=api",
+   "posted": "2026-10-31",
+   "firstSeen": "2026-11-01",
+   "url": "https://himalayas.app/companies/cool-earth/jobs/corporate-partnerships-manager-6364884889?utm_source=api",
    "source": "himalayas",
+   "flags": [
+    "relocation/visa mentioned"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
+  },
+  {
+   "id": "ae70ee70b98",
+   "title": "Channel Partnerships Manager, DACH",
+   "company": "Airwallex",
+   "country": "Germany",
+   "region": "e",
+   "tier": "auto",
+   "fit": 7.0,
+   "rating": {
+    "fit": 7.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.0,
+     "level": 1.0,
+     "place": 0.9,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "b2b",
+     "business development",
+     "negotiation",
+     "partnerships",
+     "testing"
+    ],
+    "missing": [
+     "gtm",
+     "impact",
+     "looker"
+    ]
+   },
+   "posted": "2026-10-31",
+   "firstSeen": "2026-10-31",
+   "url": "https://www.arbeitnow.com/jobs/companies/airwallex/channel-partnerships-manager-dach-berlin-394035",
+   "source": "arbeitnow",
    "flags": [
     "asks up to 5+ years"
    ],
@@ -397,7 +408,66 @@
     "check": []
    },
    "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying."
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Hybrid or office"
+  },
+  {
+   "id": "aa27de39d79",
+   "title": "Growth Partnerships Manager",
+   "company": "Lendable",
+   "country": "United Kingdom",
+   "region": "e",
+   "tier": "auto",
+   "fit": 7.0,
+   "rating": {
+    "fit": 7.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.0,
+     "level": 1.0,
+     "place": 0.9,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "affiliate",
+     "analytics",
+     "b2b",
+     "content and social",
+     "negotiation",
+     "partnerships"
+    ],
+    "missing": [
+     "api",
+     "attribution",
+     "awin",
+     "cac",
+     "commission",
+     "impact",
+     "lifecycle",
+     "ltv"
+    ]
+   },
+   "posted": "2026-10-30",
+   "firstSeen": "2026-10-31",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/growth-partnerships-manager-london-390352",
+   "source": "arbeitnow",
+   "flags": [
+    "asks up to 5+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Hybrid or office"
   },
   {
    "id": "a3f1c01c29a",
@@ -439,106 +509,6 @@
    "flags": [
     "asks up to 2+ years"
    ],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": false,
-   "why": "Found by the daily scan. Open the posting and read it before applying."
-  },
-  {
-   "id": "af7a669a3e9",
-   "title": "ISV Partnerships Manager (Founding Role)",
-   "company": "Replenit",
-   "country": "Poland",
-   "region": "e",
-   "tier": "auto",
-   "fit": 7.0,
-   "rating": {
-    "fit": 7.0,
-    "conf": "Medium",
-    "parts": {
-     "role": 3.0,
-     "level": 1.0,
-     "place": 0.8,
-     "pay": 0.5,
-     "sector": 1.5,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "b2b",
-     "business development",
-     "crm",
-     "partnerships",
-     "testing"
-    ],
-    "missing": [
-     "enterprise",
-     "go-to-market",
-     "gtm",
-     "impact",
-     "integration"
-    ]
-   },
-   "posted": "2026-10-25",
-   "firstSeen": "2026-10-27",
-   "url": "https://himalayas.app/companies/replenit/jobs/isv-partnerships-manager-founding-role-3114018180?utm_source=api",
-   "source": "himalayas",
-   "flags": [
-    "asks up to 5+ years"
-   ],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": false,
-   "why": "Found by the daily scan. Open the posting and read it before applying."
-  },
-  {
-   "id": "a3ee60b6f19",
-   "title": "Business Development Manager",
-   "company": "Eightcap",
-   "country": "Italy",
-   "region": "e",
-   "tier": "auto",
-   "fit": 7.0,
-   "rating": {
-    "fit": 7.0,
-    "conf": "Medium",
-    "parts": {
-     "role": 3.0,
-     "level": 1.0,
-     "place": 0.8,
-     "pay": 0.5,
-     "sector": 1.5,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "affiliate",
-     "analytics",
-     "business development",
-     "content and social",
-     "negotiation",
-     "partnerships",
-     "web3"
-    ],
-    "missing": []
-   },
-   "posted": "2026-10-24",
-   "firstSeen": "2026-10-27",
-   "url": "https://himalayas.app/companies/eightcap/jobs/business-development-manager-390496511?utm_source=api",
-   "source": "himalayas",
-   "flags": [],
    "check": {
     "tier": "Looks live",
     "good": [

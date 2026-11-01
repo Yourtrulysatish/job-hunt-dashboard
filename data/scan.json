@@ -1,6 +1,6 @@
 {
- "generated": "31 Oct 2026 15:05 UTC",
- "count": 15,
+ "generated": "01 Nov 2026 05:03 UTC",
+ "count": 12,
  "items": [
   {
    "id": "a54d6e57c4c",
@@ -56,57 +56,6 @@
    "mode": "Remote"
   },
   {
-   "id": "adc00e59ad8",
-   "title": "Business Development - Payments",
-   "company": "Alea",
-   "country": "Netherlands",
-   "region": "e",
-   "tier": "auto",
-   "fit": 7.5,
-   "rating": {
-    "fit": 7.5,
-    "conf": "Medium",
-    "parts": {
-     "role": 2.5,
-     "level": 2.0,
-     "place": 0.8,
-     "pay": 0.5,
-     "sector": 1.5,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "analytics",
-     "b2b",
-     "business development",
-     "negotiation"
-    ],
-    "missing": [
-     "account management",
-     "enterprise",
-     "impact",
-     "integration"
-    ]
-   },
-   "posted": "2026-10-30",
-   "firstSeen": "2026-10-31",
-   "url": "https://himalayas.app/companies/alea/jobs/business-development-payments?utm_source=api",
-   "source": "himalayas",
-   "flags": [
-    "asks up to 4+ years"
-   ],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying."
-  },
-  {
    "id": "a18f262cc5d",
    "title": "Remote General Radiologist - Radiology Alliance",
    "company": "Radiology Partners",
@@ -153,39 +102,45 @@
    "why": "Found by the daily scan. Open the posting and read it before applying."
   },
   {
-   "id": "aa9e1c67ed4",
-   "title": "Defence Manufacturing Partnerships Consultant (Workshops, OKRs, Data Analysis) f",
-   "company": "WLG",
-   "country": "Poland",
+   "id": "ae79733cfac",
+   "title": "Senior User Acquisition Manager, Meta & Google Ads (US Degree Programs)",
+   "company": "TripleTen",
+   "country": "Croatia",
    "region": "e",
    "tier": "auto",
    "fit": 7.0,
    "rating": {
     "fit": 7.0,
-    "conf": "Medium",
+    "conf": "High",
     "parts": {
-     "role": 3.0,
-     "level": 1.0,
-     "place": 0.8,
-     "pay": 0.5,
-     "sector": 1.5,
+     "role": 2.0,
+     "level": 1.5,
+     "place": 2.0,
+     "pay": 1.0,
+     "sector": 0.7,
      "flags": -0.0
     },
     "notes": [],
     "have": [
      "analytics",
-     "partnerships"
+     "content and social",
+     "crm",
+     "paid media",
+     "partnerships",
+     "testing"
     ],
     "missing": [
-     "stakeholder"
+     "api",
+     "cac",
+     "tracking"
     ]
    },
    "posted": "2026-10-29",
-   "firstSeen": "2026-10-31",
-   "url": "https://himalayas.app/companies/wlg/jobs/defence-manufacturing-partnerships-consultant-workshops-okrs-data-analysis-f?utm_source=api",
+   "firstSeen": "2026-10-30",
+   "url": "https://himalayas.app/companies/tripleten/jobs/senior-user-acquisition-manager-meta-google-ads-us-degree-programs-7070038409?utm_source=api",
    "source": "himalayas",
    "flags": [
-    "asks up to 5+ years"
+    "asks up to 4+ years"
    ],
    "check": {
     "tier": "Looks live",
@@ -195,53 +150,7 @@
     ],
     "check": []
    },
-   "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying."
-  },
-  {
-   "id": "adf8ef11b21",
-   "title": "Manufacturing Innovation Consultant (Scale-ups, Production Partnerships) for NAT",
-   "company": "WLG",
-   "country": "Poland",
-   "region": "e",
-   "tier": "auto",
-   "fit": 7.0,
-   "rating": {
-    "fit": 7.0,
-    "conf": "Medium",
-    "parts": {
-     "role": 3.0,
-     "level": 1.0,
-     "place": 0.8,
-     "pay": 0.5,
-     "sector": 1.5,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "analytics",
-     "partnerships"
-    ],
-    "missing": [
-     "stakeholder"
-    ]
-   },
-   "posted": "2026-10-29",
-   "firstSeen": "2026-10-29",
-   "url": "https://himalayas.app/companies/wlg/jobs/manufacturing-innovation-consultant-scale-ups-production-partnerships-for-nat?utm_source=api",
-   "source": "himalayas",
-   "flags": [
-    "asks up to 5+ years"
-   ],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": true,
+   "new": false,
    "why": "Found by the daily scan. Open the posting and read it before applying."
   },
   {
@@ -296,6 +205,109 @@
    "mode": "Remote"
   },
   {
+   "id": "a170ab3a610",
+   "title": "Partnerships Lead, Banking & Capital Markets",
+   "company": "Chainlink Labs",
+   "country": "Ireland",
+   "region": "e",
+   "tier": "auto",
+   "fit": 6.5,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.0,
+     "level": 0.5,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "b2b",
+     "business development",
+     "negotiation",
+     "partnerships",
+     "web3"
+    ],
+    "missing": [
+     "api",
+     "enterprise",
+     "go-to-market",
+     "impact",
+     "integration",
+     "stakeholder"
+    ]
+   },
+   "posted": "2026-11-01",
+   "firstSeen": "2026-11-01",
+   "url": "https://himalayas.app/companies/chainlink-labs/jobs/partnerships-lead-banking-capital-markets?utm_source=api",
+   "source": "himalayas",
+   "flags": [
+    "asks up to 5+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
+  },
+  {
+   "id": "a38cd9f4542",
+   "title": "Business Development Manager (Sub-Saharan Africa)",
+   "company": "Ajax Systems",
+   "country": "Remote",
+   "region": "r",
+   "tier": "auto",
+   "fit": 6.5,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.5,
+     "level": 1.0,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "business development",
+     "negotiation"
+    ],
+    "missing": [
+     "impact",
+     "stakeholder"
+    ]
+   },
+   "posted": "2026-10-31",
+   "firstSeen": "2026-11-01",
+   "url": "https://jobicy.com/jobs/158236-business-development-manager-sub-saharan-africa",
+   "source": "jobicy",
+   "flags": [
+    "asks up to 5+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Remote"
+  },
+  {
    "id": "adb35f651bb",
    "title": "Affiliate Manager (iGaming) for TrueGroup",
    "company": "TalentIn",
@@ -345,6 +357,57 @@
    },
    "new": true,
    "why": "Found by the daily scan. Open the posting and read it before applying."
+  },
+  {
+   "id": "af6f5171cb4",
+   "title": "Growth Lead, Marketplace",
+   "company": "circle",
+   "country": "Remote",
+   "region": "r",
+   "tier": "auto",
+   "fit": 6.5,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.0,
+     "level": 0.5,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "b2b",
+     "paid media",
+     "partnerships",
+     "seo",
+     "testing"
+    ],
+    "missing": [
+     "impact",
+     "lifecycle",
+     "retention"
+    ]
+   },
+   "posted": "2026-10-29",
+   "firstSeen": "2026-10-28",
+   "url": "https://jobs.ashbyhq.com/circle/b65d87cb-70bf-4716-992c-53c3c7540311",
+   "source": "ashby",
+   "flags": [],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": false,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Remote"
   },
   {
    "id": "ace84ef525a",
@@ -542,209 +605,6 @@
    "flags": [
     "asks up to 3+ years"
    ],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": false,
-   "why": "Found by the daily scan. Open the posting and read it before applying."
-  },
-  {
-   "id": "a36da6a2189",
-   "title": "Senior BD & Partnerships Manager (Europe)",
-   "company": "Cointelegraph",
-   "country": "Spain",
-   "region": "e",
-   "tier": "auto",
-   "fit": 6.5,
-   "rating": {
-    "fit": 6.5,
-    "conf": "Medium",
-    "parts": {
-     "role": 3.0,
-     "level": 0.5,
-     "place": 0.8,
-     "pay": 0.5,
-     "sector": 1.5,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "business development",
-     "content and social",
-     "partnerships",
-     "web3"
-    ],
-    "missing": [
-     "api",
-     "impact",
-     "stakeholder"
-    ]
-   },
-   "posted": "2026-10-25",
-   "firstSeen": "2026-10-27",
-   "url": "https://himalayas.app/companies/cointelegraph/jobs/senior-bd-partnerships-manager-europe?utm_source=api",
-   "source": "himalayas",
-   "flags": [
-    "asks up to 5+ years"
-   ],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": false,
-   "why": "Found by the daily scan. Open the posting and read it before applying."
-  },
-  {
-   "id": "a4bfbe65a25",
-   "title": "Business Development Manager (Banking) - Senior",
-   "company": "FinteqHub",
-   "country": "Malta",
-   "region": "e",
-   "tier": "auto",
-   "fit": 6.5,
-   "rating": {
-    "fit": 6.5,
-    "conf": "Medium",
-    "parts": {
-     "role": 3.0,
-     "level": 1.5,
-     "place": 0.8,
-     "pay": 0.5,
-     "sector": 0.7,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "b2b",
-     "business development",
-     "negotiation",
-     "partnerships",
-     "web3"
-    ],
-    "missing": [
-     "account management",
-     "impact",
-     "integration"
-    ]
-   },
-   "posted": "2026-10-22",
-   "firstSeen": "2026-10-27",
-   "url": "https://himalayas.app/companies/finteqhub/jobs/business-development-manager-banking-senior?utm_source=api",
-   "source": "himalayas",
-   "flags": [
-    "asks up to 3+ years"
-   ],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": false,
-   "why": "Found by the daily scan. Open the posting and read it before applying."
-  },
-  {
-   "id": "af45080e365",
-   "title": "Product Marketing Manager (AI-Powered Affiliate Platform, iGaming)",
-   "company": "AllCares",
-   "country": "Spain",
-   "region": "e",
-   "tier": "auto",
-   "fit": 6.5,
-   "rating": {
-    "fit": 6.5,
-    "conf": "Medium",
-    "parts": {
-     "role": 3.5,
-     "level": 1.0,
-     "place": 0.8,
-     "pay": 0.5,
-     "sector": 0.7,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "affiliate",
-     "b2b",
-     "content and social",
-     "partnerships"
-    ],
-    "missing": [
-     "account management",
-     "api",
-     "go-to-market",
-     "gtm",
-     "impact",
-     "retention",
-     "stakeholder",
-     "tracking"
-    ]
-   },
-   "posted": "2026-10-18",
-   "firstSeen": "2026-10-27",
-   "url": "https://himalayas.app/companies/allcares/jobs/product-marketing-manager-ai-powered-affiliate-platform-igaming?utm_source=api",
-   "source": "himalayas",
-   "flags": [],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": false,
-   "why": "Found by the daily scan. Open the posting and read it before applying."
-  },
-  {
-   "id": "a5e8f50f68c",
-   "title": "Customer Success Manager (AI-Powered Affiliate Platform, iGaming)",
-   "company": "AllCares",
-   "country": "Spain",
-   "region": "e",
-   "tier": "auto",
-   "fit": 6.5,
-   "rating": {
-    "fit": 6.5,
-    "conf": "Medium",
-    "parts": {
-     "role": 3.5,
-     "level": 1.0,
-     "place": 0.8,
-     "pay": 0.5,
-     "sector": 0.7,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "affiliate",
-     "b2b",
-     "partnerships"
-    ],
-    "missing": [
-     "account management",
-     "integration",
-     "lifecycle",
-     "retention",
-     "tracking"
-    ]
-   },
-   "posted": "2026-10-18",
-   "firstSeen": "2026-10-27",
-   "url": "https://himalayas.app/companies/allcares/jobs/customer-success-manager-ai-powered-affiliate-platform-igaming?utm_source=api",
-   "source": "himalayas",
-   "flags": [],
    "check": {
     "tier": "Looks live",
     "good": [

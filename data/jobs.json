@@ -54,7 +54,7 @@
    "region": "e",
    "mode": "Hybrid",
    "tier": "apply",
-   "fit": 8.0,
+   "fit": 8.5,
    "posted": "2026-10-18",
    "exp": "No year count in the posting.",
    "lang": "English. No local language mentioned.",
@@ -66,10 +66,10 @@
    "source": "Hostinger careers",
    "id": "hostinger",
    "rating": {
-    "fit": 6.5,
+    "fit": 7.0,
     "conf": "Medium",
     "parts": {
-     "role": 3.0,
+     "role": 3.5,
      "level": 1.0,
      "place": 0.9,
      "pay": 1.0,
@@ -77,17 +77,27 @@
      "flags": -0.0
     },
     "notes": [],
-    "have": [],
-    "missing": []
+    "have": [
+     "affiliate",
+     "b2b",
+     "content and social",
+     "paid media",
+     "partnerships",
+     "testing"
+    ],
+    "missing": [
+     "impact",
+     "ltv",
+     "stakeholder"
+    ]
    },
    "check": {
-    "tier": "Check first",
+    "tier": "Looks live",
     "good": [
-     "posted in the last two weeks"
+     "posted in the last two weeks",
+     "detailed description"
     ],
-    "check": [
-     "text not read"
-    ]
+    "check": []
    },
    "read": true,
    "fitAdjust": 1.5,
@@ -102,7 +112,7 @@
    "region": "e",
    "mode": "Hybrid, 3 office days",
    "tier": "apply",
-   "fit": 7.0,
+   "fit": 8.5,
    "posted": "2026-10-13",
    "exp": "2 to 3 years in partnerships and affiliate marketing, including affiliate network work (onboarding, tracking, reporting).",
    "lang": "English",
@@ -114,26 +124,37 @@
    "source": "Farfetch careers",
    "id": "farfetch",
    "rating": {
-    "fit": 7.0,
+    "fit": 8.5,
     "conf": "Medium",
     "parts": {
-     "role": 3.0,
+     "role": 3.5,
      "level": 2.0,
      "place": 0.9,
      "pay": 0.5,
-     "sector": 0.7,
+     "sector": 1.5,
      "flags": -0.0
     },
     "notes": [],
-    "have": [],
-    "missing": []
+    "have": [
+     "affiliate",
+     "analytics",
+     "content and social",
+     "negotiation",
+     "paid media",
+     "partnerships"
+    ],
+    "missing": [
+     "looker",
+     "stakeholder",
+     "tracking"
+    ]
    },
    "check": {
-    "tier": "Check first",
-    "good": [],
-    "check": [
-     "text not read"
-    ]
+    "tier": "Looks live",
+    "good": [
+     "detailed description"
+    ],
+    "check": []
    },
    "read": true,
    "below": false
@@ -1110,31 +1131,46 @@
    "why": "Owns the partner lifecycle from outreach to contract and growth. Remote first with no mandatory office days. iGaming is the preferred background, so lead with your affiliate and crypto partner work.",
    "url": "https://careers.sumsub.com/jobs/8620630-partnership-manager-igaming",
    "source": "Sumsub careers",
-   "fit": 8.0,
+   "fit": 8.5,
    "read": true,
    "rating": {
-    "fit": 8.0,
+    "fit": 8.5,
     "conf": "Medium",
     "parts": {
-     "role": 3.0,
+     "role": 3.5,
      "level": 2.0,
      "place": 2.0,
      "pay": 0.5,
-     "sector": 0.7,
+     "sector": 1.5,
      "flags": -0.0
     },
     "notes": [],
-    "have": [],
-    "missing": []
+    "have": [
+     "b2b",
+     "business development",
+     "content and social",
+     "crm",
+     "negotiation",
+     "partnerships",
+     "web3"
+    ],
+    "missing": [
+     "account management",
+     "api",
+     "go-to-market",
+     "impact",
+     "integration",
+     "lifecycle",
+     "stakeholder"
+    ]
    },
    "check": {
-    "tier": "Check first",
+    "tier": "Looks live",
     "good": [
-     "posted in the last two weeks"
+     "posted in the last two weeks",
+     "detailed description"
     ],
-    "check": [
-     "text not read"
-    ]
+    "check": []
    },
    "below": false
   },
@@ -1305,29 +1341,32 @@
    "url": "https://jobs.ashbyhq.com/surfshark/c00871cb-341d-433f-8bb6-42f9dd9c4431",
    "read": true,
    "rating": {
-    "fit": 5.5,
+    "fit": 6.0,
     "conf": "Medium",
     "parts": {
      "role": 1.8,
      "level": 1.0,
      "place": 0.9,
      "pay": 1.0,
-     "sector": 0.7,
+     "sector": 1.5,
      "flags": -0.0
     },
     "notes": [],
-    "have": [],
-    "missing": []
-   },
-   "fit": 5.5,
-   "check": {
-    "tier": "Check first",
-    "good": [
-     "posted in the last two weeks"
+    "have": [
+     "content and social"
     ],
-    "check": [
-     "text not read"
+    "missing": [
+     "impact"
     ]
+   },
+   "fit": 6.0,
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
    },
    "below": true
   },
@@ -1482,7 +1521,6 @@
    "check": {
     "tier": "Looks live",
     "good": [
-     "posted in the last two weeks",
      "detailed description"
     ],
     "check": []
@@ -1665,5 +1703,5 @@
    "adjustWhy": "Expects closed casino or sports betting affiliate deals with FTD and NGR numbers and an existing betting affiliate network."
   }
  ],
- "rated": "31 Oct 2026 15:05 UTC"
+ "rated": "01 Nov 2026 05:03 UTC"
 }
