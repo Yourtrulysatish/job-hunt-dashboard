@@ -1,7 +1,112 @@
 {
- "generated": "01 Nov 2026 05:03 UTC",
- "count": 10,
+ "generated": "02 Nov 2026 05:06 UTC",
+ "count": 15,
  "items": [
+  {
+   "id": "a079e73f8a5",
+   "title": "Business Development Manager",
+   "company": "RGH-Global Limited",
+   "country": "Remote",
+   "region": "r",
+   "tier": "auto",
+   "fit": 8.5,
+   "rating": {
+    "fit": 8.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.0,
+     "level": 2.0,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "affiliate",
+     "analytics",
+     "b2b",
+     "business development",
+     "crm",
+     "negotiation",
+     "paid media"
+    ],
+    "missing": [
+     "commission"
+    ]
+   },
+   "posted": "2026-11-01",
+   "firstSeen": "2026-10-29",
+   "url": "https://himalayas.app/companies/rgh-global-limited/jobs/business-development-manager?utm_source=api",
+   "source": "himalayas",
+   "flags": [
+    "asks up to 2+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Remote"
+  },
+  {
+   "id": "afe9f814729",
+   "title": "Business Development Manager (EU) – FX/CFD",
+   "company": "RMG Talent",
+   "country": "Remote",
+   "region": "r",
+   "tier": "auto",
+   "fit": 8.5,
+   "rating": {
+    "fit": 8.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.0,
+     "level": 2.0,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "affiliate",
+     "analytics",
+     "business development",
+     "crm",
+     "negotiation",
+     "partnerships"
+    ],
+    "missing": [
+     "commission",
+     "lead generation",
+     "retention"
+    ]
+   },
+   "posted": "2026-11-01",
+   "firstSeen": "2026-11-02",
+   "url": "https://himalayas.app/companies/rmg-talent/jobs/business-development-manager-eu-fx-cfd?utm_source=api",
+   "source": "himalayas",
+   "flags": [
+    "asks up to 3+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Remote"
+  },
   {
    "id": "a2c6acde9be",
    "title": "Channel Partner Manager, Accounting",
@@ -56,11 +161,11 @@
    "mode": "Hybrid or office"
   },
   {
-   "id": "a1568c972b2",
-   "title": "Partnership Manager",
-   "company": "TechBiz Global",
-   "country": "Remote",
-   "region": "r",
+   "id": "a0cbd52ba30",
+   "title": "Affiliate manager",
+   "company": "Rainmaker Technology Corporation",
+   "country": "Spain",
+   "region": "e",
    "tier": "auto",
    "fit": 8.5,
    "rating": {
@@ -68,6 +173,53 @@
     "conf": "Medium",
     "parts": {
      "role": 3.5,
+     "level": 2.0,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "affiliate",
+     "analytics",
+     "negotiation"
+    ],
+    "missing": [
+     "tracking"
+    ]
+   },
+   "posted": "2026-10-29",
+   "firstSeen": "2026-10-29",
+   "url": "https://himalayas.app/companies/rainmaker-technology-corporation/jobs/affiliate-manager?utm_source=api",
+   "source": "himalayas",
+   "flags": [
+    "asks up to 1+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": false,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
+  },
+  {
+   "id": "af7a669a3e9",
+   "title": "ISV Partnerships Manager (Founding Role)",
+   "company": "Replenit",
+   "country": "Remote",
+   "region": "r",
+   "tier": "auto",
+   "fit": 8.0,
+   "rating": {
+    "fit": 8.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.0,
      "level": 1.0,
      "place": 2.0,
      "pay": 0.5,
@@ -77,19 +229,22 @@
     "notes": [],
     "have": [
      "b2b",
-     "negotiation",
+     "business development",
+     "crm",
      "partnerships",
-     "web3"
+     "testing"
     ],
     "missing": [
-     "api",
-     "cac",
-     "stakeholder"
+     "enterprise",
+     "go-to-market",
+     "gtm",
+     "impact",
+     "integration"
     ]
    },
-   "posted": "2026-10-29",
-   "firstSeen": "2026-10-29",
-   "url": "https://himalayas.app/companies/techbiz-global/jobs/partnership-manager-187405016?utm_source=api",
+   "posted": "2026-11-01",
+   "firstSeen": "2026-10-27",
+   "url": "https://himalayas.app/companies/replenit/jobs/isv-partnerships-manager-founding-role-3114018180?utm_source=api",
    "source": "himalayas",
    "flags": [
     "asks up to 5+ years"
@@ -102,24 +257,24 @@
     ],
     "check": []
    },
-   "new": false,
+   "new": true,
    "why": "Found by the daily scan. Open the posting and read it before applying.",
    "mode": "Remote"
   },
   {
-   "id": "a34326c9a62",
-   "title": "Affiliate Manager - Poker",
-   "company": "CoinPoker",
+   "id": "a1e29bd1928",
+   "title": "Senior Affiliate Manager – Consumer AI",
+   "company": "RMG Talent",
    "country": "Remote",
    "region": "r",
    "tier": "auto",
-   "fit": 8.5,
+   "fit": 8.0,
    "rating": {
-    "fit": 8.5,
+    "fit": 8.0,
     "conf": "Medium",
     "parts": {
      "role": 3.5,
-     "level": 1.0,
+     "level": 0.5,
      "place": 2.0,
      "pay": 0.5,
      "sector": 1.5,
@@ -128,28 +283,34 @@
     "notes": [],
     "have": [
      "affiliate",
+     "analytics",
+     "b2b",
      "content and social",
-     "negotiation",
+     "paid media",
      "partnerships",
-     "web3"
+     "seo"
     ],
     "missing": [
-     "api"
+     "api",
+     "tracking"
     ]
    },
-   "posted": "2026-10-14",
-   "firstSeen": "2026-10-29",
-   "url": "https://himalayas.app/companies/coinpoker/jobs/affiliate-manager-poker?utm_source=api",
+   "posted": "2026-11-01",
+   "firstSeen": "2026-10-30",
+   "url": "https://himalayas.app/companies/rmg-talent/jobs/senior-affiliate-manager-consumer-ai?utm_source=api",
    "source": "himalayas",
-   "flags": [],
+   "flags": [
+    "asks up to 5+ years"
+   ],
    "check": {
     "tier": "Looks live",
     "good": [
+     "posted in the last two weeks",
      "detailed description"
     ],
     "check": []
    },
-   "new": false,
+   "new": true,
    "why": "Found by the daily scan. Open the posting and read it before applying.",
    "mode": "Remote"
   },
@@ -206,18 +367,18 @@
    "mode": "Hybrid or office"
   },
   {
-   "id": "a079e73f8a5",
-   "title": "Business Development Manager",
-   "company": "RGH-Global Limited",
-   "country": "United Kingdom",
+   "id": "a59a268ed76",
+   "title": "Business Development Manager (API)",
+   "company": "CoinMarketCap",
+   "country": "France",
    "region": "e",
    "tier": "auto",
-   "fit": 8.0,
+   "fit": 7.5,
    "rating": {
-    "fit": 8.0,
+    "fit": 7.5,
     "conf": "Medium",
     "parts": {
-     "role": 3.0,
+     "role": 2.5,
      "level": 2.0,
      "place": 0.8,
      "pay": 0.5,
@@ -226,33 +387,85 @@
     },
     "notes": [],
     "have": [
-     "affiliate",
      "analytics",
      "b2b",
      "business development",
      "crm",
-     "negotiation",
-     "paid media"
+     "web3"
     ],
     "missing": [
-     "commission"
+     "api",
+     "integration",
+     "tracking"
     ]
    },
-   "posted": "2026-10-10",
-   "firstSeen": "2026-10-29",
-   "url": "https://himalayas.app/companies/rgh-global-limited/jobs/business-development-manager?utm_source=api",
+   "posted": "2026-11-01",
+   "firstSeen": "2026-10-30",
+   "url": "https://himalayas.app/companies/coinmarketcap/jobs/business-development-manager-api?utm_source=api",
    "source": "himalayas",
    "flags": [
-    "asks up to 2+ years"
+    "asks up to 3+ years"
    ],
    "check": {
     "tier": "Looks live",
     "good": [
+     "posted in the last two weeks",
      "detailed description"
     ],
     "check": []
    },
-   "new": false,
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
+  },
+  {
+   "id": "ab3aa733c43",
+   "title": "Business Development Manager- 3 months renewable Contractor",
+   "company": "CoinMarketCap",
+   "country": "Germany",
+   "region": "e",
+   "tier": "auto",
+   "fit": 7.5,
+   "rating": {
+    "fit": 7.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.5,
+     "level": 2.0,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "b2b",
+     "business development",
+     "content and social",
+     "negotiation",
+     "partnerships",
+     "web3"
+    ],
+    "missing": [
+     "api"
+    ]
+   },
+   "posted": "2026-11-01",
+   "firstSeen": "2026-10-30",
+   "url": "https://himalayas.app/companies/coinmarketcap/jobs/business-development-manager-3-months-renewable-contractor?utm_source=api",
+   "source": "himalayas",
+   "flags": [
+    "asks up to 3+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
    "why": "Found by the daily scan. Open the posting and read it before applying."
   },
   {
@@ -286,11 +499,63 @@
      "commission"
     ]
    },
-   "posted": "2026-10-30",
+   "posted": "2026-11-01",
    "firstSeen": "2026-10-31",
    "url": "https://himalayas.app/companies/hastens/jobs/new-business-development-manager-europe-the-10-club?utm_source=api",
    "source": "himalayas",
    "flags": [],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Remote"
+  },
+  {
+   "id": "a4ee38a2200",
+   "title": "Global Partner Manager - Salesforce Ecosystem",
+   "company": "MaxAccelerate",
+   "country": "Remote",
+   "region": "r",
+   "tier": "auto",
+   "fit": 7.0,
+   "rating": {
+    "fit": 7.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.0,
+     "level": 1.0,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "b2b",
+     "crm",
+     "partnerships"
+    ],
+    "missing": [
+     "commission",
+     "enterprise",
+     "gtm",
+     "impact"
+    ]
+   },
+   "posted": "2026-11-01",
+   "firstSeen": "2026-11-02",
+   "url": "https://himalayas.app/companies/maxaccelerate/jobs/global-partner-manager-salesforce-ecosystem?utm_source=api",
+   "source": "himalayas",
+   "flags": [
+    "asks up to 5+ years"
+   ],
    "check": {
     "tier": "Looks live",
     "good": [
@@ -407,15 +672,15 @@
     ],
     "check": []
    },
-   "new": true,
+   "new": false,
    "why": "Found by the daily scan. Open the posting and read it before applying.",
    "mode": "Hybrid or office"
   },
   {
-   "id": "aa27de39d79",
-   "title": "Growth Partnerships Manager",
-   "company": "Lendable",
-   "country": "United Kingdom",
+   "id": "a4e77b7baae",
+   "title": "Regional Growth Manager",
+   "company": "Tangem AG",
+   "country": "Switzerland",
    "region": "e",
    "tier": "auto",
    "fit": 7.0,
@@ -423,39 +688,32 @@
     "fit": 7.0,
     "conf": "Medium",
     "parts": {
-     "role": 3.0,
-     "level": 1.0,
-     "place": 0.9,
+     "role": 2.0,
+     "level": 2.0,
+     "place": 0.8,
      "pay": 0.5,
      "sector": 1.5,
      "flags": -0.0
     },
     "notes": [],
     "have": [
-     "affiliate",
      "analytics",
-     "b2b",
+     "business development",
      "content and social",
-     "negotiation",
-     "partnerships"
+     "partnerships",
+     "web3"
     ],
     "missing": [
      "api",
-     "attribution",
-     "awin",
-     "cac",
-     "commission",
-     "impact",
-     "lifecycle",
-     "ltv"
+     "go-to-market"
     ]
    },
-   "posted": "2026-10-30",
-   "firstSeen": "2026-10-31",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/growth-partnerships-manager-london-390352",
-   "source": "arbeitnow",
+   "posted": "2026-10-29",
+   "firstSeen": "2026-11-02",
+   "url": "https://himalayas.app/companies/tangem-ag/jobs/regional-growth-manager?utm_source=api",
+   "source": "himalayas",
    "flags": [
-    "asks up to 5+ years"
+    "asks up to 3+ years"
    ],
    "check": {
     "tier": "Looks live",
@@ -466,49 +724,44 @@
     "check": []
    },
    "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying.",
-   "mode": "Hybrid or office"
+   "why": "Found by the daily scan. Open the posting and read it before applying."
   },
   {
-   "id": "a3f1c01c29a",
-   "title": "Inside Channel Manager II (WORKS FROM HOME, DE, US)",
-   "company": "CenturyLink",
-   "country": "Germany",
+   "id": "a3ee60b6f19",
+   "title": "Business Development Manager",
+   "company": "Eightcap",
+   "country": "Italy",
    "region": "e",
    "tier": "auto",
    "fit": 7.0,
    "rating": {
     "fit": 7.0,
-    "conf": "High",
+    "conf": "Medium",
     "parts": {
-     "role": 2.3,
-     "level": 2.0,
+     "role": 3.0,
+     "level": 1.0,
      "place": 0.8,
-     "pay": 1.0,
-     "sector": 0.7,
+     "pay": 0.5,
+     "sector": 1.5,
      "flags": -0.0
     },
     "notes": [],
     "have": [
+     "affiliate",
      "analytics",
      "business development",
      "content and social",
-     "crm",
-     "negotiation"
+     "negotiation",
+     "partnerships",
+     "web3"
     ],
-    "missing": [
-     "api",
-     "enterprise",
-     "impact"
-    ]
+    "missing": []
    },
-   "posted": "2026-10-28",
-   "firstSeen": "2026-10-28",
-   "url": "https://himalayas.app/companies/centurylink/jobs/inside-channel-manager-ii-works-from-home-de-us?utm_source=api",
+   "posted": "2026-10-24",
+   "firstSeen": "2026-10-27",
+   "url": "https://himalayas.app/companies/eightcap/jobs/business-development-manager-390496511?utm_source=api",
    "source": "himalayas",
-   "flags": [
-    "asks up to 2+ years"
-   ],
+   "flags": [],
    "check": {
     "tier": "Looks live",
     "good": [
