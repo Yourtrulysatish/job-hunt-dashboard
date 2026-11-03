@@ -1,5 +1,5 @@
 {
- "updated": "31 Oct 2026",
+ "updated": "3 Nov 2026",
  "jobs": [
   {
    "title": "Affiliate & Partnerships Manager",
@@ -1667,7 +1667,119 @@
    },
    "fitAdjust": -3.0,
    "adjustWhy": "Expects closed casino or sports betting affiliate deals with FTD and NGR numbers and an existing betting affiliate network."
+  },
+  {
+   "id": "tangem-regional-growth",
+   "company": "Tangem AG",
+   "title": "Regional Growth Manager",
+   "country": "Remote",
+   "city": "Remote (Himalayas lists Switzerland as the hiring base)",
+   "region": "r",
+   "tier": "apply",
+   "mode": "Remote from any location",
+   "posted": "2026-10-29",
+   "source": "Himalayas",
+   "exp": "3+ years in growth, marketing, business development or market expansion, plus a strong crypto native background.",
+   "lang": "English",
+   "pay": "Salary not stated, paid in EUR or USDT",
+   "visa": "Remote role, not applicable",
+   "visaState": "unstated",
+   "why": "Crypto hardware wallet company that wants one person to own user growth in a single country, through partners, influencers, crypto communities and events, which lines up with your CryptoNewsZ community and partnership work. The catch is you would be the whole market team for your country and need launch results to show.",
+   "url": "https://himalayas.app/companies/tangem-ag/jobs/regional-growth-manager?utm_source=api",
+   "read": true,
+   "rating": {
+    "fit": 8.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.0,
+     "level": 2.0,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "business development",
+     "content and social",
+     "partnerships",
+     "web3"
+    ],
+    "missing": [
+     "api",
+     "go-to-market"
+    ]
+   },
+   "fit": 8.0,
+   "below": false,
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   }
+  },
+  {
+   "id": "saasgroup-scraperapi-growth",
+   "company": "saas.group",
+   "title": "Growth Marketing Specialist",
+   "country": "Remote",
+   "city": "Remote from Europe (ScraperAPI brand)",
+   "region": "r",
+   "tier": "stretch",
+   "mode": "Fully remote, Europe",
+   "posted": "2026-10-31",
+   "source": "Jobicy",
+   "exp": "3+ years running and optimising paid campaigns on Google Ads, Microsoft Ads and LinkedIn Ads, plus email, webinars and community channels.",
+   "lang": "English",
+   "pay": "Salary not stated",
+   "visa": "Remote role, not applicable",
+   "visaState": "unstated",
+   "why": "Hands on demand role for a web scraping API brand covering paid search, email, webinars and community channels like Reddit, so your content and community side fits. The catch is it wants real depth in paid search and paid social, which is not your main background.",
+   "url": "https://jobicy.com/jobs/154292-growth-marketing-specialist-2",
+   "read": true,
+   "rating": {
+    "fit": 8.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.0,
+     "level": 2.0,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "b2b",
+     "content and social",
+     "paid media"
+    ],
+    "missing": [
+     "api",
+     "email marketing",
+     "enterprise",
+     "impact",
+     "stakeholder"
+    ]
+   },
+   "fit": 5.5,
+   "below": true,
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "fitAdjust": -2.5,
+   "adjustWhy": "Wants 3+ years of hands on Google, Microsoft and LinkedIn Ads optimisation with real depth in paid, which is not his core background."
   }
  ],
- "rated": "03 Nov 2026 05:03 UTC"
+ "rated": "03 Nov 2026 07:19 UTC"
 }
