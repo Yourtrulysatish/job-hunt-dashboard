@@ -1,6 +1,6 @@
 {
- "generated": "02 Nov 2026 05:06 UTC",
- "count": 19,
+ "generated": "03 Nov 2026 05:03 UTC",
+ "count": 15,
  "items": [
   {
    "id": "a870d3886d9",
@@ -111,41 +111,39 @@
    "mode": "Remote"
   },
   {
-   "id": "adc00e59ad8",
-   "title": "Business Development - Payments",
-   "company": "Alea",
-   "country": "Netherlands",
+   "id": "a7e3f178cc6",
+   "title": "Solution Consultant - Partnerships",
+   "company": "Workiva",
+   "country": "United Kingdom",
    "region": "e",
    "tier": "auto",
-   "fit": 7.5,
+   "fit": 7.0,
    "rating": {
-    "fit": 7.5,
+    "fit": 7.0,
     "conf": "Medium",
     "parts": {
-     "role": 2.5,
+     "role": 3.0,
      "level": 2.0,
      "place": 0.8,
      "pay": 0.5,
-     "sector": 1.5,
+     "sector": 0.7,
      "flags": -0.0
     },
     "notes": [],
     "have": [
      "analytics",
      "b2b",
-     "business development",
-     "negotiation"
+     "content and social"
     ],
     "missing": [
-     "account management",
+     "api",
      "enterprise",
-     "impact",
      "integration"
     ]
    },
-   "posted": "2026-10-30",
-   "firstSeen": "2026-10-31",
-   "url": "https://himalayas.app/companies/alea/jobs/business-development-payments?utm_source=api",
+   "posted": "2026-11-02",
+   "firstSeen": "2026-11-03",
+   "url": "https://himalayas.app/companies/workiva/jobs/solution-consultant-partnerships?utm_source=api",
    "source": "himalayas",
    "flags": [
     "asks up to 4+ years"
@@ -158,7 +156,7 @@
     ],
     "check": []
    },
-   "new": false,
+   "new": true,
    "why": "Found by the daily scan. Open the posting and read it before applying."
   },
   {
@@ -215,98 +213,6 @@
    "mode": "Remote"
   },
   {
-   "id": "aa9e1c67ed4",
-   "title": "Defence Manufacturing Partnerships Consultant (Workshops, OKRs, Data Analysis) f",
-   "company": "WLG",
-   "country": "Poland",
-   "region": "e",
-   "tier": "auto",
-   "fit": 7.0,
-   "rating": {
-    "fit": 7.0,
-    "conf": "Medium",
-    "parts": {
-     "role": 3.0,
-     "level": 1.0,
-     "place": 0.8,
-     "pay": 0.5,
-     "sector": 1.5,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "analytics",
-     "partnerships"
-    ],
-    "missing": [
-     "stakeholder"
-    ]
-   },
-   "posted": "2026-10-29",
-   "firstSeen": "2026-10-31",
-   "url": "https://himalayas.app/companies/wlg/jobs/defence-manufacturing-partnerships-consultant-workshops-okrs-data-analysis-f?utm_source=api",
-   "source": "himalayas",
-   "flags": [
-    "asks up to 5+ years"
-   ],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": false,
-   "why": "Found by the daily scan. Open the posting and read it before applying."
-  },
-  {
-   "id": "adf8ef11b21",
-   "title": "Manufacturing Innovation Consultant (Scale-ups, Production Partnerships) for NAT",
-   "company": "WLG",
-   "country": "Poland",
-   "region": "e",
-   "tier": "auto",
-   "fit": 7.0,
-   "rating": {
-    "fit": 7.0,
-    "conf": "Medium",
-    "parts": {
-     "role": 3.0,
-     "level": 1.0,
-     "place": 0.8,
-     "pay": 0.5,
-     "sector": 1.5,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "analytics",
-     "partnerships"
-    ],
-    "missing": [
-     "stakeholder"
-    ]
-   },
-   "posted": "2026-10-29",
-   "firstSeen": "2026-10-29",
-   "url": "https://himalayas.app/companies/wlg/jobs/manufacturing-innovation-consultant-scale-ups-production-partnerships-for-nat?utm_source=api",
-   "source": "himalayas",
-   "flags": [
-    "asks up to 5+ years"
-   ],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": false,
-   "why": "Found by the daily scan. Open the posting and read it before applying."
-  },
-  {
    "id": "acca1b2e1f4",
    "title": "Events Marketing Manager, EMEA",
    "company": "Customer.io",
@@ -358,10 +264,10 @@
    "mode": "Remote"
   },
   {
-   "id": "a25a520437d",
-   "title": "Partner Manager",
-   "company": "EER Poland",
-   "country": "Czechia",
+   "id": "a7fd7b94f15",
+   "title": "Partner Development Manager",
+   "company": "Dust",
+   "country": "France",
    "region": "e",
    "tier": "auto",
    "fit": 6.5,
@@ -369,9 +275,9 @@
     "fit": 6.5,
     "conf": "Medium",
     "parts": {
-     "role": 3.0,
+     "role": 3.5,
      "level": 1.0,
-     "place": 1.3,
+     "place": 0.8,
      "pay": 0.5,
      "sector": 0.7,
      "flags": -0.0
@@ -379,21 +285,23 @@
     "notes": [],
     "have": [
      "analytics",
-     "negotiation",
+     "b2b",
+     "business development",
      "partnerships"
     ],
     "missing": [
-     "impact",
-     "lifecycle",
-     "tracking"
+     "account management",
+     "commission",
+     "enterprise",
+     "impact"
     ]
    },
-   "posted": "2026-11-01",
-   "firstSeen": "2026-11-02",
-   "url": "https://himalayas.app/companies/eer-poland/jobs/partner-manager-179967692?utm_source=api",
-   "source": "himalayas",
+   "posted": "2026-11-02",
+   "firstSeen": "2026-11-03",
+   "url": "https://www.arbeitnow.fr/jobs/companies/dust/partner-development-manager-paris-432185",
+   "source": "arbeitnow",
    "flags": [
-    "relocation/visa mentioned"
+    "asks up to 5+ years"
    ],
    "check": {
     "tier": "Looks live",
@@ -407,9 +315,9 @@
    "why": "Found by the daily scan. Open the posting and read it before applying."
   },
   {
-   "id": "ab51884d6e4",
-   "title": "Creative Marketing Manager | Brainer",
-   "company": "Boosta",
+   "id": "a088f2aadff",
+   "title": "Business Development Manager  Remote",
+   "company": "Nordic Recruiters",
    "country": "Remote",
    "region": "r",
    "tier": "auto",
@@ -418,8 +326,8 @@
     "fit": 6.5,
     "conf": "Medium",
     "parts": {
-     "role": 1.5,
-     "level": 2.0,
+     "role": 2.5,
+     "level": 1.0,
      "place": 2.0,
      "pay": 0.5,
      "sector": 0.7,
@@ -428,21 +336,19 @@
     "notes": [],
     "have": [
      "analytics",
-     "content and social",
-     "paid media",
-     "testing"
+     "business development",
+     "negotiation",
+     "partnerships"
     ],
     "missing": [
-     "retention"
+     "impact"
     ]
    },
-   "posted": "2026-11-01",
-   "firstSeen": "2026-11-02",
-   "url": "https://himalayas.app/companies/boosta/jobs/creative-marketing-manager-brainer?utm_source=api",
+   "posted": "2026-11-02",
+   "firstSeen": "2026-11-03",
+   "url": "https://himalayas.app/companies/nordic-recruiters/jobs/business-development-manager-remote-2248756399?utm_source=api",
    "source": "himalayas",
-   "flags": [
-    "asks up to 1+ years"
-   ],
+   "flags": [],
    "check": {
     "tier": "Looks live",
     "good": [
@@ -454,6 +360,53 @@
    "new": true,
    "why": "Found by the daily scan. Open the posting and read it before applying.",
    "mode": "Remote"
+  },
+  {
+   "id": "a93645c3bb9",
+   "title": "Business Development Manager (Slovakia)",
+   "company": "Ajax Systems",
+   "country": "Slovakia",
+   "region": "e",
+   "tier": "auto",
+   "fit": 6.5,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.5,
+     "level": 2.0,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "business development",
+     "negotiation"
+    ],
+    "missing": [
+     "stakeholder"
+    ]
+   },
+   "posted": "2026-11-02",
+   "firstSeen": "2026-11-03",
+   "url": "https://jobicy.com/jobs/154393-business-development-manager-slovakia",
+   "source": "jobicy",
+   "flags": [
+    "asks up to 2+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
   },
   {
    "id": "a04e7fbceef",
@@ -559,7 +512,7 @@
     ],
     "check": []
    },
-   "new": true,
+   "new": false,
    "why": "Found by the daily scan. Open the posting and read it before applying."
   },
   {
@@ -607,7 +560,7 @@
     ],
     "check": []
    },
-   "new": true,
+   "new": false,
    "why": "Found by the daily scan. Open the posting and read it before applying.",
    "mode": "Remote"
   },
@@ -660,53 +613,6 @@
     "check": []
    },
    "new": false,
-   "why": "Found by the daily scan. Open the posting and read it before applying."
-  },
-  {
-   "id": "a6f1fb06d5e",
-   "title": "Business Development Manager (Investment Products)",
-   "company": "Tangem AG",
-   "country": "Switzerland",
-   "region": "e",
-   "tier": "auto",
-   "fit": 6.5,
-   "rating": {
-    "fit": 6.5,
-    "conf": "Medium",
-    "parts": {
-     "role": 2.5,
-     "level": 1.0,
-     "place": 0.8,
-     "pay": 0.5,
-     "sector": 1.5,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "business development",
-     "negotiation",
-     "partnerships",
-     "web3"
-    ],
-    "missing": [
-     "account management",
-     "impact"
-    ]
-   },
-   "posted": "2026-10-29",
-   "firstSeen": "2026-11-02",
-   "url": "https://himalayas.app/companies/tangem-ag/jobs/business-development-manager-investment-products?utm_source=api",
-   "source": "himalayas",
-   "flags": [],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": true,
    "why": "Found by the daily scan. Open the posting and read it before applying."
   },
   {
@@ -858,108 +764,6 @@
    "flags": [
     "asks up to 3+ years"
    ],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": false,
-   "why": "Found by the daily scan. Open the posting and read it before applying."
-  },
-  {
-   "id": "af45080e365",
-   "title": "Product Marketing Manager (AI-Powered Affiliate Platform, iGaming)",
-   "company": "AllCares",
-   "country": "Spain",
-   "region": "e",
-   "tier": "auto",
-   "fit": 6.5,
-   "rating": {
-    "fit": 6.5,
-    "conf": "Medium",
-    "parts": {
-     "role": 3.5,
-     "level": 1.0,
-     "place": 0.8,
-     "pay": 0.5,
-     "sector": 0.7,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "affiliate",
-     "b2b",
-     "content and social",
-     "partnerships"
-    ],
-    "missing": [
-     "account management",
-     "api",
-     "go-to-market",
-     "gtm",
-     "impact",
-     "retention",
-     "stakeholder",
-     "tracking"
-    ]
-   },
-   "posted": "2026-10-18",
-   "firstSeen": "2026-10-27",
-   "url": "https://himalayas.app/companies/allcares/jobs/product-marketing-manager-ai-powered-affiliate-platform-igaming?utm_source=api",
-   "source": "himalayas",
-   "flags": [],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": false,
-   "why": "Found by the daily scan. Open the posting and read it before applying."
-  },
-  {
-   "id": "a5e8f50f68c",
-   "title": "Customer Success Manager (AI-Powered Affiliate Platform, iGaming)",
-   "company": "AllCares",
-   "country": "Spain",
-   "region": "e",
-   "tier": "auto",
-   "fit": 6.5,
-   "rating": {
-    "fit": 6.5,
-    "conf": "Medium",
-    "parts": {
-     "role": 3.5,
-     "level": 1.0,
-     "place": 0.8,
-     "pay": 0.5,
-     "sector": 0.7,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "affiliate",
-     "b2b",
-     "partnerships"
-    ],
-    "missing": [
-     "account management",
-     "integration",
-     "lifecycle",
-     "retention",
-     "tracking"
-    ]
-   },
-   "posted": "2026-10-18",
-   "firstSeen": "2026-10-27",
-   "url": "https://himalayas.app/companies/allcares/jobs/customer-success-manager-ai-powered-affiliate-platform-igaming?utm_source=api",
-   "source": "himalayas",
-   "flags": [],
    "check": {
     "tier": "Looks live",
     "good": [

@@ -920,7 +920,6 @@
    "check": {
     "tier": "Check first",
     "good": [
-     "posted in the last two weeks",
      "has a closing date"
     ],
     "check": [
@@ -1670,5 +1669,5 @@
    "adjustWhy": "Expects closed casino or sports betting affiliate deals with FTD and NGR numbers and an existing betting affiliate network."
   }
  ],
- "rated": "02 Nov 2026 05:06 UTC"
+ "rated": "03 Nov 2026 05:03 UTC"
 }
