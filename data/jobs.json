@@ -1688,38 +1688,30 @@
    "url": "https://himalayas.app/companies/tangem-ag/jobs/regional-growth-manager?utm_source=api",
    "read": true,
    "rating": {
-    "fit": 8.0,
+    "fit": 7.0,
     "conf": "Medium",
     "parts": {
      "role": 2.0,
      "level": 2.0,
      "place": 2.0,
      "pay": 0.5,
-     "sector": 1.5,
+     "sector": 0.7,
      "flags": -0.0
     },
     "notes": [],
-    "have": [
-     "analytics",
-     "business development",
-     "content and social",
-     "partnerships",
-     "web3"
-    ],
-    "missing": [
-     "api",
-     "go-to-market"
-    ]
+    "have": [],
+    "missing": []
    },
-   "fit": 8.0,
+   "fit": 7.0,
    "below": false,
    "check": {
-    "tier": "Looks live",
+    "tier": "Check first",
     "good": [
-     "posted in the last two weeks",
-     "detailed description"
+     "posted in the last two weeks"
     ],
-    "check": []
+    "check": [
+     "text not read"
+    ]
    }
   },
   {
@@ -1779,7 +1771,123 @@
    },
    "fitAdjust": -2.5,
    "adjustWhy": "Wants 3+ years of hands on Google, Microsoft and LinkedIn Ads optimisation with real depth in paid, which is not his core background."
+  },
+  {
+   "id": "talentin-truegroup-affiliate",
+   "company": "TalentIn",
+   "title": "Affiliate Manager (iGaming) for TrueGroup",
+   "country": "Latvia",
+   "city": "Remote, listed for Latvia, Poland, Portugal and Ukraine",
+   "region": "n",
+   "tier": "apply",
+   "mode": "Remote, flexible hours, co-working paid",
+   "posted": "2026-10-30",
+   "source": "Himalayas",
+   "exp": "1.5+ years of affiliate marketing in iGaming and betting, plus traffic funnel analysis and conference travel.",
+   "lang": "English, upper intermediate or higher",
+   "pay": "Salary not stated",
+   "visa": "Not mentioned; listed countries are all EU except Ukraine",
+   "visaState": "unstated",
+   "why": "A straight affiliate manager job: recruiting and negotiating with affiliates, retention offers, and KPI reporting on NGR, LTV and ROAS, which is your core work. The catch is it asks for iGaming affiliate experience specifically, and Croatia is not in the listed countries, so ask if remote from Croatia is fine.",
+   "url": "https://himalayas.app/companies/talentin/jobs/affiliate-manager-igaming-for-truegroup?utm_source=api",
+   "read": true,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.5,
+     "level": 1.0,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "affiliate",
+     "analytics",
+     "crm",
+     "negotiation",
+     "partnerships"
+    ],
+    "missing": [
+     "impact",
+     "ltv",
+     "retention"
+    ]
+   },
+   "fit": 7.0,
+   "below": false,
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "fitAdjust": 0.5,
+   "adjustWhy": "Core affiliate manager work with only 1.5 years asked; crypto affiliate experience sits close to iGaming, so the formula undersells the role match."
+  },
+  {
+   "id": "replenit-isv-partnerships",
+   "company": "Replenit",
+   "title": "ISV Partnerships Manager (Founding Role)",
+   "country": "Remote",
+   "city": "Remote from Europe, Warsaw HQ",
+   "region": "r",
+   "tier": "stretch",
+   "mode": "Remote first, Europe, travel required",
+   "posted": "2026-11-01",
+   "source": "Himalayas",
+   "exp": "4 to 5+ years in partnerships, alliances or BD at tech companies with revenue accountability, ideally MarTech, CDP or ERP, plus cloud marketplace experience.",
+   "lang": "Near native English",
+   "pay": "60,000 USD a year plus ESOP",
+   "visa": "Remote within Europe, not applicable",
+   "visaState": "unstated",
+   "why": "First partnerships hire at a retail AI startup, building the partner program and co-sell with Braze, Bloomreach, Google Cloud and Databricks, so your partnerships and BD years count. The catch is it is enterprise B2B with cloud marketplace and MarTech ecosystem experience expected, which you do not have yet.",
+   "url": "https://himalayas.app/companies/replenit/jobs/isv-partnerships-manager-founding-role-3114018180?utm_source=api",
+   "read": true,
+   "rating": {
+    "fit": 8.5,
+    "conf": "High",
+    "parts": {
+     "role": 3.0,
+     "level": 1.0,
+     "place": 2.0,
+     "pay": 1.0,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "b2b",
+     "business development",
+     "crm",
+     "partnerships",
+     "testing"
+    ],
+    "missing": [
+     "enterprise",
+     "go-to-market",
+     "gtm",
+     "impact",
+     "integration"
+    ]
+   },
+   "fit": 5.5,
+   "below": true,
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "fitAdjust": -3.0,
+   "adjustWhy": "Founding enterprise ISV role expecting MarTech or CDP ecosystem depth and cloud marketplace co-sell experience, which he does not have; formula overrates it on title and remote Europe."
   }
  ],
- "rated": "03 Nov 2026 07:19 UTC"
+ "rated": "03 Nov 2026 07:47 UTC"
 }
