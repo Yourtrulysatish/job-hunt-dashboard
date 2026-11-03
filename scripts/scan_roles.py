@@ -49,7 +49,11 @@ def dt(x):
 def strip(h): return re.sub(r'\s+', ' ', html.unescape(re.sub(r'<[^>]+>', ' ', h or '')))
 
 recs = []; status = {}
+_seen_urls = set()  # the same posting comes back from several feeds and searches, keep one copy
 def add(src, title, company, date, loc, url, sal='', desc=''):
+    _k = str(url or '') or f'{company}|{title}'
+    if _k in _seen_urls: return
+    _seen_urls.add(_k)
     if isinstance(loc, list):
         # A long country list means a whole region (for example EMEA), not a located role.
         if len(loc) > 12: loc = 'Remote, Europe/EMEA (many countries)' if any(c in loc for c in ('Croatia', 'Germany', 'France', 'Sweden', 'Italy')) else 'Remote, restricted country list'
