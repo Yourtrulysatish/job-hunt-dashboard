@@ -1,5 +1,5 @@
 {
- "updated": "3 Nov 2026",
+ "updated": "4 Nov 2026",
  "jobs": [
   {
    "title": "Affiliate & Partnerships Manager",
@@ -1878,7 +1878,183 @@
    },
    "fitAdjust": -3.0,
    "adjustWhy": "Founding enterprise ISV role expecting MarTech or CDP ecosystem depth and cloud marketplace co-sell experience, which he does not have; formula overrates it on title and remote Europe."
+  },
+  {
+   "id": "feather-growth-affiliates-partnerships",
+   "company": "Feather",
+   "title": "Growth Marketing Manager - Affiliates & Partnerships (Maternity cover) (f/m/x)",
+   "country": "Remote",
+   "city": "Remote from Europe, Berlin office",
+   "region": "r",
+   "tier": "apply",
+   "mode": "Remote first, Europe, Berlin office for meetups",
+   "posted": "2026-11-01",
+   "source": "Himalayas",
+   "exp": "Experience in business development, affiliate or partnership marketing, having closed deals with large partners, affiliate networks or media agencies; no year count given.",
+   "lang": "English",
+   "pay": "Not stated",
+   "visa": "Remote within Europe, not applicable",
+   "visaState": "unstated",
+   "why": "Runs the affiliate network and finds new partners across markets for an expat insurance startup, which is almost exactly your affiliate and partnerships work. The catch is that it is a maternity cover, so the contract is temporary and the length is not stated.",
+   "url": "https://himalayas.app/companies/feather/jobs/growth-marketing-manager-affiliates-partnerships-maternity-cover-f-m-x?utm_source=api",
+   "read": true,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.5,
+     "level": 1.0,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -1.0
+    },
+    "notes": [
+     "contract rather than employee"
+    ],
+    "have": [
+     "affiliate",
+     "analytics",
+     "b2b",
+     "business development",
+     "crm",
+     "negotiation",
+     "partnerships",
+     "testing"
+    ],
+    "missing": [
+     "stakeholder"
+    ]
+   },
+   "fit": 7.5,
+   "below": false,
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "fitAdjust": 1.0,
+   "adjustWhy": "Core of the role is running an affiliate network and signing new partners, his strongest experience; formula docks it for sector and the maternity cover flag more than the match deserves."
+  },
+  {
+   "id": "moneygram-affiliate-program-manager",
+   "company": "MoneyGram",
+   "title": "Affiliate Program Manager",
+   "country": "Remote",
+   "city": "Remote from Europe or US Eastern/Central",
+   "region": "r",
+   "tier": "apply",
+   "mode": "Remote, Europe or US Eastern/Central time zones",
+   "posted": "2026-11-01",
+   "source": "Himalayas",
+   "exp": "2 to 3 years in affiliate marketing or affiliate program management across web and app partners; hands on Impact platform experience required.",
+   "lang": "English",
+   "pay": "Not stated",
+   "visa": "Remote from Europe, not applicable",
+   "visaState": "unstated",
+   "why": "Supports the global affiliate manager on onboarding, tracking and reporting for web and app partners at a payments brand, and the 2 to 3 years asked sits under your 4. The catch is that hands on Impact platform and app attribution experience are listed as required.",
+   "url": "https://himalayas.app/companies/moneygram/jobs/affiliate-program-manager?utm_source=api",
+   "read": true,
+   "rating": {
+    "fit": 8.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.5,
+     "level": 2.0,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "affiliate",
+     "analytics",
+     "b2b",
+     "content and social",
+     "partnerships"
+    ],
+    "missing": [
+     "api",
+     "attribution",
+     "impact",
+     "stakeholder",
+     "tracking"
+    ]
+   },
+   "fit": 7.5,
+   "below": false,
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "fitAdjust": -1.0,
+   "adjustWhy": "Support role under the global affiliate manager with hands on Impact platform and app attribution listed as required, which he would need to show; formula scores it at the top of the range on title alone."
+  },
+  {
+   "id": "hhhub-partner-marketing-manager",
+   "company": "HHHUB, UAB",
+   "title": "Partner Marketing Manager",
+   "country": "Remote",
+   "city": "Remote from EU or UK, Baltics preferred",
+   "region": "r",
+   "tier": "apply",
+   "mode": "Remote first, EU or UK, travel to industry events",
+   "posted": "2026-11-01",
+   "source": "Himalayas",
+   "exp": "4+ years in partner marketing, ecosystem, business development or partnerships, ideally fintech, payments, SaaS or crypto/Web3.",
+   "lang": "English",
+   "pay": "Not stated",
+   "visa": "Remote within EU or UK, not applicable",
+   "visaState": "unstated",
+   "why": "Recruiter posting for a payments and card issuing company that wants someone to build co-marketing, events and a partner ecosystem, and it names crypto/Web3 as a fitting background. The catch is that the client is not named, Baltic candidates are preferred and payments industry connections are expected.",
+   "url": "https://himalayas.app/companies/hhhub-uab/jobs/partner-marketing-manager?utm_source=api",
+   "read": true,
+   "rating": {
+    "fit": 8.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.0,
+     "level": 2.0,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "b2b",
+     "business development",
+     "content and social",
+     "partnerships",
+     "web3"
+    ],
+    "missing": [
+     "impact",
+     "stakeholder"
+    ]
+   },
+   "fit": 7.0,
+   "below": false,
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "fitAdjust": -1.0,
+   "adjustWhy": "Unnamed client through a recruiter, Baltic candidates preferred and existing payments industry connections expected, so the odds are lower than the formula suggests."
   }
  ],
- "rated": "04 Nov 2026 05:03 UTC"
+ "rated": "04 Nov 2026 11:56 UTC"
 }

@@ -1,6 +1,6 @@
 {
- "generated": "04 Nov 2026 05:03 UTC",
- "count": 15,
+ "generated": "04 Nov 2026 11:56 UTC",
+ "count": 6,
  "items": [
   {
    "id": "a870d3886d9",
@@ -58,42 +58,42 @@
    "mode": "Remote"
   },
   {
-   "id": "a7e3f178cc6",
-   "title": "Solution Consultant - Partnerships",
-   "company": "Workiva",
-   "country": "United Kingdom",
-   "region": "e",
+   "id": "aa9e11e6dbe",
+   "title": "Performance Marketing Lead (User Acquisition)",
+   "company": "Bjak",
+   "country": "Remote",
+   "region": "r",
    "tier": "auto",
-   "fit": 7.0,
+   "fit": 6.5,
    "rating": {
-    "fit": 7.0,
+    "fit": 6.5,
     "conf": "Medium",
     "parts": {
-     "role": 3.0,
-     "level": 2.0,
-     "place": 0.8,
+     "role": 2.0,
+     "level": 0.5,
+     "place": 2.0,
      "pay": 0.5,
-     "sector": 0.7,
+     "sector": 1.5,
      "flags": -0.0
     },
     "notes": [],
     "have": [
-     "analytics",
      "b2b",
-     "content and social"
+     "paid media",
+     "testing"
     ],
     "missing": [
-     "api",
-     "enterprise",
-     "integration"
+     "attribution",
+     "cac",
+     "ltv"
     ]
    },
-   "posted": "2026-11-02",
-   "firstSeen": "2026-11-03",
-   "url": "https://himalayas.app/companies/workiva/jobs/solution-consultant-partnerships?utm_source=api",
+   "posted": "2026-11-04",
+   "firstSeen": "2026-11-04",
+   "url": "https://himalayas.app/companies/bjak/jobs/performance-marketing-lead-user-acquisition?utm_source=api",
    "source": "himalayas",
    "flags": [
-    "asks up to 4+ years"
+    "asks up to 5+ years"
    ],
    "check": {
     "tier": "Looks live",
@@ -104,48 +104,43 @@
     "check": []
    },
    "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying."
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Remote"
   },
   {
-   "id": "afd73343522",
-   "title": "Senior User Acquisition Manager, Meta & Google Ads (US Degree Programs)",
-   "company": "TripleTen",
+   "id": "aa63f1f35e7",
+   "title": "Product Marketing Manager",
+   "company": "Clera",
    "country": "Remote",
    "region": "r",
    "tier": "auto",
-   "fit": 7.0,
+   "fit": 6.5,
    "rating": {
-    "fit": 7.0,
+    "fit": 6.5,
     "conf": "High",
     "parts": {
-     "role": 2.0,
-     "level": 1.5,
+     "role": 0.8,
+     "level": 2.0,
      "place": 2.0,
      "pay": 1.0,
      "sector": 0.7,
      "flags": -0.0
     },
     "notes": [],
-    "have": [
-     "analytics",
-     "content and social",
-     "crm",
-     "paid media",
-     "partnerships",
-     "testing"
-    ],
+    "have": [],
     "missing": [
-     "api",
-     "cac",
+     "account management",
+     "go-to-market",
      "tracking"
     ]
    },
-   "posted": "2026-11-01",
-   "firstSeen": "2026-11-02",
-   "url": "https://himalayas.app/companies/tripleten/jobs/senior-user-acquisition-manager-meta-google-ads-us-degree-programs-8896717729?utm_source=api",
+   "posted": "2026-11-04",
+   "firstSeen": "2026-11-04",
+   "url": "https://himalayas.app/companies/clera/jobs/product-marketing-manager?utm_source=api",
    "source": "himalayas",
    "flags": [
-    "asks up to 4+ years"
+    "asks up to 4+ years",
+    "relocation/visa mentioned"
    ],
    "check": {
     "tier": "Looks live",
@@ -155,58 +150,7 @@
     ],
     "check": []
    },
-   "new": false,
-   "why": "Found by the daily scan. Open the posting and read it before applying.",
-   "mode": "Remote"
-  },
-  {
-   "id": "acca1b2e1f4",
-   "title": "Events Marketing Manager, EMEA",
-   "company": "Customer.io",
-   "country": "Remote",
-   "region": "r",
-   "tier": "auto",
-   "fit": 7.0,
-   "rating": {
-    "fit": 7.0,
-    "conf": "Medium",
-    "parts": {
-     "role": 0.8,
-     "level": 2.0,
-     "place": 2.0,
-     "pay": 0.5,
-     "sector": 1.5,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "analytics",
-     "b2b",
-     "content and social",
-     "crm",
-     "partnerships"
-    ],
-    "missing": [
-     "attribution",
-     "impact",
-     "lifecycle"
-    ]
-   },
-   "posted": "2026-10-15",
-   "firstSeen": "2026-10-27",
-   "url": "https://weworkremotely.com/remote-jobs/customer-io-events-marketing-manager-emea",
-   "source": "wwr",
-   "flags": [
-    "asks up to 4+ years"
-   ],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": false,
+   "new": true,
    "why": "Found by the daily scan. Open the posting and read it before applying.",
    "mode": "Remote"
   },
@@ -246,53 +190,6 @@
    "url": "https://www.arbeitnow.co.uk/jobs/companies/carwow/business-development-manager-greater-manchester-279647",
    "source": "arbeitnow",
    "flags": [],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying."
-  },
-  {
-   "id": "a284f23b7aa",
-   "title": "Demand Growth Manager (f/m/d)",
-   "company": "adjoe",
-   "country": "Germany",
-   "region": "e",
-   "tier": "auto",
-   "fit": 6.5,
-   "rating": {
-    "fit": 6.5,
-    "conf": "Medium",
-    "parts": {
-     "role": 2.0,
-     "level": 2.0,
-     "place": 1.3,
-     "pay": 0.5,
-     "sector": 0.7,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "analytics"
-    ],
-    "missing": [
-     "account management",
-     "impact"
-    ]
-   },
-   "posted": "2026-11-04",
-   "firstSeen": "2026-11-04",
-   "url": "https://www.arbeitnow.com/jobs/companies/adjoe/demand-growth-manager-hamburg-2566",
-   "source": "arbeitnow",
-   "flags": [
-    "asks up to 3+ years",
-    "relocation/visa mentioned"
-   ],
    "check": {
     "tier": "Looks live",
     "good": [
@@ -394,359 +291,6 @@
    "new": true,
    "why": "Found by the daily scan. Open the posting and read it before applying.",
    "mode": "Hybrid or office"
-  },
-  {
-   "id": "a088f2aadff",
-   "title": "Business Development Manager  Remote",
-   "company": "Nordic Recruiters",
-   "country": "Remote",
-   "region": "r",
-   "tier": "auto",
-   "fit": 6.5,
-   "rating": {
-    "fit": 6.5,
-    "conf": "Medium",
-    "parts": {
-     "role": 2.5,
-     "level": 1.0,
-     "place": 2.0,
-     "pay": 0.5,
-     "sector": 0.7,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "analytics",
-     "business development",
-     "negotiation",
-     "partnerships"
-    ],
-    "missing": [
-     "impact"
-    ]
-   },
-   "posted": "2026-11-02",
-   "firstSeen": "2026-11-03",
-   "url": "https://himalayas.app/companies/nordic-recruiters/jobs/business-development-manager-remote-2248756399?utm_source=api",
-   "source": "himalayas",
-   "flags": [],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying.",
-   "mode": "Remote"
-  },
-  {
-   "id": "a68fb1adbee",
-   "title": "Channel Account Manager - EMEA",
-   "company": "Tufin",
-   "country": "Remote",
-   "region": "r",
-   "tier": "auto",
-   "fit": 6.5,
-   "rating": {
-    "fit": 6.5,
-    "conf": "Medium",
-    "parts": {
-     "role": 2.3,
-     "level": 1.0,
-     "place": 2.0,
-     "pay": 0.5,
-     "sector": 0.7,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "business development",
-     "partnerships"
-    ],
-    "missing": [
-     "enterprise",
-     "gtm",
-     "lead generation"
-    ]
-   },
-   "posted": "2026-11-01",
-   "firstSeen": "2026-11-04",
-   "url": "https://himalayas.app/companies/tufin/jobs/channel-account-manager-emea?utm_source=api",
-   "source": "himalayas",
-   "flags": [],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying.",
-   "mode": "Remote"
-  },
-  {
-   "id": "a25a520437d",
-   "title": "Partner Manager",
-   "company": "EER Poland",
-   "country": "Czechia",
-   "region": "e",
-   "tier": "auto",
-   "fit": 6.5,
-   "rating": {
-    "fit": 6.5,
-    "conf": "Medium",
-    "parts": {
-     "role": 3.0,
-     "level": 1.0,
-     "place": 1.3,
-     "pay": 0.5,
-     "sector": 0.7,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "analytics",
-     "negotiation",
-     "partnerships"
-    ],
-    "missing": [
-     "impact",
-     "lifecycle",
-     "tracking"
-    ]
-   },
-   "posted": "2026-11-01",
-   "firstSeen": "2026-11-02",
-   "url": "https://himalayas.app/companies/eer-poland/jobs/partner-manager-179967692?utm_source=api",
-   "source": "himalayas",
-   "flags": [
-    "relocation/visa mentioned"
-   ],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": false,
-   "why": "Found by the daily scan. Open the posting and read it before applying."
-  },
-  {
-   "id": "a04e7fbceef",
-   "title": "Business Development Manager - Strategic Accounts",
-   "company": "Qargo",
-   "country": "Remote",
-   "region": "r",
-   "tier": "auto",
-   "fit": 6.5,
-   "rating": {
-    "fit": 6.5,
-    "conf": "Medium",
-    "parts": {
-     "role": 2.5,
-     "level": 1.0,
-     "place": 2.0,
-     "pay": 0.5,
-     "sector": 0.7,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "analytics",
-     "b2b",
-     "business development",
-     "negotiation"
-    ],
-    "missing": [
-     "api",
-     "commission",
-     "enterprise",
-     "go-to-market",
-     "impact",
-     "integration",
-     "stakeholder"
-    ]
-   },
-   "posted": "2026-11-01",
-   "firstSeen": "2026-10-27",
-   "url": "https://himalayas.app/companies/qargo/jobs/business-development-manager-strategic-accounts?utm_source=api",
-   "source": "himalayas",
-   "flags": [],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": false,
-   "why": "Found by the daily scan. Open the posting and read it before applying.",
-   "mode": "Remote"
-  },
-  {
-   "id": "a170ab3a610",
-   "title": "Partnerships Lead, Banking & Capital Markets",
-   "company": "Chainlink Labs",
-   "country": "Ireland",
-   "region": "e",
-   "tier": "auto",
-   "fit": 6.5,
-   "rating": {
-    "fit": 6.5,
-    "conf": "Medium",
-    "parts": {
-     "role": 3.0,
-     "level": 0.5,
-     "place": 0.8,
-     "pay": 0.5,
-     "sector": 1.5,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "b2b",
-     "business development",
-     "negotiation",
-     "partnerships",
-     "web3"
-    ],
-    "missing": [
-     "api",
-     "enterprise",
-     "go-to-market",
-     "impact",
-     "integration",
-     "stakeholder"
-    ]
-   },
-   "posted": "2026-11-01",
-   "firstSeen": "2026-11-01",
-   "url": "https://himalayas.app/companies/chainlink-labs/jobs/partnerships-lead-banking-capital-markets?utm_source=api",
-   "source": "himalayas",
-   "flags": [
-    "asks up to 5+ years"
-   ],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": false,
-   "why": "Found by the daily scan. Open the posting and read it before applying."
-  },
-  {
-   "id": "af6f5171cb4",
-   "title": "Growth Lead, Marketplace",
-   "company": "circle",
-   "country": "Remote",
-   "region": "r",
-   "tier": "auto",
-   "fit": 6.5,
-   "rating": {
-    "fit": 6.5,
-    "conf": "Medium",
-    "parts": {
-     "role": 2.0,
-     "level": 0.5,
-     "place": 2.0,
-     "pay": 0.5,
-     "sector": 1.5,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "analytics",
-     "b2b",
-     "paid media",
-     "partnerships",
-     "seo",
-     "testing"
-    ],
-    "missing": [
-     "impact",
-     "lifecycle",
-     "retention"
-    ]
-   },
-   "posted": "2026-10-29",
-   "firstSeen": "2026-10-28",
-   "url": "https://jobs.ashbyhq.com/circle/b65d87cb-70bf-4716-992c-53c3c7540311",
-   "source": "ashby",
-   "flags": [],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": false,
-   "why": "Found by the daily scan. Open the posting and read it before applying.",
-   "mode": "Remote"
-  },
-  {
-   "id": "a3358ded8c0",
-   "title": "CRM Manager- Consumer",
-   "company": "sumup",
-   "country": "United Kingdom",
-   "region": "e",
-   "tier": "auto",
-   "fit": 6.5,
-   "rating": {
-    "fit": 6.5,
-    "conf": "Medium",
-    "parts": {
-     "role": 1.8,
-     "level": 2.0,
-     "place": 0.8,
-     "pay": 0.5,
-     "sector": 1.5,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "analytics",
-     "b2b",
-     "crm",
-     "testing"
-    ],
-    "missing": [
-     "api",
-     "gtm",
-     "lifecycle",
-     "retention",
-     "sql"
-    ]
-   },
-   "posted": "2026-10-27",
-   "firstSeen": "2026-10-28",
-   "url": "https://sumup.com/careers/positions/8888611002?gh_jid=8888611002",
-   "source": "greenhouse",
-   "flags": [
-    "asks up to 3+ years"
-   ],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": false,
-   "why": "Found by the daily scan. Open the posting and read it before applying."
   }
  ]
 }
