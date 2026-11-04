@@ -1,6 +1,6 @@
 {
- "generated": "03 Nov 2026 07:47 UTC",
- "count": 11,
+ "generated": "04 Nov 2026 05:03 UTC",
+ "count": 15,
  "items": [
   {
    "id": "a870d3886d9",
@@ -53,7 +53,7 @@
     ],
     "check": []
    },
-   "new": true,
+   "new": false,
    "why": "Found by the daily scan. Open the posting and read it before applying.",
    "mode": "Remote"
   },
@@ -155,7 +155,7 @@
     ],
     "check": []
    },
-   "new": true,
+   "new": false,
    "why": "Found by the daily scan. Open the posting and read it before applying.",
    "mode": "Remote"
   },
@@ -211,6 +211,191 @@
    "mode": "Remote"
   },
   {
+   "id": "afa707d7afc",
+   "title": "Business Development Manager",
+   "company": "Carwow",
+   "country": "United Kingdom",
+   "region": "e",
+   "tier": "auto",
+   "fit": 6.5,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.5,
+     "level": 1.0,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "business development",
+     "crm",
+     "negotiation",
+     "partnerships"
+    ],
+    "missing": [
+     "account management"
+    ]
+   },
+   "posted": "2026-11-04",
+   "firstSeen": "2026-11-04",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/carwow/business-development-manager-greater-manchester-279647",
+   "source": "arbeitnow",
+   "flags": [],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
+  },
+  {
+   "id": "a284f23b7aa",
+   "title": "Demand Growth Manager (f/m/d)",
+   "company": "adjoe",
+   "country": "Germany",
+   "region": "e",
+   "tier": "auto",
+   "fit": 6.5,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.0,
+     "level": 2.0,
+     "place": 1.3,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics"
+    ],
+    "missing": [
+     "account management",
+     "impact"
+    ]
+   },
+   "posted": "2026-11-04",
+   "firstSeen": "2026-11-04",
+   "url": "https://www.arbeitnow.com/jobs/companies/adjoe/demand-growth-manager-hamburg-2566",
+   "source": "arbeitnow",
+   "flags": [
+    "asks up to 3+ years",
+    "relocation/visa mentioned"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
+  },
+  {
+   "id": "a06629b88a3",
+   "title": "Social Commerce & Brand Growth Manager (m/w/d)",
+   "company": "MAGYC DRINKS GmbH",
+   "country": "Germany",
+   "region": "e",
+   "tier": "auto",
+   "fit": 6.5,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.5,
+     "level": 1.0,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "affiliate",
+     "analytics",
+     "content and social"
+    ],
+    "missing": []
+   },
+   "posted": "2026-11-03",
+   "firstSeen": "2026-11-04",
+   "url": "https://www.arbeitnow.com/jobs/companies/magyc-drinks-gmbh/social-commerce-brand-growth-manager-berlin-416365",
+   "source": "arbeitnow",
+   "flags": [],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
+  },
+  {
+   "id": "af55d259fcd",
+   "title": "Commercial Business Development Manager",
+   "company": "Instabee Group AB",
+   "country": "Sweden",
+   "region": "e",
+   "tier": "auto",
+   "fit": 6.5,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.5,
+     "level": 1.0,
+     "place": 0.9,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "business development"
+    ],
+    "missing": [
+     "api",
+     "impact"
+    ]
+   },
+   "posted": "2026-11-03",
+   "firstSeen": "2026-11-04",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31680199",
+   "source": "jobtech",
+   "flags": [
+    "asks up to 5+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Hybrid or office"
+  },
+  {
    "id": "a088f2aadff",
    "title": "Business Development Manager  Remote",
    "company": "Nordic Recruiters",
@@ -258,41 +443,40 @@
    "mode": "Remote"
   },
   {
-   "id": "a93645c3bb9",
-   "title": "Business Development Manager (Slovakia)",
-   "company": "Ajax Systems",
-   "country": "Slovakia",
-   "region": "e",
+   "id": "a68fb1adbee",
+   "title": "Channel Account Manager - EMEA",
+   "company": "Tufin",
+   "country": "Remote",
+   "region": "r",
    "tier": "auto",
    "fit": 6.5,
    "rating": {
     "fit": 6.5,
     "conf": "Medium",
     "parts": {
-     "role": 2.5,
-     "level": 2.0,
-     "place": 0.8,
+     "role": 2.3,
+     "level": 1.0,
+     "place": 2.0,
      "pay": 0.5,
      "sector": 0.7,
      "flags": -0.0
     },
     "notes": [],
     "have": [
-     "analytics",
      "business development",
-     "negotiation"
+     "partnerships"
     ],
     "missing": [
-     "stakeholder"
+     "enterprise",
+     "gtm",
+     "lead generation"
     ]
    },
-   "posted": "2026-11-02",
-   "firstSeen": "2026-11-03",
-   "url": "https://jobicy.com/jobs/154393-business-development-manager-slovakia",
-   "source": "jobicy",
-   "flags": [
-    "asks up to 2+ years"
-   ],
+   "posted": "2026-11-01",
+   "firstSeen": "2026-11-04",
+   "url": "https://himalayas.app/companies/tufin/jobs/channel-account-manager-emea?utm_source=api",
+   "source": "himalayas",
+   "flags": [],
    "check": {
     "tier": "Looks live",
     "good": [
@@ -302,6 +486,56 @@
     "check": []
    },
    "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Remote"
+  },
+  {
+   "id": "a25a520437d",
+   "title": "Partner Manager",
+   "company": "EER Poland",
+   "country": "Czechia",
+   "region": "e",
+   "tier": "auto",
+   "fit": 6.5,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.0,
+     "level": 1.0,
+     "place": 1.3,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "negotiation",
+     "partnerships"
+    ],
+    "missing": [
+     "impact",
+     "lifecycle",
+     "tracking"
+    ]
+   },
+   "posted": "2026-11-01",
+   "firstSeen": "2026-11-02",
+   "url": "https://himalayas.app/companies/eer-poland/jobs/partner-manager-179967692?utm_source=api",
+   "source": "himalayas",
+   "flags": [
+    "relocation/visa mentioned"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": false,
    "why": "Found by the daily scan. Open the posting and read it before applying."
   },
   {
@@ -353,7 +587,7 @@
     ],
     "check": []
    },
-   "new": true,
+   "new": false,
    "why": "Found by the daily scan. Open the posting and read it before applying.",
    "mode": "Remote"
   },
@@ -410,55 +644,6 @@
    },
    "new": false,
    "why": "Found by the daily scan. Open the posting and read it before applying."
-  },
-  {
-   "id": "a38cd9f4542",
-   "title": "Business Development Manager (Sub-Saharan Africa)",
-   "company": "Ajax Systems",
-   "country": "Remote",
-   "region": "r",
-   "tier": "auto",
-   "fit": 6.5,
-   "rating": {
-    "fit": 6.5,
-    "conf": "Medium",
-    "parts": {
-     "role": 2.5,
-     "level": 1.0,
-     "place": 2.0,
-     "pay": 0.5,
-     "sector": 0.7,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "analytics",
-     "business development",
-     "negotiation"
-    ],
-    "missing": [
-     "impact",
-     "stakeholder"
-    ]
-   },
-   "posted": "2026-10-31",
-   "firstSeen": "2026-11-01",
-   "url": "https://jobicy.com/jobs/158236-business-development-manager-sub-saharan-africa",
-   "source": "jobicy",
-   "flags": [
-    "asks up to 5+ years"
-   ],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": false,
-   "why": "Found by the daily scan. Open the posting and read it before applying.",
-   "mode": "Remote"
   },
   {
    "id": "af6f5171cb4",

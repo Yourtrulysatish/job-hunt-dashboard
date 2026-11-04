@@ -1,5 +1,61 @@
 {
- "generated": "03 Nov 2026 07:47 UTC",
- "count": 0,
- "items": []
+ "generated": "04 Nov 2026 05:03 UTC",
+ "count": 1,
+ "items": [
+  {
+   "id": "a58035421d6",
+   "title": "Business Development Manager",
+   "company": "Kaluza",
+   "country": "United Kingdom",
+   "region": "e",
+   "tier": "auto",
+   "fit": 7.0,
+   "rating": {
+    "fit": 7.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.5,
+     "level": 1.0,
+     "place": 1.4,
+     "pay": 1.0,
+     "sector": 1.5,
+     "flags": -0.5
+    },
+    "notes": [
+     "needs existing right to work"
+    ],
+    "have": [
+     "analytics",
+     "b2b",
+     "business development",
+     "content and social"
+    ],
+    "missing": [
+     "cac",
+     "enterprise",
+     "impact",
+     "lead generation"
+    ]
+   },
+   "posted": "2026-11-03",
+   "firstSeen": "2026-11-04",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/kaluza/business-development-manager-london-290864",
+   "source": "arbeitnow",
+   "flags": [
+    "relocation/visa mentioned",
+    "needs right to work"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Hybrid or office"
+  }
+ ]
 }

@@ -150,11 +150,13 @@
     ]
    },
    "check": {
-    "tier": "Looks live",
+    "tier": "Check first",
     "good": [
      "detailed description"
     ],
-    "check": []
+    "check": [
+     "older than three weeks"
+    ]
    },
    "read": true,
    "below": false
@@ -381,9 +383,7 @@
    },
    "check": {
     "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks"
-    ],
+    "good": [],
     "check": []
    },
    "read": true,
@@ -1145,6 +1145,7 @@
     },
     "notes": [],
     "have": [
+     "analytics",
      "b2b",
      "business development",
      "content and social",
@@ -1734,40 +1735,30 @@
    "url": "https://jobicy.com/jobs/154292-growth-marketing-specialist-2",
    "read": true,
    "rating": {
-    "fit": 8.0,
+    "fit": 7.0,
     "conf": "Medium",
     "parts": {
      "role": 2.0,
      "level": 2.0,
      "place": 2.0,
      "pay": 0.5,
-     "sector": 1.5,
+     "sector": 0.7,
      "flags": -0.0
     },
     "notes": [],
-    "have": [
-     "analytics",
-     "b2b",
-     "content and social",
-     "paid media"
-    ],
-    "missing": [
-     "api",
-     "email marketing",
-     "enterprise",
-     "impact",
-     "stakeholder"
-    ]
+    "have": [],
+    "missing": []
    },
-   "fit": 5.5,
+   "fit": 4.5,
    "below": true,
    "check": {
-    "tier": "Looks live",
+    "tier": "Check first",
     "good": [
-     "posted in the last two weeks",
-     "detailed description"
+     "posted in the last two weeks"
     ],
-    "check": []
+    "check": [
+     "text not read"
+    ]
    },
    "fitAdjust": -2.5,
    "adjustWhy": "Wants 3+ years of hands on Google, Microsoft and LinkedIn Ads optimisation with real depth in paid, which is not his core background."
@@ -1889,5 +1880,5 @@
    "adjustWhy": "Founding enterprise ISV role expecting MarTech or CDP ecosystem depth and cloud marketplace co-sell experience, which he does not have; formula overrates it on title and remote Europe."
   }
  ],
- "rated": "03 Nov 2026 07:47 UTC"
+ "rated": "04 Nov 2026 05:03 UTC"
 }
