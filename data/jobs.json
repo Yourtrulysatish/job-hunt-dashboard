@@ -1,5 +1,5 @@
 {
- "updated": "4 Nov 2026",
+ "updated": "5 Nov 2026",
  "jobs": [
   {
    "title": "Affiliate & Partnerships Manager",
@@ -1676,30 +1676,38 @@
    "url": "https://himalayas.app/companies/tangem-ag/jobs/regional-growth-manager?utm_source=api",
    "read": true,
    "rating": {
-    "fit": 7.0,
+    "fit": 8.0,
     "conf": "Medium",
     "parts": {
      "role": 2.0,
      "level": 2.0,
      "place": 2.0,
      "pay": 0.5,
-     "sector": 0.7,
+     "sector": 1.5,
      "flags": -0.0
     },
     "notes": [],
-    "have": [],
-    "missing": []
+    "have": [
+     "analytics",
+     "business development",
+     "content and social",
+     "partnerships",
+     "web3"
+    ],
+    "missing": [
+     "api",
+     "go-to-market"
+    ]
    },
-   "fit": 7.0,
+   "fit": 8.0,
    "below": false,
    "check": {
-    "tier": "Check first",
+    "tier": "Looks live",
     "good": [
-     "posted in the last two weeks"
+     "posted in the last two weeks",
+     "detailed description"
     ],
-    "check": [
-     "text not read"
-    ]
+    "check": []
    }
   },
   {
@@ -2041,7 +2049,119 @@
    },
    "fitAdjust": -1.0,
    "adjustWhy": "Unnamed client through a recruiter, Baltic candidates preferred and existing payments industry connections expected, so the odds are lower than the formula suggests."
+  },
+  {
+   "id": "foxelli-marketing-manager",
+   "title": "Marketing Manager | 100% Remote EU",
+   "company": "Foxelli Group",
+   "country": "Remote",
+   "city": "Remote (Croatia is on the hiring list)",
+   "region": "r",
+   "tier": "apply",
+   "mode": "Fully remote, at least 5 hours overlap with EET",
+   "posted": "2026-11-05",
+   "exp": "Experience as a marketing manager or full stack marketer in e-commerce. No year count.",
+   "lang": "English",
+   "visa": "Remote contractor role, Croatia named in the eligible countries",
+   "visaState": "unstated",
+   "pay": "EUR 2,000 to 2,800 a month after tax, contract or freelance agreement",
+   "why": "D2C e-commerce group that wants one person to run funnels, landing pages, offers, ad briefs and A/B tests, using AI tools heavily, which fits your growth and content work and is open to Croatia. The catch is it is a freelance contract with modest pay, and they want hands on e-commerce CRO and Facebook ads experience you would need to show.",
+   "url": "https://himalayas.app/companies/foxelli-group/jobs/marketing-manager-100-remote-eu?utm_source=api",
+   "source": "Himalayas",
+   "read": true,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.0,
+     "level": 1.0,
+     "place": 2.0,
+     "pay": 1.0,
+     "sector": 1.5,
+     "flags": -1.0
+    },
+    "notes": [
+     "contract rather than employee"
+    ],
+    "have": [
+     "affiliate",
+     "analytics",
+     "b2b",
+     "content and social",
+     "paid media",
+     "testing"
+    ],
+    "missing": [
+     "impact",
+     "stakeholder"
+    ]
+   },
+   "fit": 6.5,
+   "below": false,
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   }
+  },
+  {
+   "id": "tangem-bd-investment-products",
+   "title": "Business Development Manager (Investment Products)",
+   "company": "Tangem AG",
+   "country": "Switzerland",
+   "city": "Zug (Himalayas restricts the listing to Switzerland)",
+   "region": "e",
+   "tier": "apply",
+   "mode": "Not stated in the posting, listing restricted to Switzerland",
+   "posted": "2026-10-29",
+   "exp": "No year count. Background in BD, partnerships, key accounts, SDR or a similar commercial role, and deep crypto knowledge.",
+   "lang": "English",
+   "visa": "Not mentioned. Switzerland is outside the EU, so a permit could be needed if they hold to the Switzerland restriction.",
+   "visaState": "unstated",
+   "pay": "Not stated",
+   "why": "Crypto wallet company wants someone to grow partnerships around swaps, staking, yield and on/off ramps, win ecosystem grants and run partner funded campaigns with protocols and foundations, which is very close to your CryptoNewsZ partnership work. The catch is a quarterly revenue target and an unclear location, so ask whether remote from Croatia is possible.",
+   "url": "https://himalayas.app/companies/tangem-ag/jobs/business-development-manager-investment-products?utm_source=api",
+   "source": "Himalayas",
+   "read": true,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.5,
+     "level": 1.0,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "business development",
+     "negotiation",
+     "partnerships",
+     "web3"
+    ],
+    "missing": [
+     "account management",
+     "impact"
+    ]
+   },
+   "fit": 7.5,
+   "below": false,
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "fitAdjust": 1.0,
+   "adjustWhy": "No year count is asked and the work is crypto ecosystem partnerships, grants and partner funded campaigns, the core of the CryptoNewsZ role. Location is the one open question."
   }
  ],
- "rated": "05 Nov 2026 05:04 UTC"
+ "rated": "05 Nov 2026 07:41 UTC"
 }
