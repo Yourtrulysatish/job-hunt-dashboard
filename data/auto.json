@@ -1,5 +1,53 @@
 {
- "generated": "04 Nov 2026 11:56 UTC",
- "count": 0,
- "items": []
+ "generated": "05 Nov 2026 05:04 UTC",
+ "count": 1,
+ "items": [
+  {
+   "id": "a014fb8e452",
+   "title": "Business Development Manager (New Business)",
+   "company": "Legal 500",
+   "country": "United Kingdom",
+   "region": "e",
+   "tier": "auto",
+   "fit": 7.5,
+   "rating": {
+    "fit": 7.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.5,
+     "level": 2.0,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "b2b",
+     "business development",
+     "crm",
+     "negotiation"
+    ],
+    "missing": []
+   },
+   "posted": "2026-11-04",
+   "firstSeen": "2026-11-05",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/legal-500/business-development-manager-new-business-london-433583",
+   "source": "arbeitnow",
+   "flags": [
+    "asks up to 3+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
+  }
+ ]
 }

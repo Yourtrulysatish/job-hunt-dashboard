@@ -112,7 +112,7 @@
    "region": "e",
    "mode": "Hybrid, 3 office days",
    "tier": "apply",
-   "fit": 8.5,
+   "fit": 7.0,
    "posted": "2026-10-13",
    "exp": "2 to 3 years in partnerships and affiliate marketing, including affiliate network work (onboarding, tracking, reporting).",
    "lang": "English",
@@ -124,38 +124,26 @@
    "source": "Farfetch careers",
    "id": "farfetch",
    "rating": {
-    "fit": 8.5,
+    "fit": 7.0,
     "conf": "Medium",
     "parts": {
-     "role": 3.5,
+     "role": 3.0,
      "level": 2.0,
      "place": 0.9,
      "pay": 0.5,
-     "sector": 1.5,
+     "sector": 0.7,
      "flags": -0.0
     },
     "notes": [],
-    "have": [
-     "affiliate",
-     "analytics",
-     "content and social",
-     "negotiation",
-     "paid media",
-     "partnerships"
-    ],
-    "missing": [
-     "looker",
-     "stakeholder",
-     "tracking"
-    ]
+    "have": [],
+    "missing": []
    },
    "check": {
     "tier": "Check first",
-    "good": [
-     "detailed description"
-    ],
+    "good": [],
     "check": [
-     "older than three weeks"
+     "older than three weeks",
+     "text not read"
     ]
    },
    "read": true,
@@ -746,7 +734,6 @@
    "check": {
     "tier": "Check first",
     "good": [
-     "posted in the last two weeks",
      "has a closing date"
     ],
     "check": [
@@ -1027,7 +1014,7 @@
    "region": "r",
    "mode": "Remote",
    "tier": "stretch",
-   "fit": 7.0,
+   "fit": 6.0,
    "posted": "2026-10-26",
    "exp": "Listed as asking up to 5+ years.",
    "visa": "Remote role, not applicable",
@@ -1036,11 +1023,11 @@
    "source": "ElevenLabs careers",
    "id": "elevenlabs",
    "rating": {
-    "fit": 7.0,
+    "fit": 6.0,
     "conf": "Medium",
     "parts": {
      "role": 3.0,
-     "level": 1.0,
+     "level": 0.0,
      "place": 2.0,
      "pay": 0.5,
      "sector": 0.7,
@@ -1070,7 +1057,7 @@
     "check": []
    },
    "read": true,
-   "below": false
+   "below": true
   },
   {
    "title": "Channel Manager, EMEA",
@@ -1222,11 +1209,13 @@
     ]
    },
    "check": {
-    "tier": "Looks live",
+    "tier": "Check first",
     "good": [
      "detailed description"
     ],
-    "check": []
+    "check": [
+     "older than three weeks"
+    ]
    },
    "fitAdjust": 1.5,
    "adjustWhy": "Runs the affiliate network itself and the posting asks for no year count. The formula marks it down for the fixed term contract.",
@@ -1613,9 +1602,7 @@
    "below": true,
    "check": {
     "tier": "Check first",
-    "good": [
-     "posted in the last two weeks"
-    ],
+    "good": [],
     "check": [
      "text not read"
     ]
@@ -2056,5 +2043,5 @@
    "adjustWhy": "Unnamed client through a recruiter, Baltic candidates preferred and existing payments industry connections expected, so the odds are lower than the formula suggests."
   }
  ],
- "rated": "04 Nov 2026 11:56 UTC"
+ "rated": "05 Nov 2026 05:04 UTC"
 }

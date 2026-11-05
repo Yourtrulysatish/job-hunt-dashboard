@@ -1,6 +1,6 @@
 {
- "generated": "04 Nov 2026 11:56 UTC",
- "count": 6,
+ "generated": "05 Nov 2026 05:04 UTC",
+ "count": 16,
  "items": [
   {
    "id": "a870d3886d9",
@@ -58,6 +58,395 @@
    "mode": "Remote"
   },
   {
+   "id": "a4a1cc6507a",
+   "title": "Marketing Manager| 100% Remote EU",
+   "company": "Foxelli Group ",
+   "country": "Remote",
+   "region": "r",
+   "tier": "auto",
+   "fit": 7.0,
+   "rating": {
+    "fit": 7.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.0,
+     "level": 1.0,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "affiliate",
+     "analytics",
+     "b2b",
+     "content and social",
+     "paid media",
+     "testing"
+    ],
+    "missing": [
+     "impact",
+     "stakeholder"
+    ]
+   },
+   "posted": "2026-11-05",
+   "firstSeen": "2026-11-05",
+   "url": "https://himalayas.app/companies/foxelli-group/jobs/marketing-manager-100-remote-eu?utm_source=api",
+   "source": "himalayas",
+   "flags": [],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Remote"
+  },
+  {
+   "id": "a7e3f178cc6",
+   "title": "Solution Consultant - Partnerships",
+   "company": "Workiva",
+   "country": "United Kingdom",
+   "region": "e",
+   "tier": "auto",
+   "fit": 7.0,
+   "rating": {
+    "fit": 7.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.0,
+     "level": 2.0,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "b2b",
+     "content and social"
+    ],
+    "missing": [
+     "api",
+     "enterprise",
+     "integration"
+    ]
+   },
+   "posted": "2026-11-02",
+   "firstSeen": "2026-11-03",
+   "url": "https://himalayas.app/companies/workiva/jobs/solution-consultant-partnerships?utm_source=api",
+   "source": "himalayas",
+   "flags": [
+    "asks up to 4+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": false,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
+  },
+  {
+   "id": "aa9e1c67ed4",
+   "title": "Defence Manufacturing Partnerships Consultant (Workshops, OKRs, Data Analysis) f",
+   "company": "WLG",
+   "country": "Poland",
+   "region": "e",
+   "tier": "auto",
+   "fit": 7.0,
+   "rating": {
+    "fit": 7.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.0,
+     "level": 1.0,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "partnerships"
+    ],
+    "missing": [
+     "stakeholder"
+    ]
+   },
+   "posted": "2026-10-29",
+   "firstSeen": "2026-10-31",
+   "url": "https://himalayas.app/companies/wlg/jobs/defence-manufacturing-partnerships-consultant-workshops-okrs-data-analysis-f?utm_source=api",
+   "source": "himalayas",
+   "flags": [
+    "asks up to 5+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": false,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
+  },
+  {
+   "id": "adf8ef11b21",
+   "title": "Manufacturing Innovation Consultant (Scale-ups, Production Partnerships) for NAT",
+   "company": "WLG",
+   "country": "Poland",
+   "region": "e",
+   "tier": "auto",
+   "fit": 7.0,
+   "rating": {
+    "fit": 7.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.0,
+     "level": 1.0,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "partnerships"
+    ],
+    "missing": [
+     "stakeholder"
+    ]
+   },
+   "posted": "2026-10-29",
+   "firstSeen": "2026-10-29",
+   "url": "https://himalayas.app/companies/wlg/jobs/manufacturing-innovation-consultant-scale-ups-production-partnerships-for-nat?utm_source=api",
+   "source": "himalayas",
+   "flags": [
+    "asks up to 5+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": false,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
+  },
+  {
+   "id": "a32ae78d66a",
+   "title": "Manager, Business Development",
+   "company": "Encord",
+   "country": "United Kingdom",
+   "region": "e",
+   "tier": "auto",
+   "fit": 6.5,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.5,
+     "level": 2.0,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "b2b",
+     "business development",
+     "crm"
+    ],
+    "missing": [
+     "api",
+     "commission",
+     "enterprise",
+     "impact"
+    ]
+   },
+   "posted": "2026-11-05",
+   "firstSeen": "2026-11-05",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/encord/manager-business-development-london-269179",
+   "source": "arbeitnow",
+   "flags": [
+    "asks up to 4+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
+  },
+  {
+   "id": "ab4a6d4bfb7",
+   "title": "Senior Partner Manager - Data & AI Security",
+   "company": "veeamsoftware",
+   "country": "Remote",
+   "region": "r",
+   "tier": "auto",
+   "fit": 6.5,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.0,
+     "level": 0.5,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "content and social",
+     "partnerships"
+    ],
+    "missing": [
+     "api",
+     "go-to-market",
+     "impact",
+     "stakeholder"
+    ]
+   },
+   "posted": "2026-11-04",
+   "firstSeen": "2026-11-05",
+   "url": "https://www.arbeitnow.com/jobs/companies/veeamsoftware/remote-senior-partner-manager-data-ai-security-475954",
+   "source": "arbeitnow",
+   "flags": [],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Remote"
+  },
+  {
+   "id": "a5fedbd03a4",
+   "title": "Paid Social Manager",
+   "company": "Midnite",
+   "country": "United Kingdom",
+   "region": "e",
+   "tier": "auto",
+   "fit": 6.5,
+   "rating": {
+    "fit": 6.5,
+    "conf": "High",
+    "parts": {
+     "role": 1.8,
+     "level": 2.0,
+     "place": 0.8,
+     "pay": 1.0,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "content and social",
+     "paid media",
+     "testing"
+    ],
+    "missing": [
+     "attribution",
+     "impact",
+     "tracking"
+    ]
+   },
+   "posted": "2026-11-04",
+   "firstSeen": "2026-11-05",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/midnite/paid-social-manager-united-kingdom-254671",
+   "source": "arbeitnow",
+   "flags": [
+    "asks up to 3+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
+  },
+  {
+   "id": "ae7bda2f90e",
+   "title": "Paid Media Manager (UK Based)",
+   "company": "Kyra",
+   "country": "United Kingdom",
+   "region": "e",
+   "tier": "auto",
+   "fit": 6.5,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 1.8,
+     "level": 2.0,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "b2b",
+     "content and social",
+     "paid media"
+    ],
+    "missing": [
+     "enterprise",
+     "lifecycle",
+     "stakeholder"
+    ]
+   },
+   "posted": "2026-11-04",
+   "firstSeen": "2026-11-05",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/kyra/paid-media-manager-uk-based-407598",
+   "source": "arbeitnow",
+   "flags": [
+    "asks up to 3+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
+  },
+  {
    "id": "aa9e11e6dbe",
    "title": "Performance Marketing Lead (User Acquisition)",
    "company": "Bjak",
@@ -106,100 +495,6 @@
    "new": true,
    "why": "Found by the daily scan. Open the posting and read it before applying.",
    "mode": "Remote"
-  },
-  {
-   "id": "aa63f1f35e7",
-   "title": "Product Marketing Manager",
-   "company": "Clera",
-   "country": "Remote",
-   "region": "r",
-   "tier": "auto",
-   "fit": 6.5,
-   "rating": {
-    "fit": 6.5,
-    "conf": "High",
-    "parts": {
-     "role": 0.8,
-     "level": 2.0,
-     "place": 2.0,
-     "pay": 1.0,
-     "sector": 0.7,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [],
-    "missing": [
-     "account management",
-     "go-to-market",
-     "tracking"
-    ]
-   },
-   "posted": "2026-11-04",
-   "firstSeen": "2026-11-04",
-   "url": "https://himalayas.app/companies/clera/jobs/product-marketing-manager?utm_source=api",
-   "source": "himalayas",
-   "flags": [
-    "asks up to 4+ years",
-    "relocation/visa mentioned"
-   ],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying.",
-   "mode": "Remote"
-  },
-  {
-   "id": "afa707d7afc",
-   "title": "Business Development Manager",
-   "company": "Carwow",
-   "country": "United Kingdom",
-   "region": "e",
-   "tier": "auto",
-   "fit": 6.5,
-   "rating": {
-    "fit": 6.5,
-    "conf": "Medium",
-    "parts": {
-     "role": 2.5,
-     "level": 1.0,
-     "place": 0.8,
-     "pay": 0.5,
-     "sector": 1.5,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "analytics",
-     "business development",
-     "crm",
-     "negotiation",
-     "partnerships"
-    ],
-    "missing": [
-     "account management"
-    ]
-   },
-   "posted": "2026-11-04",
-   "firstSeen": "2026-11-04",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/carwow/business-development-manager-greater-manchester-279647",
-   "source": "arbeitnow",
-   "flags": [],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying."
   },
   {
    "id": "a06629b88a3",
@@ -291,6 +586,211 @@
    "new": true,
    "why": "Found by the daily scan. Open the posting and read it before applying.",
    "mode": "Hybrid or office"
+  },
+  {
+   "id": "a04e7fbceef",
+   "title": "Business Development Manager - Strategic Accounts",
+   "company": "Qargo",
+   "country": "Remote",
+   "region": "r",
+   "tier": "auto",
+   "fit": 6.5,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.5,
+     "level": 1.0,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "b2b",
+     "business development",
+     "negotiation"
+    ],
+    "missing": [
+     "api",
+     "commission",
+     "enterprise",
+     "go-to-market",
+     "impact",
+     "integration",
+     "stakeholder"
+    ]
+   },
+   "posted": "2026-11-01",
+   "firstSeen": "2026-10-27",
+   "url": "https://himalayas.app/companies/qargo/jobs/business-development-manager-strategic-accounts?utm_source=api",
+   "source": "himalayas",
+   "flags": [],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": false,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Remote"
+  },
+  {
+   "id": "a3358ded8c0",
+   "title": "CRM Manager- Consumer",
+   "company": "sumup",
+   "country": "United Kingdom",
+   "region": "e",
+   "tier": "auto",
+   "fit": 6.5,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 1.8,
+     "level": 2.0,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "b2b",
+     "crm",
+     "testing"
+    ],
+    "missing": [
+     "api",
+     "gtm",
+     "lifecycle",
+     "retention",
+     "sql"
+    ]
+   },
+   "posted": "2026-10-27",
+   "firstSeen": "2026-10-28",
+   "url": "https://sumup.com/careers/positions/8888611002?gh_jid=8888611002",
+   "source": "greenhouse",
+   "flags": [
+    "asks up to 3+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": false,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
+  },
+  {
+   "id": "af45080e365",
+   "title": "Product Marketing Manager (AI-Powered Affiliate Platform, iGaming)",
+   "company": "AllCares",
+   "country": "Spain",
+   "region": "e",
+   "tier": "auto",
+   "fit": 6.5,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.5,
+     "level": 1.0,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "affiliate",
+     "b2b",
+     "content and social",
+     "partnerships"
+    ],
+    "missing": [
+     "account management",
+     "api",
+     "go-to-market",
+     "gtm",
+     "impact",
+     "retention",
+     "stakeholder",
+     "tracking"
+    ]
+   },
+   "posted": "2026-10-18",
+   "firstSeen": "2026-10-27",
+   "url": "https://himalayas.app/companies/allcares/jobs/product-marketing-manager-ai-powered-affiliate-platform-igaming?utm_source=api",
+   "source": "himalayas",
+   "flags": [],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": false,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
+  },
+  {
+   "id": "a5e8f50f68c",
+   "title": "Customer Success Manager (AI-Powered Affiliate Platform, iGaming)",
+   "company": "AllCares",
+   "country": "Spain",
+   "region": "e",
+   "tier": "auto",
+   "fit": 6.5,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.5,
+     "level": 1.0,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "affiliate",
+     "b2b",
+     "partnerships"
+    ],
+    "missing": [
+     "account management",
+     "integration",
+     "lifecycle",
+     "retention",
+     "tracking"
+    ]
+   },
+   "posted": "2026-10-18",
+   "firstSeen": "2026-10-27",
+   "url": "https://himalayas.app/companies/allcares/jobs/customer-success-manager-ai-powered-affiliate-platform-igaming?utm_source=api",
+   "source": "himalayas",
+   "flags": [],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": false,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
   }
  ]
 }
