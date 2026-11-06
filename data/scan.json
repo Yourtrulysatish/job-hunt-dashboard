@@ -1,7 +1,152 @@
 {
- "generated": "05 Nov 2026 07:41 UTC",
- "count": 9,
+ "generated": "06 Nov 2026 05:04 UTC",
+ "count": 11,
  "items": [
+  {
+   "id": "ae82ba0842d",
+   "title": "Creator Partnerships (Independent Contractor Engagement)",
+   "company": "Agentio",
+   "country": "United Kingdom",
+   "region": "e",
+   "tier": "auto",
+   "fit": 8.0,
+   "rating": {
+    "fit": 8.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.0,
+     "level": 2.0,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "b2b",
+     "business development",
+     "content and social",
+     "paid media",
+     "partnerships"
+    ],
+    "missing": [
+     "go-to-market"
+    ]
+   },
+   "posted": "2026-11-05",
+   "firstSeen": "2026-11-06",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/agentio/creator-partnerships-independent-contractor-engagement-london-uk-175625",
+   "source": "arbeitnow",
+   "flags": [
+    "asks up to 4+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
+  },
+  {
+   "id": "a85272185e2",
+   "title": "Digital Marketing Manager (Strategy & Growth) Remote",
+   "company": "Little Pixies",
+   "country": "Remote",
+   "region": "r",
+   "tier": "auto",
+   "fit": 7.0,
+   "rating": {
+    "fit": 7.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.0,
+     "level": 2.0,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "content and social"
+    ],
+    "missing": [
+     "impact"
+    ]
+   },
+   "posted": "2026-11-05",
+   "firstSeen": "2026-11-06",
+   "url": "https://himalayas.app/companies/little-pixies/jobs/digital-marketing-manager-strategy-growth-remote?utm_source=api",
+   "source": "himalayas",
+   "flags": [
+    "asks up to 4+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Remote"
+  },
+  {
+   "id": "a4a8cb7aa50",
+   "title": "Channel Account Manager I, Service Providers",
+   "company": "Huntress",
+   "country": "Ireland",
+   "region": "e",
+   "tier": "auto",
+   "fit": 7.0,
+   "rating": {
+    "fit": 7.0,
+    "conf": "High",
+    "parts": {
+     "role": 2.3,
+     "level": 2.0,
+     "place": 0.8,
+     "pay": 1.0,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "content and social",
+     "crm",
+     "testing"
+    ],
+    "missing": [
+     "account management",
+     "enterprise",
+     "impact",
+     "retention"
+    ]
+   },
+   "posted": "2026-11-05",
+   "firstSeen": "2026-11-06",
+   "url": "https://jobicy.com/jobs/159122-channel-account-manager-i-service-providers",
+   "source": "jobicy",
+   "flags": [
+    "asks up to 2+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
+  },
   {
    "id": "a7e3f178cc6",
    "title": "Solution Consultant - Partnerships",
@@ -52,18 +197,18 @@
    "why": "Found by the daily scan. Open the posting and read it before applying."
   },
   {
-   "id": "aa9e1c67ed4",
-   "title": "Defence Manufacturing Partnerships Consultant (Workshops, OKRs, Data Analysis) f",
-   "company": "WLG",
-   "country": "Poland",
+   "id": "aa2fe764170",
+   "title": "Business Development Manager_ Germany",
+   "company": "TECCODD",
+   "country": "Germany",
    "region": "e",
    "tier": "auto",
-   "fit": 7.0,
+   "fit": 6.5,
    "rating": {
-    "fit": 7.0,
+    "fit": 6.5,
     "conf": "Medium",
     "parts": {
-     "role": 3.0,
+     "role": 2.5,
      "level": 1.0,
      "place": 0.8,
      "pay": 0.5,
@@ -73,19 +218,18 @@
     "notes": [],
     "have": [
      "analytics",
-     "partnerships"
+     "business development",
+     "negotiation"
     ],
     "missing": [
-     "stakeholder"
+     "account management"
     ]
    },
-   "posted": "2026-10-29",
-   "firstSeen": "2026-10-31",
-   "url": "https://himalayas.app/companies/wlg/jobs/defence-manufacturing-partnerships-consultant-workshops-okrs-data-analysis-f?utm_source=api",
+   "posted": "2026-11-05",
+   "firstSeen": "2026-11-06",
+   "url": "https://himalayas.app/companies/teccodd/jobs/business-development-manager_-germany-7523926763?utm_source=api",
    "source": "himalayas",
-   "flags": [
-    "asks up to 5+ years"
-   ],
+   "flags": [],
    "check": {
     "tier": "Looks live",
     "good": [
@@ -94,43 +238,93 @@
     ],
     "check": []
    },
-   "new": false,
+   "new": true,
    "why": "Found by the daily scan. Open the posting and read it before applying."
   },
   {
-   "id": "adf8ef11b21",
-   "title": "Manufacturing Innovation Consultant (Scale-ups, Production Partnerships) for NAT",
-   "company": "WLG",
-   "country": "Poland",
-   "region": "e",
+   "id": "adc9f70029e",
+   "title": "Business Development Manager",
+   "company": "Just Slots",
+   "country": "Remote",
+   "region": "r",
    "tier": "auto",
-   "fit": 7.0,
+   "fit": 6.5,
    "rating": {
-    "fit": 7.0,
+    "fit": 6.5,
     "conf": "Medium",
     "parts": {
-     "role": 3.0,
+     "role": 2.5,
      "level": 1.0,
-     "place": 0.8,
+     "place": 2.0,
      "pay": 0.5,
-     "sector": 1.5,
+     "sector": 0.7,
      "flags": -0.0
     },
     "notes": [],
     "have": [
      "analytics",
+     "b2b",
+     "business development",
+     "content and social",
+     "negotiation",
      "partnerships"
     ],
     "missing": [
-     "stakeholder"
+     "account management",
+     "integration"
     ]
    },
-   "posted": "2026-10-29",
-   "firstSeen": "2026-10-29",
-   "url": "https://himalayas.app/companies/wlg/jobs/manufacturing-innovation-consultant-scale-ups-production-partnerships-for-nat?utm_source=api",
+   "posted": "2026-11-05",
+   "firstSeen": "2026-11-06",
+   "url": "https://himalayas.app/companies/just-slots/jobs/business-development-manager?utm_source=api",
    "source": "himalayas",
+   "flags": [],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Remote"
+  },
+  {
+   "id": "a89fc83326d",
+   "title": "Data Center Long-Term Capacity Partnerships",
+   "company": "Mistral.ai",
+   "country": "France",
+   "region": "e",
+   "tier": "auto",
+   "fit": 6.5,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.0,
+     "level": 1.0,
+     "place": 1.3,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "negotiation",
+     "partnerships"
+    ],
+    "missing": [
+     "enterprise"
+    ]
+   },
+   "posted": "2026-11-05",
+   "firstSeen": "2026-11-06",
+   "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/data-center-long-term-capacity-partnerships-paris-49669",
+   "source": "arbeitnow",
    "flags": [
-    "asks up to 5+ years"
+    "relocation/visa mentioned"
    ],
    "check": {
     "tier": "Looks live",
@@ -140,7 +334,7 @@
     ],
     "check": []
    },
-   "new": false,
+   "new": true,
    "why": "Found by the daily scan. Open the posting and read it before applying."
   },
   {
@@ -287,7 +481,7 @@
     ],
     "check": []
    },
-   "new": true,
+   "new": false,
    "why": "Found by the daily scan. Open the posting and read it before applying.",
    "mode": "Hybrid or office"
   },
@@ -343,106 +537,6 @@
    "new": false,
    "why": "Found by the daily scan. Open the posting and read it before applying.",
    "mode": "Remote"
-  },
-  {
-   "id": "af45080e365",
-   "title": "Product Marketing Manager (AI-Powered Affiliate Platform, iGaming)",
-   "company": "AllCares",
-   "country": "Spain",
-   "region": "e",
-   "tier": "auto",
-   "fit": 6.5,
-   "rating": {
-    "fit": 6.5,
-    "conf": "Medium",
-    "parts": {
-     "role": 3.5,
-     "level": 1.0,
-     "place": 0.8,
-     "pay": 0.5,
-     "sector": 0.7,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "affiliate",
-     "b2b",
-     "content and social",
-     "partnerships"
-    ],
-    "missing": [
-     "account management",
-     "api",
-     "go-to-market",
-     "gtm",
-     "impact",
-     "retention",
-     "stakeholder",
-     "tracking"
-    ]
-   },
-   "posted": "2026-10-18",
-   "firstSeen": "2026-10-27",
-   "url": "https://himalayas.app/companies/allcares/jobs/product-marketing-manager-ai-powered-affiliate-platform-igaming?utm_source=api",
-   "source": "himalayas",
-   "flags": [],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": false,
-   "why": "Found by the daily scan. Open the posting and read it before applying."
-  },
-  {
-   "id": "a5e8f50f68c",
-   "title": "Customer Success Manager (AI-Powered Affiliate Platform, iGaming)",
-   "company": "AllCares",
-   "country": "Spain",
-   "region": "e",
-   "tier": "auto",
-   "fit": 6.5,
-   "rating": {
-    "fit": 6.5,
-    "conf": "Medium",
-    "parts": {
-     "role": 3.5,
-     "level": 1.0,
-     "place": 0.8,
-     "pay": 0.5,
-     "sector": 0.7,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "affiliate",
-     "b2b",
-     "partnerships"
-    ],
-    "missing": [
-     "account management",
-     "integration",
-     "lifecycle",
-     "retention",
-     "tracking"
-    ]
-   },
-   "posted": "2026-10-18",
-   "firstSeen": "2026-10-27",
-   "url": "https://himalayas.app/companies/allcares/jobs/customer-success-manager-ai-powered-affiliate-platform-igaming?utm_source=api",
-   "source": "himalayas",
-   "flags": [],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": false,
-   "why": "Found by the daily scan. Open the posting and read it before applying."
   }
  ]
 }

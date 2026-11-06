@@ -411,9 +411,7 @@
    },
    "check": {
     "tier": "Check first",
-    "good": [
-     "posted in the last two weeks"
-    ],
+    "good": [],
     "check": [
      "text not read"
     ]
@@ -691,6 +689,7 @@
     "tier": "Check first",
     "good": [],
     "check": [
+     "older than three weeks",
      "text not read"
     ]
    },
@@ -1650,6 +1649,7 @@
     "tier": "Check first",
     "good": [],
     "check": [
+     "older than three weeks",
      "text not read"
     ]
    },
@@ -1676,38 +1676,30 @@
    "url": "https://himalayas.app/companies/tangem-ag/jobs/regional-growth-manager?utm_source=api",
    "read": true,
    "rating": {
-    "fit": 8.0,
+    "fit": 7.0,
     "conf": "Medium",
     "parts": {
      "role": 2.0,
      "level": 2.0,
      "place": 2.0,
      "pay": 0.5,
-     "sector": 1.5,
+     "sector": 0.7,
      "flags": -0.0
     },
     "notes": [],
-    "have": [
-     "analytics",
-     "business development",
-     "content and social",
-     "partnerships",
-     "web3"
-    ],
-    "missing": [
-     "api",
-     "go-to-market"
-    ]
+    "have": [],
+    "missing": []
    },
-   "fit": 8.0,
+   "fit": 7.0,
    "below": false,
    "check": {
-    "tier": "Looks live",
+    "tier": "Check first",
     "good": [
-     "posted in the last two weeks",
-     "detailed description"
+     "posted in the last two weeks"
     ],
-    "check": []
+    "check": [
+     "text not read"
+    ]
    }
   },
   {
@@ -2070,41 +2062,32 @@
    "source": "Himalayas",
    "read": true,
    "rating": {
-    "fit": 6.5,
+    "fit": 5.0,
     "conf": "Medium",
     "parts": {
-     "role": 2.0,
+     "role": 1.5,
      "level": 1.0,
      "place": 2.0,
      "pay": 1.0,
-     "sector": 1.5,
+     "sector": 0.7,
      "flags": -1.0
     },
     "notes": [
      "contract rather than employee"
     ],
-    "have": [
-     "affiliate",
-     "analytics",
-     "b2b",
-     "content and social",
-     "paid media",
-     "testing"
-    ],
-    "missing": [
-     "impact",
-     "stakeholder"
-    ]
+    "have": [],
+    "missing": []
    },
-   "fit": 6.5,
-   "below": false,
+   "fit": 5.0,
+   "below": true,
    "check": {
-    "tier": "Looks live",
+    "tier": "Check first",
     "good": [
-     "posted in the last two weeks",
-     "detailed description"
+     "posted in the last two weeks"
     ],
-    "check": []
+    "check": [
+     "text not read"
+    ]
    }
   },
   {
@@ -2127,41 +2110,34 @@
    "source": "Himalayas",
    "read": true,
    "rating": {
-    "fit": 6.5,
+    "fit": 5.5,
     "conf": "Medium",
     "parts": {
      "role": 2.5,
      "level": 1.0,
      "place": 0.8,
      "pay": 0.5,
-     "sector": 1.5,
+     "sector": 0.7,
      "flags": -0.0
     },
     "notes": [],
-    "have": [
-     "business development",
-     "negotiation",
-     "partnerships",
-     "web3"
-    ],
-    "missing": [
-     "account management",
-     "impact"
-    ]
+    "have": [],
+    "missing": []
    },
-   "fit": 7.5,
+   "fit": 6.5,
    "below": false,
    "check": {
-    "tier": "Looks live",
+    "tier": "Check first",
     "good": [
-     "posted in the last two weeks",
-     "detailed description"
+     "posted in the last two weeks"
     ],
-    "check": []
+    "check": [
+     "text not read"
+    ]
    },
    "fitAdjust": 1.0,
    "adjustWhy": "No year count is asked and the work is crypto ecosystem partnerships, grants and partner funded campaigns, the core of the CryptoNewsZ role. Location is the one open question."
   }
  ],
- "rated": "05 Nov 2026 07:41 UTC"
+ "rated": "06 Nov 2026 05:04 UTC"
 }
