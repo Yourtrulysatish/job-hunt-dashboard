@@ -1,60 +1,11 @@
 {
- "generated": "06 Nov 2026 05:04 UTC",
- "count": 11,
+ "generated": "06 Nov 2026 11:17 UTC",
+ "count": 10,
  "items": [
   {
-   "id": "ae82ba0842d",
-   "title": "Creator Partnerships (Independent Contractor Engagement)",
-   "company": "Agentio",
-   "country": "United Kingdom",
-   "region": "e",
-   "tier": "auto",
-   "fit": 8.0,
-   "rating": {
-    "fit": 8.0,
-    "conf": "Medium",
-    "parts": {
-     "role": 3.0,
-     "level": 2.0,
-     "place": 0.8,
-     "pay": 0.5,
-     "sector": 1.5,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "b2b",
-     "business development",
-     "content and social",
-     "paid media",
-     "partnerships"
-    ],
-    "missing": [
-     "go-to-market"
-    ]
-   },
-   "posted": "2026-11-05",
-   "firstSeen": "2026-11-06",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/agentio/creator-partnerships-independent-contractor-engagement-london-uk-175625",
-   "source": "arbeitnow",
-   "flags": [
-    "asks up to 4+ years"
-   ],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying."
-  },
-  {
-   "id": "a85272185e2",
-   "title": "Digital Marketing Manager (Strategy & Growth) Remote",
-   "company": "Little Pixies",
+   "id": "a387970b639",
+   "title": "User Acquisition Manager (Google Ads) | Partner Company",
+   "company": "Boosta",
    "country": "Remote",
    "region": "r",
    "tier": "auto",
@@ -72,67 +23,17 @@
     },
     "notes": [],
     "have": [
-     "content and social"
+     "paid media"
     ],
     "missing": [
-     "impact"
-    ]
-   },
-   "posted": "2026-11-05",
-   "firstSeen": "2026-11-06",
-   "url": "https://himalayas.app/companies/little-pixies/jobs/digital-marketing-manager-strategy-growth-remote?utm_source=api",
-   "source": "himalayas",
-   "flags": [
-    "asks up to 4+ years"
-   ],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying.",
-   "mode": "Remote"
-  },
-  {
-   "id": "a4a8cb7aa50",
-   "title": "Channel Account Manager I, Service Providers",
-   "company": "Huntress",
-   "country": "Ireland",
-   "region": "e",
-   "tier": "auto",
-   "fit": 7.0,
-   "rating": {
-    "fit": 7.0,
-    "conf": "High",
-    "parts": {
-     "role": 2.3,
-     "level": 2.0,
-     "place": 0.8,
-     "pay": 1.0,
-     "sector": 0.7,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "content and social",
-     "crm",
-     "testing"
-    ],
-    "missing": [
-     "account management",
-     "enterprise",
      "impact",
-     "retention"
+     "ltv"
     ]
    },
-   "posted": "2026-11-05",
+   "posted": "2026-11-06",
    "firstSeen": "2026-11-06",
-   "url": "https://jobicy.com/jobs/159122-channel-account-manager-i-service-providers",
-   "source": "jobicy",
+   "url": "https://himalayas.app/companies/boosta/jobs/user-acquisition-manager-google-ads-partner-company-1979725934?utm_source=api",
+   "source": "himalayas",
    "flags": [
     "asks up to 2+ years"
    ],
@@ -145,7 +46,8 @@
     "check": []
    },
    "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying."
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Remote"
   },
   {
    "id": "a7e3f178cc6",
@@ -197,6 +99,98 @@
    "why": "Found by the daily scan. Open the posting and read it before applying."
   },
   {
+   "id": "aa9e1c67ed4",
+   "title": "Defence Manufacturing Partnerships Consultant (Workshops, OKRs, Data Analysis) f",
+   "company": "WLG",
+   "country": "Poland",
+   "region": "e",
+   "tier": "auto",
+   "fit": 7.0,
+   "rating": {
+    "fit": 7.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.0,
+     "level": 1.0,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "partnerships"
+    ],
+    "missing": [
+     "stakeholder"
+    ]
+   },
+   "posted": "2026-10-29",
+   "firstSeen": "2026-10-31",
+   "url": "https://himalayas.app/companies/wlg/jobs/defence-manufacturing-partnerships-consultant-workshops-okrs-data-analysis-f?utm_source=api",
+   "source": "himalayas",
+   "flags": [
+    "asks up to 5+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": false,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
+  },
+  {
+   "id": "a6b256c69f1",
+   "title": "Business Development Manager - Government Services",
+   "company": "Leidos",
+   "country": "United Kingdom",
+   "region": "e",
+   "tier": "auto",
+   "fit": 6.5,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.5,
+     "level": 1.0,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "business development",
+     "content and social"
+    ],
+    "missing": [
+     "lifecycle",
+     "stakeholder"
+    ]
+   },
+   "posted": "2026-11-06",
+   "firstSeen": "2026-11-06",
+   "url": "https://himalayas.app/companies/leidos/jobs/business-development-manager-government-services?utm_source=api",
+   "source": "himalayas",
+   "flags": [],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
+  },
+  {
    "id": "aa2fe764170",
    "title": "Business Development Manager_ Germany",
    "company": "TECCODD",
@@ -240,56 +234,6 @@
    },
    "new": true,
    "why": "Found by the daily scan. Open the posting and read it before applying."
-  },
-  {
-   "id": "adc9f70029e",
-   "title": "Business Development Manager",
-   "company": "Just Slots",
-   "country": "Remote",
-   "region": "r",
-   "tier": "auto",
-   "fit": 6.5,
-   "rating": {
-    "fit": 6.5,
-    "conf": "Medium",
-    "parts": {
-     "role": 2.5,
-     "level": 1.0,
-     "place": 2.0,
-     "pay": 0.5,
-     "sector": 0.7,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "analytics",
-     "b2b",
-     "business development",
-     "content and social",
-     "negotiation",
-     "partnerships"
-    ],
-    "missing": [
-     "account management",
-     "integration"
-    ]
-   },
-   "posted": "2026-11-05",
-   "firstSeen": "2026-11-06",
-   "url": "https://himalayas.app/companies/just-slots/jobs/business-development-manager?utm_source=api",
-   "source": "himalayas",
-   "flags": [],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying.",
-   "mode": "Remote"
   },
   {
    "id": "a89fc83326d",
@@ -336,106 +280,6 @@
    },
    "new": true,
    "why": "Found by the daily scan. Open the posting and read it before applying."
-  },
-  {
-   "id": "a32ae78d66a",
-   "title": "Manager, Business Development",
-   "company": "Encord",
-   "country": "United Kingdom",
-   "region": "e",
-   "tier": "auto",
-   "fit": 6.5,
-   "rating": {
-    "fit": 6.5,
-    "conf": "Medium",
-    "parts": {
-     "role": 2.5,
-     "level": 2.0,
-     "place": 0.8,
-     "pay": 0.5,
-     "sector": 0.7,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "b2b",
-     "business development",
-     "crm"
-    ],
-    "missing": [
-     "api",
-     "commission",
-     "enterprise",
-     "impact"
-    ]
-   },
-   "posted": "2026-11-05",
-   "firstSeen": "2026-11-05",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/encord/manager-business-development-london-269179",
-   "source": "arbeitnow",
-   "flags": [
-    "asks up to 4+ years"
-   ],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying."
-  },
-  {
-   "id": "aa9e11e6dbe",
-   "title": "Performance Marketing Lead (User Acquisition)",
-   "company": "Bjak",
-   "country": "Remote",
-   "region": "r",
-   "tier": "auto",
-   "fit": 6.5,
-   "rating": {
-    "fit": 6.5,
-    "conf": "Medium",
-    "parts": {
-     "role": 2.0,
-     "level": 0.5,
-     "place": 2.0,
-     "pay": 0.5,
-     "sector": 1.5,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "b2b",
-     "paid media",
-     "testing"
-    ],
-    "missing": [
-     "attribution",
-     "cac",
-     "ltv"
-    ]
-   },
-   "posted": "2026-11-04",
-   "firstSeen": "2026-11-04",
-   "url": "https://himalayas.app/companies/bjak/jobs/performance-marketing-lead-user-acquisition?utm_source=api",
-   "source": "himalayas",
-   "flags": [
-    "asks up to 5+ years"
-   ],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying.",
-   "mode": "Remote"
   },
   {
    "id": "af55d259fcd",
@@ -537,6 +381,106 @@
    "new": false,
    "why": "Found by the daily scan. Open the posting and read it before applying.",
    "mode": "Remote"
+  },
+  {
+   "id": "af45080e365",
+   "title": "Product Marketing Manager (AI-Powered Affiliate Platform, iGaming)",
+   "company": "AllCares",
+   "country": "Spain",
+   "region": "e",
+   "tier": "auto",
+   "fit": 6.5,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.5,
+     "level": 1.0,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "affiliate",
+     "b2b",
+     "content and social",
+     "partnerships"
+    ],
+    "missing": [
+     "account management",
+     "api",
+     "go-to-market",
+     "gtm",
+     "impact",
+     "retention",
+     "stakeholder",
+     "tracking"
+    ]
+   },
+   "posted": "2026-10-18",
+   "firstSeen": "2026-10-27",
+   "url": "https://himalayas.app/companies/allcares/jobs/product-marketing-manager-ai-powered-affiliate-platform-igaming?utm_source=api",
+   "source": "himalayas",
+   "flags": [],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": false,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
+  },
+  {
+   "id": "a5e8f50f68c",
+   "title": "Customer Success Manager (AI-Powered Affiliate Platform, iGaming)",
+   "company": "AllCares",
+   "country": "Spain",
+   "region": "e",
+   "tier": "auto",
+   "fit": 6.5,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.5,
+     "level": 1.0,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "affiliate",
+     "b2b",
+     "partnerships"
+    ],
+    "missing": [
+     "account management",
+     "integration",
+     "lifecycle",
+     "retention",
+     "tracking"
+    ]
+   },
+   "posted": "2026-10-18",
+   "firstSeen": "2026-10-27",
+   "url": "https://himalayas.app/companies/allcares/jobs/customer-success-manager-ai-powered-affiliate-platform-igaming?utm_source=api",
+   "source": "himalayas",
+   "flags": [],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": false,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
   }
  ]
 }

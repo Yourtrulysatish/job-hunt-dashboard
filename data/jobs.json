@@ -1,5 +1,5 @@
 {
- "updated": "5 Nov 2026",
+ "updated": "6 Nov 2026",
  "jobs": [
   {
    "title": "Affiliate & Partnerships Manager",
@@ -1676,30 +1676,38 @@
    "url": "https://himalayas.app/companies/tangem-ag/jobs/regional-growth-manager?utm_source=api",
    "read": true,
    "rating": {
-    "fit": 7.0,
+    "fit": 8.0,
     "conf": "Medium",
     "parts": {
      "role": 2.0,
      "level": 2.0,
      "place": 2.0,
      "pay": 0.5,
-     "sector": 0.7,
+     "sector": 1.5,
      "flags": -0.0
     },
     "notes": [],
-    "have": [],
-    "missing": []
+    "have": [
+     "analytics",
+     "business development",
+     "content and social",
+     "partnerships",
+     "web3"
+    ],
+    "missing": [
+     "api",
+     "go-to-market"
+    ]
    },
-   "fit": 7.0,
+   "fit": 8.0,
    "below": false,
    "check": {
-    "tier": "Check first",
+    "tier": "Looks live",
     "good": [
-     "posted in the last two weeks"
+     "posted in the last two weeks",
+     "detailed description"
     ],
-    "check": [
-     "text not read"
-    ]
+    "check": []
    }
   },
   {
@@ -2110,22 +2118,193 @@
    "source": "Himalayas",
    "read": true,
    "rating": {
-    "fit": 5.5,
+    "fit": 6.5,
     "conf": "Medium",
     "parts": {
      "role": 2.5,
      "level": 1.0,
      "place": 0.8,
      "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "business development",
+     "negotiation",
+     "partnerships",
+     "web3"
+    ],
+    "missing": [
+     "account management",
+     "impact"
+    ]
+   },
+   "fit": 7.5,
+   "below": false,
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "fitAdjust": 1.0,
+   "adjustWhy": "No year count is asked and the work is crypto ecosystem partnerships, grants and partner funded campaigns, the core of the CryptoNewsZ role. Location is the one open question."
+  },
+  {
+   "id": "just-slots-bd-manager",
+   "title": "Business Development Manager",
+   "company": "Just Slots",
+   "country": "Remote",
+   "city": "Fully remote within EU timezones (Malta based studio)",
+   "region": "r",
+   "tier": "stretch",
+   "mode": "Fully remote within EU timezones, Croatia is on the allowed country list",
+   "posted": "2026-11-05",
+   "exp": "4 or more years of B2B sales, ideally in iGaming selling to operators, with deals you sourced and closed yourself",
+   "lang": "English (other languages a bonus)",
+   "visa": "Not needed, remote from Croatia is allowed",
+   "visaState": "unstated",
+   "pay": "Not stated, 33 days vacation",
+   "why": "Small slot game studio wants someone to open new aggregator and platform partnerships and new markets, and see each deal through integration to live, which uses your partnership and affiliate deal experience. The catch is that it is an outbound new business role asking for 4+ years of B2B sales to iGaming operators specifically.",
+   "url": "https://himalayas.app/companies/just-slots/jobs/business-development-manager?utm_source=api",
+   "source": "Himalayas",
+   "read": true,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.5,
+     "level": 1.0,
+     "place": 2.0,
+     "pay": 0.5,
      "sector": 0.7,
      "flags": -0.0
     },
     "notes": [],
+    "have": [
+     "analytics",
+     "b2b",
+     "business development",
+     "content and social",
+     "negotiation",
+     "partnerships"
+    ],
+    "missing": [
+     "account management",
+     "integration"
+    ]
+   },
+   "fit": 5.5,
+   "below": true,
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "fitAdjust": -1.0,
+   "adjustWhy": "The posting asks for 4+ years of B2B sales to iGaming operators and a ready operator network, and the core of the job is outbound new business, so the formula overrates it."
+  },
+  {
+   "id": "huntress-channel-account-manager-ireland",
+   "title": "Channel Account Manager I, Service Providers",
+   "company": "Huntress",
+   "country": "Ireland",
+   "city": "Remote within Ireland",
+   "region": "n",
+   "tier": "stretch",
+   "mode": "Remote, must be based in Ireland, 1 to 2 US trips a year",
+   "posted": "2026-11-05",
+   "exp": "2+ years in account management, partner success, channel or direct sales, MSP and cybersecurity knowledge preferred",
+   "lang": "English",
+   "visa": "Not mentioned. Remote from Ireland means you would need to live and have work rights there.",
+   "visaState": "unstated",
+   "pay": "EUR 54,600 base, EUR 91,000 on target earnings, plus equity",
+   "why": "Partner facing channel role growing and retaining managed service provider partners, a clean match on years and on relationship work. The catch is a quota on expansion and renewals in a cybersecurity MSP market you have not worked in, and you would need to be living in Ireland.",
+   "url": "https://jobicy.com/jobs/159122-channel-account-manager-i-service-providers",
+   "source": "Jobicy",
+   "read": true,
+   "rating": {
+    "fit": 7.0,
+    "conf": "High",
+    "parts": {
+     "role": 2.3,
+     "level": 2.0,
+     "place": 0.8,
+     "pay": 1.0,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "content and social",
+     "crm",
+     "testing"
+    ],
+    "missing": [
+     "account management",
+     "enterprise",
+     "impact",
+     "retention"
+    ]
+   },
+   "fit": 5.5,
+   "below": true,
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "fitAdjust": -1.5,
+   "adjustWhy": "Quota carrying expansion and renewal sales in the cybersecurity MSP market, with no overlap with affiliate or crypto work, and the role requires living in Ireland."
+  },
+  {
+   "id": "agentio-creator-partnerships-contractor",
+   "title": "Creator Partnerships (Independent Contractor Engagement)",
+   "company": "Agentio",
+   "country": "United Kingdom",
+   "city": "London",
+   "region": "n",
+   "tier": "stretch",
+   "mode": "Independent contractor, 3 to 6 month fixed term, London (runs UK in person dinners and events)",
+   "posted": "2026-11-05",
+   "exp": "4+ years in outbound heavy business development, sales or partnerships at a high growth company, creator economy ties a plus",
+   "lang": "English",
+   "visa": "Not mentioned. Contractor engagement, but the UK events part means being in London, so UK right to work could matter.",
+   "visaState": "unstated",
+   "pay": "GBP 20 to 45 per hour",
+   "why": "Creator ads marketplace wants someone to build relationships with creators and talent management firms and close supply side partnerships, close to your influencer and community partnership work. The catch is that it is a short 3 to 6 month contractor gig, London based, with outbound prospecting at its core.",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/agentio/creator-partnerships-independent-contractor-engagement-london-uk-175625",
+   "source": "Arbeitnow",
+   "read": true,
+   "rating": {
+    "fit": 5.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.0,
+     "level": 2.0,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -1.5
+    },
+    "notes": [
+     "needs existing right to work",
+     "contract rather than employee"
+    ],
     "have": [],
     "missing": []
    },
-   "fit": 6.5,
-   "below": false,
+   "fit": 5.5,
+   "below": true,
    "check": {
     "tier": "Check first",
     "good": [
@@ -2134,10 +2313,8 @@
     "check": [
      "text not read"
     ]
-   },
-   "fitAdjust": 1.0,
-   "adjustWhy": "No year count is asked and the work is crypto ecosystem partnerships, grants and partner funded campaigns, the core of the CryptoNewsZ role. Location is the one open question."
+   }
   }
  ],
- "rated": "06 Nov 2026 05:04 UTC"
+ "rated": "06 Nov 2026 11:17 UTC"
 }
