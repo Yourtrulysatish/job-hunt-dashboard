@@ -1,22 +1,22 @@
 {
- "generated": "06 Nov 2026 11:17 UTC",
- "count": 7,
+ "generated": "07 Nov 2026 05:03 UTC",
+ "count": 12,
  "items": [
   {
-   "id": "ab609b01f64",
-   "title": "Business Development Specialist, Attractions",
-   "company": "Leap Event Technology",
-   "country": "Remote",
-   "region": "r",
+   "id": "aca960aba8a",
+   "title": "Graduate Partnership Executive",
+   "company": "Fosphamarketing",
+   "country": "United Kingdom",
+   "region": "e",
    "tier": "auto",
-   "fit": 8.5,
+   "fit": 8.0,
    "rating": {
-    "fit": 8.5,
+    "fit": 8.0,
     "conf": "Medium",
     "parts": {
-     "role": 2.5,
+     "role": 3.0,
      "level": 2.0,
-     "place": 2.0,
+     "place": 0.8,
      "pay": 0.5,
      "sector": 1.5,
      "flags": -0.0
@@ -24,20 +24,20 @@
     "notes": [],
     "have": [
      "analytics",
-     "b2b",
-     "business development",
+     "content and social",
      "crm",
      "partnerships"
     ],
     "missing": [
-     "account management",
-     "impact"
+     "enterprise",
+     "impact",
+     "tracking"
     ]
    },
-   "posted": "2026-11-06",
-   "firstSeen": "2026-11-06",
-   "url": "https://himalayas.app/companies/leap-event-technology/jobs/business-development-specialist-attractions?utm_source=api",
-   "source": "himalayas",
+   "posted": "2026-11-07",
+   "firstSeen": "2026-11-07",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/fosphamarketing/graduate-partnership-executive-london-278910",
+   "source": "arbeitnow",
    "flags": [
     "asks up to 3+ years"
    ],
@@ -50,8 +50,103 @@
     "check": []
    },
    "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying.",
-   "mode": "Remote"
+   "why": "Found by the daily scan. Open the posting and read it before applying."
+  },
+  {
+   "id": "a5983cc5bd4",
+   "title": "Business Development Manager",
+   "company": "Capital on Tap",
+   "country": "United Kingdom",
+   "region": "e",
+   "tier": "auto",
+   "fit": 8.0,
+   "rating": {
+    "fit": 8.0,
+    "conf": "High",
+    "parts": {
+     "role": 2.5,
+     "level": 2.0,
+     "place": 0.8,
+     "pay": 1.0,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "b2b"
+    ],
+    "missing": [
+     "account management",
+     "api",
+     "commission"
+    ]
+   },
+   "posted": "2026-11-06",
+   "firstSeen": "2026-11-07",
+   "url": "https://himalayas.app/companies/capital-on-tap/jobs/business-development-manager?utm_source=api",
+   "source": "himalayas",
+   "flags": [
+    "asks up to 2+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
+  },
+  {
+   "id": "af9eaae5a6b",
+   "title": "Partner Manager - Agency Partnerships",
+   "company": "Tracksuit",
+   "country": "United Kingdom",
+   "region": "e",
+   "tier": "auto",
+   "fit": 7.5,
+   "rating": {
+    "fit": 7.5,
+    "conf": "High",
+    "parts": {
+     "role": 3.0,
+     "level": 2.0,
+     "place": 0.8,
+     "pay": 1.0,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "b2b",
+     "business development",
+     "partnerships"
+    ],
+    "missing": [
+     "commission",
+     "stakeholder",
+     "tracking"
+    ]
+   },
+   "posted": "2026-11-07",
+   "firstSeen": "2026-11-07",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/tracksuit/partner-manager-agency-partnerships-london-142774",
+   "source": "arbeitnow",
+   "flags": [
+    "asks up to 2+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
   },
   {
    "id": "ae3307094ff",
@@ -107,20 +202,20 @@
    "why": "Found by the daily scan. Open the posting and read it before applying."
   },
   {
-   "id": "a1f236c7ef9",
-   "title": "Partnerships Manager - North America",
-   "company": "Yuno",
-   "country": "Remote",
+   "id": "a013b051a3a",
+   "title": "Partnerships Manager (South East)",
+   "company": "Allica Bank",
+   "country": "United Kingdom",
    "region": "r",
    "tier": "auto",
-   "fit": 7.5,
+   "fit": 7.0,
    "rating": {
-    "fit": 7.5,
+    "fit": 7.0,
     "conf": "Medium",
     "parts": {
-     "role": 3.5,
-     "level": 0.0,
-     "place": 2.0,
+     "role": 3.0,
+     "level": 1.0,
+     "place": 1.0,
      "pay": 0.5,
      "sector": 1.5,
      "flags": -0.0
@@ -130,27 +225,170 @@
      "analytics",
      "b2b",
      "business development",
-     "negotiation",
+     "crm",
      "partnerships"
     ],
     "missing": [
-     "api",
-     "enterprise",
-     "go-to-market",
-     "gtm",
-     "impact",
-     "integration",
-     "lead generation",
-     "retention"
+     "account management",
+     "stakeholder",
+     "tracking"
     ]
    },
    "posted": "2026-11-06",
-   "firstSeen": "2026-11-06",
-   "url": "https://himalayas.app/companies/yuno/jobs/partnerships-manager-north-america?utm_source=api",
-   "source": "himalayas",
-   "flags": [
-    "asks up to 6+ years"
-   ],
+   "firstSeen": "2026-11-07",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/allica-bank/remote-partnerships-manager-south-east-91110",
+   "source": "arbeitnow",
+   "flags": [],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Remote"
+  },
+  {
+   "id": "ab9cf4b5ca7",
+   "title": "Partnerships Manager (North West)",
+   "company": "Allica Bank",
+   "country": "United Kingdom",
+   "region": "r",
+   "tier": "auto",
+   "fit": 7.0,
+   "rating": {
+    "fit": 7.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.0,
+     "level": 1.0,
+     "place": 1.0,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "b2b",
+     "business development",
+     "crm",
+     "partnerships"
+    ],
+    "missing": [
+     "account management",
+     "stakeholder",
+     "tracking"
+    ]
+   },
+   "posted": "2026-11-06",
+   "firstSeen": "2026-11-07",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/allica-bank/remote-partnerships-manager-north-west-64745",
+   "source": "arbeitnow",
+   "flags": [],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Remote"
+  },
+  {
+   "id": "a33b1a5c6ca",
+   "title": "Partnerships Manager (Midlands)",
+   "company": "Allica Bank",
+   "country": "United Kingdom",
+   "region": "r",
+   "tier": "auto",
+   "fit": 7.0,
+   "rating": {
+    "fit": 7.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.0,
+     "level": 1.0,
+     "place": 1.0,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "b2b",
+     "business development",
+     "crm",
+     "partnerships"
+    ],
+    "missing": [
+     "account management",
+     "stakeholder",
+     "tracking"
+    ]
+   },
+   "posted": "2026-11-06",
+   "firstSeen": "2026-11-07",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/allica-bank/remote-partnerships-manager-midlands-224617",
+   "source": "arbeitnow",
+   "flags": [],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Remote"
+  },
+  {
+   "id": "ace1988e823",
+   "title": "Partnerships Manager (London)",
+   "company": "Allica Bank",
+   "country": "United Kingdom",
+   "region": "r",
+   "tier": "auto",
+   "fit": 7.0,
+   "rating": {
+    "fit": 7.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.0,
+     "level": 1.0,
+     "place": 1.0,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "b2b",
+     "business development",
+     "crm",
+     "partnerships"
+    ],
+    "missing": [
+     "account management",
+     "stakeholder",
+     "tracking"
+    ]
+   },
+   "posted": "2026-11-06",
+   "firstSeen": "2026-11-07",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/allica-bank/remote-partnerships-manager-london-261268",
+   "source": "arbeitnow",
+   "flags": [],
    "check": {
     "tier": "Looks live",
     "good": [
@@ -212,6 +450,58 @@
    "mode": "Hybrid or office"
   },
   {
+   "id": "a1c52543987",
+   "title": "SOCIAL MEDIA & SEO MANAGER",
+   "company": "Ace Stainless Supply",
+   "country": "Remote",
+   "region": "r",
+   "tier": "auto",
+   "fit": 7.0,
+   "rating": {
+    "fit": 7.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 1.8,
+     "level": 1.0,
+     "place": 2.0,
+     "pay": 0.6,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "b2b",
+     "content and social",
+     "partnerships",
+     "seo",
+     "testing"
+    ],
+    "missing": [
+     "attribution",
+     "impact",
+     "sql",
+     "tracking"
+    ]
+   },
+   "posted": "2026-11-06",
+   "firstSeen": "2026-11-06",
+   "url": "https://weworkremotely.com/remote-jobs/ace-stainless-supply-social-media-seo-manager-2",
+   "source": "wwr",
+   "flags": [],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Remote"
+  },
+  {
    "id": "a736998f13a",
    "title": "Business Development Manager",
    "company": "Reflect Digital",
@@ -244,52 +534,6 @@
    "posted": "2026-11-05",
    "firstSeen": "2026-11-06",
    "url": "https://himalayas.app/companies/reflect-digital/jobs/business-development-manager?utm_source=api",
-   "source": "himalayas",
-   "flags": [],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying."
-  },
-  {
-   "id": "ae245567646",
-   "title": "Business Development Executive",
-   "company": "ParentPay Group",
-   "country": "United Kingdom",
-   "region": "e",
-   "tier": "auto",
-   "fit": 7.0,
-   "rating": {
-    "fit": 7.0,
-    "conf": "Medium",
-    "parts": {
-     "role": 3.0,
-     "level": 1.0,
-     "place": 0.8,
-     "pay": 0.5,
-     "sector": 1.5,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "analytics",
-     "b2b",
-     "business development",
-     "crm"
-    ],
-    "missing": [
-     "impact"
-    ]
-   },
-   "posted": "2026-11-05",
-   "firstSeen": "2026-11-06",
-   "url": "https://himalayas.app/companies/parentpay-group/jobs/business-development-executive?utm_source=api",
    "source": "himalayas",
    "flags": [],
    "check": {

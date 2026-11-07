@@ -1,6 +1,6 @@
 {
- "generated": "06 Nov 2026 11:17 UTC",
- "count": 10,
+ "generated": "07 Nov 2026 05:03 UTC",
+ "count": 5,
  "items": [
   {
    "id": "a387970b639",
@@ -50,39 +50,35 @@
    "mode": "Remote"
   },
   {
-   "id": "a7e3f178cc6",
-   "title": "Solution Consultant - Partnerships",
-   "company": "Workiva",
-   "country": "United Kingdom",
-   "region": "e",
+   "id": "a85272185e2",
+   "title": "Digital Marketing Manager (Strategy & Growth) Remote",
+   "company": "Little Pixies",
+   "country": "Remote",
+   "region": "r",
    "tier": "auto",
    "fit": 7.0,
    "rating": {
     "fit": 7.0,
     "conf": "Medium",
     "parts": {
-     "role": 3.0,
+     "role": 2.0,
      "level": 2.0,
-     "place": 0.8,
+     "place": 2.0,
      "pay": 0.5,
      "sector": 0.7,
      "flags": -0.0
     },
     "notes": [],
     "have": [
-     "analytics",
-     "b2b",
      "content and social"
     ],
     "missing": [
-     "api",
-     "enterprise",
-     "integration"
+     "impact"
     ]
    },
-   "posted": "2026-11-02",
-   "firstSeen": "2026-11-03",
-   "url": "https://himalayas.app/companies/workiva/jobs/solution-consultant-partnerships?utm_source=api",
+   "posted": "2026-11-05",
+   "firstSeen": "2026-11-06",
+   "url": "https://himalayas.app/companies/little-pixies/jobs/digital-marketing-manager-strategy-growth-remote?utm_source=api",
    "source": "himalayas",
    "flags": [
     "asks up to 4+ years"
@@ -95,145 +91,9 @@
     ],
     "check": []
    },
-   "new": false,
-   "why": "Found by the daily scan. Open the posting and read it before applying."
-  },
-  {
-   "id": "aa9e1c67ed4",
-   "title": "Defence Manufacturing Partnerships Consultant (Workshops, OKRs, Data Analysis) f",
-   "company": "WLG",
-   "country": "Poland",
-   "region": "e",
-   "tier": "auto",
-   "fit": 7.0,
-   "rating": {
-    "fit": 7.0,
-    "conf": "Medium",
-    "parts": {
-     "role": 3.0,
-     "level": 1.0,
-     "place": 0.8,
-     "pay": 0.5,
-     "sector": 1.5,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "analytics",
-     "partnerships"
-    ],
-    "missing": [
-     "stakeholder"
-    ]
-   },
-   "posted": "2026-10-29",
-   "firstSeen": "2026-10-31",
-   "url": "https://himalayas.app/companies/wlg/jobs/defence-manufacturing-partnerships-consultant-workshops-okrs-data-analysis-f?utm_source=api",
-   "source": "himalayas",
-   "flags": [
-    "asks up to 5+ years"
-   ],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": false,
-   "why": "Found by the daily scan. Open the posting and read it before applying."
-  },
-  {
-   "id": "a6b256c69f1",
-   "title": "Business Development Manager - Government Services",
-   "company": "Leidos",
-   "country": "United Kingdom",
-   "region": "e",
-   "tier": "auto",
-   "fit": 6.5,
-   "rating": {
-    "fit": 6.5,
-    "conf": "Medium",
-    "parts": {
-     "role": 2.5,
-     "level": 1.0,
-     "place": 0.8,
-     "pay": 0.5,
-     "sector": 1.5,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "analytics",
-     "business development",
-     "content and social"
-    ],
-    "missing": [
-     "lifecycle",
-     "stakeholder"
-    ]
-   },
-   "posted": "2026-11-06",
-   "firstSeen": "2026-11-06",
-   "url": "https://himalayas.app/companies/leidos/jobs/business-development-manager-government-services?utm_source=api",
-   "source": "himalayas",
-   "flags": [],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
    "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying."
-  },
-  {
-   "id": "aa2fe764170",
-   "title": "Business Development Manager_ Germany",
-   "company": "TECCODD",
-   "country": "Germany",
-   "region": "e",
-   "tier": "auto",
-   "fit": 6.5,
-   "rating": {
-    "fit": 6.5,
-    "conf": "Medium",
-    "parts": {
-     "role": 2.5,
-     "level": 1.0,
-     "place": 0.8,
-     "pay": 0.5,
-     "sector": 1.5,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "analytics",
-     "business development",
-     "negotiation"
-    ],
-    "missing": [
-     "account management"
-    ]
-   },
-   "posted": "2026-11-05",
-   "firstSeen": "2026-11-06",
-   "url": "https://himalayas.app/companies/teccodd/jobs/business-development-manager_-germany-7523926763?utm_source=api",
-   "source": "himalayas",
-   "flags": [],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying."
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Remote"
   },
   {
    "id": "a89fc83326d",
@@ -381,106 +241,6 @@
    "new": false,
    "why": "Found by the daily scan. Open the posting and read it before applying.",
    "mode": "Remote"
-  },
-  {
-   "id": "af45080e365",
-   "title": "Product Marketing Manager (AI-Powered Affiliate Platform, iGaming)",
-   "company": "AllCares",
-   "country": "Spain",
-   "region": "e",
-   "tier": "auto",
-   "fit": 6.5,
-   "rating": {
-    "fit": 6.5,
-    "conf": "Medium",
-    "parts": {
-     "role": 3.5,
-     "level": 1.0,
-     "place": 0.8,
-     "pay": 0.5,
-     "sector": 0.7,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "affiliate",
-     "b2b",
-     "content and social",
-     "partnerships"
-    ],
-    "missing": [
-     "account management",
-     "api",
-     "go-to-market",
-     "gtm",
-     "impact",
-     "retention",
-     "stakeholder",
-     "tracking"
-    ]
-   },
-   "posted": "2026-10-18",
-   "firstSeen": "2026-10-27",
-   "url": "https://himalayas.app/companies/allcares/jobs/product-marketing-manager-ai-powered-affiliate-platform-igaming?utm_source=api",
-   "source": "himalayas",
-   "flags": [],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": false,
-   "why": "Found by the daily scan. Open the posting and read it before applying."
-  },
-  {
-   "id": "a5e8f50f68c",
-   "title": "Customer Success Manager (AI-Powered Affiliate Platform, iGaming)",
-   "company": "AllCares",
-   "country": "Spain",
-   "region": "e",
-   "tier": "auto",
-   "fit": 6.5,
-   "rating": {
-    "fit": 6.5,
-    "conf": "Medium",
-    "parts": {
-     "role": 3.5,
-     "level": 1.0,
-     "place": 0.8,
-     "pay": 0.5,
-     "sector": 0.7,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "affiliate",
-     "b2b",
-     "partnerships"
-    ],
-    "missing": [
-     "account management",
-     "integration",
-     "lifecycle",
-     "retention",
-     "tracking"
-    ]
-   },
-   "posted": "2026-10-18",
-   "firstSeen": "2026-10-27",
-   "url": "https://himalayas.app/companies/allcares/jobs/customer-success-manager-ai-powered-affiliate-platform-igaming?utm_source=api",
-   "source": "himalayas",
-   "flags": [],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": false,
-   "why": "Found by the daily scan. Open the posting and read it before applying."
   }
  ]
 }

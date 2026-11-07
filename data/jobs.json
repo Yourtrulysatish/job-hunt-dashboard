@@ -954,11 +954,13 @@
     ]
    },
    "check": {
-    "tier": "Looks live",
+    "tier": "Check first",
     "good": [
      "detailed description"
     ],
-    "check": []
+    "check": [
+     "older than three weeks"
+    ]
    },
    "read": true,
    "below": true
@@ -996,9 +998,7 @@
    },
    "check": {
     "tier": "Check first",
-    "good": [
-     "posted in the last two weeks"
-    ],
+    "good": [],
     "check": [
      "text not read"
     ]
@@ -1013,7 +1013,7 @@
    "region": "r",
    "mode": "Remote",
    "tier": "stretch",
-   "fit": 6.0,
+   "fit": 7.0,
    "posted": "2026-10-26",
    "exp": "Listed as asking up to 5+ years.",
    "visa": "Remote role, not applicable",
@@ -1022,41 +1022,31 @@
    "source": "ElevenLabs careers",
    "id": "elevenlabs",
    "rating": {
-    "fit": 6.0,
+    "fit": 7.0,
     "conf": "Medium",
     "parts": {
      "role": 3.0,
-     "level": 0.0,
+     "level": 1.0,
      "place": 2.0,
      "pay": 0.5,
      "sector": 0.7,
      "flags": -0.0
     },
     "notes": [],
-    "have": [
-     "analytics",
-     "business development",
-     "partnerships",
-     "testing"
-    ],
-    "missing": [
-     "api",
-     "enterprise",
-     "impact",
-     "integration",
-     "stakeholder"
-    ]
+    "have": [],
+    "missing": []
    },
    "check": {
-    "tier": "Looks live",
+    "tier": "Check first",
     "good": [
-     "posted in the last two weeks",
-     "detailed description"
+     "posted in the last two weeks"
     ],
-    "check": []
+    "check": [
+     "text not read"
+    ]
    },
    "read": true,
-   "below": true
+   "below": false
   },
   {
    "title": "Channel Manager, EMEA",
@@ -1360,7 +1350,6 @@
    "check": {
     "tier": "Looks live",
     "good": [
-     "posted in the last two weeks",
      "detailed description"
     ],
     "check": []
@@ -1446,26 +1435,18 @@
     "notes": [
      "needs existing right to work"
     ],
-    "have": [
-     "analytics",
-     "business development",
-     "testing"
-    ],
-    "missing": [
-     "account management",
-     "api",
-     "commission",
-     "impact"
-    ]
+    "have": [],
+    "missing": []
    },
    "fit": 4.0,
    "check": {
-    "tier": "Looks live",
+    "tier": "Check first",
     "good": [
-     "posted in the last two weeks",
-     "detailed description"
+     "posted in the last two weeks"
     ],
-    "check": []
+    "check": [
+     "text not read"
+    ]
    },
    "fitAdjust": -2.0,
    "adjustWhy": "Asks for 5+ years of channel and telecom experience and UK right to work, which the formula cannot see.",
@@ -1676,38 +1657,30 @@
    "url": "https://himalayas.app/companies/tangem-ag/jobs/regional-growth-manager?utm_source=api",
    "read": true,
    "rating": {
-    "fit": 8.0,
+    "fit": 7.0,
     "conf": "Medium",
     "parts": {
      "role": 2.0,
      "level": 2.0,
      "place": 2.0,
      "pay": 0.5,
-     "sector": 1.5,
+     "sector": 0.7,
      "flags": -0.0
     },
     "notes": [],
-    "have": [
-     "analytics",
-     "business development",
-     "content and social",
-     "partnerships",
-     "web3"
-    ],
-    "missing": [
-     "api",
-     "go-to-market"
-    ]
+    "have": [],
+    "missing": []
    },
-   "fit": 8.0,
+   "fit": 7.0,
    "below": false,
    "check": {
-    "tier": "Looks live",
+    "tier": "Check first",
     "good": [
-     "posted in the last two weeks",
-     "detailed description"
+     "posted in the last two weeks"
     ],
-    "check": []
+    "check": [
+     "text not read"
+    ]
    }
   },
   {
@@ -2118,37 +2091,30 @@
    "source": "Himalayas",
    "read": true,
    "rating": {
-    "fit": 6.5,
+    "fit": 5.5,
     "conf": "Medium",
     "parts": {
      "role": 2.5,
      "level": 1.0,
      "place": 0.8,
      "pay": 0.5,
-     "sector": 1.5,
+     "sector": 0.7,
      "flags": -0.0
     },
     "notes": [],
-    "have": [
-     "business development",
-     "negotiation",
-     "partnerships",
-     "web3"
-    ],
-    "missing": [
-     "account management",
-     "impact"
-    ]
+    "have": [],
+    "missing": []
    },
-   "fit": 7.5,
+   "fit": 6.5,
    "below": false,
    "check": {
-    "tier": "Looks live",
+    "tier": "Check first",
     "good": [
-     "posted in the last two weeks",
-     "detailed description"
+     "posted in the last two weeks"
     ],
-    "check": []
+    "check": [
+     "text not read"
+    ]
    },
    "fitAdjust": 1.0,
    "adjustWhy": "No year count is asked and the work is crypto ecosystem partnerships, grants and partner funded campaigns, the core of the CryptoNewsZ role. Location is the one open question."
@@ -2241,27 +2207,19 @@
      "flags": -0.0
     },
     "notes": [],
-    "have": [
-     "content and social",
-     "crm",
-     "testing"
-    ],
-    "missing": [
-     "account management",
-     "enterprise",
-     "impact",
-     "retention"
-    ]
+    "have": [],
+    "missing": []
    },
    "fit": 5.5,
    "below": true,
    "check": {
-    "tier": "Looks live",
+    "tier": "Check first",
     "good": [
-     "posted in the last two weeks",
-     "detailed description"
+     "posted in the last two weeks"
     ],
-    "check": []
+    "check": [
+     "text not read"
+    ]
    },
    "fitAdjust": -1.5,
    "adjustWhy": "Quota carrying expansion and renewal sales in the cybersecurity MSP market, with no overlap with affiliate or crypto work, and the role requires living in Ireland."
@@ -2316,5 +2274,5 @@
    }
   }
  ],
- "rated": "06 Nov 2026 11:17 UTC"
+ "rated": "07 Nov 2026 05:03 UTC"
 }
