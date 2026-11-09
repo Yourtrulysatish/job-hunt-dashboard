@@ -1,7 +1,107 @@
 {
- "generated": "08 Nov 2026 05:03 UTC",
- "count": 10,
+ "generated": "09 Nov 2026 05:03 UTC",
+ "count": 9,
  "items": [
+  {
+   "id": "a890e8fc41f",
+   "title": "CRM manager",
+   "company": "Risk.Inc",
+   "country": "Remote",
+   "region": "r",
+   "tier": "auto",
+   "fit": 7.5,
+   "rating": {
+    "fit": 7.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.3,
+     "level": 2.0,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "affiliate",
+     "analytics",
+     "content and social",
+     "crm"
+    ],
+    "missing": [
+     "lifecycle",
+     "retention"
+    ]
+   },
+   "posted": "2026-11-09",
+   "firstSeen": "2026-11-09",
+   "url": "https://himalayas.app/companies/risk-inc/jobs/crm-manager?utm_source=api",
+   "source": "himalayas",
+   "flags": [
+    "asks up to 2+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Remote"
+  },
+  {
+   "id": "a9416be588f",
+   "title": "Channel Account Manager",
+   "company": "Watchguard",
+   "country": "Remote",
+   "region": "r",
+   "tier": "auto",
+   "fit": 7.5,
+   "rating": {
+    "fit": 7.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.3,
+     "level": 2.0,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "business development",
+     "content and social",
+     "crm"
+    ],
+    "missing": [
+     "lead generation",
+     "retention",
+     "tracking"
+    ]
+   },
+   "posted": "2026-11-09",
+   "firstSeen": "2026-11-09",
+   "url": "https://www.arbeitnow.fr/jobs/companies/watchguard/remote-channel-account-manager-12145",
+   "source": "arbeitnow",
+   "flags": [
+    "asks up to 2+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Remote"
+  },
   {
    "id": "a2f4aaa6a01",
    "title": "Marketing Manager, Community & Events (m/f/d)",
@@ -40,58 +140,6 @@
    "flags": [
     "asks up to 2+ years"
    ],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying.",
-   "mode": "Remote"
-  },
-  {
-   "id": "a7c7ce2c5a3",
-   "title": "Marketing Manager Indonesia - iGaming - REMOTE, Asia",
-   "company": "SmartRecruitment.com",
-   "country": "Remote",
-   "region": "r",
-   "tier": "auto",
-   "fit": 7.0,
-   "rating": {
-    "fit": 7.0,
-    "conf": "Medium",
-    "parts": {
-     "role": 2.0,
-     "level": 1.0,
-     "place": 2.0,
-     "pay": 0.5,
-     "sector": 1.5,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "affiliate",
-     "analytics",
-     "content and social",
-     "negotiation",
-     "partnerships",
-     "web3"
-    ],
-    "missing": [
-     "attribution",
-     "retention",
-     "stakeholder",
-     "tracking"
-    ]
-   },
-   "posted": "2026-11-07",
-   "firstSeen": "2026-11-08",
-   "url": "https://himalayas.app/companies/smartrecruitment-com/jobs/marketing-manager-indonesia-igaming-remote-asia?utm_source=api",
-   "source": "himalayas",
-   "flags": [],
    "check": {
     "tier": "Looks live",
     "good": [
@@ -147,58 +195,9 @@
     ],
     "check": []
    },
-   "new": true,
+   "new": false,
    "why": "Found by the daily scan. Open the posting and read it before applying.",
    "mode": "Remote"
-  },
-  {
-   "id": "a7e3f178cc6",
-   "title": "Solution Consultant - Partnerships",
-   "company": "Workiva",
-   "country": "United Kingdom",
-   "region": "e",
-   "tier": "auto",
-   "fit": 7.0,
-   "rating": {
-    "fit": 7.0,
-    "conf": "Medium",
-    "parts": {
-     "role": 3.0,
-     "level": 2.0,
-     "place": 0.8,
-     "pay": 0.5,
-     "sector": 0.7,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "analytics",
-     "b2b",
-     "content and social"
-    ],
-    "missing": [
-     "api",
-     "enterprise",
-     "integration"
-    ]
-   },
-   "posted": "2026-11-02",
-   "firstSeen": "2026-11-03",
-   "url": "https://himalayas.app/companies/workiva/jobs/solution-consultant-partnerships?utm_source=api",
-   "source": "himalayas",
-   "flags": [
-    "asks up to 4+ years"
-   ],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": false,
-   "why": "Found by the daily scan. Open the posting and read it before applying."
   },
   {
    "id": "ae8f575d5f8",
@@ -352,53 +351,6 @@
    "new": true,
    "why": "Found by the daily scan. Open the posting and read it before applying.",
    "mode": "Remote"
-  },
-  {
-   "id": "a1bc50a8fb3",
-   "title": "Flow Business Development Manager UK&I",
-   "company": "Emerson",
-   "country": "United Kingdom",
-   "region": "e",
-   "tier": "auto",
-   "fit": 6.5,
-   "rating": {
-    "fit": 6.5,
-    "conf": "Medium",
-    "parts": {
-     "role": 2.5,
-     "level": 1.0,
-     "place": 0.8,
-     "pay": 0.5,
-     "sector": 1.5,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "analytics",
-     "business development",
-     "crm",
-     "testing"
-    ],
-    "missing": [
-     "impact",
-     "stakeholder"
-    ]
-   },
-   "posted": "2026-11-07",
-   "firstSeen": "2026-11-08",
-   "url": "https://himalayas.app/companies/emerson/jobs/flow-business-development-manager-uk-i?utm_source=api",
-   "source": "himalayas",
-   "flags": [],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying."
   },
   {
    "id": "af55d259fcd",

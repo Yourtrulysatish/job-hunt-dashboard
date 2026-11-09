@@ -1,7 +1,58 @@
 {
- "generated": "08 Nov 2026 05:03 UTC",
- "count": 6,
+ "generated": "09 Nov 2026 05:03 UTC",
+ "count": 9,
  "items": [
+  {
+   "id": "a69dc285c61",
+   "title": "Affiliate Manager Crypto",
+   "company": "Risk.Inc",
+   "country": "Remote",
+   "region": "r",
+   "tier": "auto",
+   "fit": 8.5,
+   "rating": {
+    "fit": 8.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.5,
+     "level": 1.0,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "affiliate",
+     "analytics",
+     "negotiation",
+     "paid media",
+     "seo",
+     "web3"
+    ],
+    "missing": [
+     "impact",
+     "ltv",
+     "retention"
+    ]
+   },
+   "posted": "2026-11-09",
+   "firstSeen": "2026-11-09",
+   "url": "https://himalayas.app/companies/risk-inc/jobs/affiliate-manager-crypto?utm_source=api",
+   "source": "himalayas",
+   "flags": [],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Remote"
+  },
   {
    "id": "ad1d1d8476a",
    "title": "Graduate Partnership Executive",
@@ -40,6 +91,167 @@
    "source": "arbeitnow",
    "flags": [
     "asks up to 3+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
+  },
+  {
+   "id": "a138c30e79f",
+   "title": "Business Development Manager For Starkware - US Based",
+   "company": "Builder Capital",
+   "country": "Remote",
+   "region": "r",
+   "tier": "auto",
+   "fit": 7.5,
+   "rating": {
+    "fit": 7.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.5,
+     "level": 1.0,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "business development",
+     "partnerships",
+     "web3"
+    ],
+    "missing": [
+     "integration"
+    ]
+   },
+   "posted": "2026-11-08",
+   "firstSeen": "2026-11-09",
+   "url": "https://himalayas.app/companies/builder-capital/jobs/business-development-manager-for-starkware-us-based?utm_source=api",
+   "source": "himalayas",
+   "flags": [
+    "asks up to 5+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Remote"
+  },
+  {
+   "id": "aea5544822f",
+   "title": "SEO Affiliate manager",
+   "company": "Risk.Inc",
+   "country": "Poland",
+   "region": "e",
+   "tier": "auto",
+   "fit": 7.5,
+   "rating": {
+    "fit": 7.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.5,
+     "level": 2.0,
+     "place": 0.9,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "affiliate",
+     "analytics",
+     "crm",
+     "negotiation",
+     "partnerships",
+     "seo"
+    ],
+    "missing": [
+     "api",
+     "integration",
+     "retention",
+     "tracking"
+    ]
+   },
+   "posted": "2026-11-08",
+   "firstSeen": "2026-11-09",
+   "url": "https://himalayas.app/companies/risk-inc/jobs/seo-affiliate-manager?utm_source=api",
+   "source": "himalayas",
+   "flags": [
+    "asks up to 3+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Hybrid or office"
+  },
+  {
+   "id": "a9324310cad",
+   "title": "Affiliate Manager",
+   "company": "team.blue",
+   "country": "Italy",
+   "region": "e",
+   "tier": "auto",
+   "fit": 7.5,
+   "rating": {
+    "fit": 7.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.5,
+     "level": 1.0,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "affiliate",
+     "analytics",
+     "b2b",
+     "content and social",
+     "negotiation",
+     "paid media",
+     "partnerships",
+     "seo",
+     "testing"
+    ],
+    "missing": [
+     "attribution",
+     "awin",
+     "commission",
+     "impact",
+     "lifecycle",
+     "partnerstack",
+     "tracking"
+    ]
+   },
+   "posted": "2026-11-08",
+   "firstSeen": "2026-11-09",
+   "url": "https://himalayas.app/companies/team-blue/jobs/affiliate-manager?utm_source=api",
+   "source": "himalayas",
+   "flags": [
+    "asks up to 5+ years"
    ],
    "check": {
     "tier": "Looks live",
@@ -102,56 +314,7 @@
     ],
     "check": []
    },
-   "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying."
-  },
-  {
-   "id": "a5d2474486c",
-   "title": "(Senior) Partnership Manager - UK (f/m/d)",
-   "company": "Moss",
-   "country": "United Kingdom",
-   "region": "e",
-   "tier": "auto",
-   "fit": 7.0,
-   "rating": {
-    "fit": 7.0,
-    "conf": "Medium",
-    "parts": {
-     "role": 3.5,
-     "level": 0.5,
-     "place": 0.8,
-     "pay": 0.5,
-     "sector": 1.5,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "b2b",
-     "business development",
-     "negotiation",
-     "partnerships"
-    ],
-    "missing": [
-     "api",
-     "impact",
-     "lead generation",
-     "stakeholder"
-    ]
-   },
-   "posted": "2026-11-07",
-   "firstSeen": "2026-11-08",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/moss/senior-partnership-manager-uk-london-317749",
-   "source": "arbeitnow",
-   "flags": [],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": true,
+   "new": false,
    "why": "Found by the daily scan. Open the posting and read it before applying."
   },
   {
@@ -198,7 +361,7 @@
     ],
     "check": []
    },
-   "new": true,
+   "new": false,
    "why": "Found by the daily scan. Open the posting and read it before applying.",
    "mode": "Hybrid or office"
   },

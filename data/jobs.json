@@ -93,11 +93,13 @@
     ]
    },
    "check": {
-    "tier": "Looks live",
+    "tier": "Check first",
     "good": [
      "detailed description"
     ],
-    "check": []
+    "check": [
+     "older than three weeks"
+    ]
    },
    "read": true,
    "fitAdjust": 1.5,
@@ -278,9 +280,7 @@
    },
    "check": {
     "tier": "Check first",
-    "good": [
-     "posted in the last two weeks"
-    ],
+    "good": [],
     "check": [
      "text not read"
     ]
@@ -816,9 +816,7 @@
    },
    "check": {
     "tier": "Check first",
-    "good": [
-     "posted in the last two weeks"
-    ],
+    "good": [],
     "check": [
      "text not read"
     ]
@@ -1423,25 +1421,16 @@
     "notes": [
      "needs existing right to work"
     ],
-    "have": [
-     "analytics",
-     "business development",
-     "testing"
-    ],
-    "missing": [
-     "account management",
-     "api",
-     "commission",
-     "impact"
-    ]
+    "have": [],
+    "missing": []
    },
    "fit": 4.0,
    "check": {
-    "tier": "Looks live",
-    "good": [
-     "detailed description"
-    ],
-    "check": []
+    "tier": "Check first",
+    "good": [],
+    "check": [
+     "text not read"
+    ]
    },
    "fitAdjust": -2.0,
    "adjustWhy": "Asks for 5+ years of channel and telecom experience and UK right to work, which the formula cannot see.",
@@ -2270,5 +2259,5 @@
    }
   }
  ],
- "rated": "08 Nov 2026 05:03 UTC"
+ "rated": "09 Nov 2026 05:03 UTC"
 }
