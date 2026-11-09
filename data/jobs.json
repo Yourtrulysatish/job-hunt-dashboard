@@ -1,5 +1,5 @@
 {
- "updated": "6 Nov 2026",
+ "updated": "9 Nov 2026",
  "jobs": [
   {
    "title": "Affiliate & Partnerships Manager",
@@ -1421,16 +1421,25 @@
     "notes": [
      "needs existing right to work"
     ],
-    "have": [],
-    "missing": []
+    "have": [
+     "analytics",
+     "business development",
+     "testing"
+    ],
+    "missing": [
+     "account management",
+     "api",
+     "commission",
+     "impact"
+    ]
    },
    "fit": 4.0,
    "check": {
-    "tier": "Check first",
-    "good": [],
-    "check": [
-     "text not read"
-    ]
+    "tier": "Looks live",
+    "good": [
+     "detailed description"
+    ],
+    "check": []
    },
    "fitAdjust": -2.0,
    "adjustWhy": "Asks for 5+ years of channel and telecom experience and UK right to work, which the formula cannot see.",
@@ -2257,7 +2266,62 @@
      "text not read"
     ]
    }
+  },
+  {
+   "id": "kayzen-community-events-marketing-manager",
+   "title": "Marketing Manager, Community & Events",
+   "company": "Kayzen",
+   "country": "Germany (remote EMEA)",
+   "city": "Remote, Europe/EMEA",
+   "region": "e",
+   "tier": "stretch",
+   "mode": "Remote EMEA, remote-first team, travel to industry events",
+   "posted": "2026-11-08",
+   "exp": "2+ years of event marketing (ideally AdTech or mobile apps)",
+   "lang": "English",
+   "visa": "Not mentioned. Remote EMEA role, so EU residence is likely needed.",
+   "visaState": "unstated",
+   "pay": "Not stated",
+   "why": "Owns community building, partner co-marketing and the industry event calendar at a Berlin adtech platform, which lines up with your community and partnership work. The catch is that the core is event marketing, with sponsorships, dinners and logistics, and adtech knowledge is preferred.",
+   "url": "https://himalayas.app/companies/kayzen/jobs/marketing-manager-community-events-m-f-d?utm_source=api",
+   "source": "Himalayas",
+   "read": true,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 1.5,
+     "level": 2.0,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "content and social",
+     "partnerships"
+    ],
+    "missing": [
+     "api",
+     "impact",
+     "stakeholder"
+    ]
+   },
+   "fit": 5.5,
+   "below": true,
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "fitAdjust": -1.0,
+   "adjustWhy": "Core of the role is event marketing and logistics, not community or partnerships, and adtech knowledge is preferred."
   }
  ],
- "rated": "09 Nov 2026 05:03 UTC"
+ "rated": "09 Nov 2026 07:44 UTC"
 }
