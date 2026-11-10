@@ -55,7 +55,7 @@
    "region": "e",
    "mode": "Hybrid",
    "tier": "apply",
-   "fit": 8.5,
+   "fit": 8.0,
    "posted": "2026-10-18",
    "exp": "No year count in the posting.",
    "lang": "English. No local language mentioned.",
@@ -67,10 +67,10 @@
    "source": "Hostinger careers",
    "id": "hostinger",
    "rating": {
-    "fit": 7.0,
+    "fit": 6.5,
     "conf": "Medium",
     "parts": {
-     "role": 3.5,
+     "role": 3.0,
      "level": 1.0,
      "place": 0.9,
      "pay": 1.0,
@@ -78,27 +78,15 @@
      "flags": -0.0
     },
     "notes": [],
-    "have": [
-     "affiliate",
-     "b2b",
-     "content and social",
-     "paid media",
-     "partnerships",
-     "testing"
-    ],
-    "missing": [
-     "impact",
-     "ltv",
-     "stakeholder"
-    ]
+    "have": [],
+    "missing": []
    },
    "check": {
     "tier": "Check first",
-    "good": [
-     "detailed description"
-    ],
+    "good": [],
     "check": [
-     "older than three weeks"
+     "older than three weeks",
+     "text not read"
     ]
    },
    "read": true,
@@ -185,9 +173,7 @@
    },
    "check": {
     "tier": "Check first",
-    "good": [
-     "posted in the last two weeks"
-    ],
+    "good": [],
     "check": [
      "text not read"
     ]
@@ -500,7 +486,6 @@
    "check": {
     "tier": "Check first",
     "good": [
-     "posted in the last two weeks",
      "has a closing date"
     ],
     "check": [
@@ -905,6 +890,7 @@
      "has a closing date"
     ],
     "check": [
+     "older than three weeks",
      "text not read"
     ]
    },
@@ -1026,9 +1012,7 @@
    },
    "check": {
     "tier": "Check first",
-    "good": [
-     "posted in the last two weeks"
-    ],
+    "good": [],
     "check": [
      "text not read"
     ]
@@ -1131,7 +1115,6 @@
    "check": {
     "tier": "Looks live",
     "good": [
-     "posted in the last two weeks",
      "detailed description"
     ],
     "check": []
@@ -1421,25 +1404,16 @@
     "notes": [
      "needs existing right to work"
     ],
-    "have": [
-     "analytics",
-     "business development",
-     "testing"
-    ],
-    "missing": [
-     "account management",
-     "api",
-     "commission",
-     "impact"
-    ]
+    "have": [],
+    "missing": []
    },
    "fit": 4.0,
    "check": {
-    "tier": "Looks live",
-    "good": [
-     "detailed description"
-    ],
-    "check": []
+    "tier": "Check first",
+    "good": [],
+    "check": [
+     "text not read"
+    ]
    },
    "fitAdjust": -2.0,
    "adjustWhy": "Asks for 5+ years of channel and telecom experience and UK right to work, which the formula cannot see.",
@@ -2323,5 +2297,5 @@
    "adjustWhy": "Core of the role is event marketing and logistics, not community or partnerships, and adtech knowledge is preferred."
   }
  ],
- "rated": "09 Nov 2026 07:44 UTC"
+ "rated": "10 Nov 2026 05:03 UTC"
 }

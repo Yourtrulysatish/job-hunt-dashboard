@@ -1,6 +1,6 @@
 {
- "generated": "09 Nov 2026 07:44 UTC",
- "count": 7,
+ "generated": "10 Nov 2026 05:03 UTC",
+ "count": 8,
  "items": [
   {
    "id": "ad1d1d8476a",
@@ -49,7 +49,7 @@
     ],
     "check": []
    },
-   "new": true,
+   "new": false,
    "why": "Found by the daily scan. Open the posting and read it before applying."
   },
   {
@@ -210,6 +210,55 @@
     "check": []
    },
    "new": false,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
+  },
+  {
+   "id": "a814172aef8",
+   "title": "GTM Partnerships Lead",
+   "company": "Notabene",
+   "country": "United Kingdom",
+   "region": "e",
+   "tier": "auto",
+   "fit": 7.0,
+   "rating": {
+    "fit": 7.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.5,
+     "level": 0.5,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "business development",
+     "partnerships",
+     "web3"
+    ],
+    "missing": [
+     "api",
+     "go-to-market",
+     "gtm",
+     "impact",
+     "lifecycle"
+    ]
+   },
+   "posted": "2026-11-09",
+   "firstSeen": "2026-11-10",
+   "url": "https://jobicy.com/jobs/160683-gtm-partnerships-lead",
+   "source": "jobicy",
+   "flags": [],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
    "why": "Found by the daily scan. Open the posting and read it before applying."
   },
   {
