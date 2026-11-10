@@ -1,5 +1,5 @@
 {
- "updated": "9 Nov 2026",
+ "updated": "10 Nov 2026",
  "jobs": [
   {
    "title": "Affiliate & Partnerships Manager",
@@ -1404,16 +1404,25 @@
     "notes": [
      "needs existing right to work"
     ],
-    "have": [],
-    "missing": []
+    "have": [
+     "analytics",
+     "business development",
+     "testing"
+    ],
+    "missing": [
+     "account management",
+     "api",
+     "commission",
+     "impact"
+    ]
    },
    "fit": 4.0,
    "check": {
-    "tier": "Check first",
-    "good": [],
-    "check": [
-     "text not read"
-    ]
+    "tier": "Looks live",
+    "good": [
+     "detailed description"
+    ],
+    "check": []
    },
    "fitAdjust": -2.0,
    "adjustWhy": "Asks for 5+ years of channel and telecom experience and UK right to work, which the formula cannot see.",
@@ -2295,7 +2304,131 @@
    },
    "fitAdjust": -1.0,
    "adjustWhy": "Core of the role is event marketing and logistics, not community or partnerships, and adtech knowledge is preferred."
+  },
+  {
+   "id": "teamblue-iubenda-affiliate-manager",
+   "title": "Affiliate Manager",
+   "company": "team.blue",
+   "country": "Italy (remote-first)",
+   "city": "Remote, within ±1 CET (Milan and Bologna offices optional)",
+   "region": "r",
+   "tier": "apply",
+   "mode": "Remote-first, work from anywhere within ±1 CET, optional Milan or Bologna office",
+   "posted": "2026-11-08",
+   "exp": "3 to 5 years in affiliate marketing, partnerships or partner/performance marketing",
+   "lang": "English (a second European language is a plus)",
+   "visa": "Not mentioned. Remote-first and open to anyone within ±1 CET, so Croatia works.",
+   "visaState": "unstated",
+   "pay": "Not stated, plus up to 1,000 EUR yearly flex budget and paid retreats",
+   "why": "You would own the iubenda affiliate program end to end, recruiting and activating partners, setting commissions and tracking on platforms like Impact or PartnerStack, which is your core affiliate work. The catch is the B2B SaaS and privacy compliance angle, which is new to you.",
+   "url": "https://himalayas.app/companies/team-blue/jobs/affiliate-manager?utm_source=api",
+   "source": "Himalayas",
+   "read": true,
+   "rating": {
+    "fit": 7.5,
+    "conf": "High",
+    "parts": {
+     "role": 3.5,
+     "level": 1.0,
+     "place": 1.0,
+     "pay": 0.6,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "affiliate",
+     "analytics",
+     "b2b",
+     "content and social",
+     "negotiation",
+     "paid media",
+     "partnerships",
+     "seo",
+     "testing"
+    ],
+    "missing": [
+     "attribution",
+     "awin",
+     "commission",
+     "impact",
+     "lifecycle",
+     "partnerstack",
+     "tracking"
+    ]
+   },
+   "fit": 7.5,
+   "below": false,
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   }
+  },
+  {
+   "id": "cryptobanter-bubbles-growth-marketing-manager",
+   "title": "Growth Marketing Manager (Bubbles)",
+   "company": "Crypto Banter",
+   "country": "United Kingdom or UAE (remote)",
+   "city": "Remote, UK or UAE",
+   "region": "n",
+   "tier": "stretch",
+   "mode": "Fully remote, restricted to UK or UAE residents",
+   "posted": "2026-11-06",
+   "exp": "3+ years in growth, performance or lifecycle marketing, ideally at a crypto exchange",
+   "lang": "English",
+   "visa": "Not mentioned. The listing limits candidates to the UK and UAE, so you would need the right to work in one of them.",
+   "visaState": "needed",
+   "pay": "Not stated",
+   "why": "A crypto media brand wants someone to turn Bubbles app users into exchange signups, including running the exchange referral and affiliate flows, which fits your CryptoNewsZ and affiliate background. The catch is that it is mostly product growth work (A/B tests, GA4 or Mixpanel, push and email lifecycle) and it is only open to UK or UAE residents.",
+   "url": "https://himalayas.app/companies/crypto-banter/jobs/growth-marketing-manager-bubbles?utm_source=api",
+   "source": "Himalayas",
+   "read": true,
+   "rating": {
+    "fit": 7.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.5,
+     "level": 2.0,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.5
+    },
+    "notes": [
+     "needs existing right to work"
+    ],
+    "have": [
+     "affiliate",
+     "analytics",
+     "content and social",
+     "testing",
+     "web3"
+    ],
+    "missing": [
+     "attribution",
+     "cac",
+     "lifecycle",
+     "sql",
+     "tracking"
+    ]
+   },
+   "fit": 5.5,
+   "below": true,
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "fitAdjust": -1.5,
+   "adjustWhy": "Only open to UK or UAE residents, and the core is product growth and lifecycle tooling rather than partnerships."
   }
  ],
- "rated": "10 Nov 2026 05:03 UTC"
+ "rated": "10 Nov 2026 10:44 UTC"
 }
