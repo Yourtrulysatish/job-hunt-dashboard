@@ -356,9 +356,11 @@
     "missing": []
    },
    "check": {
-    "tier": "Looks live",
+    "tier": "Check first",
     "good": [],
-    "check": []
+    "check": [
+     "older than three weeks"
+    ]
    },
    "read": true,
    "below": true
@@ -1272,7 +1274,6 @@
    "check": {
     "tier": "Looks live",
     "good": [
-     "posted in the last two weeks",
      "detailed description"
     ],
     "check": []
@@ -2430,5 +2431,5 @@
    "adjustWhy": "Only open to UK or UAE residents, and the core is product growth and lifecycle tooling rather than partnerships."
   }
  ],
- "rated": "10 Nov 2026 10:44 UTC"
+ "rated": "11 Nov 2026 05:06 UTC"
 }

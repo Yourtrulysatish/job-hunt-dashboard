@@ -1,6 +1,6 @@
 {
- "generated": "10 Nov 2026 10:44 UTC",
- "count": 3,
+ "generated": "11 Nov 2026 05:06 UTC",
+ "count": 4,
  "items": [
   {
    "id": "a138c30e79f",
@@ -46,9 +46,54 @@
     ],
     "check": []
    },
-   "new": true,
+   "new": false,
    "why": "Found by the daily scan. Open the posting and read it before applying.",
    "mode": "Remote"
+  },
+  {
+   "id": "a35dedf123f",
+   "title": "Community Growth Manager",
+   "company": "Reedsy",
+   "country": "United Kingdom",
+   "region": "e",
+   "tier": "auto",
+   "fit": 7.0,
+   "rating": {
+    "fit": 7.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.0,
+     "level": 2.0,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "content and social",
+     "testing"
+    ],
+    "missing": []
+   },
+   "posted": "2026-11-10",
+   "firstSeen": "2026-11-11",
+   "url": "https://jobicy.com/jobs/161086-community-growth-manager",
+   "source": "jobicy",
+   "flags": [
+    "asks up to 3+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
   },
   {
    "id": "a1c52543987",

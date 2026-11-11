@@ -1,7 +1,305 @@
 {
- "generated": "10 Nov 2026 10:44 UTC",
- "count": 2,
+ "generated": "11 Nov 2026 05:06 UTC",
+ "count": 8,
  "items": [
+  {
+   "id": "ac3b8cc1bfa",
+   "title": "Field Marketing Manager, Europe",
+   "company": "linear",
+   "country": "Remote",
+   "region": "r",
+   "tier": "auto",
+   "fit": 7.5,
+   "rating": {
+    "fit": 7.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 1.5,
+     "level": 2.0,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "b2b",
+     "crm",
+     "negotiation"
+    ],
+    "missing": [
+     "api",
+     "attribution"
+    ]
+   },
+   "posted": "2026-11-10",
+   "firstSeen": "2026-11-11",
+   "url": "https://jobs.ashbyhq.com/linear/af8d37e8-624a-4f2c-af53-c599b97192a3",
+   "source": "ashby",
+   "flags": [
+    "asks up to 4+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Remote"
+  },
+  {
+   "id": "a0abb06aca3",
+   "title": "Senior Associate, Strategic Business Development & Partnerships - Europe",
+   "company": "ShopMy",
+   "country": "United Kingdom",
+   "region": "e",
+   "tier": "auto",
+   "fit": 7.0,
+   "rating": {
+    "fit": 7.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.0,
+     "level": 1.0,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "business development",
+     "partnerships"
+    ],
+    "missing": [
+     "api",
+     "commission",
+     "impact"
+    ]
+   },
+   "posted": "2026-11-10",
+   "firstSeen": "2026-11-11",
+   "url": "https://jobicy.com/jobs/161083-senior-associate-strategic-business-development-partnerships-europe",
+   "source": "jobicy",
+   "flags": [
+    "asks up to 4+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
+  },
+  {
+   "id": "a8e64e394c1",
+   "title": "Business Development Manager",
+   "company": "thyssenkrupp",
+   "country": "United Kingdom",
+   "region": "e",
+   "tier": "auto",
+   "fit": 6.5,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.5,
+     "level": 1.0,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "business development",
+     "content and social",
+     "negotiation",
+     "partnerships"
+    ],
+    "missing": [
+     "api",
+     "stakeholder"
+    ]
+   },
+   "posted": "2026-11-11",
+   "firstSeen": "2026-11-11",
+   "url": "https://himalayas.app/companies/thyssenkrupp/jobs/business-development-manager?utm_source=api",
+   "source": "himalayas",
+   "flags": [],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
+  },
+  {
+   "id": "a726bb8201a",
+   "title": "Business Development Manager iGaming",
+   "company": "sumsub",
+   "country": "United Kingdom",
+   "region": "e",
+   "tier": "auto",
+   "fit": 6.5,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.5,
+     "level": 1.0,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "b2b",
+     "business development",
+     "content and social",
+     "crm",
+     "negotiation",
+     "web3"
+    ],
+    "missing": [
+     "api",
+     "go-to-market",
+     "impact"
+    ]
+   },
+   "posted": "2026-11-10",
+   "firstSeen": "2026-11-11",
+   "url": "https://careers.sumsub.com/jobs/8701283-business-development-manager-igaming",
+   "source": "teamtailor",
+   "flags": [
+    "asks up to 5+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
+  },
+  {
+   "id": "ae710e9717d",
+   "title": "Senior Partner Manager (m/w/d) SaaS. IoT. Tech.",
+   "company": "ANGEHEUERT GmbH",
+   "country": "Germany",
+   "region": "e",
+   "tier": "auto",
+   "fit": 6.5,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.0,
+     "level": 0.5,
+     "place": 0.9,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "b2b",
+     "crm"
+    ],
+    "missing": [
+     "account management",
+     "impact"
+    ]
+   },
+   "posted": "2026-11-10",
+   "firstSeen": "2026-11-11",
+   "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh/senior-partner-manager-saas-iot-tech-munchen-32999",
+   "source": "arbeitnow",
+   "flags": [],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Hybrid or office"
+  },
+  {
+   "id": "a6e893226d9",
+   "title": "Business Development Manager - LATAM",
+   "company": "pepperstone",
+   "country": "Remote",
+   "region": "r",
+   "tier": "auto",
+   "fit": 6.5,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.0,
+     "level": 1.0,
+     "place": 1.0,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.5
+    },
+    "notes": [
+     "needs existing right to work"
+    ],
+    "have": [
+     "affiliate",
+     "b2b",
+     "business development",
+     "crm",
+     "negotiation",
+     "partnerships",
+     "web3"
+    ],
+    "missing": [
+     "commission"
+    ]
+   },
+   "posted": "2026-11-10",
+   "firstSeen": "2026-11-11",
+   "url": "https://apply.workable.com/j/F4B0D582C8",
+   "source": "workable",
+   "flags": [
+    "needs right to work"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Remote"
+  },
   {
    "id": "a361c1370e6",
    "title": "IT - Channel Account Manager - UK&I",
