@@ -1,5 +1,5 @@
 {
- "updated": "10 Nov 2026",
+ "updated": "11 Nov 2026",
  "jobs": [
   {
    "title": "Affiliate & Partnerships Manager",
@@ -2389,10 +2389,10 @@
    "source": "Himalayas",
    "read": true,
    "rating": {
-    "fit": 7.0,
+    "fit": 6.5,
     "conf": "Medium",
     "parts": {
-     "role": 2.5,
+     "role": 2.0,
      "level": 2.0,
      "place": 0.8,
      "pay": 0.5,
@@ -2402,22 +2402,65 @@
     "notes": [
      "needs existing right to work"
     ],
-    "have": [
-     "affiliate",
-     "analytics",
-     "content and social",
-     "testing",
-     "web3"
+    "have": [],
+    "missing": []
+   },
+   "fit": 5.0,
+   "below": true,
+   "check": {
+    "tier": "Check first",
+    "good": [
+     "posted in the last two weeks"
     ],
-    "missing": [
-     "attribution",
-     "cac",
-     "lifecycle",
-     "sql",
-     "tracking"
+    "check": [
+     "text not read"
     ]
    },
-   "fit": 5.5,
+   "fitAdjust": -1.5,
+   "adjustWhy": "Only open to UK or UAE residents, and the core is product growth and lifecycle tooling rather than partnerships."
+  },
+  {
+   "id": "linear-field-marketing-manager-europe",
+   "title": "Field Marketing Manager, Europe",
+   "company": "Linear",
+   "country": "Europe (remote)",
+   "city": "Remote, anywhere in Europe (London preferred)",
+   "region": "e",
+   "tier": "stretch",
+   "mode": "Remote within Europe, frequent travel for events",
+   "posted": "2026-11-10",
+   "exp": "3+ years in field marketing, event marketing or B2B events",
+   "lang": "English",
+   "visa": "Not mentioned. Open to candidates based in Europe.",
+   "visaState": "unstated",
+   "pay": "Not stated",
+   "why": "A well funded product company hiring its first European field marketer, remote from Croatia is fine. The catch is that the job is running executive dinners and conference programs end to end with frequent evening travel, and the 3+ years of event experience is not something your affiliate and partnerships background shows.",
+   "url": "https://jobs.ashbyhq.com/linear/af8d37e8-624a-4f2c-af53-c599b97192a3",
+   "source": "Ashby",
+   "read": true,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 1.5,
+     "level": 2.0,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "b2b",
+     "crm",
+     "negotiation"
+    ],
+    "missing": [
+     "api",
+     "attribution"
+    ]
+   },
+   "fit": 5.0,
    "below": true,
    "check": {
     "tier": "Looks live",
@@ -2428,8 +2471,8 @@
     "check": []
    },
    "fitAdjust": -1.5,
-   "adjustWhy": "Only open to UK or UAE residents, and the core is product growth and lifecycle tooling rather than partnerships."
+   "adjustWhy": "The role is event and dinner operations with 3+ years of event marketing asked, which is outside your affiliate and partnerships experience."
   }
  ],
- "rated": "11 Nov 2026 05:06 UTC"
+ "rated": "11 Nov 2026 07:49 UTC"
 }
