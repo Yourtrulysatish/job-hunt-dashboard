@@ -1,5 +1,5 @@
 {
- "updated": "11 Nov 2026",
+ "updated": "12 Nov 2026",
  "jobs": [
   {
    "title": "Affiliate & Partnerships Manager",
@@ -2436,7 +2436,126 @@
    },
    "fitAdjust": -1.5,
    "adjustWhy": "The role is event and dinner operations with 3+ years of event marketing asked, which is outside your affiliate and partnerships experience."
+  },
+  {
+   "id": "lendable-affiliate-marketing-executive",
+   "title": "Affiliate Marketing Executive",
+   "company": "Lendable",
+   "country": "United Kingdom",
+   "city": "London",
+   "region": "n",
+   "tier": "stretch",
+   "mode": "Hybrid, three days a week in the London office",
+   "posted": "2026-11-11",
+   "exp": "2-3+ years in affiliate, acquisition or performance marketing for a consumer brand",
+   "lang": "English",
+   "visa": "Not mentioned. London hybrid, so UK right to work or sponsorship would be needed.",
+   "visaState": "unstated",
+   "pay": "Not stated",
+   "why": "Almost a word for word match: sourcing and closing new affiliate and influencer partners on CPA and fixed fee deals at a profitable UK fintech unicorn, at the 2-3 years level you clear. The catch is the London office three days a week, so it only works if Lendable sponsors a UK visa.",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/affiliate-marketing-executive-london-62230",
+   "source": "Arbeitnow",
+   "read": true,
+   "rating": {
+    "fit": 8.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.5,
+     "level": 2.0,
+     "place": 0.9,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.5
+    },
+    "notes": [
+     "needs existing right to work"
+    ],
+    "have": [
+     "affiliate",
+     "analytics",
+     "b2b",
+     "content and social",
+     "negotiation",
+     "paid media",
+     "partnerships"
+    ],
+    "missing": [
+     "account management",
+     "api",
+     "attribution",
+     "awin",
+     "cac",
+     "commission",
+     "impact",
+     "lifecycle"
+    ]
+   },
+   "fit": 7.0,
+   "below": false,
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "fitAdjust": -1.0,
+   "adjustWhy": "The role itself is a near perfect match, but it is three days a week in London and needs UK work rights that you do not have yet."
+  },
+  {
+   "id": "pergolux-performance-marketing-specialist-meta",
+   "title": "Performance Marketing Specialist - Meta",
+   "company": "Pergolux",
+   "country": "Germany",
+   "city": "Berlin",
+   "region": "e",
+   "tier": "stretch",
+   "mode": "Berlin, work mode not stated",
+   "posted": "2026-11-12",
+   "exp": "3+ years hands-on managing Meta Ads accounts, ideally e-commerce or D2C",
+   "lang": "English",
+   "visa": "Not mentioned. Germany is in the EU.",
+   "visaState": "unstated",
+   "pay": "Not stated (market aligned salary, pension)",
+   "why": "An English language paid social role at a growing D2C outdoor brand in Berlin, owning Meta Ads budget against MER, ROAS and CPA targets. The catch is that it wants 3+ years of hands-on Meta Ads buying, and your background is affiliate and partnerships rather than running ad accounts.",
+   "url": "https://www.arbeitnow.com/jobs/companies/pergolux/performance-marketing-specialist-meta-berlin-93876",
+   "source": "Arbeitnow",
+   "read": true,
+   "rating": {
+    "fit": 7.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.0,
+     "level": 2.0,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "paid media",
+     "testing"
+    ],
+    "missing": [
+     "impact",
+     "tracking"
+    ]
+   },
+   "fit": 5.0,
+   "below": true,
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "fitAdjust": -2.0,
+   "adjustWhy": "The core of the job is 3+ years of hands-on Meta Ads buying, which your affiliate and partnerships background does not show."
   }
  ],
- "rated": "12 Nov 2026 05:03 UTC"
+ "rated": "12 Nov 2026 07:59 UTC"
 }
