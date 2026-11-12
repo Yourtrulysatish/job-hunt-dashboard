@@ -1,5 +1,154 @@
 {
- "generated": "11 Nov 2026 07:49 UTC",
- "count": 0,
- "items": []
+ "generated": "12 Nov 2026 05:03 UTC",
+ "count": 3,
+ "items": [
+  {
+   "id": "a34b0facb2e",
+   "title": "Sponsorship Sales Executive",
+   "company": "Pmmalliance",
+   "country": "Remote",
+   "region": "r",
+   "tier": "auto",
+   "fit": 8.5,
+   "rating": {
+    "fit": 8.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.3,
+     "level": 2.0,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "business development",
+     "content and social",
+     "negotiation",
+     "testing"
+    ],
+    "missing": [
+     "enterprise",
+     "impact",
+     "lead generation",
+     "stakeholder"
+    ]
+   },
+   "posted": "2026-11-11",
+   "firstSeen": "2026-11-12",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/pmmalliance/sponsorship-sales-executive-dalston-359118",
+   "source": "arbeitnow",
+   "flags": [
+    "asks up to 2+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Remote"
+  },
+  {
+   "id": "a1a3376812e",
+   "title": "Performance Marketing Specialist - Meta",
+   "company": "Pergolux",
+   "country": "Germany",
+   "region": "e",
+   "tier": "auto",
+   "fit": 7.0,
+   "rating": {
+    "fit": 7.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.0,
+     "level": 2.0,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "paid media",
+     "testing"
+    ],
+    "missing": [
+     "impact",
+     "tracking"
+    ]
+   },
+   "posted": "2026-11-12",
+   "firstSeen": "2026-11-12",
+   "url": "https://www.arbeitnow.com/jobs/companies/pergolux/performance-marketing-specialist-meta-berlin-93876",
+   "source": "arbeitnow",
+   "flags": [
+    "asks up to 3+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
+  },
+  {
+   "id": "ab07e757561",
+   "title": "Channel Sales Manager (Sub-Distribution)",
+   "company": "Ajax Systems",
+   "country": "United Kingdom",
+   "region": "e",
+   "tier": "auto",
+   "fit": 6.5,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.3,
+     "level": 2.0,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "b2b",
+     "business development",
+     "negotiation"
+    ],
+    "missing": [
+     "impact",
+     "stakeholder"
+    ]
+   },
+   "posted": "2026-11-11",
+   "firstSeen": "2026-11-12",
+   "url": "https://jobicy.com/jobs/161350-channel-sales-manager-sub-distribution",
+   "source": "jobicy",
+   "flags": [
+    "asks up to 3+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
+  }
+ ]
 }

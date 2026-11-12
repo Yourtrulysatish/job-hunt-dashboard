@@ -1,7 +1,66 @@
 {
- "generated": "11 Nov 2026 07:49 UTC",
+ "generated": "12 Nov 2026 05:03 UTC",
  "count": 4,
  "items": [
+  {
+   "id": "af63b924d7c",
+   "title": "Affiliate Marketing Executive",
+   "company": "Lendable",
+   "country": "United Kingdom",
+   "region": "e",
+   "tier": "auto",
+   "fit": 8.5,
+   "rating": {
+    "fit": 8.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.5,
+     "level": 2.0,
+     "place": 0.9,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "affiliate",
+     "analytics",
+     "b2b",
+     "content and social",
+     "negotiation",
+     "paid media",
+     "partnerships"
+    ],
+    "missing": [
+     "account management",
+     "api",
+     "attribution",
+     "awin",
+     "cac",
+     "commission",
+     "impact",
+     "lifecycle"
+    ]
+   },
+   "posted": "2026-11-11",
+   "firstSeen": "2026-11-12",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/lendable/affiliate-marketing-executive-london-62230",
+   "source": "arbeitnow",
+   "flags": [
+    "asks up to 3+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Hybrid or office"
+  },
   {
    "id": "a138c30e79f",
    "title": "Business Development Manager For Starkware - US Based",
@@ -51,38 +110,43 @@
    "mode": "Remote"
   },
   {
-   "id": "a35dedf123f",
-   "title": "Community Growth Manager",
-   "company": "Reedsy",
-   "country": "United Kingdom",
-   "region": "e",
+   "id": "a06f994d462",
+   "title": "Partnership Manager",
+   "company": "XUND",
+   "country": "Remote",
+   "region": "r",
    "tier": "auto",
    "fit": 7.0,
    "rating": {
     "fit": 7.0,
     "conf": "Medium",
     "parts": {
-     "role": 2.0,
-     "level": 2.0,
-     "place": 0.8,
+     "role": 3.0,
+     "level": 1.0,
+     "place": 2.0,
      "pay": 0.5,
-     "sector": 1.5,
+     "sector": 0.7,
      "flags": -0.0
     },
     "notes": [],
     "have": [
      "analytics",
-     "content and social",
-     "testing"
+     "b2b",
+     "negotiation",
+     "partnerships"
     ],
-    "missing": []
+    "missing": [
+     "enterprise",
+     "impact",
+     "integration"
+    ]
    },
-   "posted": "2026-11-10",
-   "firstSeen": "2026-11-11",
-   "url": "https://jobicy.com/jobs/161086-community-growth-manager",
-   "source": "jobicy",
+   "posted": "2026-11-11",
+   "firstSeen": "2026-11-12",
+   "url": "https://himalayas.app/companies/xund/jobs/partnership-manager?utm_source=api",
+   "source": "himalayas",
    "flags": [
-    "asks up to 3+ years"
+    "asks up to 5+ years"
    ],
    "check": {
     "tier": "Looks live",
@@ -93,57 +157,6 @@
     "check": []
    },
    "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying."
-  },
-  {
-   "id": "a1c52543987",
-   "title": "SOCIAL MEDIA & SEO MANAGER",
-   "company": "Ace Stainless Supply",
-   "country": "Remote",
-   "region": "r",
-   "tier": "auto",
-   "fit": 7.0,
-   "rating": {
-    "fit": 7.0,
-    "conf": "Medium",
-    "parts": {
-     "role": 1.8,
-     "level": 1.0,
-     "place": 2.0,
-     "pay": 0.6,
-     "sector": 1.5,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "analytics",
-     "b2b",
-     "content and social",
-     "partnerships",
-     "seo",
-     "testing"
-    ],
-    "missing": [
-     "attribution",
-     "impact",
-     "sql",
-     "tracking"
-    ]
-   },
-   "posted": "2026-11-06",
-   "firstSeen": "2026-11-06",
-   "url": "https://weworkremotely.com/remote-jobs/ace-stainless-supply-social-media-seo-manager-2",
-   "source": "wwr",
-   "flags": [],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": false,
    "why": "Found by the daily scan. Open the posting and read it before applying.",
    "mode": "Remote"
   },

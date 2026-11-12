@@ -348,18 +348,15 @@
      "flags": -0.0
     },
     "notes": [],
-    "have": [
-     "analytics",
-     "content and social",
-     "testing"
-    ],
+    "have": [],
     "missing": []
    },
    "check": {
     "tier": "Check first",
     "good": [],
     "check": [
-     "older than three weeks"
+     "older than three weeks",
+     "text not read"
     ]
    },
    "read": true,
@@ -723,6 +720,7 @@
      "has a closing date"
     ],
     "check": [
+     "older than three weeks",
      "text not read"
     ]
    },
@@ -1405,25 +1403,16 @@
     "notes": [
      "needs existing right to work"
     ],
-    "have": [
-     "analytics",
-     "business development",
-     "testing"
-    ],
-    "missing": [
-     "account management",
-     "api",
-     "commission",
-     "impact"
-    ]
+    "have": [],
+    "missing": []
    },
    "fit": 4.0,
    "check": {
-    "tier": "Looks live",
-    "good": [
-     "detailed description"
-    ],
-    "check": []
+    "tier": "Check first",
+    "good": [],
+    "check": [
+     "text not read"
+    ]
    },
    "fitAdjust": -2.0,
    "adjustWhy": "Asks for 5+ years of channel and telecom experience and UK right to work, which the formula cannot see.",
@@ -1562,6 +1551,7 @@
     "tier": "Check first",
     "good": [],
     "check": [
+     "older than three weeks",
      "text not read"
     ]
    },
@@ -1740,28 +1730,19 @@
      "flags": -0.0
     },
     "notes": [],
-    "have": [
-     "affiliate",
-     "analytics",
-     "crm",
-     "negotiation",
-     "partnerships"
-    ],
-    "missing": [
-     "impact",
-     "ltv",
-     "retention"
-    ]
+    "have": [],
+    "missing": []
    },
    "fit": 7.0,
    "below": false,
    "check": {
-    "tier": "Looks live",
+    "tier": "Check first",
     "good": [
-     "posted in the last two weeks",
-     "detailed description"
+     "posted in the last two weeks"
     ],
-    "check": []
+    "check": [
+     "text not read"
+    ]
    },
    "fitAdjust": 0.5,
    "adjustWhy": "Core affiliate manager work with only 1.5 years asked; crypto affiliate experience sits close to iGaming, so the formula undersells the role match."
@@ -2326,47 +2307,30 @@
    "source": "Himalayas",
    "read": true,
    "rating": {
-    "fit": 7.5,
+    "fit": 7.0,
     "conf": "High",
     "parts": {
      "role": 3.5,
      "level": 1.0,
      "place": 1.0,
      "pay": 0.6,
-     "sector": 1.5,
+     "sector": 0.7,
      "flags": -0.0
     },
     "notes": [],
-    "have": [
-     "affiliate",
-     "analytics",
-     "b2b",
-     "content and social",
-     "negotiation",
-     "paid media",
-     "partnerships",
-     "seo",
-     "testing"
-    ],
-    "missing": [
-     "attribution",
-     "awin",
-     "commission",
-     "impact",
-     "lifecycle",
-     "partnerstack",
-     "tracking"
-    ]
+    "have": [],
+    "missing": []
    },
-   "fit": 7.5,
+   "fit": 7.0,
    "below": false,
    "check": {
-    "tier": "Looks live",
+    "tier": "Check first",
     "good": [
-     "posted in the last two weeks",
-     "detailed description"
+     "posted in the last two weeks"
     ],
-    "check": []
+    "check": [
+     "text not read"
+    ]
    }
   },
   {
@@ -2474,5 +2438,5 @@
    "adjustWhy": "The role is event and dinner operations with 3+ years of event marketing asked, which is outside your affiliate and partnerships experience."
   }
  ],
- "rated": "11 Nov 2026 07:49 UTC"
+ "rated": "12 Nov 2026 05:03 UTC"
 }
