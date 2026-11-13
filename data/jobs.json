@@ -1,5 +1,5 @@
 {
- "updated": "12 Nov 2026",
+ "updated": "13 Nov 2026",
  "jobs": [
   {
    "title": "Affiliate & Partnerships Manager",
@@ -2350,10 +2350,10 @@
    "source": "Himalayas",
    "read": true,
    "rating": {
-    "fit": 6.5,
+    "fit": 7.0,
     "conf": "Medium",
     "parts": {
-     "role": 2.0,
+     "role": 2.5,
      "level": 2.0,
      "place": 0.8,
      "pay": 0.5,
@@ -2363,19 +2363,30 @@
     "notes": [
      "needs existing right to work"
     ],
-    "have": [],
-    "missing": []
+    "have": [
+     "affiliate",
+     "analytics",
+     "content and social",
+     "testing",
+     "web3"
+    ],
+    "missing": [
+     "attribution",
+     "cac",
+     "lifecycle",
+     "sql",
+     "tracking"
+    ]
    },
-   "fit": 5.0,
+   "fit": 5.5,
    "below": true,
    "check": {
-    "tier": "Check first",
+    "tier": "Looks live",
     "good": [
-     "posted in the last two weeks"
+     "posted in the last two weeks",
+     "detailed description"
     ],
-    "check": [
-     "text not read"
-    ]
+    "check": []
    },
    "fitAdjust": -1.5,
    "adjustWhy": "Only open to UK or UAE residents, and the core is product growth and lifecycle tooling rather than partnerships."
@@ -2536,7 +2547,125 @@
    },
    "fitAdjust": -2.0,
    "adjustWhy": "The core of the job is 3+ years of hands-on Meta Ads buying, which your affiliate and partnerships background does not show."
+  },
+  {
+   "id": "affiliatelandscape-bd",
+   "title": "Business Development Manager, Affiliate Marketing",
+   "company": "AffiliateLandscape",
+   "tier": "apply",
+   "exp": "3+ years in business development, affiliate marketing or digital advertising.",
+   "pay": "Not stated",
+   "why": "Fully remote worldwide and asks 3+ years, which your 4 years in affiliate and partnerships covers. The catch is that it is B2B sales heavy (acquiring advertisers, networks and publishers, revenue targets), so lead with the CryptoNewsZ network growth.",
+   "url": "https://www.arbeitnow.com/jobs/companies/affiliatelandscape/business-development-manager-affiliate-marketing-berlin-73692",
+   "country": "Remote",
+   "city": "",
+   "region": "r",
+   "mode": "Remote",
+   "posted": "2026-11-12",
+   "lang": "English. Fluent English required, other languages a plus.",
+   "visa": "Fully remote, worldwide. Not applicable.",
+   "visaState": "unstated",
+   "source": "Arbeitnow, company posting",
+   "read": true,
+   "below": false,
+   "rating": {
+    "fit": 8.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.5,
+     "level": 2.0,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "affiliate",
+     "analytics",
+     "b2b",
+     "business development",
+     "crm",
+     "negotiation",
+     "paid media",
+     "partnerships"
+    ],
+    "missing": [
+     "lead generation"
+    ]
+   },
+   "fit": 8.5,
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   }
+  },
+  {
+   "id": "affiliatelandscape-sam",
+   "title": "(Senior) Affiliate Marketing Manager",
+   "company": "AffiliateLandscape",
+   "tier": "apply",
+   "exp": "4+ years in affiliate or performance marketing.",
+   "pay": "Not stated",
+   "why": "Fully remote worldwide and the 4 years ask matches yours exactly. It covers recruiting and managing affiliates, negotiating CPA and revshare, and tracking, which is your core work. The catch is that iGaming, finance and nutra verticals are preferred, and the senior label may mean a high bar.",
+   "url": "https://www.arbeitnow.com/jobs/companies/affiliatelandscape/senior-affiliate-marketing-manager-berlin-482248",
+   "country": "Remote",
+   "city": "",
+   "region": "r",
+   "mode": "Remote",
+   "posted": "2026-11-12",
+   "lang": "English. Fluent English required, other languages a plus.",
+   "visa": "Fully remote, worldwide. Not applicable.",
+   "visaState": "unstated",
+   "source": "Arbeitnow, company posting",
+   "read": true,
+   "below": false,
+   "rating": {
+    "fit": 8.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.5,
+     "level": 1.5,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "affiliate",
+     "analytics",
+     "business development",
+     "negotiation",
+     "paid media",
+     "partnerships"
+    ],
+    "missing": [
+     "attribution",
+     "commission",
+     "impact",
+     "lead generation",
+     "partnerstack",
+     "revenue share",
+     "tracking"
+    ]
+   },
+   "fit": 8.0,
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "fitAdjust": -0.5,
+   "adjustWhy": "Senior title and a stated preference for iGaming, finance and nutra verticals make it a slightly higher bar than the formula sees."
   }
  ],
- "rated": "13 Nov 2026 05:03 UTC"
+ "rated": "13 Nov 2026 11:55 UTC"
 }

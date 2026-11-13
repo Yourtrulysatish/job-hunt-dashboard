@@ -1,7 +1,57 @@
 {
- "generated": "13 Nov 2026 05:03 UTC",
+ "generated": "13 Nov 2026 11:55 UTC",
  "count": 7,
  "items": [
+  {
+   "id": "ad956de5a19",
+   "title": "Marketing Manager, Community & Events (m/f/d)",
+   "company": "Kayzen",
+   "country": "Remote",
+   "region": "r",
+   "tier": "auto",
+   "fit": 7.5,
+   "rating": {
+    "fit": 7.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 1.5,
+     "level": 2.0,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "content and social",
+     "partnerships"
+    ],
+    "missing": [
+     "api",
+     "impact",
+     "stakeholder"
+    ]
+   },
+   "posted": "2026-11-13",
+   "firstSeen": "2026-11-13",
+   "url": "https://jobicy.com/jobs/161736-marketing-manager-community-events-m-f-d",
+   "source": "jobicy",
+   "flags": [
+    "asks up to 2+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Remote"
+  },
   {
    "id": "aaffefd517b",
    "title": "Social Media Manager",
@@ -103,52 +153,6 @@
    "mode": "Remote"
   },
   {
-   "id": "a877a97924c",
-   "title": "Strategic Partnerships Lead, Airlines",
-   "company": "Holafly",
-   "country": "Portugal",
-   "region": "e",
-   "tier": "auto",
-   "fit": 6.5,
-   "rating": {
-    "fit": 6.5,
-    "conf": "Medium",
-    "parts": {
-     "role": 3.0,
-     "level": 0.5,
-     "place": 0.8,
-     "pay": 0.5,
-     "sector": 1.5,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "analytics",
-     "b2b",
-     "negotiation",
-     "partnerships"
-    ],
-    "missing": [
-     "integration"
-    ]
-   },
-   "posted": "2026-11-12",
-   "firstSeen": "2026-11-13",
-   "url": "https://himalayas.app/companies/holafly/jobs/strategic-partnerships-lead-airlines?utm_source=api",
-   "source": "himalayas",
-   "flags": [],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying."
-  },
-  {
    "id": "ae46aa19c90",
    "title": "Lawgent: Founding Editor & Partnerships Lead, Law Magazine",
    "company": "Nordic Investin Group Aktiebolag",
@@ -194,10 +198,10 @@
    "why": "Found by the daily scan. Open the posting and read it before applying."
   },
   {
-   "id": "adbfdb73d76",
-   "title": "Senior Sales & Partnerships Manager",
-   "company": "Zilch",
-   "country": "United Kingdom",
+   "id": "a4a965fb632",
+   "title": "Senior Manager, BioInsight Business Development",
+   "company": "Illumina",
+   "country": "Germany",
    "region": "e",
    "tier": "auto",
    "fit": 6.5,
@@ -205,34 +209,37 @@
     "fit": 6.5,
     "conf": "Medium",
     "parts": {
-     "role": 3.5,
-     "level": 0.0,
-     "place": 0.9,
+     "role": 2.5,
+     "level": 0.5,
+     "place": 1.3,
      "pay": 0.5,
      "sector": 1.5,
      "flags": -0.0
     },
     "notes": [],
     "have": [
-     "affiliate",
      "analytics",
-     "b2b",
+     "business development",
+     "crm",
      "negotiation",
-     "paid media",
-     "partnerships"
+     "partnerships",
+     "testing"
     ],
     "missing": [
      "account management",
      "commission",
+     "enterprise",
+     "go-to-market",
+     "impact",
      "stakeholder"
     ]
    },
    "posted": "2026-11-12",
    "firstSeen": "2026-11-13",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/zilch/senior-sales-partnerships-manager-london-190619",
-   "source": "arbeitnow",
+   "url": "https://himalayas.app/companies/illumina/jobs/senior-manager-bioinsight-business-development?utm_source=api",
+   "source": "himalayas",
    "flags": [
-    "asks up to 6+ years"
+    "relocation/visa mentioned"
    ],
    "check": {
     "tier": "Looks live",
@@ -243,42 +250,44 @@
     "check": []
    },
    "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying.",
-   "mode": "Hybrid or office"
+   "why": "Found by the daily scan. Open the posting and read it before applying."
   },
   {
-   "id": "a43a86ee0ff",
-   "title": "Growth Marketing Manager (Studio)",
-   "company": "Reedsy",
-   "country": "United Kingdom",
-   "region": "e",
+   "id": "ae794c1115b",
+   "title": "Performance Marketing Lead",
+   "company": "Together Light Inc",
+   "country": "Remote",
+   "region": "r",
    "tier": "auto",
    "fit": 6.5,
    "rating": {
     "fit": 6.5,
     "conf": "Medium",
     "parts": {
-     "role": 2.5,
-     "level": 1.0,
-     "place": 0.8,
+     "role": 2.0,
+     "level": 0.5,
+     "place": 2.0,
      "pay": 0.5,
      "sector": 1.5,
      "flags": -0.0
     },
     "notes": [],
     "have": [
-     "affiliate",
-     "content and social",
-     "partnerships"
+     "analytics",
+     "paid media",
+     "testing"
     ],
     "missing": [
-     "cac"
+     "api",
+     "cac",
+     "impact",
+     "tracking"
     ]
    },
    "posted": "2026-11-12",
    "firstSeen": "2026-11-13",
-   "url": "https://jobicy.com/jobs/161543-growth-marketing-manager-studio",
-   "source": "jobicy",
+   "url": "https://himalayas.app/companies/together-light-inc/jobs/performance-marketing-lead-4950365598?utm_source=api",
+   "source": "himalayas",
    "flags": [
     "asks up to 5+ years"
    ],
@@ -291,7 +300,8 @@
     "check": []
    },
    "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying."
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Remote"
   },
   {
    "id": "a02185ae709",
