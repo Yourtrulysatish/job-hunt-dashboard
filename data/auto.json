@@ -1,5 +1,220 @@
 {
- "generated": "12 Nov 2026 07:59 UTC",
- "count": 0,
- "items": []
+ "generated": "13 Nov 2026 05:03 UTC",
+ "count": 4,
+ "items": [
+  {
+   "id": "a6e43673d99",
+   "title": "Business Development Manager – Affiliate Marketing (m/f/d)",
+   "company": "AffiliateLandscape",
+   "country": "Germany",
+   "region": "r",
+   "tier": "auto",
+   "fit": 8.5,
+   "rating": {
+    "fit": 8.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.5,
+     "level": 2.0,
+     "place": 1.0,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "affiliate",
+     "analytics",
+     "b2b",
+     "business development",
+     "crm",
+     "negotiation",
+     "paid media",
+     "partnerships"
+    ],
+    "missing": [
+     "lead generation"
+    ]
+   },
+   "posted": "2026-11-12",
+   "firstSeen": "2026-11-13",
+   "url": "https://www.arbeitnow.com/jobs/companies/affiliatelandscape/business-development-manager-affiliate-marketing-berlin-73692",
+   "source": "arbeitnow",
+   "flags": [
+    "asks up to 3+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Remote"
+  },
+  {
+   "id": "a86416320ef",
+   "title": "(Senior) Affiliate Marketing Manager (m/f/d)",
+   "company": "AffiliateLandscape",
+   "country": "Germany",
+   "region": "r",
+   "tier": "auto",
+   "fit": 8.0,
+   "rating": {
+    "fit": 8.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.5,
+     "level": 1.5,
+     "place": 1.0,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "affiliate",
+     "analytics",
+     "business development",
+     "negotiation",
+     "paid media",
+     "partnerships"
+    ],
+    "missing": [
+     "attribution",
+     "commission",
+     "impact",
+     "lead generation",
+     "partnerstack",
+     "revenue share",
+     "tracking"
+    ]
+   },
+   "posted": "2026-11-12",
+   "firstSeen": "2026-11-13",
+   "url": "https://www.arbeitnow.com/jobs/companies/affiliatelandscape/senior-affiliate-marketing-manager-berlin-482248",
+   "source": "arbeitnow",
+   "flags": [
+    "asks up to 4+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Remote"
+  },
+  {
+   "id": "a962489bf01",
+   "title": "Affiliate Manager",
+   "company": "Zexter",
+   "country": "Spain",
+   "region": "e",
+   "tier": "auto",
+   "fit": 7.5,
+   "rating": {
+    "fit": 7.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.5,
+     "level": 1.0,
+     "place": 0.9,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "affiliate",
+     "analytics",
+     "crm",
+     "negotiation",
+     "partnerships",
+     "seo"
+    ],
+    "missing": [
+     "ltv",
+     "retention",
+     "tracking"
+    ]
+   },
+   "posted": "2026-11-12",
+   "firstSeen": "2026-11-13",
+   "url": "https://himalayas.app/companies/zexter/jobs/affiliate-manager?utm_source=api",
+   "source": "himalayas",
+   "flags": [],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Hybrid or office"
+  },
+  {
+   "id": "a6c1b47a9e6",
+   "title": "Business Development Manager",
+   "company": "Zexter",
+   "country": "Spain",
+   "region": "e",
+   "tier": "auto",
+   "fit": 7.0,
+   "rating": {
+    "fit": 7.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.0,
+     "level": 1.0,
+     "place": 0.9,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "affiliate",
+     "b2b",
+     "business development",
+     "crm",
+     "negotiation",
+     "partnerships",
+     "seo",
+     "testing"
+    ],
+    "missing": [
+     "api",
+     "integration",
+     "tracking"
+    ]
+   },
+   "posted": "2026-11-12",
+   "firstSeen": "2026-11-13",
+   "url": "https://himalayas.app/companies/zexter/jobs/business-development-manager?utm_source=api",
+   "source": "himalayas",
+   "flags": [],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Hybrid or office"
+  }
+ ]
 }

@@ -398,6 +398,7 @@
     "tier": "Check first",
     "good": [],
     "check": [
+     "older than three weeks",
      "text not read"
     ]
    },
@@ -1643,9 +1644,7 @@
    "below": false,
    "check": {
     "tier": "Check first",
-    "good": [
-     "posted in the last two weeks"
-    ],
+    "good": [],
     "check": [
      "text not read"
     ]
@@ -2068,9 +2067,7 @@
    "below": false,
    "check": {
     "tier": "Check first",
-    "good": [
-     "posted in the last two weeks"
-    ],
+    "good": [],
     "check": [
      "text not read"
     ]
@@ -2457,48 +2454,32 @@
    "source": "Arbeitnow",
    "read": true,
    "rating": {
-    "fit": 8.0,
+    "fit": 7.0,
     "conf": "Medium",
     "parts": {
-     "role": 3.5,
+     "role": 3.2,
      "level": 2.0,
      "place": 0.9,
      "pay": 0.5,
-     "sector": 1.5,
+     "sector": 0.7,
      "flags": -0.5
     },
     "notes": [
      "needs existing right to work"
     ],
-    "have": [
-     "affiliate",
-     "analytics",
-     "b2b",
-     "content and social",
-     "negotiation",
-     "paid media",
-     "partnerships"
-    ],
-    "missing": [
-     "account management",
-     "api",
-     "attribution",
-     "awin",
-     "cac",
-     "commission",
-     "impact",
-     "lifecycle"
-    ]
+    "have": [],
+    "missing": []
    },
-   "fit": 7.0,
-   "below": false,
+   "fit": 6.0,
+   "below": true,
    "check": {
-    "tier": "Looks live",
+    "tier": "Check first",
     "good": [
-     "posted in the last two weeks",
-     "detailed description"
+     "posted in the last two weeks"
     ],
-    "check": []
+    "check": [
+     "text not read"
+    ]
    },
    "fitAdjust": -1.0,
    "adjustWhy": "The role itself is a near perfect match, but it is three days a week in London and needs UK work rights that you do not have yet."
@@ -2557,5 +2538,5 @@
    "adjustWhy": "The core of the job is 3+ years of hands-on Meta Ads buying, which your affiliate and partnerships background does not show."
   }
  ],
- "rated": "12 Nov 2026 07:59 UTC"
+ "rated": "13 Nov 2026 05:03 UTC"
 }
