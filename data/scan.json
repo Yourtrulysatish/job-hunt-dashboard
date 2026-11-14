@@ -1,6 +1,6 @@
 {
- "generated": "14 Nov 2026 05:05 UTC",
- "count": 4,
+ "generated": "14 Nov 2026 21:02 UTC",
+ "count": 3,
  "items": [
   {
    "id": "ad956de5a19",
@@ -53,64 +53,10 @@
    "mode": "Remote"
   },
   {
-   "id": "a51d2572089",
-   "title": "Marketing Manager - Market Data",
-   "company": "Alpaca",
-   "country": "Remote",
-   "region": "r",
-   "tier": "auto",
-   "fit": 6.5,
-   "rating": {
-    "fit": 6.5,
-    "conf": "Medium",
-    "parts": {
-     "role": 1.5,
-     "level": 1.0,
-     "place": 2.0,
-     "pay": 0.5,
-     "sector": 1.5,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "analytics",
-     "b2b",
-     "content and social",
-     "crm",
-     "paid media",
-     "web3"
-    ],
-    "missing": [
-     "api",
-     "go-to-market",
-     "impact",
-     "retention"
-    ]
-   },
-   "posted": "2026-11-13",
-   "firstSeen": "2026-11-14",
-   "url": "https://himalayas.app/companies/alpaca/jobs/marketing-manager-market-data?utm_source=api",
-   "source": "himalayas",
-   "flags": [
-    "asks up to 5+ years"
-   ],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying.",
-   "mode": "Remote"
-  },
-  {
-   "id": "a57cfbcea20",
-   "title": "Business Development Manager Data Centers",
-   "company": "Arteco",
-   "country": "Germany",
+   "id": "a9819c51456",
+   "title": "Lawgent: Founding Editor & Partnerships Lead, Law Magazine",
+   "company": "Nordic Investin Group",
+   "country": "Sweden",
    "region": "e",
    "tier": "auto",
    "fit": 6.5,
@@ -118,8 +64,8 @@
     "fit": 6.5,
     "conf": "Medium",
     "parts": {
-     "role": 2.5,
-     "level": 1.0,
+     "role": 3.0,
+     "level": 0.5,
      "place": 0.8,
      "pay": 0.5,
      "sector": 1.5,
@@ -127,18 +73,17 @@
     },
     "notes": [],
     "have": [
-     "business development"
+     "analytics",
+     "content and social",
+     "partnerships"
     ],
     "missing": [
-     "account management",
-     "api",
-     "impact",
-     "stakeholder"
+     "api"
     ]
    },
-   "posted": "2026-11-13",
+   "posted": "2026-11-14",
    "firstSeen": "2026-11-14",
-   "url": "https://himalayas.app/companies/arteco/jobs/business-development-manager-data-centers?utm_source=api",
+   "url": "https://himalayas.app/companies/nordic-investin-group/jobs/lawgent-founding-editor-partnerships-lead-law-magazine?utm_source=api",
    "source": "himalayas",
    "flags": [],
    "check": {
@@ -194,7 +139,7 @@
     ],
     "check": []
    },
-   "new": true,
+   "new": false,
    "why": "Found by the daily scan. Open the posting and read it before applying."
   }
  ]

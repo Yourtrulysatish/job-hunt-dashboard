@@ -1,5 +1,5 @@
 {
- "updated": "13 Nov 2026",
+ "updated": "14 Nov 2026",
  "jobs": [
   {
    "title": "Affiliate & Partnerships Manager",
@@ -1288,32 +1288,27 @@
    "url": "https://jobs.ashbyhq.com/surfshark/c00871cb-341d-433f-8bb6-42f9dd9c4431",
    "read": true,
    "rating": {
-    "fit": 6.0,
+    "fit": 5.5,
     "conf": "Medium",
     "parts": {
      "role": 1.8,
      "level": 1.0,
      "place": 0.9,
      "pay": 1.0,
-     "sector": 1.5,
+     "sector": 0.7,
      "flags": -0.0
     },
     "notes": [],
-    "have": [
-     "content and social"
-    ],
-    "missing": [
-     "impact"
-    ]
+    "have": [],
+    "missing": []
    },
-   "fit": 6.0,
+   "fit": 5.5,
    "check": {
     "tier": "Check first",
-    "good": [
-     "detailed description"
-    ],
+    "good": [],
     "check": [
-     "older than three weeks"
+     "older than three weeks",
+     "text not read"
     ]
    },
    "below": true
@@ -2537,32 +2532,22 @@
      "level": 2.0,
      "place": 2.0,
      "pay": 0.5,
-     "sector": 1.5,
+     "sector": 0.7,
      "flags": -0.0
     },
     "notes": [],
-    "have": [
-     "affiliate",
-     "analytics",
-     "b2b",
-     "business development",
-     "crm",
-     "negotiation",
-     "paid media",
-     "partnerships"
-    ],
-    "missing": [
-     "lead generation"
-    ]
+    "have": [],
+    "missing": []
    },
    "fit": 8.5,
    "check": {
-    "tier": "Looks live",
+    "tier": "Check first",
     "good": [
-     "posted in the last two weeks",
-     "detailed description"
+     "posted in the last two weeks"
     ],
-    "check": []
+    "check": [
+     "text not read"
+    ]
    }
   },
   {
@@ -2586,12 +2571,120 @@
    "read": true,
    "below": false,
    "rating": {
-    "fit": 8.5,
+    "fit": 8.0,
     "conf": "Medium",
     "parts": {
      "role": 3.5,
      "level": 1.5,
      "place": 2.0,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [],
+    "missing": []
+   },
+   "fit": 7.5,
+   "check": {
+    "tier": "Check first",
+    "good": [
+     "posted in the last two weeks"
+    ],
+    "check": [
+     "text not read"
+    ]
+   },
+   "fitAdjust": -0.5,
+   "adjustWhy": "Senior title and a stated preference for iGaming, finance and nutra verticals make it a slightly higher bar than the formula sees."
+  },
+  {
+   "tier": "apply",
+   "pay": "Not stated",
+   "visaState": "unstated",
+   "read": true,
+   "below": false,
+   "id": "zandahealth-pmc",
+   "title": "Paid Media Coordinator",
+   "company": "Zanda Health",
+   "country": "Remote",
+   "city": "",
+   "region": "r",
+   "mode": "Remote",
+   "posted": "2026-11-05",
+   "exp": "2-3+ years in marketing, media, partnerships, sponsorships or campaign management.",
+   "lang": "English.",
+   "visa": "Work from anywhere, fully distributed company. Not applicable.",
+   "why": "Worldwide remote and the work is negotiating advertising, sponsorship and association partnerships, which is close to your partnerships and affiliate deal work. The catch is that it is coordination rather than a manager seat, and health software is a new sector for you.",
+   "url": "https://weworkremotely.com/remote-jobs/zanda-health-performance-marketing-paid-media",
+   "source": "We Work Remotely, company posting",
+   "rating": {
+    "fit": 7.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 1.8,
+     "level": 2.0,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "b2b",
+     "crm",
+     "negotiation",
+     "paid media",
+     "partnerships",
+     "testing"
+    ],
+    "missing": [
+     "api",
+     "attribution",
+     "cac",
+     "impact",
+     "stakeholder",
+     "tracking"
+    ]
+   },
+   "fit": 7.0,
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   }
+  },
+  {
+   "tier": "stretch",
+   "pay": "Not stated",
+   "visaState": "unstated",
+   "read": true,
+   "below": false,
+   "id": "zexter-affiliate",
+   "title": "Affiliate Manager",
+   "company": "Zexter",
+   "country": "Spain",
+   "city": "",
+   "region": "e",
+   "mode": "Remote",
+   "posted": "2026-11-12",
+   "exp": "Not stated in years. Hands-on iGaming affiliate experience and sourcing partners on your own.",
+   "lang": "English fluent, other languages a plus.",
+   "visa": "Fully remote but hiring only in listed countries (Spain, Poland, Portugal, Cyprus, Malta, Serbia, Armenia, Argentina). Croatia is not listed, so ask about contractor setup.",
+   "why": "Sourcing and growing affiliates, CPA and revshare terms, Affise or Everflow tracking: this is your core work. The catch is that it wants iGaming operator-side experience and Croatia is not on the country list.",
+   "url": "https://himalayas.app/companies/zexter/jobs/affiliate-manager?utm_source=api",
+   "source": "Himalayas, company posting",
+   "rating": {
+    "fit": 7.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.5,
+     "level": 1.0,
+     "place": 0.8,
      "pay": 0.5,
      "sector": 1.5,
      "flags": -0.0
@@ -2600,22 +2693,18 @@
     "have": [
      "affiliate",
      "analytics",
-     "business development",
+     "crm",
      "negotiation",
-     "paid media",
-     "partnerships"
+     "partnerships",
+     "seo"
     ],
     "missing": [
-     "attribution",
-     "commission",
-     "impact",
-     "lead generation",
-     "partnerstack",
-     "revenue share",
+     "ltv",
+     "retention",
      "tracking"
     ]
    },
-   "fit": 8.0,
+   "fit": 7.0,
    "check": {
     "tier": "Looks live",
     "good": [
@@ -2625,8 +2714,125 @@
     "check": []
    },
    "fitAdjust": -0.5,
-   "adjustWhy": "Senior title and a stated preference for iGaming, finance and nutra verticals make it a slightly higher bar than the formula sees."
+   "adjustWhy": "Wants iGaming operator-side experience and Croatia is not on the hiring list, so slightly lower than the formula sees."
+  },
+  {
+   "tier": "stretch",
+   "pay": "Not stated",
+   "visaState": "unstated",
+   "read": true,
+   "below": true,
+   "id": "zexter-bdm",
+   "title": "Business Development Manager",
+   "company": "Zexter",
+   "country": "Spain",
+   "city": "",
+   "region": "e",
+   "mode": "Remote",
+   "posted": "2026-11-12",
+   "exp": "Not stated in years. Full-cycle iGaming BD or B2B sales on the network or media buying side.",
+   "lang": "English fluent, other languages a plus.",
+   "visa": "Fully remote but hiring only in listed countries (Spain, Poland, Portugal, Cyprus, Malta, Armenia, Argentina). Croatia is not listed.",
+   "why": "Sourcing advertisers, negotiating payouts and caps, and managing the portfolio overlaps with your BD and partnerships work. The catch is that it expects a full-cycle iGaming sales record and an existing advertiser network.",
+   "url": "https://himalayas.app/companies/zexter/jobs/business-development-manager?utm_source=api",
+   "source": "Himalayas, company posting",
+   "rating": {
+    "fit": 7.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.0,
+     "level": 1.0,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "affiliate",
+     "b2b",
+     "business development",
+     "crm",
+     "negotiation",
+     "partnerships",
+     "seo",
+     "testing"
+    ],
+    "missing": [
+     "api",
+     "integration",
+     "tracking"
+    ]
+   },
+   "fit": 6.0,
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "fitAdjust": -1.0,
+   "adjustWhy": "Needs a full-cycle iGaming sales record and an advertiser network you do not have yet."
+  },
+  {
+   "tier": "stretch",
+   "pay": "Not stated",
+   "visaState": "needed",
+   "read": true,
+   "below": true,
+   "id": "adclear-cpem",
+   "title": "Commercial Partnerships & Events Manager",
+   "company": "Adclear",
+   "country": "United Kingdom",
+   "city": "London",
+   "region": "n",
+   "mode": "Hybrid",
+   "posted": "2026-11-14",
+   "exp": "Startup or scale-up experience, no years stated.",
+   "lang": "English.",
+   "visa": "London office 4 days a week. No sponsorship mentioned, and the UK needs work authorisation.",
+   "why": "Half the role is owning partnerships with compliance bodies and industry voices, with equity offered. The catch is that the other half is running events, it is onsite 4 days in London, and the UK needs a visa.",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/adclear/commercial-partnerships-events-manager-london-56102",
+   "source": "Arbeitnow, company posting",
+   "rating": {
+    "fit": 7.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.0,
+     "level": 1.0,
+     "place": 0.9,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "b2b",
+     "content and social",
+     "crm",
+     "negotiation",
+     "partnerships"
+    ],
+    "missing": [
+     "enterprise",
+     "go-to-market",
+     "impact"
+    ]
+   },
+   "fit": 5.5,
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "fitAdjust": -1.5,
+   "adjustWhy": "Four days onsite in London, half the role is events, and the UK needs a visa."
   }
  ],
- "rated": "14 Nov 2026 05:05 UTC"
+ "rated": "14 Nov 2026 21:02 UTC"
 }
