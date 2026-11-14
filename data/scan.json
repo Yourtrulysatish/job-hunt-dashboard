@@ -1,6 +1,6 @@
 {
- "generated": "13 Nov 2026 11:55 UTC",
- "count": 7,
+ "generated": "14 Nov 2026 05:05 UTC",
+ "count": 4,
  "items": [
   {
    "id": "ad956de5a19",
@@ -53,18 +53,18 @@
    "mode": "Remote"
   },
   {
-   "id": "aaffefd517b",
-   "title": "Social Media Manager",
-   "company": "BEFORE EIGHT Group GmbH",
+   "id": "a51d2572089",
+   "title": "Marketing Manager - Market Data",
+   "company": "Alpaca",
    "country": "Remote",
    "region": "r",
    "tier": "auto",
-   "fit": 7.0,
+   "fit": 6.5,
    "rating": {
-    "fit": 7.0,
+    "fit": 6.5,
     "conf": "Medium",
     "parts": {
-     "role": 1.8,
+     "role": 1.5,
      "level": 1.0,
      "place": 2.0,
      "pay": 0.5,
@@ -73,16 +73,27 @@
     },
     "notes": [],
     "have": [
+     "analytics",
+     "b2b",
      "content and social",
-     "seo"
+     "crm",
+     "paid media",
+     "web3"
     ],
-    "missing": []
+    "missing": [
+     "api",
+     "go-to-market",
+     "impact",
+     "retention"
+    ]
    },
-   "posted": "2026-11-12",
-   "firstSeen": "2026-11-13",
-   "url": "https://www.arbeitnow.com/jobs/companies/before-eight-group-gmbh/social-media-manager-bochum-38423",
-   "source": "arbeitnow",
-   "flags": [],
+   "posted": "2026-11-13",
+   "firstSeen": "2026-11-14",
+   "url": "https://himalayas.app/companies/alpaca/jobs/marketing-manager-market-data?utm_source=api",
+   "source": "himalayas",
+   "flags": [
+    "asks up to 5+ years"
+   ],
    "check": {
     "tier": "Looks live",
     "good": [
@@ -96,50 +107,40 @@
    "mode": "Remote"
   },
   {
-   "id": "a1249b2375c",
-   "title": "Performance Marketing - Paid Media",
-   "company": "Zanda Health",
-   "country": "Remote",
-   "region": "r",
+   "id": "a57cfbcea20",
+   "title": "Business Development Manager Data Centers",
+   "company": "Arteco",
+   "country": "Germany",
+   "region": "e",
    "tier": "auto",
-   "fit": 7.0,
+   "fit": 6.5,
    "rating": {
-    "fit": 7.0,
+    "fit": 6.5,
     "conf": "Medium",
     "parts": {
-     "role": 2.0,
-     "level": 2.0,
-     "place": 2.0,
+     "role": 2.5,
+     "level": 1.0,
+     "place": 0.8,
      "pay": 0.5,
-     "sector": 0.7,
+     "sector": 1.5,
      "flags": -0.0
     },
     "notes": [],
     "have": [
-     "analytics",
-     "b2b",
-     "crm",
-     "negotiation",
-     "paid media",
-     "partnerships",
-     "testing"
+     "business development"
     ],
     "missing": [
+     "account management",
      "api",
-     "attribution",
-     "cac",
      "impact",
-     "stakeholder",
-     "tracking"
+     "stakeholder"
     ]
    },
-   "posted": "2026-11-05",
-   "firstSeen": "2026-11-13",
-   "url": "https://weworkremotely.com/remote-jobs/zanda-health-performance-marketing-paid-media",
-   "source": "wwr",
-   "flags": [
-    "asks up to 3+ years"
-   ],
+   "posted": "2026-11-13",
+   "firstSeen": "2026-11-14",
+   "url": "https://himalayas.app/companies/arteco/jobs/business-development-manager-data-centers?utm_source=api",
+   "source": "himalayas",
+   "flags": [],
    "check": {
     "tier": "Looks live",
     "good": [
@@ -149,8 +150,7 @@
     "check": []
    },
    "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying.",
-   "mode": "Remote"
+   "why": "Found by the daily scan. Open the posting and read it before applying."
   },
   {
    "id": "ae46aa19c90",
@@ -196,165 +196,6 @@
    },
    "new": true,
    "why": "Found by the daily scan. Open the posting and read it before applying."
-  },
-  {
-   "id": "a4a965fb632",
-   "title": "Senior Manager, BioInsight Business Development",
-   "company": "Illumina",
-   "country": "Germany",
-   "region": "e",
-   "tier": "auto",
-   "fit": 6.5,
-   "rating": {
-    "fit": 6.5,
-    "conf": "Medium",
-    "parts": {
-     "role": 2.5,
-     "level": 0.5,
-     "place": 1.3,
-     "pay": 0.5,
-     "sector": 1.5,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "analytics",
-     "business development",
-     "crm",
-     "negotiation",
-     "partnerships",
-     "testing"
-    ],
-    "missing": [
-     "account management",
-     "commission",
-     "enterprise",
-     "go-to-market",
-     "impact",
-     "stakeholder"
-    ]
-   },
-   "posted": "2026-11-12",
-   "firstSeen": "2026-11-13",
-   "url": "https://himalayas.app/companies/illumina/jobs/senior-manager-bioinsight-business-development?utm_source=api",
-   "source": "himalayas",
-   "flags": [
-    "relocation/visa mentioned"
-   ],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying."
-  },
-  {
-   "id": "ae794c1115b",
-   "title": "Performance Marketing Lead",
-   "company": "Together Light Inc",
-   "country": "Remote",
-   "region": "r",
-   "tier": "auto",
-   "fit": 6.5,
-   "rating": {
-    "fit": 6.5,
-    "conf": "Medium",
-    "parts": {
-     "role": 2.0,
-     "level": 0.5,
-     "place": 2.0,
-     "pay": 0.5,
-     "sector": 1.5,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "analytics",
-     "paid media",
-     "testing"
-    ],
-    "missing": [
-     "api",
-     "cac",
-     "impact",
-     "tracking"
-    ]
-   },
-   "posted": "2026-11-12",
-   "firstSeen": "2026-11-13",
-   "url": "https://himalayas.app/companies/together-light-inc/jobs/performance-marketing-lead-4950365598?utm_source=api",
-   "source": "himalayas",
-   "flags": [
-    "asks up to 5+ years"
-   ],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying.",
-   "mode": "Remote"
-  },
-  {
-   "id": "a02185ae709",
-   "title": "Performance Marketing Manager (m/w/d)",
-   "company": "Start To Finish Consulting GmbH",
-   "country": "Germany",
-   "region": "r",
-   "tier": "auto",
-   "fit": 6.5,
-   "rating": {
-    "fit": 6.5,
-    "conf": "Medium",
-    "parts": {
-     "role": 2.5,
-     "level": 1.0,
-     "place": 1.0,
-     "pay": 0.5,
-     "sector": 1.5,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "affiliate",
-     "analytics",
-     "b2b",
-     "content and social",
-     "crm",
-     "paid media",
-     "testing"
-    ],
-    "missing": [
-     "attribution",
-     "lifecycle",
-     "looker",
-     "tracking"
-    ]
-   },
-   "posted": "2026-11-12",
-   "firstSeen": "2026-11-13",
-   "url": "https://www.arbeitnow.com/jobs/companies/start-to-finish-consulting-gmbh/performance-marketing-manager-berlin-85220",
-   "source": "arbeitnow",
-   "flags": [],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying.",
-   "mode": "Remote"
   }
  ]
 }

@@ -975,6 +975,7 @@
     "tier": "Check first",
     "good": [],
     "check": [
+     "older than three weeks",
      "text not read"
     ]
    },
@@ -1155,27 +1156,15 @@
     "notes": [
      "contract rather than employee"
     ],
-    "have": [
-     "affiliate",
-     "analytics",
-     "b2b",
-     "business development",
-     "crm",
-     "negotiation",
-     "partnerships",
-     "testing"
-    ],
-    "missing": [
-     "stakeholder"
-    ]
+    "have": [],
+    "missing": []
    },
    "check": {
     "tier": "Check first",
-    "good": [
-     "detailed description"
-    ],
+    "good": [],
     "check": [
-     "older than three weeks"
+     "older than three weeks",
+     "text not read"
     ]
    },
    "fitAdjust": 1.5,
@@ -1319,11 +1308,13 @@
    },
    "fit": 6.0,
    "check": {
-    "tier": "Looks live",
+    "tier": "Check first",
     "good": [
      "detailed description"
     ],
-    "check": []
+    "check": [
+     "older than three weeks"
+    ]
    },
    "below": true
   },
@@ -1502,9 +1493,7 @@
    "below": false,
    "check": {
     "tier": "Check first",
-    "good": [
-     "posted in the last two weeks"
-    ],
+    "good": [],
     "check": [
      "text not read"
     ]
@@ -1736,9 +1725,7 @@
    "below": false,
    "check": {
     "tier": "Check first",
-    "good": [
-     "posted in the last two weeks"
-    ],
+    "good": [],
     "check": [
      "text not read"
     ]
@@ -1838,29 +1825,19 @@
     "notes": [
      "contract rather than employee"
     ],
-    "have": [
-     "affiliate",
-     "analytics",
-     "b2b",
-     "business development",
-     "crm",
-     "negotiation",
-     "partnerships",
-     "testing"
-    ],
-    "missing": [
-     "stakeholder"
-    ]
+    "have": [],
+    "missing": []
    },
    "fit": 7.5,
    "below": false,
    "check": {
-    "tier": "Looks live",
+    "tier": "Check first",
     "good": [
-     "posted in the last two weeks",
-     "detailed description"
+     "posted in the last two weeks"
     ],
-    "check": []
+    "check": [
+     "text not read"
+    ]
    },
    "fitAdjust": 1.0,
    "adjustWhy": "Core of the role is running an affiliate network and signing new partners, his strongest experience; formula docks it for sector and the maternity cover flag more than the match deserves."
@@ -2350,10 +2327,10 @@
    "source": "Himalayas",
    "read": true,
    "rating": {
-    "fit": 7.0,
+    "fit": 6.5,
     "conf": "Medium",
     "parts": {
-     "role": 2.5,
+     "role": 2.0,
      "level": 2.0,
      "place": 0.8,
      "pay": 0.5,
@@ -2363,30 +2340,19 @@
     "notes": [
      "needs existing right to work"
     ],
-    "have": [
-     "affiliate",
-     "analytics",
-     "content and social",
-     "testing",
-     "web3"
-    ],
-    "missing": [
-     "attribution",
-     "cac",
-     "lifecycle",
-     "sql",
-     "tracking"
-    ]
+    "have": [],
+    "missing": []
    },
-   "fit": 5.5,
+   "fit": 5.0,
    "below": true,
    "check": {
-    "tier": "Looks live",
+    "tier": "Check first",
     "good": [
-     "posted in the last two weeks",
-     "detailed description"
+     "posted in the last two weeks"
     ],
-    "check": []
+    "check": [
+     "text not read"
+    ]
    },
    "fitAdjust": -1.5,
    "adjustWhy": "Only open to UK or UAE residents, and the core is product growth and lifecycle tooling rather than partnerships."
@@ -2515,35 +2481,30 @@
    "source": "Arbeitnow",
    "read": true,
    "rating": {
-    "fit": 7.0,
+    "fit": 6.0,
     "conf": "Medium",
     "parts": {
      "role": 2.0,
      "level": 2.0,
      "place": 0.8,
      "pay": 0.5,
-     "sector": 1.5,
+     "sector": 0.7,
      "flags": -0.0
     },
     "notes": [],
-    "have": [
-     "paid media",
-     "testing"
-    ],
-    "missing": [
-     "impact",
-     "tracking"
-    ]
+    "have": [],
+    "missing": []
    },
-   "fit": 5.0,
+   "fit": 4.0,
    "below": true,
    "check": {
-    "tier": "Looks live",
+    "tier": "Check first",
     "good": [
-     "posted in the last two weeks",
-     "detailed description"
+     "posted in the last two weeks"
     ],
-    "check": []
+    "check": [
+     "text not read"
+    ]
    },
    "fitAdjust": -2.0,
    "adjustWhy": "The core of the job is 3+ years of hands-on Meta Ads buying, which your affiliate and partnerships background does not show."
@@ -2667,5 +2628,5 @@
    "adjustWhy": "Senior title and a stated preference for iGaming, finance and nutra verticals make it a slightly higher bar than the formula sees."
   }
  ],
- "rated": "13 Nov 2026 11:55 UTC"
+ "rated": "14 Nov 2026 05:05 UTC"
 }
