@@ -1,6 +1,6 @@
 {
- "generated": "14 Nov 2026 21:02 UTC",
- "count": 1,
+ "generated": "15 Nov 2026 05:04 UTC",
+ "count": 2,
  "items": [
   {
    "id": "a2ebd5c2ed9",
@@ -52,6 +52,63 @@
    "new": true,
    "why": "Found by the daily scan. Open the posting and read it before applying.",
    "mode": "Remote"
+  },
+  {
+   "id": "ae3e5475cc8",
+   "title": "Performance Marketing Manager",
+   "company": "Allica Bank",
+   "country": "United Kingdom",
+   "region": "e",
+   "tier": "auto",
+   "fit": 7.0,
+   "rating": {
+    "fit": 7.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.0,
+     "level": 2.0,
+     "place": 0.9,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "b2b",
+     "crm",
+     "paid media",
+     "testing"
+    ],
+    "missing": [
+     "api",
+     "attribution",
+     "cac",
+     "go-to-market",
+     "impact",
+     "integration",
+     "ltv",
+     "sql"
+    ]
+   },
+   "posted": "2026-11-14",
+   "firstSeen": "2026-11-15",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/allica-bank/performance-marketing-manager-london-442914",
+   "source": "arbeitnow",
+   "flags": [
+    "asks up to 4+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Hybrid or office"
   }
  ]
 }
