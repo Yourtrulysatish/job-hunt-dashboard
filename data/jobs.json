@@ -268,6 +268,7 @@
     "tier": "Check first",
     "good": [],
     "check": [
+     "older than three weeks",
      "text not read"
     ]
    },
@@ -805,6 +806,7 @@
     "tier": "Check first",
     "good": [],
     "check": [
+     "older than three weeks",
      "text not read"
     ]
    },
@@ -1233,13 +1235,13 @@
    "why": "Matches your 4 years. The employer is a payments and card issuing company, hiring through a recruiter. Baltic based candidates are preferred, so say you can work from the EU.",
    "url": "https://himalayas.app/companies/hhhub-uab/jobs/partner-marketing-manager?utm_source=api",
    "source": "Himalayas",
-   "fit": 8.0,
+   "fit": 7.5,
    "read": true,
    "rating": {
-    "fit": 8.0,
+    "fit": 7.5,
     "conf": "Medium",
     "parts": {
-     "role": 2.0,
+     "role": 1.5,
      "level": 2.0,
      "place": 2.0,
      "pay": 0.5,
@@ -1247,25 +1249,15 @@
      "flags": -0.0
     },
     "notes": [],
-    "have": [
-     "analytics",
-     "b2b",
-     "business development",
-     "content and social",
-     "partnerships",
-     "web3"
-    ],
-    "missing": [
-     "impact",
-     "stakeholder"
-    ]
+    "have": [],
+    "missing": []
    },
    "check": {
-    "tier": "Looks live",
-    "good": [
-     "detailed description"
-    ],
-    "check": []
+    "tier": "Check first",
+    "good": [],
+    "check": [
+     "text not read"
+    ]
    },
    "below": false
   },
@@ -1714,27 +1706,17 @@
      "flags": -0.0
     },
     "notes": [],
-    "have": [
-     "affiliate",
-     "analytics",
-     "crm",
-     "negotiation",
-     "partnerships"
-    ],
-    "missing": [
-     "impact",
-     "ltv",
-     "retention"
-    ]
+    "have": [],
+    "missing": []
    },
    "fit": 7.0,
    "below": false,
    "check": {
-    "tier": "Looks live",
-    "good": [
-     "detailed description"
-    ],
-    "check": []
+    "tier": "Check first",
+    "good": [],
+    "check": [
+     "text not read"
+    ]
    },
    "fitAdjust": 0.5,
    "adjustWhy": "Core affiliate manager work with only 1.5 years asked; crypto affiliate experience sits close to iGaming, so the formula undersells the role match."
@@ -1790,7 +1772,6 @@
    "check": {
     "tier": "Looks live",
     "good": [
-     "posted in the last two weeks",
      "detailed description"
     ],
     "check": []
@@ -1838,9 +1819,7 @@
    "below": false,
    "check": {
     "tier": "Check first",
-    "good": [
-     "posted in the last two weeks"
-    ],
+    "good": [],
     "check": [
      "text not read"
     ]
@@ -1899,7 +1878,6 @@
    "check": {
     "tier": "Looks live",
     "good": [
-     "posted in the last two weeks",
      "detailed description"
     ],
     "check": []
@@ -1927,39 +1905,28 @@
    "url": "https://himalayas.app/companies/hhhub-uab/jobs/partner-marketing-manager?utm_source=api",
    "read": true,
    "rating": {
-    "fit": 8.0,
+    "fit": 6.5,
     "conf": "Medium",
     "parts": {
-     "role": 2.0,
+     "role": 1.5,
      "level": 2.0,
      "place": 2.0,
      "pay": 0.5,
-     "sector": 1.5,
+     "sector": 0.7,
      "flags": -0.0
     },
     "notes": [],
-    "have": [
-     "analytics",
-     "b2b",
-     "business development",
-     "content and social",
-     "partnerships",
-     "web3"
-    ],
-    "missing": [
-     "impact",
-     "stakeholder"
-    ]
+    "have": [],
+    "missing": []
    },
-   "fit": 7.0,
-   "below": false,
+   "fit": 5.5,
+   "below": true,
    "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
+    "tier": "Check first",
+    "good": [],
+    "check": [
+     "text not read"
+    ]
    },
    "fitAdjust": -1.0,
    "adjustWhy": "Unnamed client through a recruiter, Baltic candidates preferred and existing payments industry connections expected, so the odds are lower than the formula suggests."
@@ -2333,10 +2300,10 @@
    "source": "Himalayas",
    "read": true,
    "rating": {
-    "fit": 6.5,
+    "fit": 7.0,
     "conf": "Medium",
     "parts": {
-     "role": 2.0,
+     "role": 2.5,
      "level": 2.0,
      "place": 0.8,
      "pay": 0.5,
@@ -2346,19 +2313,30 @@
     "notes": [
      "needs existing right to work"
     ],
-    "have": [],
-    "missing": []
+    "have": [
+     "affiliate",
+     "analytics",
+     "content and social",
+     "testing",
+     "web3"
+    ],
+    "missing": [
+     "attribution",
+     "cac",
+     "lifecycle",
+     "sql",
+     "tracking"
+    ]
    },
-   "fit": 5.0,
+   "fit": 5.5,
    "below": true,
    "check": {
-    "tier": "Check first",
+    "tier": "Looks live",
     "good": [
-     "posted in the last two weeks"
+     "posted in the last two weeks",
+     "detailed description"
     ],
-    "check": [
-     "text not read"
-    ]
+    "check": []
    },
    "fitAdjust": -1.5,
    "adjustWhy": "Only open to UK or UAE residents, and the core is product growth and lifecycle tooling rather than partnerships."
@@ -2845,5 +2823,5 @@
    "adjustWhy": "Four days onsite in London, half the role is events, and the UK needs a visa."
   }
  ],
- "rated": "15 Nov 2026 05:04 UTC"
+ "rated": "16 Nov 2026 05:04 UTC"
 }
