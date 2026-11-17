@@ -1,5 +1,5 @@
 {
- "generated": "16 Nov 2026 05:04 UTC",
+ "generated": "17 Nov 2026 05:04 UTC",
  "count": 2,
  "items": [
   {
@@ -54,49 +54,48 @@
    "mode": "Remote"
   },
   {
-   "id": "ae3e5475cc8",
-   "title": "Performance Marketing Manager",
-   "company": "Allica Bank",
+   "id": "a2b4346c546",
+   "title": "Sales Manager - Affiliate Marketing",
+   "company": "awin",
    "country": "United Kingdom",
    "region": "e",
    "tier": "auto",
-   "fit": 7.0,
+   "fit": 7.5,
    "rating": {
-    "fit": 7.0,
+    "fit": 7.5,
     "conf": "Medium",
     "parts": {
-     "role": 2.0,
+     "role": 3.5,
      "level": 2.0,
      "place": 0.9,
      "pay": 0.5,
-     "sector": 1.5,
+     "sector": 0.7,
      "flags": -0.0
     },
     "notes": [],
     "have": [
+     "affiliate",
      "analytics",
      "b2b",
+     "business development",
      "crm",
-     "paid media",
-     "testing"
+     "negotiation",
+     "partnerships"
     ],
     "missing": [
      "api",
-     "attribution",
-     "cac",
-     "go-to-market",
+     "awin",
      "impact",
      "integration",
-     "ltv",
-     "sql"
+     "stakeholder"
     ]
    },
-   "posted": "2026-11-14",
-   "firstSeen": "2026-11-15",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/allica-bank/performance-marketing-manager-london-442914",
-   "source": "arbeitnow",
+   "posted": "2026-11-16",
+   "firstSeen": "2026-11-17",
+   "url": "https://boards.greenhouse.io/awin/jobs/8205437003?gh_jid=8205437003",
+   "source": "greenhouse",
    "flags": [
-    "asks up to 4+ years"
+    "asks up to 3+ years"
    ],
    "check": {
     "tier": "Looks live",
