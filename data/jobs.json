@@ -1086,47 +1086,29 @@
    "why": "Owns the partner lifecycle from outreach to contract and growth. Remote first with no mandatory office days. iGaming is the preferred background, so lead with your affiliate and crypto partner work.",
    "url": "https://careers.sumsub.com/jobs/8620630-partnership-manager-igaming",
    "source": "Sumsub careers",
-   "fit": 8.5,
+   "fit": 8.0,
    "read": true,
    "rating": {
-    "fit": 8.5,
+    "fit": 8.0,
     "conf": "Medium",
     "parts": {
-     "role": 3.5,
+     "role": 3.0,
      "level": 2.0,
      "place": 2.0,
      "pay": 0.5,
-     "sector": 1.5,
+     "sector": 0.7,
      "flags": -0.0
     },
     "notes": [],
-    "have": [
-     "analytics",
-     "b2b",
-     "business development",
-     "content and social",
-     "crm",
-     "negotiation",
-     "partnerships",
-     "web3"
-    ],
-    "missing": [
-     "account management",
-     "api",
-     "go-to-market",
-     "impact",
-     "integration",
-     "lifecycle",
-     "stakeholder"
-    ]
+    "have": [],
+    "missing": []
    },
    "check": {
     "tier": "Check first",
-    "good": [
-     "detailed description"
-    ],
+    "good": [],
     "check": [
-     "older than three weeks"
+     "older than three weeks",
+     "text not read"
     ]
    },
    "below": false
@@ -1240,13 +1222,13 @@
    "why": "Matches your 4 years. The employer is a payments and card issuing company, hiring through a recruiter. Baltic based candidates are preferred, so say you can work from the EU.",
    "url": "https://himalayas.app/companies/hhhub-uab/jobs/partner-marketing-manager?utm_source=api",
    "source": "Himalayas",
-   "fit": 8.0,
+   "fit": 7.5,
    "read": true,
    "rating": {
-    "fit": 8.0,
+    "fit": 7.5,
     "conf": "Medium",
     "parts": {
-     "role": 2.0,
+     "role": 1.5,
      "level": 2.0,
      "place": 2.0,
      "pay": 0.5,
@@ -1254,25 +1236,16 @@
      "flags": -0.0
     },
     "notes": [],
-    "have": [
-     "analytics",
-     "b2b",
-     "business development",
-     "content and social",
-     "partnerships",
-     "web3"
-    ],
-    "missing": [
-     "impact",
-     "stakeholder"
-    ]
+    "have": [],
+    "missing": []
    },
    "check": {
-    "tier": "Looks live",
-    "good": [
-     "detailed description"
-    ],
-    "check": []
+    "tier": "Check first",
+    "good": [],
+    "check": [
+     "older than three weeks",
+     "text not read"
+    ]
    },
    "below": false
   },
@@ -1920,38 +1893,28 @@
    "url": "https://himalayas.app/companies/hhhub-uab/jobs/partner-marketing-manager?utm_source=api",
    "read": true,
    "rating": {
-    "fit": 8.0,
+    "fit": 6.5,
     "conf": "Medium",
     "parts": {
-     "role": 2.0,
+     "role": 1.5,
      "level": 2.0,
      "place": 2.0,
      "pay": 0.5,
-     "sector": 1.5,
+     "sector": 0.7,
      "flags": -0.0
     },
     "notes": [],
-    "have": [
-     "analytics",
-     "b2b",
-     "business development",
-     "content and social",
-     "partnerships",
-     "web3"
-    ],
-    "missing": [
-     "impact",
-     "stakeholder"
-    ]
+    "have": [],
+    "missing": []
    },
-   "fit": 7.0,
-   "below": false,
+   "fit": 5.5,
+   "below": true,
    "check": {
-    "tier": "Looks live",
-    "good": [
-     "detailed description"
-    ],
-    "check": []
+    "tier": "Check first",
+    "good": [],
+    "check": [
+     "text not read"
+    ]
    },
    "fitAdjust": -1.0,
    "adjustWhy": "Unnamed client through a recruiter, Baltic candidates preferred and existing payments industry connections expected, so the odds are lower than the formula suggests."
@@ -2081,28 +2044,19 @@
      "flags": -0.0
     },
     "notes": [],
-    "have": [
-     "analytics",
-     "b2b",
-     "business development",
-     "content and social",
-     "negotiation",
-     "partnerships"
-    ],
-    "missing": [
-     "account management",
-     "integration"
-    ]
+    "have": [],
+    "missing": []
    },
    "fit": 5.5,
    "below": true,
    "check": {
-    "tier": "Looks live",
+    "tier": "Check first",
     "good": [
-     "posted in the last two weeks",
-     "detailed description"
+     "posted in the last two weeks"
     ],
-    "check": []
+    "check": [
+     "text not read"
+    ]
    },
    "fitAdjust": -1.0,
    "adjustWhy": "The posting asks for 4+ years of B2B sales to iGaming operators and a ready operator network, and the core of the job is outbound new business, so the formula overrates it."
@@ -2318,10 +2272,10 @@
    "source": "Himalayas",
    "read": true,
    "rating": {
-    "fit": 7.0,
+    "fit": 6.5,
     "conf": "Medium",
     "parts": {
-     "role": 2.5,
+     "role": 2.0,
      "level": 2.0,
      "place": 0.8,
      "pay": 0.5,
@@ -2331,30 +2285,19 @@
     "notes": [
      "needs existing right to work"
     ],
-    "have": [
-     "affiliate",
-     "analytics",
-     "content and social",
-     "testing",
-     "web3"
-    ],
-    "missing": [
-     "attribution",
-     "cac",
-     "lifecycle",
-     "sql",
-     "tracking"
-    ]
+    "have": [],
+    "missing": []
    },
-   "fit": 5.5,
+   "fit": 5.0,
    "below": true,
    "check": {
-    "tier": "Looks live",
+    "tier": "Check first",
     "good": [
-     "posted in the last two weeks",
-     "detailed description"
+     "posted in the last two weeks"
     ],
-    "check": []
+    "check": [
+     "text not read"
+    ]
    },
    "fitAdjust": -1.5,
    "adjustWhy": "Only open to UK or UAE residents, and the core is product growth and lifecycle tooling rather than partnerships."
@@ -2796,5 +2739,5 @@
    "adjustWhy": "Four days onsite in London, half the role is events, and the UK needs a visa."
   }
  ],
- "rated": "17 Nov 2026 05:04 UTC"
+ "rated": "18 Nov 2026 05:04 UTC"
 }

@@ -1,6 +1,6 @@
 {
- "generated": "17 Nov 2026 05:04 UTC",
- "count": 2,
+ "generated": "18 Nov 2026 05:04 UTC",
+ "count": 3,
  "items": [
   {
    "id": "a2ebd5c2ed9",
@@ -96,6 +96,58 @@
    "source": "greenhouse",
    "flags": [
     "asks up to 3+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Hybrid or office"
+  },
+  {
+   "id": "a127af31bc4",
+   "title": "Business Development Manager UK",
+   "company": "Teton",
+   "country": "United Kingdom",
+   "region": "e",
+   "tier": "auto",
+   "fit": 7.0,
+   "rating": {
+    "fit": 7.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.0,
+     "level": 1.0,
+     "place": 0.9,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "b2b",
+     "business development",
+     "crm"
+    ],
+    "missing": [
+     "account management",
+     "api",
+     "commission",
+     "impact",
+     "stakeholder"
+    ]
+   },
+   "posted": "2026-11-18",
+   "firstSeen": "2026-11-18",
+   "url": "https://himalayas.app/companies/teton/jobs/business-development-manager-uk?utm_source=api",
+   "source": "himalayas",
+   "flags": [
+    "asks up to 5+ years"
    ],
    "check": {
     "tier": "Looks live",
