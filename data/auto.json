@@ -1,7 +1,55 @@
 {
- "generated": "18 Nov 2026 05:04 UTC",
- "count": 3,
+ "generated": "19 Nov 2026 05:04 UTC",
+ "count": 5,
  "items": [
+  {
+   "id": "a24b0ebd38d",
+   "title": "Business Development Manager",
+   "company": "TDP",
+   "country": "Remote",
+   "region": "r",
+   "tier": "auto",
+   "fit": 8.5,
+   "rating": {
+    "fit": 8.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.0,
+     "level": 1.0,
+     "place": 2.0,
+     "pay": 1.0,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "b2b",
+     "business development",
+     "crm",
+     "negotiation",
+     "partnerships"
+    ],
+    "missing": [
+     "commission"
+    ]
+   },
+   "posted": "2026-11-18",
+   "firstSeen": "2026-11-19",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/tdp/business-development-manager-swindon-396408",
+   "source": "arbeitnow",
+   "flags": [],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Remote"
+  },
   {
    "id": "a2ebd5c2ed9",
    "title": "Partnership Manager",
@@ -50,6 +98,59 @@
     "check": []
    },
    "new": false,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Remote"
+  },
+  {
+   "id": "a7e5718d485",
+   "title": "Business Development Manager (Freelance - B2B)",
+   "company": "Workster Jobs",
+   "country": "Remote",
+   "region": "r",
+   "tier": "auto",
+   "fit": 7.5,
+   "rating": {
+    "fit": 7.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.5,
+     "level": 2.0,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -1.0
+    },
+    "notes": [
+     "contract rather than employee"
+    ],
+    "have": [
+     "analytics",
+     "b2b",
+     "business development",
+     "negotiation",
+     "partnerships"
+    ],
+    "missing": [
+     "commission",
+     "lead generation"
+    ]
+   },
+   "posted": "2026-11-18",
+   "firstSeen": "2026-11-19",
+   "url": "https://himalayas.app/companies/workster-jobs/jobs/business-development-manager-freelance-b2b?utm_source=api",
+   "source": "himalayas",
+   "flags": [
+    "asks up to 3+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
    "why": "Found by the daily scan. Open the posting and read it before applying.",
    "mode": "Remote"
   },
@@ -105,15 +206,15 @@
     ],
     "check": []
    },
-   "new": true,
+   "new": false,
    "why": "Found by the daily scan. Open the posting and read it before applying.",
    "mode": "Hybrid or office"
   },
   {
-   "id": "a127af31bc4",
-   "title": "Business Development Manager UK",
-   "company": "Teton",
-   "country": "United Kingdom",
+   "id": "a156dfadb43",
+   "title": "Insurance Broker Partner Manager - Nederland (m/f/x)",
+   "company": "Eye Security",
+   "country": "Netherlands",
    "region": "e",
    "tier": "auto",
    "fit": 7.0,
@@ -129,26 +230,14 @@
      "flags": -0.0
     },
     "notes": [],
-    "have": [
-     "b2b",
-     "business development",
-     "crm"
-    ],
-    "missing": [
-     "account management",
-     "api",
-     "commission",
-     "impact",
-     "stakeholder"
-    ]
+    "have": [],
+    "missing": []
    },
-   "posted": "2026-11-18",
-   "firstSeen": "2026-11-18",
-   "url": "https://himalayas.app/companies/teton/jobs/business-development-manager-uk?utm_source=api",
-   "source": "himalayas",
-   "flags": [
-    "asks up to 5+ years"
-   ],
+   "posted": "2026-11-19",
+   "firstSeen": "2026-11-19",
+   "url": "https://www.arbeitnow.nl/jobs/companies/eye-security/insurance-broker-partner-manager-nederland-the-hague-57891",
+   "source": "arbeitnow",
+   "flags": [],
    "check": {
     "tier": "Looks live",
     "good": [
