@@ -1,153 +1,7 @@
 {
- "generated": "20 Nov 2026 05:05 UTC",
- "count": 9,
+ "generated": "20 Nov 2026 11:31 UTC",
+ "count": 7,
  "items": [
-  {
-   "id": "a55741f13d6",
-   "title": "Account Manager, Partnerships",
-   "company": "Lottie",
-   "country": "United Kingdom",
-   "region": "e",
-   "tier": "auto",
-   "fit": 8.0,
-   "rating": {
-    "fit": 8.0,
-    "conf": "Medium",
-    "parts": {
-     "role": 3.5,
-     "level": 1.0,
-     "place": 0.9,
-     "pay": 1.0,
-     "sector": 1.5,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "analytics",
-     "b2b",
-     "business development",
-     "negotiation",
-     "partnerships"
-    ],
-    "missing": [
-     "account management",
-     "api",
-     "commission",
-     "impact"
-    ]
-   },
-   "posted": "2026-11-19",
-   "firstSeen": "2026-11-20",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/lottie/account-manager-partnerships-london-232492",
-   "source": "arbeitnow",
-   "flags": [],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying.",
-   "mode": "Hybrid or office"
-  },
-  {
-   "id": "aa8294dfe24",
-   "title": "Social Media Manager for X",
-   "company": "CoinStats",
-   "country": "Remote",
-   "region": "r",
-   "tier": "auto",
-   "fit": 8.0,
-   "rating": {
-    "fit": 8.0,
-    "conf": "Medium",
-    "parts": {
-     "role": 1.8,
-     "level": 2.0,
-     "place": 2.0,
-     "pay": 0.5,
-     "sector": 1.5,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "content and social",
-     "web3"
-    ],
-    "missing": []
-   },
-   "posted": "2026-11-16",
-   "firstSeen": "2026-11-19",
-   "url": "https://weworkremotely.com/remote-jobs/coinstats-social-media-manager-for-x",
-   "source": "wwr",
-   "flags": [
-    "asks up to 3+ years"
-   ],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": false,
-   "why": "Found by the daily scan. Open the posting and read it before applying.",
-   "mode": "Remote"
-  },
-  {
-   "id": "a9597224d57",
-   "title": "Business Development, VIP Acquisition Lead",
-   "company": "phantom",
-   "country": "Remote",
-   "region": "r",
-   "tier": "auto",
-   "fit": 7.5,
-   "rating": {
-    "fit": 7.5,
-    "conf": "Medium",
-    "parts": {
-     "role": 3.0,
-     "level": 0.5,
-     "place": 2.0,
-     "pay": 0.5,
-     "sector": 1.5,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "analytics",
-     "b2b",
-     "business development",
-     "negotiation",
-     "web3"
-    ],
-    "missing": [
-     "api",
-     "awin",
-     "impact"
-    ]
-   },
-   "posted": "2026-11-19",
-   "firstSeen": "2026-11-20",
-   "url": "https://jobs.ashbyhq.com/phantom/df8cc1ce-6850-4231-a5d0-97f55d9248a8",
-   "source": "ashby",
-   "flags": [],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying.",
-   "mode": "Remote"
-  },
   {
    "id": "af596004593",
    "title": "Social Media Manager",
@@ -183,6 +37,57 @@
    "url": "https://himalayas.app/companies/partyhat/jobs/social-media-manager-3765192854?utm_source=api",
    "source": "himalayas",
    "flags": [],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Remote"
+  },
+  {
+   "id": "a89822f46d8",
+   "title": "Direct Mail Marketing Manager, Credit Card (Contract)",
+   "company": "SoFi",
+   "country": "Remote",
+   "region": "r",
+   "tier": "auto",
+   "fit": 6.5,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 1.5,
+     "level": 2.0,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "crm",
+     "testing"
+    ],
+    "missing": [
+     "impact",
+     "lifecycle",
+     "stakeholder",
+     "tracking"
+    ]
+   },
+   "posted": "2026-11-20",
+   "firstSeen": "2026-11-20",
+   "url": "https://weworkremotely.com/remote-jobs/sofi-direct-mail-marketing-manager-credit-card-contract",
+   "source": "wwr",
+   "flags": [
+    "asks up to 4+ years"
+   ],
    "check": {
     "tier": "Looks live",
     "good": [
@@ -289,10 +194,10 @@
    "why": "Found by the daily scan. Open the posting and read it before applying."
   },
   {
-   "id": "ad0c47f25bd",
+   "id": "a4a9ce992d4",
    "title": "Senior Program & Partnerships Manager - Autonomous Vehicle",
    "company": "freenow",
-   "country": "United Kingdom",
+   "country": "Germany",
    "region": "e",
    "tier": "auto",
    "fit": 6.5,
@@ -321,7 +226,7 @@
    },
    "posted": "2026-11-19",
    "firstSeen": "2026-11-20",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/freenow/senior-program-partnerships-manager-autonomous-vehicle-london-450714",
+   "url": "https://www.arbeitnow.com/jobs/companies/freenow/senior-program-partnerships-manager-autonomous-vehicle-berlin-100341",
    "source": "arbeitnow",
    "flags": [
     "asks up to 5+ years"

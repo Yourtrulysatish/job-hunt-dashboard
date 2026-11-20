@@ -1,5 +1,5 @@
 {
- "updated": "14 Nov 2026",
+ "updated": "20 Nov 2026",
  "jobs": [
   {
    "title": "Affiliate & Partnerships Manager",
@@ -2276,10 +2276,10 @@
    "source": "Himalayas",
    "read": true,
    "rating": {
-    "fit": 7.0,
+    "fit": 6.5,
     "conf": "Medium",
     "parts": {
-     "role": 2.5,
+     "role": 2.0,
      "level": 2.0,
      "place": 0.8,
      "pay": 0.5,
@@ -2289,30 +2289,19 @@
     "notes": [
      "needs existing right to work"
     ],
-    "have": [
-     "affiliate",
-     "analytics",
-     "content and social",
-     "testing",
-     "web3"
-    ],
-    "missing": [
-     "attribution",
-     "cac",
-     "lifecycle",
-     "sql",
-     "tracking"
-    ]
+    "have": [],
+    "missing": []
    },
-   "fit": 5.5,
+   "fit": 5.0,
    "below": true,
    "check": {
-    "tier": "Looks live",
+    "tier": "Check first",
     "good": [
-     "posted in the last two weeks",
-     "detailed description"
+     "posted in the last two weeks"
     ],
-    "check": []
+    "check": [
+     "text not read"
+    ]
    },
    "fitAdjust": -1.5,
    "adjustWhy": "Only open to UK or UAE residents, and the core is product growth and lifecycle tooling rather than partnerships."
@@ -2750,7 +2739,284 @@
    },
    "fitAdjust": -1.5,
    "adjustWhy": "Four days onsite in London, half the role is events, and the UK needs a visa."
+  },
+  {
+   "id": "coinpoker-partnership-manager",
+   "title": "Partnership Manager",
+   "company": "CoinPoker",
+   "country": "Remote",
+   "city": "Remote (Europe/EMEA, Croatia listed)",
+   "region": "r",
+   "tier": "apply",
+   "mode": "Remote",
+   "posted": "2026-11-19",
+   "exp": "Proven experience managing influencer, streamer or ambassador partners, no years stated.",
+   "lang": "English.",
+   "visa": "Fully remote, Croatia is on the allowed country list.",
+   "visaState": "unstated",
+   "pay": "Not stated, salary plus performance bonus.",
+   "why": "Day to day management of ambassador, streamer and creator partners at a crypto poker brand, working next to the affiliate and CRM teams, which is close to his affiliate and crypto work. The catch is that they want a real feel for poker culture and it is iGaming.",
+   "url": "https://himalayas.app/companies/coinpoker/jobs/partnership-manager?utm_source=api",
+   "source": "Himalayas, company posting",
+   "read": true,
+   "rating": {
+    "fit": 8.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.5,
+     "level": 1.0,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "affiliate",
+     "analytics",
+     "content and social",
+     "crm",
+     "negotiation",
+     "partnerships",
+     "web3"
+    ],
+    "missing": [
+     "api",
+     "tracking"
+    ]
+   },
+   "fit": 7.5,
+   "below": false,
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "fitAdjust": -1.0,
+   "adjustWhy": "Poker culture knowledge is a strong ask and it is iGaming, so a little less clean than the formula sees."
+  },
+  {
+   "id": "gocharting-partnerships-ops",
+   "title": "Partnerships Operations Manager - Trading Platform (Europe, Remote)",
+   "company": "GoCharting",
+   "country": "Remote",
+   "city": "Remote (Europe, Croatia listed)",
+   "region": "r",
+   "tier": "apply",
+   "mode": "Remote",
+   "posted": "2026-11-19",
+   "exp": "3+ years in partnerships, BD, sales ops or account management.",
+   "lang": "Clear written English.",
+   "visa": "Remote from Europe on UK or EU hours with some IST and EST overlap. Croatia is on the allowed list.",
+   "visaState": "unstated",
+   "pay": "Not stated.",
+   "why": "Runs the inbound queue for affiliates, creators, media and broker partners at a trading platform, agrees terms with small partners and owns the CRM, with crypto and affiliate experience listed as pluses. The catch is that it is an operations role under a partnerships lead, so big deals sit above it.",
+   "url": "https://himalayas.app/companies/gocharting/jobs/partnerships-operations-manager-trading-platform-europe-remote?utm_source=api",
+   "source": "Himalayas, company posting",
+   "read": true,
+   "rating": {
+    "fit": 8.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.5,
+     "level": 2.0,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "affiliate",
+     "analytics",
+     "b2b",
+     "business development",
+     "content and social",
+     "crm",
+     "partnerships",
+     "web3"
+    ],
+    "missing": [
+     "api",
+     "integration",
+     "revenue share"
+    ]
+   },
+   "fit": 8.0,
+   "below": false,
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "fitAdjust": -0.5,
+   "adjustWhy": "It is an operations seat under a partnerships lead, with the larger deals handled above it."
+  },
+  {
+   "id": "coinstats-smm-x",
+   "title": "Social Media Manager for X",
+   "company": "CoinStats",
+   "country": "Remote",
+   "city": "Anywhere",
+   "region": "r",
+   "tier": "stretch",
+   "mode": "Remote",
+   "posted": "2026-11-16",
+   "exp": "Mid-level or senior, no years stated.",
+   "lang": "English.",
+   "visa": "Remote anywhere in the world, full time or part time.",
+   "visaState": "unstated",
+   "pay": "Not stated.",
+   "why": "Crypto portfolio app looking for a crypto native to run its voice on Crypto Twitter, which fits his CryptoNewsZ community work. The catch is that it is mostly replies, memes and copywriting rather than partnerships, and they ask for a portfolio.",
+   "url": "https://weworkremotely.com/remote-jobs/coinstats-social-media-manager-for-x",
+   "source": "We Work Remotely, company posting",
+   "read": true,
+   "rating": {
+    "fit": 8.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 1.8,
+     "level": 2.0,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "content and social",
+     "web3"
+    ],
+    "missing": []
+   },
+   "fit": 6.0,
+   "below": true,
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "fitAdjust": -2.0,
+   "adjustWhy": "The work is mostly Crypto Twitter replies, memes and copy, not partnerships, and it may be part time."
+  },
+  {
+   "id": "lanterna-growth-marketing",
+   "title": "Growth Marketing Manager",
+   "company": "Lanterna Education",
+   "country": "Remote",
+   "city": "Remote (within 2h of CET, Croatia listed)",
+   "region": "r",
+   "tier": "stretch",
+   "mode": "Remote",
+   "posted": "2026-11-19",
+   "exp": "No years stated.",
+   "lang": "English.",
+   "visa": "Remote, must be within two hours of CET, Croatia is on the allowed list.",
+   "visaState": "unstated",
+   "pay": "Not stated.",
+   "why": "Owns B2C growth for an IB tutoring company across SEO and AEO, email, social and ads. The catch is the weight on marketing automation, agentic coding with AI tools and design sense, which is further from his partnerships background.",
+   "url": "https://himalayas.app/companies/lanterna-education/jobs/growth-marketing-manager?utm_source=api",
+   "source": "Himalayas, company posting",
+   "read": true,
+   "rating": {
+    "fit": 6.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.0,
+     "level": 1.0,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "content and social",
+     "crm",
+     "paid media",
+     "seo",
+     "testing"
+    ],
+    "missing": [
+     "api",
+     "impact",
+     "stakeholder"
+    ]
+   },
+   "fit": 5.5,
+   "below": true,
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "fitAdjust": -0.5,
+   "adjustWhy": "Heavy on automation, agentic coding and design work beyond his background."
+  },
+  {
+   "id": "indus-travels-bdm",
+   "title": "Business Development Manager",
+   "company": "Indus Travels",
+   "country": "Remote",
+   "city": "Anywhere",
+   "region": "r",
+   "tier": "stretch",
+   "mode": "Remote",
+   "posted": "2026-11-19",
+   "exp": "No years stated.",
+   "lang": "English.",
+   "visa": "Remote anywhere in the world, company based in Vancouver.",
+   "visaState": "unstated",
+   "pay": "Not stated.",
+   "why": "Recruits groups, associations, clubs and travel agencies as group travel partners and owns the deal cycle, which is close to recruiting affiliates. The catch is that it is a revenue target role in travel, a new sector for him, and the posting is short on detail.",
+   "url": "https://weworkremotely.com/remote-jobs/indus-travels-business-development-manager",
+   "source": "We Work Remotely, company posting",
+   "read": true,
+   "rating": {
+    "fit": 7.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.5,
+     "level": 1.0,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "business development",
+     "content and social",
+     "partnerships"
+    ],
+    "missing": []
+   },
+   "fit": 5.5,
+   "below": true,
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "fitAdjust": -2.0,
+   "adjustWhy": "A revenue target role in travel, a sector he has not worked in, and the posting gives little detail."
   }
  ],
- "rated": "20 Nov 2026 05:05 UTC"
+ "rated": "20 Nov 2026 11:31 UTC"
 }
