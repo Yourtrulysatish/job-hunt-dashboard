@@ -1613,6 +1613,7 @@
     "tier": "Check first",
     "good": [],
     "check": [
+     "older than three weeks",
      "text not read"
     ]
    }
@@ -1694,17 +1695,27 @@
      "flags": -0.0
     },
     "notes": [],
-    "have": [],
-    "missing": []
+    "have": [
+     "affiliate",
+     "analytics",
+     "crm",
+     "negotiation",
+     "partnerships"
+    ],
+    "missing": [
+     "impact",
+     "ltv",
+     "retention"
+    ]
    },
    "fit": 7.0,
    "below": false,
    "check": {
-    "tier": "Check first",
-    "good": [],
-    "check": [
-     "text not read"
-    ]
+    "tier": "Looks live",
+    "good": [
+     "detailed description"
+    ],
+    "check": []
    },
    "fitAdjust": 0.5,
    "adjustWhy": "Core affiliate manager work with only 1.5 years asked; crypto affiliate experience sits close to iGaming, so the formula undersells the role match."
@@ -1959,9 +1970,7 @@
    "below": true,
    "check": {
     "tier": "Check first",
-    "good": [
-     "posted in the last two weeks"
-    ],
+    "good": [],
     "check": [
      "text not read"
     ]
@@ -2007,6 +2016,7 @@
     "tier": "Check first",
     "good": [],
     "check": [
+     "older than three weeks",
      "text not read"
     ]
    },
@@ -2051,9 +2061,7 @@
    "below": true,
    "check": {
     "tier": "Check first",
-    "good": [
-     "posted in the last two weeks"
-    ],
+    "good": [],
     "check": [
      "text not read"
     ]
@@ -2099,9 +2107,7 @@
    "below": true,
    "check": {
     "tier": "Check first",
-    "good": [
-     "posted in the last two weeks"
-    ],
+    "good": [],
     "check": [
      "text not read"
     ]
@@ -2150,9 +2156,7 @@
    "below": true,
    "check": {
     "tier": "Check first",
-    "good": [
-     "posted in the last two weeks"
-    ],
+    "good": [],
     "check": [
      "text not read"
     ]
@@ -2272,10 +2276,10 @@
    "source": "Himalayas",
    "read": true,
    "rating": {
-    "fit": 6.5,
+    "fit": 7.0,
     "conf": "Medium",
     "parts": {
-     "role": 2.0,
+     "role": 2.5,
      "level": 2.0,
      "place": 0.8,
      "pay": 0.5,
@@ -2285,19 +2289,30 @@
     "notes": [
      "needs existing right to work"
     ],
-    "have": [],
-    "missing": []
+    "have": [
+     "affiliate",
+     "analytics",
+     "content and social",
+     "testing",
+     "web3"
+    ],
+    "missing": [
+     "attribution",
+     "cac",
+     "lifecycle",
+     "sql",
+     "tracking"
+    ]
    },
-   "fit": 5.0,
+   "fit": 5.5,
    "below": true,
    "check": {
-    "tier": "Check first",
+    "tier": "Looks live",
     "good": [
-     "posted in the last two weeks"
+     "posted in the last two weeks",
+     "detailed description"
     ],
-    "check": [
-     "text not read"
-    ]
+    "check": []
    },
    "fitAdjust": -1.5,
    "adjustWhy": "Only open to UK or UAE residents, and the core is product growth and lifecycle tooling rather than partnerships."
@@ -2586,9 +2601,7 @@
    "fit": 7.0,
    "check": {
     "tier": "Check first",
-    "good": [
-     "posted in the last two weeks"
-    ],
+    "good": [],
     "check": [
      "text not read"
     ]
@@ -2739,5 +2752,5 @@
    "adjustWhy": "Four days onsite in London, half the role is events, and the UK needs a visa."
   }
  ],
- "rated": "19 Nov 2026 05:04 UTC"
+ "rated": "20 Nov 2026 05:05 UTC"
 }

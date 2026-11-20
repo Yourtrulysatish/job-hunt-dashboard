@@ -1,7 +1,58 @@
 {
- "generated": "19 Nov 2026 05:04 UTC",
- "count": 4,
+ "generated": "20 Nov 2026 05:05 UTC",
+ "count": 9,
  "items": [
+  {
+   "id": "a55741f13d6",
+   "title": "Account Manager, Partnerships",
+   "company": "Lottie",
+   "country": "United Kingdom",
+   "region": "e",
+   "tier": "auto",
+   "fit": 8.0,
+   "rating": {
+    "fit": 8.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.5,
+     "level": 1.0,
+     "place": 0.9,
+     "pay": 1.0,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "b2b",
+     "business development",
+     "negotiation",
+     "partnerships"
+    ],
+    "missing": [
+     "account management",
+     "api",
+     "commission",
+     "impact"
+    ]
+   },
+   "posted": "2026-11-19",
+   "firstSeen": "2026-11-20",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/lottie/account-manager-partnerships-london-232492",
+   "source": "arbeitnow",
+   "flags": [],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Hybrid or office"
+  },
   {
    "id": "aa8294dfe24",
    "title": "Social Media Manager for X",
@@ -43,15 +94,112 @@
     ],
     "check": []
    },
+   "new": false,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Remote"
+  },
+  {
+   "id": "a9597224d57",
+   "title": "Business Development, VIP Acquisition Lead",
+   "company": "phantom",
+   "country": "Remote",
+   "region": "r",
+   "tier": "auto",
+   "fit": 7.5,
+   "rating": {
+    "fit": 7.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.0,
+     "level": 0.5,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "b2b",
+     "business development",
+     "negotiation",
+     "web3"
+    ],
+    "missing": [
+     "api",
+     "awin",
+     "impact"
+    ]
+   },
+   "posted": "2026-11-19",
+   "firstSeen": "2026-11-20",
+   "url": "https://jobs.ashbyhq.com/phantom/df8cc1ce-6850-4231-a5d0-97f55d9248a8",
+   "source": "ashby",
+   "flags": [],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
    "new": true,
    "why": "Found by the daily scan. Open the posting and read it before applying.",
    "mode": "Remote"
   },
   {
-   "id": "afa31ea9911",
-   "title": "Berufseinstieg Business Development (m/w/d)",
-   "company": "Zenon GmbH",
-   "country": "Germany",
+   "id": "af596004593",
+   "title": "Social Media Manager",
+   "company": "Partyhat",
+   "country": "Remote",
+   "region": "r",
+   "tier": "auto",
+   "fit": 7.0,
+   "rating": {
+    "fit": 7.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 1.8,
+     "level": 1.0,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "content and social",
+     "testing",
+     "web3"
+    ],
+    "missing": [
+     "impact"
+    ]
+   },
+   "posted": "2026-11-20",
+   "firstSeen": "2026-11-20",
+   "url": "https://himalayas.app/companies/partyhat/jobs/social-media-manager-3765192854?utm_source=api",
+   "source": "himalayas",
+   "flags": [],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Remote"
+  },
+  {
+   "id": "a8ba00f121c",
+   "title": "Referral Partnerships Manager – Remote (Worldwide)",
+   "company": "RemoteJobsOne",
+   "country": "United Kingdom",
    "region": "e",
    "tier": "auto",
    "fit": 6.5,
@@ -59,21 +207,30 @@
     "fit": 6.5,
     "conf": "Medium",
     "parts": {
-     "role": 2.5,
+     "role": 3.5,
      "level": 1.0,
      "place": 0.8,
      "pay": 0.5,
-     "sector": 1.5,
+     "sector": 0.7,
      "flags": -0.0
     },
     "notes": [],
-    "have": [],
-    "missing": []
+    "have": [
+     "affiliate",
+     "business development",
+     "content and social",
+     "crm",
+     "partnerships"
+    ],
+    "missing": [
+     "account management",
+     "tracking"
+    ]
    },
-   "posted": "2026-11-18",
-   "firstSeen": "2026-11-19",
-   "url": "https://www.arbeitnow.com/jobs/companies/zenon-gmbh/berufseinstieg-business-development-hamburg-324121",
-   "source": "arbeitnow",
+   "posted": "2026-11-19",
+   "firstSeen": "2026-11-20",
+   "url": "https://himalayas.app/companies/remotejobsone/jobs/referral-partnerships-manager-remote-worldwide?utm_source=api",
+   "source": "himalayas",
    "flags": [],
    "check": {
     "tier": "Looks live",
@@ -115,7 +272,7 @@
      "api"
     ]
    },
-   "posted": "2026-11-14",
+   "posted": "2026-11-19",
    "firstSeen": "2026-11-14",
    "url": "https://himalayas.app/companies/nordic-investin-group/jobs/lawgent-founding-editor-partnerships-lead-law-magazine?utm_source=api",
    "source": "himalayas",
@@ -128,8 +285,104 @@
     ],
     "check": []
    },
-   "new": false,
+   "new": true,
    "why": "Found by the daily scan. Open the posting and read it before applying."
+  },
+  {
+   "id": "ad0c47f25bd",
+   "title": "Senior Program & Partnerships Manager - Autonomous Vehicle",
+   "company": "freenow",
+   "country": "United Kingdom",
+   "region": "e",
+   "tier": "auto",
+   "fit": 6.5,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.0,
+     "level": 0.5,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "content and social",
+     "partnerships"
+    ],
+    "missing": [
+     "impact",
+     "lifecycle",
+     "stakeholder"
+    ]
+   },
+   "posted": "2026-11-19",
+   "firstSeen": "2026-11-20",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/freenow/senior-program-partnerships-manager-autonomous-vehicle-london-450714",
+   "source": "arbeitnow",
+   "flags": [
+    "asks up to 5+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
+  },
+  {
+   "id": "a12f0093817",
+   "title": "Business Development Manager",
+   "company": "Maya HTT",
+   "country": "Remote",
+   "region": "r",
+   "tier": "auto",
+   "fit": 6.5,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.5,
+     "level": 1.0,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "b2b",
+     "business development",
+     "crm"
+    ],
+    "missing": []
+   },
+   "posted": "2026-11-18",
+   "firstSeen": "2026-11-20",
+   "url": "https://remoteOK.com/remote-jobs/remote-business-development-manager-maya-htt-1137802",
+   "source": "remoteok",
+   "flags": [
+    "asks up to 5+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Remote"
   },
   {
    "id": "ae46aa19c90",
