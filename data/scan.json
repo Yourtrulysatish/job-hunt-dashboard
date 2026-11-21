@@ -1,6 +1,6 @@
 {
- "generated": "20 Nov 2026 11:31 UTC",
- "count": 7,
+ "generated": "21 Nov 2026 05:04 UTC",
+ "count": 10,
  "items": [
   {
    "id": "af596004593",
@@ -48,6 +48,195 @@
    "new": true,
    "why": "Found by the daily scan. Open the posting and read it before applying.",
    "mode": "Remote"
+  },
+  {
+   "id": "a68d89ed626",
+   "title": "Business Development Manager - Blockchain SaaS",
+   "company": "Axiom Recruit",
+   "country": "United Kingdom",
+   "region": "e",
+   "tier": "auto",
+   "fit": 6.5,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.5,
+     "level": 1.0,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "b2b",
+     "business development",
+     "web3"
+    ],
+    "missing": [
+     "commission"
+    ]
+   },
+   "posted": "2026-11-20",
+   "firstSeen": "2026-11-21",
+   "url": "https://himalayas.app/companies/axiom-recruit/jobs/business-development-manager-blockchain-saas?utm_source=api",
+   "source": "himalayas",
+   "flags": [],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
+  },
+  {
+   "id": "a48b1e04a4a",
+   "title": "Field & Partner Marketing Manager, Public Sector",
+   "company": "BeyondTrust",
+   "country": "Remote",
+   "region": "r",
+   "tier": "auto",
+   "fit": 6.5,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 1.5,
+     "level": 1.0,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "b2b",
+     "content and social",
+     "crm"
+    ],
+    "missing": [
+     "attribution",
+     "gtm",
+     "impact"
+    ]
+   },
+   "posted": "2026-11-20",
+   "firstSeen": "2026-11-21",
+   "url": "https://weworkremotely.com/remote-jobs/beyondtrust-field-partner-marketing-manager-public-sector",
+   "source": "wwr",
+   "flags": [
+    "asks up to 5+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Remote"
+  },
+  {
+   "id": "ace90004fcb",
+   "title": "Partnership Channel Manager",
+   "company": "Sano Genetics",
+   "country": "United Kingdom",
+   "region": "e",
+   "tier": "auto",
+   "fit": 6.5,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.0,
+     "level": 1.0,
+     "place": 0.8,
+     "pay": 1.0,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "business development",
+     "content and social",
+     "crm",
+     "partnerships",
+     "testing"
+    ],
+    "missing": [
+     "attribution",
+     "impact",
+     "stakeholder"
+    ]
+   },
+   "posted": "2026-11-20",
+   "firstSeen": "2026-11-21",
+   "url": "https://himalayas.app/companies/sano-genetics/jobs/partnership-channel-manager?utm_source=api",
+   "source": "himalayas",
+   "flags": [],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
+  },
+  {
+   "id": "a79f9ea37c7",
+   "title": "Business Development Manager",
+   "company": "APC Master AB",
+   "country": "Sweden",
+   "region": "e",
+   "tier": "auto",
+   "fit": 6.5,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.5,
+     "level": 1.0,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "business development"
+    ],
+    "missing": [
+     "stakeholder"
+    ]
+   },
+   "posted": "2026-11-20",
+   "firstSeen": "2026-11-21",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31758545",
+   "source": "jobtech",
+   "flags": [],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
   },
   {
    "id": "a89822f46d8",
@@ -194,55 +383,6 @@
    "why": "Found by the daily scan. Open the posting and read it before applying."
   },
   {
-   "id": "a4a9ce992d4",
-   "title": "Senior Program & Partnerships Manager - Autonomous Vehicle",
-   "company": "freenow",
-   "country": "Germany",
-   "region": "e",
-   "tier": "auto",
-   "fit": 6.5,
-   "rating": {
-    "fit": 6.5,
-    "conf": "Medium",
-    "parts": {
-     "role": 3.0,
-     "level": 0.5,
-     "place": 0.8,
-     "pay": 0.5,
-     "sector": 1.5,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "analytics",
-     "content and social",
-     "partnerships"
-    ],
-    "missing": [
-     "impact",
-     "lifecycle",
-     "stakeholder"
-    ]
-   },
-   "posted": "2026-11-19",
-   "firstSeen": "2026-11-20",
-   "url": "https://www.arbeitnow.com/jobs/companies/freenow/senior-program-partnerships-manager-autonomous-vehicle-berlin-100341",
-   "source": "arbeitnow",
-   "flags": [
-    "asks up to 5+ years"
-   ],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying."
-  },
-  {
    "id": "a12f0093817",
    "title": "Business Development Manager",
    "company": "Maya HTT",
@@ -285,7 +425,7 @@
     ],
     "check": []
    },
-   "new": true,
+   "new": false,
    "why": "Found by the daily scan. Open the posting and read it before applying.",
    "mode": "Remote"
   },

@@ -1,7 +1,57 @@
 {
- "generated": "20 Nov 2026 11:31 UTC",
- "count": 3,
+ "generated": "21 Nov 2026 05:04 UTC",
+ "count": 9,
  "items": [
+  {
+   "id": "adbcfadb512",
+   "title": "Senior Partner Manager",
+   "company": "Coveoen",
+   "country": "Remote",
+   "region": "r",
+   "tier": "auto",
+   "fit": 8.0,
+   "rating": {
+    "fit": 8.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.5,
+     "level": 0.5,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "b2b",
+     "partnerships"
+    ],
+    "missing": [
+     "enterprise",
+     "impact",
+     "stakeholder"
+    ]
+   },
+   "posted": "2026-11-20",
+   "firstSeen": "2026-11-21",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/coveoen/senior-partner-manager-235491",
+   "source": "arbeitnow",
+   "flags": [
+    "asks up to 5+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Remote"
+  },
   {
    "id": "a7e5718d485",
    "title": "Business Development Manager (Freelance - B2B)",
@@ -112,6 +162,242 @@
    "mode": "Hybrid or office"
   },
   {
+   "id": "aa79255c80d",
+   "title": "Graduate Partnership Manager at United-Media",
+   "company": "United Media",
+   "country": "United Kingdom",
+   "region": "e",
+   "tier": "auto",
+   "fit": 7.0,
+   "rating": {
+    "fit": 7.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.0,
+     "level": 1.0,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "business development",
+     "partnerships"
+    ],
+    "missing": [
+     "api",
+     "lead generation"
+    ]
+   },
+   "posted": "2026-11-21",
+   "firstSeen": "2026-11-21",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/united-media/graduate-partnership-manager-at-united-media-london-411632",
+   "source": "arbeitnow",
+   "flags": [],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
+  },
+  {
+   "id": "a7c1b4bb90f",
+   "title": "Regional Partnerships Manager - UK",
+   "company": "Constructor",
+   "country": "United Kingdom",
+   "region": "r",
+   "tier": "auto",
+   "fit": 7.0,
+   "rating": {
+    "fit": 7.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.0,
+     "level": 1.0,
+     "place": 1.0,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "negotiation",
+     "partnerships"
+    ],
+    "missing": [
+     "enterprise",
+     "go-to-market",
+     "impact"
+    ]
+   },
+   "posted": "2026-11-21",
+   "firstSeen": "2026-11-21",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/constructor/regional-partnerships-manager-uk-london-446988",
+   "source": "arbeitnow",
+   "flags": [],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Remote"
+  },
+  {
+   "id": "afbb4c30b79",
+   "title": "Business Development Manager, Bank & Lending Partnerships",
+   "company": "Upstart",
+   "country": "Remote",
+   "region": "r",
+   "tier": "auto",
+   "fit": 7.0,
+   "rating": {
+    "fit": 7.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.0,
+     "level": 0.0,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "business development",
+     "content and social",
+     "negotiation",
+     "partnerships",
+     "testing"
+    ],
+    "missing": [
+     "api",
+     "impact",
+     "stakeholder"
+    ]
+   },
+   "posted": "2026-11-20",
+   "firstSeen": "2026-11-21",
+   "url": "https://weworkremotely.com/remote-jobs/upstart-business-development-manager-bank-lending-partnerships",
+   "source": "wwr",
+   "flags": [
+    "asks up to 6+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Remote"
+  },
+  {
+   "id": "a6c70599401",
+   "title": "Regional MSP Partner Manager, EMEA South (Paris)",
+   "company": "Everpure",
+   "country": "Remote",
+   "region": "r",
+   "tier": "auto",
+   "fit": 7.0,
+   "rating": {
+    "fit": 7.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.0,
+     "level": 1.0,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "content and social"
+    ],
+    "missing": [
+     "go-to-market",
+     "gtm",
+     "lifecycle"
+    ]
+   },
+   "posted": "2026-11-20",
+   "firstSeen": "2026-11-21",
+   "url": "https://remoteOK.com/remote-jobs/remote-regional-msp-partner-manager-emea-south-paris-everpure-1137868",
+   "source": "remoteok",
+   "flags": [],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Remote"
+  },
+  {
+   "id": "af7c2ac2a78",
+   "title": "Regional MSP Partner Manager, Benelux",
+   "company": "Everpure",
+   "country": "Remote",
+   "region": "r",
+   "tier": "auto",
+   "fit": 7.0,
+   "rating": {
+    "fit": 7.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.0,
+     "level": 1.0,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "content and social"
+    ],
+    "missing": [
+     "go-to-market",
+     "gtm",
+     "lifecycle"
+    ]
+   },
+   "posted": "2026-11-19",
+   "firstSeen": "2026-11-21",
+   "url": "https://remoteOK.com/remote-jobs/remote-regional-msp-partner-manager-benelux-everpure-1137831",
+   "source": "remoteok",
+   "flags": [],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Remote"
+  },
+  {
    "id": "a156dfadb43",
    "title": "Insurance Broker Partner Manager - Nederland (m/f/x)",
    "company": "Eye Security",
@@ -147,7 +433,7 @@
     ],
     "check": []
    },
-   "new": true,
+   "new": false,
    "why": "Found by the daily scan. Open the posting and read it before applying.",
    "mode": "Hybrid or office"
   }
