@@ -1,0 +1,1110 @@
+{
+ "generated": "2026-11-21 21:39 UTC",
+ "first_run": true,
+ "counts": {
+  "postings_crawled": 22624,
+  "yc_boards": 480,
+  "matching_roles": 201,
+  "new_roles": 201,
+  "student_centre_english": 62,
+  "student_centre_new": 62
+ },
+ "new_roles": [
+  {
+   "tier": "A",
+   "title": "Product Growth & Partnerships Manager",
+   "company": "hostinger",
+   "place": "Vilnius Kaunas Hybrid",
+   "visa": "EU",
+   "pay_eur_month": 3500,
+   "kind": "Job",
+   "start": "n/a",
+   "years": null,
+   "posted": "2026-10-18",
+   "fit": 26.1,
+   "url": "https://jobs.ashbyhq.com/hostinger/c97b29b4-cff1-4018-b34e-e67cd946da90",
+   "yc": null
+  },
+  {
+   "tier": "A",
+   "title": "Experiential Marketing Manager",
+   "company": "consensys",
+   "place": "EMEA - Remote, United States - Remote",
+   "visa": "remote",
+   "pay_eur_month": 7575,
+   "kind": "Job",
+   "start": "n/a",
+   "years": 5,
+   "posted": "2026-10-21",
+   "fit": 25.5,
+   "url": "https://job-boards.greenhouse.io/consensys/jobs/8292214",
+   "yc": null
+  },
+  {
+   "tier": "A",
+   "title": "Customer Retention Manager | Email Marketing | Junior-Mid",
+   "company": "nord-security",
+   "place": "Vilnius  Hybrid",
+   "visa": "EU",
+   "pay_eur_month": 1900,
+   "kind": "Job",
+   "start": "n/a",
+   "years": null,
+   "posted": "2026-10-16",
+   "fit": 25.1,
+   "url": "https://jobs.ashbyhq.com/nord-security/64c0a54a-ec40-4e6d-af8a-6db1a2007caf",
+   "yc": null
+  },
+  {
+   "tier": "A",
+   "title": "Air Pricing Associate",
+   "company": "Flexport",
+   "place": "Paris, France",
+   "visa": "EU",
+   "pay_eur_month": 1920,
+   "kind": "Job",
+   "start": "n/a",
+   "years": 2,
+   "posted": "2026-11-10",
+   "fit": 24.6,
+   "url": "https://job-boards.greenhouse.io/flexport/jobs/8245833",
+   "yc": "Winter 2014"
+  },
+  {
+   "tier": "A",
+   "title": "Senior Global Operations Associate",
+   "company": "Flexport",
+   "place": "Paris",
+   "visa": "EU",
+   "pay_eur_month": 1920,
+   "kind": "Job",
+   "start": "n/a",
+   "years": 3,
+   "posted": "2026-11-20",
+   "fit": 24.0,
+   "url": "https://www.arbeitnow.fr/jobs/companies/flexport/senior-global-operations-associate-paris-463330",
+   "yc": null
+  },
+  {
+   "tier": "A",
+   "title": "Senior Global Operations Associate - Air freight",
+   "company": "Flexport",
+   "place": "Paris, France",
+   "visa": "EU",
+   "pay_eur_month": 1920,
+   "kind": "Job",
+   "start": "n/a",
+   "years": 3,
+   "posted": "2026-10-19",
+   "fit": 24.0,
+   "url": "https://job-boards.greenhouse.io/flexport/jobs/8300314",
+   "yc": "Winter 2014"
+  },
+  {
+   "tier": "A",
+   "title": "Strategic Partnerships",
+   "company": "Garage",
+   "place": "New York City  OnSite",
+   "visa": "sponsors",
+   "pay_eur_month": 1890,
+   "kind": "Job",
+   "start": "n/a",
+   "years": 2,
+   "posted": "2026-11-06",
+   "fit": 22.8,
+   "url": "https://jobs.ashbyhq.com/garage/5e8d425e-e2b3-4bdd-b8e1-68c54274c878",
+   "yc": "Winter 2024"
+  },
+  {
+   "tier": "A",
+   "title": "Market Associate",
+   "company": "airbnb",
+   "place": "Paris, France ",
+   "visa": "EU",
+   "pay_eur_month": 4000,
+   "kind": "Job",
+   "start": "n/a",
+   "years": 3,
+   "posted": "2026-10-21",
+   "fit": 22.6,
+   "url": "https://careers.airbnb.com/positions/8306218?gh_jid=8306218",
+   "yc": null
+  },
+  {
+   "tier": "A",
+   "title": "Market Associate",
+   "company": "airbnb",
+   "place": "Barcelona, Spain",
+   "visa": "EU",
+   "pay_eur_month": 3333,
+   "kind": "Job",
+   "start": "n/a",
+   "years": 3,
+   "posted": "2026-10-19",
+   "fit": 22.6,
+   "url": "https://careers.airbnb.com/positions/8300839?gh_jid=8300839",
+   "yc": null
+  },
+  {
+   "tier": "A",
+   "title": "Market Coordinator (12 Month Fixed-Term Contract)",
+   "company": "airbnb",
+   "place": "Paris, France ",
+   "visa": "EU",
+   "pay_eur_month": 4000,
+   "kind": "Job",
+   "start": "n/a",
+   "years": 3,
+   "posted": "2026-10-20",
+   "fit": 22.3,
+   "url": "https://careers.airbnb.com/positions/8303135?gh_jid=8303135",
+   "yc": null
+  },
+  {
+   "tier": "A",
+   "title": "Content Enablement Intern 2027 (USA)",
+   "company": "pinterest",
+   "place": "San Francisco, CA, US; Remote, US",
+   "visa": "sponsors",
+   "pay_eur_month": 6300,
+   "kind": "Internship",
+   "start": "2027 stated",
+   "years": null,
+   "posted": "2026-11-04",
+   "fit": 22.1,
+   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8334884",
+   "yc": null
+  },
+  {
+   "tier": "A",
+   "title": "Partnership Manager Milan",
+   "company": "adyen",
+   "place": "Milan",
+   "visa": "EU",
+   "pay_eur_month": 6525,
+   "kind": "Job",
+   "start": "n/a",
+   "years": 5,
+   "posted": "2026-11-11",
+   "fit": 22.1,
+   "url": "https://job-boards.greenhouse.io/adyen/jobs/8376508",
+   "yc": null
+  },
+  {
+   "tier": "A",
+   "title": "Customer Program Manager, Executive Briefings",
+   "company": "anthropic",
+   "place": "London, UK",
+   "visa": "sponsors",
+   "pay_eur_month": 15333,
+   "kind": "Job",
+   "start": "n/a",
+   "years": 5,
+   "posted": "2026-11-03",
+   "fit": 21.6,
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5463187008",
+   "yc": null
+  },
+  {
+   "tier": "A",
+   "title": "Off-site SEO Specialist | Junior-Mid",
+   "company": "nord-security",
+   "place": "Vilnius Kaunas Hybrid",
+   "visa": "EU",
+   "pay_eur_month": 1800,
+   "kind": "Job",
+   "start": "n/a",
+   "years": 1,
+   "posted": "2026-10-07",
+   "fit": 21.5,
+   "url": "https://jobs.ashbyhq.com/nord-security/441fc749-cfe2-42f0-83cd-cd46b9e4c78f",
+   "yc": null
+  },
+  {
+   "tier": "A",
+   "title": "Strategy & Operations Intern 2027 (USA)",
+   "company": "pinterest",
+   "place": "San Francisco, CA, US; Remote, CA, US",
+   "visa": "sponsors",
+   "pay_eur_month": 6300,
+   "kind": "Internship",
+   "start": "2027 stated",
+   "years": null,
+   "posted": "2026-11-06",
+   "fit": 20.6,
+   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8334878",
+   "yc": null
+  },
+  {
+   "tier": "A",
+   "title": "Global Operations Associate",
+   "company": "Flexport",
+   "place": "Milan, Italy",
+   "visa": "EU",
+   "pay_eur_month": 2333,
+   "kind": "Job",
+   "start": "n/a",
+   "years": 1,
+   "posted": "2026-09-18",
+   "fit": 20.5,
+   "url": "https://job-boards.greenhouse.io/flexport/jobs/8213181",
+   "yc": "Winter 2014"
+  },
+  {
+   "tier": "A",
+   "title": "Global Operations Associate, Ocean",
+   "company": "Flexport",
+   "place": "Milan, Italy",
+   "visa": "EU",
+   "pay_eur_month": 2333,
+   "kind": "Job",
+   "start": "n/a",
+   "years": 1,
+   "posted": "2026-11-05",
+   "fit": 20.5,
+   "url": "https://job-boards.greenhouse.io/flexport/jobs/8355885",
+   "yc": "Winter 2014"
+  },
+  {
+   "tier": "A",
+   "title": "Global Associate Manager, Food Safety",
+   "company": "wolt",
+   "place": "Athens, Greece",
+   "visa": "EU",
+   "pay_eur_month": 2920,
+   "kind": "Job",
+   "start": "n/a",
+   "years": 5,
+   "posted": "2026-11-11",
+   "fit": 20.1,
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/8377852",
+   "yc": null
+  },
+  {
+   "tier": "A",
+   "title": "Business Operations",
+   "company": "HUD",
+   "place": "San Francisco  OnSite",
+   "visa": "sponsors",
+   "pay_eur_month": 7500,
+   "kind": "Job",
+   "start": "n/a",
+   "years": 4,
+   "posted": "2026-09-23",
+   "fit": 20.1,
+   "url": "https://jobs.ashbyhq.com/hud/5c5a6b61-3ef3-4eb2-a81d-1ad3e920e1c3",
+   "yc": "Winter 2025"
+  },
+  {
+   "tier": "A",
+   "title": "Integration & Solution Specialist - Welfare",
+   "company": "satispay",
+   "place": "Milan, Italy  Hybrid",
+   "visa": "EU",
+   "pay_eur_month": 2917,
+   "kind": "Job",
+   "start": "n/a",
+   "years": 3,
+   "posted": "2026-11-12",
+   "fit": 20,
+   "url": "https://jobs.ashbyhq.com/satispay/d3d85586-ec5d-4611-83b7-7ea41265dfa3",
+   "yc": null
+  },
+  {
+   "tier": "A",
+   "title": "Workplace Coordinator",
+   "company": "wolt",
+   "place": "Tallinn, Estonia",
+   "visa": "EU",
+   "pay_eur_month": 2000,
+   "kind": "Job",
+   "start": "n/a",
+   "years": null,
+   "posted": "2026-09-25",
+   "fit": 19.7,
+   "url": "https://job-boards.greenhouse.io/wolt/jobs/8230253",
+   "yc": null
+  },
+  {
+   "tier": "A",
+   "title": "Partner Strategy & Operations Manager - EMEA",
+   "company": "okta",
+   "place": "Dublin, Ireland",
+   "visa": "EU",
+   "pay_eur_month": 6500,
+   "kind": "Job",
+   "start": "n/a",
+   "years": null,
+   "posted": "2026-10-21",
+   "fit": 19.3,
+   "url": "https://www.okta.com/company/careers/opportunity/8300291?gh_jid=8300291",
+   "yc": null
+  },
+  {
+   "tier": "A",
+   "title": "Customs Associate",
+   "company": "Flexport",
+   "place": "Antwerpen, Belgium",
+   "visa": "EU",
+   "pay_eur_month": 1600,
+   "kind": "Job",
+   "start": "n/a",
+   "years": 3,
+   "posted": "2026-10-30",
+   "fit": 19,
+   "url": "https://job-boards.greenhouse.io/flexport/jobs/8336787",
+   "yc": "Winter 2014"
+  },
+  {
+   "tier": "A",
+   "title": "Growth Marketer",
+   "company": "Garage",
+   "place": "New York City  OnSite",
+   "visa": "sponsors",
+   "pay_eur_month": 1890,
+   "kind": "Job",
+   "start": "n/a",
+   "years": 4,
+   "posted": "2026-11-09",
+   "fit": 18.8,
+   "url": "https://jobs.ashbyhq.com/garage/8802af7e-b601-4bf3-91a0-8a038f4cfd6b",
+   "yc": "Winter 2024"
+  },
+  {
+   "tier": "A",
+   "title": "Global Operations Associate",
+   "company": "Flexport",
+   "place": "Antwerpen, Belgium",
+   "visa": "EU",
+   "pay_eur_month": 1600,
+   "kind": "Job",
+   "start": "n/a",
+   "years": 2,
+   "posted": "2026-09-16",
+   "fit": 18.5,
+   "url": "https://job-boards.greenhouse.io/flexport/jobs/8207775",
+   "yc": "Winter 2014"
+  },
+  {
+   "tier": "A",
+   "title": "Research Grants Coordinator",
+   "company": "mercor",
+   "place": "San Francisco  OnSite",
+   "visa": "sponsors",
+   "pay_eur_month": 1350,
+   "kind": "Job",
+   "start": "n/a",
+   "years": 4,
+   "posted": "2026-11-10",
+   "fit": 18.0,
+   "url": "https://jobs.ashbyhq.com/mercor/a63f7abc-6171-41d1-bf22-307cbeada334",
+   "yc": null
+  },
+  {
+   "tier": "A",
+   "title": "People Experience & Development Specialist",
+   "company": "satispay",
+   "place": "Milan, Italy  Hybrid",
+   "visa": "EU",
+   "pay_eur_month": 2667,
+   "kind": "Job",
+   "start": "n/a",
+   "years": 5,
+   "posted": "2026-11-18",
+   "fit": 18,
+   "url": "https://jobs.ashbyhq.com/satispay/40968d65-4071-4d14-8ead-f3c625130a54",
+   "yc": null
+  },
+  {
+   "tier": "A",
+   "title": "Working Student - Customer Success",
+   "company": "Skailark",
+   "place": "Munich",
+   "visa": "EU",
+   "pay_eur_month": 3520,
+   "kind": "Internship",
+   "start": "start unclear",
+   "years": null,
+   "posted": "2026-11-18",
+   "fit": 18,
+   "url": "https://www.arbeitnow.com/jobs/companies/skailark/working-student-customer-success-munich-285837",
+   "yc": null
+  },
+  {
+   "tier": "A",
+   "title": "Brand Collaborations Manager",
+   "company": "hostinger",
+   "place": "Vilnius Kaunas Hybrid",
+   "visa": "EU",
+   "pay_eur_month": 3200,
+   "kind": "Job",
+   "start": "n/a",
+   "years": 3,
+   "posted": "2026-11-09",
+   "fit": 17.6,
+   "url": "https://jobs.ashbyhq.com/hostinger/811b7504-4e4f-4c10-99f2-7a995feb6dd2",
+   "yc": null
+  },
+  {
+   "tier": "A",
+   "title": "Content & Marketing Intern",
+   "company": "Innate",
+   "place": "Palo Alto  OnSite",
+   "visa": "sponsors",
+   "pay_eur_month": 3600,
+   "kind": "Internship",
+   "start": "start mentioned",
+   "years": null,
+   "posted": "2026-07-19",
+   "fit": 17.3,
+   "url": "https://jobs.ashbyhq.com/innate/912d62fa-ee66-4c9a-87ce-aff73a3dd334",
+   "yc": "Fall 2024"
+  },
+  {
+   "tier": "A",
+   "title": "Learning & Education Specialist",
+   "company": "anthropic",
+   "place": "San Francisco, CA | New York City, NY",
+   "visa": "sponsors",
+   "pay_eur_month": 12375,
+   "kind": "Job",
+   "start": "n/a",
+   "years": 4,
+   "posted": "2026-11-04",
+   "fit": 16.6,
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5462661008",
+   "yc": null
+  },
+  {
+   "tier": "A",
+   "title": "Partner Manager, Microsoft Co-sell",
+   "company": "anthropic",
+   "place": "San Francisco, CA | New York City, NY | Seattle, WA",
+   "visa": "sponsors",
+   "pay_eur_month": 16125,
+   "kind": "Job",
+   "start": "n/a",
+   "years": null,
+   "posted": "2026-09-24",
+   "fit": 16.5,
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5391253008",
+   "yc": null
+  },
+  {
+   "tier": "A",
+   "title": "GTM Strategy & Operations - Strategic Planning",
+   "company": "anthropic",
+   "place": "New York City, NY; San Francisco, CA | New York City, NY",
+   "visa": "sponsors",
+   "pay_eur_month": 14250,
+   "kind": "Job",
+   "start": "n/a",
+   "years": null,
+   "posted": "2026-11-16",
+   "fit": 16.3,
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5481842008",
+   "yc": null
+  },
+  {
+   "tier": "A",
+   "title": "Internal Communications, GTM",
+   "company": "anthropic",
+   "place": "San Francisco, CA | New York City, NY",
+   "visa": "sponsors",
+   "pay_eur_month": 22125,
+   "kind": "Job",
+   "start": "n/a",
+   "years": null,
+   "posted": "2026-10-13",
+   "fit": 16.1,
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5442842008",
+   "yc": null
+  },
+  {
+   "tier": "A",
+   "title": "Manager I, Revenue Operations",
+   "company": "pinterest",
+   "place": "Dublin, Ireland",
+   "visa": "EU",
+   "pay_eur_month": 5757,
+   "kind": "Job",
+   "start": "n/a",
+   "years": 5,
+   "posted": "2026-10-21",
+   "fit": 15.9,
+   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8282903",
+   "yc": null
+  },
+  {
+   "tier": "A",
+   "title": "Digital Campaigns, Policy Advocacy",
+   "company": "anthropic",
+   "place": "San Francisco, CA | Washington, DC",
+   "visa": "sponsors",
+   "pay_eur_month": 19875,
+   "kind": "Job",
+   "start": "n/a",
+   "years": null,
+   "posted": "2026-09-24",
+   "fit": 15.9,
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5432845008",
+   "yc": null
+  },
+  {
+   "tier": "A",
+   "title": "Provider Partnership Manager (backed by Y Combinator, $5M+ ARR, $23M+ raised)",
+   "company": "Legion Health",
+   "place": "Austin, Texas Dallas, Texas Houston, Texas Fort Worth, Texas San Antonio, Texas ",
+   "visa": "sponsors",
+   "pay_eur_month": 9000,
+   "kind": "Job",
+   "start": "n/a",
+   "years": 4,
+   "posted": "2026-10-12",
+   "fit": 15.9,
+   "url": "https://jobs.ashbyhq.com/legionhealth/2289fb02-74da-4f4c-8ffc-e5973a39329c",
+   "yc": "Summer 2021"
+  },
+  {
+   "tier": "A",
+   "title": "CRM Manager B2C",
+   "company": "satispay",
+   "place": "Milan, Italy  Hybrid",
+   "visa": "EU",
+   "pay_eur_month": 3333,
+   "kind": "Job",
+   "start": "n/a",
+   "years": 5,
+   "posted": "2026-10-30",
+   "fit": 15.7,
+   "url": "https://jobs.ashbyhq.com/satispay/e1ddeef9-ad2f-4e35-8b9a-a9553f75fb48",
+   "yc": null
+  },
+  {
+   "tier": "A",
+   "title": "Strategic Partner Development, Product Partnerships ",
+   "company": "anthropic",
+   "place": "San Francisco, CA | New York City, NY",
+   "visa": "sponsors",
+   "pay_eur_month": 15375,
+   "kind": "Job",
+   "start": "n/a",
+   "years": null,
+   "posted": "2026-11-06",
+   "fit": 15.1,
+   "url": "https://job-boards.greenhouse.io/anthropic/jobs/5475830008",
+   "yc": null
+  },
+  {
+   "tier": "A",
+   "title": "Performance Marketer",
+   "company": "Garage",
+   "place": "New York City  Remote",
+   "visa": "sponsors",
+   "pay_eur_month": 1890,
+   "kind": "Job",
+   "start": "n/a",
+   "years": 4,
+   "posted": "2026-11-09",
+   "fit": 14.5,
+   "url": "https://jobs.ashbyhq.com/garage/b96d3524-b7a7-46ee-89b8-367f3ed9683d",
+   "yc": "Winter 2024"
+  }
+ ],
+ "student_centre_new": [
+  {
+   "id": 64065,
+   "title": "revizorski vje\u017ebenik m/\u017e",
+   "company": "ACTA REVIZIJA d.o.o. za revizijske usluge",
+   "pay": "7,10 \u20ac",
+   "hours": "8.00-16.00 ili po dogovoru",
+   "closes": "2026-12-15",
+   "apply": "revizija@acta.hr",
+   "url": "https://www.sczg.unizg.hr/en/poslovi/revizorski-vjezbenik-m-z"
+  },
+  {
+   "id": 64060,
+   "title": "Konobar-student (m/\u017e)",
+   "company": "Esplanade Oleander d.o.o. za turizam, ugostiteljstvo i trgovinu",
+   "pay": "7,50 \u20ac/h",
+   "hours": "26.11.- 08:00-20:00, 27.11.-09:00-21:00, 28.11.-08:00-20:00",
+   "closes": "2026-11-24",
+   "apply": "https://online.selekcija.hr/home/job/7780/?application=true",
+   "url": "https://www.sczg.unizg.hr/en/poslovi/konobar-student-m-z"
+  },
+  {
+   "id": 64044,
+   "title": "Rad kao vanjski konobar/ica u Caf\u00e9 baru J\u00e4gerhorn za Advent",
+   "company": "Ili\u010dki rog d.o.o. za ugostiteljstvo",
+   "pay": "7,50 \u20ac/h + propisana uve\u0107anja",
+   "hours": "Nudimo jedan obrok dnevno u jutarnjoj smjeni",
+   "closes": "2026-12-10",
+   "apply": "dostaviti \u017eivotopis na mail - matko@hotel-jagerhorn.hr",
+   "url": "https://www.sczg.unizg.hr/en/poslovi/rad-kao-vanjski-konobar-ica-u-cafe-baru-jagerhorn-za-advent"
+  },
+  {
+   "id": 64017,
+   "title": "Student u Odjelu prodaje (m/\u017e)",
+   "company": "Infigo IS d.o.o. za ra\u010dunalne i srodne djelatnosti",
+   "pay": "6,56\u20ac/h",
+   "hours": "oko 20 sati tjedno, raspore\u0111eno na nekoliko dana ili po nekoliko sati svakog dana",
+   "closes": "2026-12-04",
+   "apply": "hr@infigo.is",
+   "url": "https://www.sczg.unizg.hr/en/poslovi/student-u-odjelu-prodaje-m-z"
+  },
+  {
+   "id": 63997,
+   "title": "Prodava\u010d ( M /\u017d ) na Adventu u Zagrebu",
+   "company": "Kubat Dra\u017eenka - FARBICA, obrt za proizvodnju i trgovinu",
+   "pay": "8,00\u20ac/h",
+   "hours": "fleksibilno, po dogovoru, min. 5-6h dnevno",
+   "closes": "2026-11-23",
+   "apply": "putem e-maila farbica@farbica.hr , napisati ukratko radno iskustvo u sli\u010dnim poslovima i navesti svoj kontakt tj. broj mobitela",
+   "url": "https://www.sczg.unizg.hr/en/poslovi/prodavac-m-z-na-adventu-u-zagrebu"
+  },
+  {
+   "id": 63993,
+   "title": "Studente za rad u odjelu odr\u017eive nabave(m/\u017e)",
+   "company": "Pliva Hrvatska d.o.o.",
+   "pay": "6,80\u20ac/h",
+   "hours": "20-25h tjedno u jutarnjoj smjeni od 8.00-16.00h",
+   "closes": "2026-11-25",
+   "apply": "Ako ste u navedenom radnom mjestu prepoznali izazov za svoju karijeru te udovoljavate navedenim uvjetima, prijavite se najkasnije do 25.stud",
+   "url": "https://www.sczg.unizg.hr/en/poslovi/studente-za-rad-u-odjelu-odrzive-nabavem-z"
+  },
+  {
+   "id": 63991,
+   "title": "Prodava\u010d /ica u Slasti\u010darnici QATNA",
+   "company": "GOLD STEP dru\u0161tvo s ograni\u010denom odgovorno\u0161\u0107u za nekretnine i trgovinu, turisti\u010dka agencija",
+   "pay": "7,00 \u20ac/h",
+   "hours": "08:00-16:00 ili 13:00-21:00",
+   "closes": "2026-12-31",
+   "apply": "info@qatna.hr ,",
+   "url": "https://www.sczg.unizg.hr/en/poslovi/prodavac-ica-u-slasticarnici-qatna-2"
+  },
+  {
+   "id": 63989,
+   "title": "u\u010ditelj/ica engleskog u osnovnoj \u0161koli",
+   "company": "Osnovna Montessori \u0161kola barunice Dedee Vranyczany",
+   "pay": "12,50 eura",
+   "hours": "tjedno 17 sati",
+   "closes": "2026-11-30",
+   "apply": "omontess@gmail.com",
+   "url": "https://www.sczg.unizg.hr/en/poslovi/ucitelj-ica-engleskog-u-osnovnoj-skoli"
+  },
+  {
+   "id": 63979,
+   "title": "STUDENT NA POSLOVIMA PROCESIRANJA KARTICA (m/\u017e)",
+   "company": "Nexi Croatia d.o.o.",
+   "pay": "6,70\u20ac/h",
+   "hours": "8.00-16.00",
+   "closes": "2026-12-15",
+   "apply": "molimo da prijavu sa \u017eivotopisom po\u0161aljete na email: marko.mlinar@nexigroup.com",
+   "url": "https://www.sczg.unizg.hr/en/poslovi/student-na-poslovima-procesiranja-kartica-m-z"
+  },
+  {
+   "id": 63973,
+   "title": "student/ica podr\u0161ke u marketingu proizvoda i rje\u0161enja",
+   "company": "Schneider electric d.o.o. za trgovinu i usluge",
+   "pay": "8,00\u20ac/h + propisana uve\u0107anja",
+   "hours": "4-8 sati dnevno",
+   "closes": "2026-12-24",
+   "apply": "Dostava CV-a putem mail-a na: anica.zagorac@se.com .",
+   "url": "https://www.sczg.unizg.hr/en/poslovi/student-ica-podrske-u-marketingu-proizvoda-i-rjesenja"
+  },
+  {
+   "id": 63962,
+   "title": "Student na recepciji (m/\u017e)",
+   "company": "Electus usluge d.o.o. za usluge",
+   "pay": "8,50 EUR/h",
+   "hours": "radi se nekoliko dana tjedno, fleksibilno radno vrijeme (pon-pet izme\u0111u 8:30h i 17h)",
+   "closes": "2026-11-27",
+   "apply": "https://karijere.electus.hr/o/cjng/apply",
+   "url": "https://www.sczg.unizg.hr/en/poslovi/student-na-recepciji-m-z"
+  },
+  {
+   "id": 63951,
+   "title": "Administrativni poslovi",
+   "company": "Generali osiguranje d.d.",
+   "pay": "7,50 eur/h * Naknada za sate rada u dane dr\u017eavnog blagdana, za rad no\u0107u, za prekovremeni rad i za rad nedjeljom uve\u0107ava se za 50% (\u010dl. 13. st. 3. Zakona o obavljanju studentskih poslova, N.N. 96/2018.)",
+   "hours": "puno radno vrijeme, od 07:00 do 17:00 (Od 07:00 \u2013 15:00 ili 09:00 \u2013 17:00 prema dogovoru)",
+   "closes": "2026-11-30",
+   "apply": "https://generali-osiguranje.talentlyft.com/o/qHH/apply",
+   "url": "https://www.sczg.unizg.hr/en/poslovi/administrativni-poslovi-9"
+  },
+  {
+   "id": 63950,
+   "title": "KUSTOS (m/\u017e) U TEHNI\u010cKOM MUZEJU KARLOVAC",
+   "company": "Tvornica turbina d.o.o.",
+   "pay": "6,56\u20ac/h",
+   "hours": "10 sati tjedno",
+   "closes": "2026-12-21",
+   "apply": "email: info@ttk.hr",
+   "url": "https://www.sczg.unizg.hr/en/poslovi/kustos-m-z-u-tehnickom-muzeju-karlovac"
+  },
+  {
+   "id": 63931,
+   "title": "Prodaja",
+   "company": "Shareno Concept d.o.o.",
+   "pay": "7,00",
+   "hours": "2-3 dana tjedno",
+   "closes": "2026-11-22",
+   "apply": "MOLIMO POSLATI PRIJAVU NA MAIL: INFO@SHARENO.HR",
+   "url": "https://www.sczg.unizg.hr/en/poslovi/prodaja-2"
+  },
+  {
+   "id": 63923,
+   "title": "Asistent/ica u ra\u010dunovodstvu",
+   "company": "Eurospin Hrvatska d.o.o.",
+   "pay": "7,50 EUR",
+   "hours": "putni tro\u0161kovi",
+   "closes": "2026-11-30",
+   "apply": "helena.jovic@eurospin.com",
+   "url": "https://www.sczg.unizg.hr/en/poslovi/asistent-ica-u-racunovodstvu-2"
+  },
+  {
+   "id": 63905,
+   "title": "administrativni referent (m/\u017e)",
+   "company": "FORBAK d.o.o.",
+   "pay": "7,00 \u20ac/h",
+   "hours": "9-14 sati",
+   "closes": "2026-11-30",
+   "apply": "e-mail: posao@forbak.com",
+   "url": "https://www.sczg.unizg.hr/en/poslovi/administrativni-referent-m-z"
+  },
+  {
+   "id": 63896,
+   "title": "PRODAJA U IZLO\u017dBENOM PROSTORU",
+   "company": "Nord klassik d.o.o.",
+   "pay": "7,50 \u20ac/h",
+   "hours": "8h dnevno",
+   "closes": "2026-11-22",
+   "apply": "MARINA MARTIN\u010cI\u0106, email: marina.martincic@nordkl.com",
+   "url": "https://www.sczg.unizg.hr/en/poslovi/prodaja-u-izlozbenom-prostoru"
+  },
+  {
+   "id": 63889,
+   "title": "Djelatnica/djelatnik u maloprodaji",
+   "company": "Offertissima d.o.o. za trgovinu na veliko i malo, ugostiteljstvo i graditeljstvo",
+   "pay": "7,00 \u20ac/h",
+   "hours": "prema dogovoru",
+   "closes": "2026-11-27",
+   "apply": "molim prijave slati isklju\u010divo na mail ines@offertissima.hr",
+   "url": "https://www.sczg.unizg.hr/en/poslovi/djelatnica-djelatnik-u-maloprodaji"
+  },
+  {
+   "id": 63853,
+   "title": "Business Assistant",
+   "company": "Poliklinika Salvea d.o.o.",
+   "pay": "7,10 EUR",
+   "hours": "jutarnji i poslijepodnevni rad, prema dogovoru",
+   "closes": "2026-11-28",
+   "apply": "i.vrkic@salveo-pharma.com",
+   "url": "https://www.sczg.unizg.hr/en/poslovi/business-assistant"
+  },
+  {
+   "id": 63836,
+   "title": "Marketing Intern (student) (m/\u017e)",
+   "company": "L'Oreal Adria d.o.o.  ",
+   "pay": "6,60 EUR",
+   "hours": "rad u smjenama, po dogovoru",
+   "closes": "2026-11-26",
+   "apply": "LINK: https://careers.loreal.com/en/job/zagreb/marketing-intern-m-f/3456/46846834816",
+   "url": "https://www.sczg.unizg.hr/en/poslovi/marketing-intern-student-m-z"
+  },
+  {
+   "id": 63835,
+   "title": "Asistentica u korisni\u010dkoj podr\u0161ci (student) (Consumer Care Intern) (m/\u017e)",
+   "company": "L'Oreal Adria d.o.o.  ",
+   "pay": "6,60 EUR",
+   "hours": "rad u smjenama, po dogovoru",
+   "closes": "2026-11-26",
+   "apply": "LINK: https://careers.loreal.com/en/job/zagreb/consumer-care-intern-m-f/3456/46846834944",
+   "url": "https://www.sczg.unizg.hr/en/poslovi/asistentica-u-korisnickoj-podrsci-student-consumer-care-intern-m-z"
+  },
+  {
+   "id": 63814,
+   "title": "Administracija i rad s kupcima (m/\u017e)",
+   "company": "JUST FLY dru\u0161tvo s ograni\u010denom odgovorno\u0161\u0107u za trgovinu i usluge",
+   "pay": "8,00 EUR",
+   "hours": "Pon., sri. i pet., 4 sata dnevno, od 16:00 do 20:00 ili od 17:00 do 21:00.",
+   "closes": "2026-12-01",
+   "apply": "Kratak \u017eivotopis na jobs@theflightroom.hr uz naslov \u201ePrijava za studentski posao\u201d. Navesti dostupne dane, \u017eeljenu smjenu i mogu\u0107i po\u010detak ra",
+   "url": "https://www.sczg.unizg.hr/en/poslovi/administracija-i-rad-s-kupcima-m-z"
+  },
+  {
+   "id": 63794,
+   "title": "Administrativni asistent / asistentica \u2013 studentski posao",
+   "company": "Privatna glazbena \u0161kola Iva Kupre\u0161ak",
+   "pay": "7,00 EUR neto/sat",
+   "hours": "Fleksibilno, prema dogovoru",
+   "closes": "2026-11-30",
+   "apply": "\u017divotopis (CV) i kratku molbu poslati na iva.kupresak@skole.hr .",
+   "url": "https://www.sczg.unizg.hr/en/poslovi/administrativni-asistent-asistentica-studentski-posao"
+  },
+  {
+   "id": 63779,
+   "title": "Student/ica u odjelu logistike",
+   "company": "Novartis Hrvatska d.o.o.",
+   "pay": "7,00 EUR",
+   "hours": "puno radno vrijeme od pon-pet, fleksibilno radno vrijeme po dogovoru u slu\u010daju studentskih",
+   "closes": "2026-11-25",
+   "apply": "prijave sa \u017eivotopisom slati na e-mail: humanresources.croatia@novartis.com",
+   "url": "https://www.sczg.unizg.hr/en/poslovi/student-ica-u-odjelu-logistike"
+  },
+  {
+   "id": 63739,
+   "title": "Prodajni ambasador (m/\u017e)",
+   "company": "OD ZRNA DO \u0160ALICE dru\u0161tvo s ograni\u010denom odgovorno\u0161\u0107u za trgovinu i usluge",
+   "pay": "7,30 EUR",
+   "hours": "od 10 do 18 sati",
+   "closes": "2026-11-30",
+   "apply": "antonija@quahwa.hr",
+   "url": "https://www.sczg.unizg.hr/en/poslovi/prodajni-ambasador-m-z-2"
+  }
+ ],
+ "student_centre_closing_3_days": [
+  {
+   "id": 64060,
+   "title": "Konobar-student (m/\u017e)",
+   "company": "Esplanade Oleander d.o.o. za turizam, ugostiteljstvo i trgovinu",
+   "pay": "7,50 \u20ac/h",
+   "hours": "26.11.- 08:00-20:00, 27.11.-09:00-21:00, 28.11.-08:00-20:00",
+   "closes": "2026-11-24",
+   "apply": "https://online.selekcija.hr/home/job/7780/?application=true",
+   "url": "https://www.sczg.unizg.hr/en/poslovi/konobar-student-m-z"
+  },
+  {
+   "id": 63997,
+   "title": "Prodava\u010d ( M /\u017d ) na Adventu u Zagrebu",
+   "company": "Kubat Dra\u017eenka - FARBICA, obrt za proizvodnju i trgovinu",
+   "pay": "8,00\u20ac/h",
+   "hours": "fleksibilno, po dogovoru, min. 5-6h dnevno",
+   "closes": "2026-11-23",
+   "apply": "putem e-maila farbica@farbica.hr , napisati ukratko radno iskustvo u sli\u010dnim poslovima i navesti svoj kontakt tj. broj mobitela",
+   "url": "https://www.sczg.unizg.hr/en/poslovi/prodavac-m-z-na-adventu-u-zagrebu"
+  },
+  {
+   "id": 63931,
+   "title": "Prodaja",
+   "company": "Shareno Concept d.o.o.",
+   "pay": "7,00",
+   "hours": "2-3 dana tjedno",
+   "closes": "2026-11-22",
+   "apply": "MOLIMO POSLATI PRIJAVU NA MAIL: INFO@SHARENO.HR",
+   "url": "https://www.sczg.unizg.hr/en/poslovi/prodaja-2"
+  },
+  {
+   "id": 63896,
+   "title": "PRODAJA U IZLO\u017dBENOM PROSTORU",
+   "company": "Nord klassik d.o.o.",
+   "pay": "7,50 \u20ac/h",
+   "hours": "8h dnevno",
+   "closes": "2026-11-22",
+   "apply": "MARINA MARTIN\u010cI\u0106, email: marina.martincic@nordkl.com",
+   "url": "https://www.sczg.unizg.hr/en/poslovi/prodaja-u-izlozbenom-prostoru"
+  },
+  {
+   "id": 63698,
+   "title": "Asistent/ica u prodaji, odjel HoReCa",
+   "company": "Orbico d.o.o.",
+   "pay": "7,00 \u20ac/h",
+   "hours": "puno radno vrijeme, pon-pet, 8h -16h",
+   "closes": "2026-11-22",
+   "apply": "prijave putem linka",
+   "url": "https://www.sczg.unizg.hr/en/poslovi/asistent-ica-u-prodaji-odjel-horeca"
+  },
+  {
+   "id": 63609,
+   "title": "prodaja suvenira na Adventu u Zagrebu",
+   "company": "Butiga d.o.o.",
+   "pay": "7,50 \u20ac/h",
+   "hours": "6-7 sati dnevno ili po odgovoru, satnica se kombinira po mogu\u0107nosti studenata",
+   "closes": "2026-11-23",
+   "apply": "pismene prijave, po\u017eeljno sa nekim kratkim opisom dosada\u0161njih poslova, poslati na e-mail: zeljko@butiga.biz",
+   "url": "https://www.sczg.unizg.hr/en/poslovi/prodaja-suvenira-na-adventu-u-zagrebu"
+  },
+  {
+   "id": 63094,
+   "title": "IT Support Student/ Studentica",
+   "company": "Lelo Adria d.o.o.",
+   "pay": "6,60 \u20ac",
+   "hours": "08:00-16:00",
+   "closes": "2026-11-22",
+   "apply": "mailom na adresu: human.resources@lelo.com",
+   "url": "https://www.sczg.unizg.hr/en/poslovi/it-support-student-studentica"
+  },
+  {
+   "id": 62473,
+   "title": "Prodava\u010d /ica u Slasti\u010darnici QATNA",
+   "company": "GOLD STEP dru\u0161tvo s ograni\u010denom odgovorno\u0161\u0107u za nekretnine i trgovinu, turisti\u010dka agencija",
+   "pay": "7,00 \u20ac",
+   "hours": "8.00-16.00 ili 13.00-21.00",
+   "closes": "2026-11-21",
+   "apply": "info@qatna.hr",
+   "url": "https://www.sczg.unizg.hr/en/poslovi/prodavac-ica-u-slasticarnici-qatna"
+  }
+ ],
+ "applications": [
+  {
+   "company": "Poliklinika Salvea",
+   "role": "Business Assistant (student)",
+   "sent": "2026-11-20",
+   "channel": "email",
+   "watch": [
+    "salveo-pharma.com"
+   ]
+  },
+  {
+   "company": "SGS Adriatica",
+   "role": "Back office Executive (student)",
+   "sent": "2026-11-20",
+   "channel": "email",
+   "watch": [
+    "sgs.com"
+   ]
+  },
+  {
+   "company": "KB Sveti Duh",
+   "role": "Project and administrative support (student)",
+   "sent": "2026-11-20",
+   "channel": "email",
+   "watch": [
+    "kbsd.hr"
+   ]
+  },
+  {
+   "company": "Private music school (Iva Kupresak)",
+   "role": "Administrative assistant (student)",
+   "sent": "2026-11-20",
+   "channel": "email",
+   "watch": [
+    "iva.kupresak@skole.hr"
+   ]
+  },
+  {
+   "company": "JUST FLY / The Flight Room",
+   "role": "Administration and customers (student)",
+   "sent": "2026-11-20",
+   "channel": "email",
+   "watch": [
+    "theflightroom.hr"
+   ]
+  },
+  {
+   "company": "Wayfinder Enterprise",
+   "role": "Financial advisory assistant (student, remote)",
+   "sent": "2026-11-20",
+   "channel": "email",
+   "watch": [
+    "wayfinder-enterprise.hr"
+   ]
+  },
+  {
+   "company": "Shareno Concept",
+   "role": "Shop sales (student)",
+   "sent": "2026-11-20",
+   "channel": "email",
+   "watch": [
+    "shareno.hr"
+   ]
+  },
+  {
+   "company": "Kocije Habric",
+   "role": "Advent stall at Zrinjevac (student)",
+   "sent": "2026-11-21",
+   "channel": "whatsapp 091 79 777 06",
+   "watch": []
+  },
+  {
+   "company": "Per Diem",
+   "role": "Internship outreach, 3 to 6 months from March 2027",
+   "sent": "draft 2026-11-21",
+   "channel": "email draft, not sent yet",
+   "watch": [
+    "tryperdiem.com"
+   ]
+  },
+  {
+   "company": "Ziina",
+   "role": "Internship outreach, 3 to 6 months from March 2027",
+   "sent": "draft 2026-11-21",
+   "channel": "email draft, not sent yet",
+   "watch": [
+    "ziina.com"
+   ]
+  },
+  {
+   "company": "Revnu",
+   "role": "Internship outreach, 3 to 6 months from March 2027",
+   "sent": "draft 2026-11-21",
+   "channel": "email draft, not sent yet",
+   "watch": [
+    "revnu.com"
+   ]
+  },
+  {
+   "company": "LineLeap",
+   "role": "Internship outreach, 3 to 6 months from March 2027",
+   "sent": "draft 2026-11-21",
+   "channel": "email draft, not sent yet",
+   "watch": [
+    "lineleap.com"
+   ]
+  },
+  {
+   "company": "Thunkable",
+   "role": "Internship outreach, 3 to 6 months from March 2027",
+   "sent": "draft 2026-11-21",
+   "channel": "email draft, not sent yet",
+   "watch": [
+    "thunkable.com"
+   ]
+  },
+  {
+   "company": "BIK",
+   "role": "Internship outreach, 3 to 6 months from March 2027",
+   "sent": "draft 2026-11-21",
+   "channel": "email draft, not sent yet",
+   "watch": [
+    "bik.ai"
+   ]
+  },
+  {
+   "company": "Channel3",
+   "role": "Internship outreach, 3 to 6 months from March 2027",
+   "sent": "draft 2026-11-21",
+   "channel": "email draft, not sent yet",
+   "watch": [
+    "trychannel3.com"
+   ]
+  },
+  {
+   "company": "Lance",
+   "role": "Internship outreach, 3 to 6 months from March 2027",
+   "sent": "draft 2026-11-21",
+   "channel": "email draft, not sent yet",
+   "watch": [
+    "lance.live"
+   ]
+  },
+  {
+   "company": "Roame",
+   "role": "Internship outreach, 3 to 6 months from March 2027",
+   "sent": "draft 2026-11-21",
+   "channel": "email draft, not sent yet",
+   "watch": [
+    "roame.travel"
+   ]
+  },
+  {
+   "company": "HUD",
+   "role": "Internship outreach, 3 to 6 months from March 2027",
+   "sent": "draft 2026-11-21",
+   "channel": "email draft, not sent yet",
+   "watch": [
+    "hud.ai"
+   ]
+  }
+ ]
+}
