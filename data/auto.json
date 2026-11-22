@@ -1,44 +1,44 @@
 {
- "generated": "21 Nov 2026 05:04 UTC",
- "count": 9,
+ "generated": "22 Nov 2026 05:04 UTC",
+ "count": 11,
  "items": [
   {
-   "id": "adbcfadb512",
-   "title": "Senior Partner Manager",
-   "company": "Coveoen",
+   "id": "a84e8264499",
+   "title": "Business Development Manager – Gaming / iGaming Outsourcing",
+   "company": "Emerald Zebra",
    "country": "Remote",
    "region": "r",
    "tier": "auto",
-   "fit": 8.0,
+   "fit": 7.5,
    "rating": {
-    "fit": 8.0,
+    "fit": 7.5,
     "conf": "Medium",
     "parts": {
-     "role": 3.5,
-     "level": 0.5,
+     "role": 2.5,
+     "level": 2.0,
      "place": 2.0,
      "pay": 0.5,
-     "sector": 1.5,
+     "sector": 0.7,
      "flags": -0.0
     },
     "notes": [],
     "have": [
-     "analytics",
      "b2b",
+     "business development",
+     "negotiation",
      "partnerships"
     ],
     "missing": [
-     "enterprise",
-     "impact",
-     "stakeholder"
+     "commission",
+     "lead generation"
     ]
    },
-   "posted": "2026-11-20",
-   "firstSeen": "2026-11-21",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/coveoen/senior-partner-manager-235491",
-   "source": "arbeitnow",
+   "posted": "2026-11-21",
+   "firstSeen": "2026-11-22",
+   "url": "https://himalayas.app/companies/emerald-zebra/jobs/business-development-manager-gaming-igaming-outsourcing?utm_source=api",
+   "source": "himalayas",
    "flags": [
-    "asks up to 5+ years"
+    "asks up to 3+ years"
    ],
    "check": {
     "tier": "Looks live",
@@ -101,7 +101,7 @@
     ],
     "check": []
    },
-   "new": true,
+   "new": false,
    "why": "Found by the daily scan. Open the posting and read it before applying.",
    "mode": "Remote"
   },
@@ -162,9 +162,9 @@
    "mode": "Hybrid or office"
   },
   {
-   "id": "aa79255c80d",
-   "title": "Graduate Partnership Manager at United-Media",
-   "company": "United Media",
+   "id": "a4fe5c0c02c",
+   "title": "Graduate Partnership Manager at Retail Insights",
+   "company": "Retailinsights",
    "country": "United Kingdom",
    "region": "e",
    "tier": "auto",
@@ -190,9 +190,9 @@
      "lead generation"
     ]
    },
-   "posted": "2026-11-21",
-   "firstSeen": "2026-11-21",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/united-media/graduate-partnership-manager-at-united-media-london-411632",
+   "posted": "2026-11-22",
+   "firstSeen": "2026-11-22",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/graduate-partnership-manager-at-retail-insights-london-446598",
    "source": "arbeitnow",
    "flags": [],
    "check": {
@@ -207,10 +207,146 @@
    "why": "Found by the daily scan. Open the posting and read it before applying."
   },
   {
-   "id": "a7c1b4bb90f",
-   "title": "Regional Partnerships Manager - UK",
-   "company": "Constructor",
+   "id": "a03b99bb9ff",
+   "title": "Community Manager",
+   "company": "Partyhat",
+   "country": "Remote",
+   "region": "r",
+   "tier": "auto",
+   "fit": 7.0,
+   "rating": {
+    "fit": 7.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 1.8,
+     "level": 1.0,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "content and social",
+     "testing",
+     "web3"
+    ],
+    "missing": [
+     "retention",
+     "tracking"
+    ]
+   },
+   "posted": "2026-11-22",
+   "firstSeen": "2026-11-22",
+   "url": "https://himalayas.app/companies/partyhat/jobs/community-manager-3980316475?utm_source=api",
+   "source": "himalayas",
+   "flags": [],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Remote"
+  },
+  {
+   "id": "adda82f1569",
+   "title": "Senior Partnerships Manager",
+   "company": "Privateequityinsights",
    "country": "United Kingdom",
+   "region": "e",
+   "tier": "auto",
+   "fit": 7.0,
+   "rating": {
+    "fit": 7.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.0,
+     "level": 0.5,
+     "place": 0.8,
+     "pay": 1.0,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "b2b",
+     "business development",
+     "content and social"
+    ],
+    "missing": []
+   },
+   "posted": "2026-11-21",
+   "firstSeen": "2026-11-22",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/senior-partnerships-manager-london-351533",
+   "source": "arbeitnow",
+   "flags": [],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
+  },
+  {
+   "id": "a19022507e4",
+   "title": "Senior Partner Development Executive",
+   "company": "Privateequityinsights",
+   "country": "United Kingdom",
+   "region": "e",
+   "tier": "auto",
+   "fit": 7.0,
+   "rating": {
+    "fit": 7.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.0,
+     "level": 0.5,
+     "place": 0.8,
+     "pay": 1.0,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "b2b",
+     "business development",
+     "content and social"
+    ],
+    "missing": []
+   },
+   "posted": "2026-11-21",
+   "firstSeen": "2026-11-22",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/senior-partner-development-executive-london-42585",
+   "source": "arbeitnow",
+   "flags": [],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
+  },
+  {
+   "id": "a7bd6ba22b9",
+   "title": "Regional MSP Partner Manager, Germany",
+   "company": "Everpure",
+   "country": "Remote",
    "region": "r",
    "tier": "auto",
    "fit": 7.0,
@@ -220,26 +356,25 @@
     "parts": {
      "role": 3.0,
      "level": 1.0,
-     "place": 1.0,
+     "place": 2.0,
      "pay": 0.5,
-     "sector": 1.5,
+     "sector": 0.7,
      "flags": -0.0
     },
     "notes": [],
     "have": [
-     "negotiation",
-     "partnerships"
+     "content and social"
     ],
     "missing": [
-     "enterprise",
      "go-to-market",
-     "impact"
+     "gtm",
+     "lifecycle"
     ]
    },
    "posted": "2026-11-21",
-   "firstSeen": "2026-11-21",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/constructor/regional-partnerships-manager-uk-london-446988",
-   "source": "arbeitnow",
+   "firstSeen": "2026-11-22",
+   "url": "https://remoteOK.com/remote-jobs/remote-regional-msp-partner-manager-germany-everpure-1137918",
+   "source": "remoteok",
    "flags": [],
    "check": {
     "tier": "Looks live",
@@ -347,53 +482,7 @@
     ],
     "check": []
    },
-   "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying.",
-   "mode": "Remote"
-  },
-  {
-   "id": "af7c2ac2a78",
-   "title": "Regional MSP Partner Manager, Benelux",
-   "company": "Everpure",
-   "country": "Remote",
-   "region": "r",
-   "tier": "auto",
-   "fit": 7.0,
-   "rating": {
-    "fit": 7.0,
-    "conf": "Medium",
-    "parts": {
-     "role": 3.0,
-     "level": 1.0,
-     "place": 2.0,
-     "pay": 0.5,
-     "sector": 0.7,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "content and social"
-    ],
-    "missing": [
-     "go-to-market",
-     "gtm",
-     "lifecycle"
-    ]
-   },
-   "posted": "2026-11-19",
-   "firstSeen": "2026-11-21",
-   "url": "https://remoteOK.com/remote-jobs/remote-regional-msp-partner-manager-benelux-everpure-1137831",
-   "source": "remoteok",
-   "flags": [],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": true,
+   "new": false,
    "why": "Found by the daily scan. Open the posting and read it before applying.",
    "mode": "Remote"
   },

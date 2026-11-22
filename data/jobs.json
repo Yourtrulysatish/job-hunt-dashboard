@@ -1659,6 +1659,7 @@
     "tier": "Check first",
     "good": [],
     "check": [
+     "older than three weeks",
      "text not read"
     ]
    },
@@ -3008,5 +3009,5 @@
    "adjustWhy": "A revenue target role in travel, a sector he has not worked in, and the posting gives little detail."
   }
  ],
- "rated": "21 Nov 2026 05:04 UTC"
+ "rated": "22 Nov 2026 05:04 UTC"
 }

@@ -1,7 +1,55 @@
 {
- "generated": "21 Nov 2026 05:04 UTC",
- "count": 10,
+ "generated": "22 Nov 2026 05:04 UTC",
+ "count": 11,
  "items": [
+  {
+   "id": "a4410dd7ed8",
+   "title": "User Acquisition Manager (Meta & SnapChat)",
+   "company": "Ruby Labs",
+   "country": "Remote",
+   "region": "r",
+   "tier": "auto",
+   "fit": 7.0,
+   "rating": {
+    "fit": 7.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.0,
+     "level": 2.0,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "paid media",
+     "testing"
+    ],
+    "missing": [
+     "impact"
+    ]
+   },
+   "posted": "2026-11-21",
+   "firstSeen": "2026-11-22",
+   "url": "https://jobicy.com/jobs/150980-user-acquisition-manager-meta-snapchat",
+   "source": "jobicy",
+   "flags": [
+    "asks up to 2+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Remote"
+  },
   {
    "id": "af596004593",
    "title": "Social Media Manager",
@@ -45,14 +93,58 @@
     ],
     "check": []
    },
+   "new": false,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Remote"
+  },
+  {
+   "id": "a14394a3bfb",
+   "title": "Senior Business Development Manager",
+   "company": "Allica Bank",
+   "country": "United Kingdom",
+   "region": "r",
+   "tier": "auto",
+   "fit": 6.5,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.0,
+     "level": 0.5,
+     "place": 1.0,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "b2b",
+     "business development",
+     "partnerships"
+    ],
+    "missing": []
+   },
+   "posted": "2026-11-22",
+   "firstSeen": "2026-11-22",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/allica-bank/remote-senior-business-development-manager-197801",
+   "source": "arbeitnow",
+   "flags": [],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
    "new": true,
    "why": "Found by the daily scan. Open the posting and read it before applying.",
    "mode": "Remote"
   },
   {
-   "id": "a68d89ed626",
-   "title": "Business Development Manager - Blockchain SaaS",
-   "company": "Axiom Recruit",
+   "id": "a0f27ec1711",
+   "title": "Senior Business Development Manager",
+   "company": "Privateequityinsights",
    "country": "United Kingdom",
    "region": "e",
    "tier": "auto",
@@ -62,9 +154,9 @@
     "conf": "Medium",
     "parts": {
      "role": 2.5,
-     "level": 1.0,
+     "level": 0.5,
      "place": 0.8,
-     "pay": 0.5,
+     "pay": 1.0,
      "sector": 1.5,
      "flags": -0.0
     },
@@ -73,16 +165,58 @@
      "analytics",
      "b2b",
      "business development",
-     "web3"
+     "content and social"
     ],
-    "missing": [
-     "commission"
-    ]
+    "missing": []
    },
-   "posted": "2026-11-20",
-   "firstSeen": "2026-11-21",
-   "url": "https://himalayas.app/companies/axiom-recruit/jobs/business-development-manager-blockchain-saas?utm_source=api",
-   "source": "himalayas",
+   "posted": "2026-11-21",
+   "firstSeen": "2026-11-22",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/senior-business-development-manager-london-442248",
+   "source": "arbeitnow",
+   "flags": [],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
+  },
+  {
+   "id": "a3da4be150f",
+   "title": "Senior B2B Business Development Executive",
+   "company": "Privateequityinsights",
+   "country": "United Kingdom",
+   "region": "e",
+   "tier": "auto",
+   "fit": 6.5,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.5,
+     "level": 0.5,
+     "place": 0.8,
+     "pay": 1.0,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "b2b",
+     "business development",
+     "content and social"
+    ],
+    "missing": []
+   },
+   "posted": "2026-11-21",
+   "firstSeen": "2026-11-22",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/senior-b2b-business-development-executive-london-292229",
+   "source": "arbeitnow",
    "flags": [],
    "check": {
     "tier": "Looks live",
@@ -145,56 +279,6 @@
    "new": true,
    "why": "Found by the daily scan. Open the posting and read it before applying.",
    "mode": "Remote"
-  },
-  {
-   "id": "ace90004fcb",
-   "title": "Partnership Channel Manager",
-   "company": "Sano Genetics",
-   "country": "United Kingdom",
-   "region": "e",
-   "tier": "auto",
-   "fit": 6.5,
-   "rating": {
-    "fit": 6.5,
-    "conf": "Medium",
-    "parts": {
-     "role": 3.0,
-     "level": 1.0,
-     "place": 0.8,
-     "pay": 1.0,
-     "sector": 0.7,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "analytics",
-     "business development",
-     "content and social",
-     "crm",
-     "partnerships",
-     "testing"
-    ],
-    "missing": [
-     "attribution",
-     "impact",
-     "stakeholder"
-    ]
-   },
-   "posted": "2026-11-20",
-   "firstSeen": "2026-11-21",
-   "url": "https://himalayas.app/companies/sano-genetics/jobs/partnership-channel-manager?utm_source=api",
-   "source": "himalayas",
-   "flags": [],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying."
   },
   {
    "id": "a79f9ea37c7",
@@ -334,7 +418,7 @@
     ],
     "check": []
    },
-   "new": true,
+   "new": false,
    "why": "Found by the daily scan. Open the posting and read it before applying."
   },
   {
@@ -379,55 +463,8 @@
     ],
     "check": []
    },
-   "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying."
-  },
-  {
-   "id": "a12f0093817",
-   "title": "Business Development Manager",
-   "company": "Maya HTT",
-   "country": "Remote",
-   "region": "r",
-   "tier": "auto",
-   "fit": 6.5,
-   "rating": {
-    "fit": 6.5,
-    "conf": "Medium",
-    "parts": {
-     "role": 2.5,
-     "level": 1.0,
-     "place": 2.0,
-     "pay": 0.5,
-     "sector": 0.7,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "analytics",
-     "b2b",
-     "business development",
-     "crm"
-    ],
-    "missing": []
-   },
-   "posted": "2026-11-18",
-   "firstSeen": "2026-11-20",
-   "url": "https://remoteOK.com/remote-jobs/remote-business-development-manager-maya-htt-1137802",
-   "source": "remoteok",
-   "flags": [
-    "asks up to 5+ years"
-   ],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
    "new": false,
-   "why": "Found by the daily scan. Open the posting and read it before applying.",
-   "mode": "Remote"
+   "why": "Found by the daily scan. Open the posting and read it before applying."
   },
   {
    "id": "ae46aa19c90",
