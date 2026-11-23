@@ -1,6 +1,6 @@
 {
- "generated": "22 Nov 2026 05:04 UTC",
- "count": 11,
+ "generated": "23 Nov 2026 05:04 UTC",
+ "count": 10,
  "items": [
   {
    "id": "a4410dd7ed8",
@@ -46,7 +46,7 @@
     ],
     "check": []
    },
-   "new": true,
+   "new": false,
    "why": "Found by the daily scan. Open the posting and read it before applying.",
    "mode": "Remote"
   },
@@ -98,10 +98,10 @@
    "mode": "Remote"
   },
   {
-   "id": "a14394a3bfb",
-   "title": "Senior Business Development Manager",
-   "company": "Allica Bank",
-   "country": "United Kingdom",
+   "id": "a2b180e0772",
+   "title": "Channel Development Manager - Ohio Valley",
+   "company": "Rubrik Job Board",
+   "country": "Remote",
    "region": "r",
    "tier": "auto",
    "fit": 6.5,
@@ -109,25 +109,27 @@
     "fit": 6.5,
     "conf": "Medium",
     "parts": {
-     "role": 3.0,
-     "level": 0.5,
-     "place": 1.0,
+     "role": 2.3,
+     "level": 1.0,
+     "place": 2.0,
      "pay": 0.5,
-     "sector": 1.5,
+     "sector": 0.7,
      "flags": -0.0
     },
     "notes": [],
     "have": [
-     "b2b",
-     "business development",
+     "analytics",
      "partnerships"
     ],
-    "missing": []
+    "missing": [
+     "enterprise",
+     "impact"
+    ]
    },
    "posted": "2026-11-22",
-   "firstSeen": "2026-11-22",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/allica-bank/remote-senior-business-development-manager-197801",
-   "source": "arbeitnow",
+   "firstSeen": "2026-11-23",
+   "url": "https://weworkremotely.com/remote-jobs/rubrik-job-board-channel-development-manager-ohio-valley",
+   "source": "wwr",
    "flags": [],
    "check": {
     "tier": "Looks live",
@@ -142,11 +144,11 @@
    "mode": "Remote"
   },
   {
-   "id": "a0f27ec1711",
-   "title": "Senior Business Development Manager",
-   "company": "Privateequityinsights",
-   "country": "United Kingdom",
-   "region": "e",
+   "id": "afe9f2cdbb8",
+   "title": "Business Development Specialist II, Business Development Pricer",
+   "company": "Catholic Relief Services",
+   "country": "Remote",
+   "region": "r",
    "tier": "auto",
    "fit": 6.5,
    "rating": {
@@ -154,25 +156,27 @@
     "conf": "Medium",
     "parts": {
      "role": 2.5,
-     "level": 0.5,
-     "place": 0.8,
-     "pay": 1.0,
-     "sector": 1.5,
+     "level": 1.0,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 0.7,
      "flags": -0.0
     },
     "notes": [],
     "have": [
-     "analytics",
-     "b2b",
      "business development",
-     "content and social"
+     "content and social",
+     "negotiation",
+     "partnerships"
     ],
-    "missing": []
+    "missing": [
+     "stakeholder"
+    ]
    },
-   "posted": "2026-11-21",
-   "firstSeen": "2026-11-22",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/senior-business-development-manager-london-442248",
-   "source": "arbeitnow",
+   "posted": "2026-11-22",
+   "firstSeen": "2026-11-23",
+   "url": "https://himalayas.app/companies/catholic-relief-services/jobs/business-development-specialist-ii-business-development-pricer?utm_source=api",
+   "source": "himalayas",
    "flags": [],
    "check": {
     "tier": "Looks live",
@@ -183,51 +187,8 @@
     "check": []
    },
    "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying."
-  },
-  {
-   "id": "a3da4be150f",
-   "title": "Senior B2B Business Development Executive",
-   "company": "Privateequityinsights",
-   "country": "United Kingdom",
-   "region": "e",
-   "tier": "auto",
-   "fit": 6.5,
-   "rating": {
-    "fit": 6.5,
-    "conf": "Medium",
-    "parts": {
-     "role": 2.5,
-     "level": 0.5,
-     "place": 0.8,
-     "pay": 1.0,
-     "sector": 1.5,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "analytics",
-     "b2b",
-     "business development",
-     "content and social"
-    ],
-    "missing": []
-   },
-   "posted": "2026-11-21",
-   "firstSeen": "2026-11-22",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/senior-b2b-business-development-executive-london-292229",
-   "source": "arbeitnow",
-   "flags": [],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying."
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Remote"
   },
   {
    "id": "a48b1e04a4a",
@@ -276,7 +237,7 @@
     ],
     "check": []
    },
-   "new": true,
+   "new": false,
    "why": "Found by the daily scan. Open the posting and read it before applying.",
    "mode": "Remote"
   },
@@ -319,7 +280,7 @@
     ],
     "check": []
    },
-   "new": true,
+   "new": false,
    "why": "Found by the daily scan. Open the posting and read it before applying."
   },
   {
@@ -369,7 +330,7 @@
     ],
     "check": []
    },
-   "new": true,
+   "new": false,
    "why": "Found by the daily scan. Open the posting and read it before applying.",
    "mode": "Remote"
   },

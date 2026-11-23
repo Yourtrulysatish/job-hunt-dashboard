@@ -1,6 +1,6 @@
 {
- "generated": "22 Nov 2026 05:04 UTC",
- "count": 11,
+ "generated": "23 Nov 2026 05:04 UTC",
+ "count": 9,
  "items": [
   {
    "id": "a84e8264499",
@@ -162,9 +162,55 @@
    "mode": "Hybrid or office"
   },
   {
-   "id": "a4fe5c0c02c",
-   "title": "Graduate Partnership Manager at Retail Insights",
-   "company": "Retailinsights",
+   "id": "a8bfcae34f8",
+   "title": "Graduate Partnership Manager at SetSales",
+   "company": "Setsales",
+   "country": "United Kingdom",
+   "region": "e",
+   "tier": "auto",
+   "fit": 7.0,
+   "rating": {
+    "fit": 7.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.0,
+     "level": 1.0,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "business development",
+     "content and social",
+     "partnerships"
+    ],
+    "missing": [
+     "api",
+     "lead generation"
+    ]
+   },
+   "posted": "2026-11-22",
+   "firstSeen": "2026-11-23",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/setsales/graduate-partnership-manager-at-setsales-london-438099",
+   "source": "arbeitnow",
+   "flags": [],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
+  },
+  {
+   "id": "a5ca19e2af3",
+   "title": "Graduate Partnership Manager at United-Media",
+   "company": "Unitedmedia",
    "country": "United Kingdom",
    "region": "e",
    "tier": "auto",
@@ -191,8 +237,8 @@
     ]
    },
    "posted": "2026-11-22",
-   "firstSeen": "2026-11-22",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/retailinsights/graduate-partnership-manager-at-retail-insights-london-446598",
+   "firstSeen": "2026-11-23",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/graduate-partnership-manager-at-united-media-london-303347",
    "source": "arbeitnow",
    "flags": [],
    "check": {
@@ -207,128 +253,37 @@
    "why": "Found by the daily scan. Open the posting and read it before applying."
   },
   {
-   "id": "a03b99bb9ff",
-   "title": "Community Manager",
-   "company": "Partyhat",
-   "country": "Remote",
-   "region": "r",
+   "id": "ab47392ed22",
+   "title": "Graduate Partnership Manager at CFO",
+   "company": "Cfoinsights",
+   "country": "United Kingdom",
+   "region": "e",
    "tier": "auto",
    "fit": 7.0,
    "rating": {
     "fit": 7.0,
     "conf": "Medium",
     "parts": {
-     "role": 1.8,
+     "role": 3.0,
      "level": 1.0,
-     "place": 2.0,
+     "place": 0.8,
      "pay": 0.5,
      "sector": 1.5,
      "flags": -0.0
     },
     "notes": [],
     "have": [
-     "analytics",
-     "content and social",
-     "testing",
-     "web3"
+     "business development",
+     "partnerships"
     ],
     "missing": [
-     "retention",
-     "tracking"
+     "api",
+     "lead generation"
     ]
    },
    "posted": "2026-11-22",
-   "firstSeen": "2026-11-22",
-   "url": "https://himalayas.app/companies/partyhat/jobs/community-manager-3980316475?utm_source=api",
-   "source": "himalayas",
-   "flags": [],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying.",
-   "mode": "Remote"
-  },
-  {
-   "id": "adda82f1569",
-   "title": "Senior Partnerships Manager",
-   "company": "Privateequityinsights",
-   "country": "United Kingdom",
-   "region": "e",
-   "tier": "auto",
-   "fit": 7.0,
-   "rating": {
-    "fit": 7.0,
-    "conf": "Medium",
-    "parts": {
-     "role": 3.0,
-     "level": 0.5,
-     "place": 0.8,
-     "pay": 1.0,
-     "sector": 1.5,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "analytics",
-     "b2b",
-     "business development",
-     "content and social"
-    ],
-    "missing": []
-   },
-   "posted": "2026-11-21",
-   "firstSeen": "2026-11-22",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/senior-partnerships-manager-london-351533",
-   "source": "arbeitnow",
-   "flags": [],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying."
-  },
-  {
-   "id": "a19022507e4",
-   "title": "Senior Partner Development Executive",
-   "company": "Privateequityinsights",
-   "country": "United Kingdom",
-   "region": "e",
-   "tier": "auto",
-   "fit": 7.0,
-   "rating": {
-    "fit": 7.0,
-    "conf": "Medium",
-    "parts": {
-     "role": 3.0,
-     "level": 0.5,
-     "place": 0.8,
-     "pay": 1.0,
-     "sector": 1.5,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "analytics",
-     "b2b",
-     "business development",
-     "content and social"
-    ],
-    "missing": []
-   },
-   "posted": "2026-11-21",
-   "firstSeen": "2026-11-22",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/privateequityinsights/senior-partner-development-executive-london-42585",
+   "firstSeen": "2026-11-23",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/graduate-partnership-manager-at-cfo-london-261255",
    "source": "arbeitnow",
    "flags": [],
    "check": {
@@ -384,7 +339,7 @@
     ],
     "check": []
    },
-   "new": true,
+   "new": false,
    "why": "Found by the daily scan. Open the posting and read it before applying.",
    "mode": "Remote"
   },
@@ -428,52 +383,6 @@
    "flags": [
     "asks up to 6+ years"
    ],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying.",
-   "mode": "Remote"
-  },
-  {
-   "id": "a6c70599401",
-   "title": "Regional MSP Partner Manager, EMEA South (Paris)",
-   "company": "Everpure",
-   "country": "Remote",
-   "region": "r",
-   "tier": "auto",
-   "fit": 7.0,
-   "rating": {
-    "fit": 7.0,
-    "conf": "Medium",
-    "parts": {
-     "role": 3.0,
-     "level": 1.0,
-     "place": 2.0,
-     "pay": 0.5,
-     "sector": 0.7,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "content and social"
-    ],
-    "missing": [
-     "go-to-market",
-     "gtm",
-     "lifecycle"
-    ]
-   },
-   "posted": "2026-11-20",
-   "firstSeen": "2026-11-21",
-   "url": "https://remoteOK.com/remote-jobs/remote-regional-msp-partner-manager-emea-south-paris-everpure-1137868",
-   "source": "remoteok",
-   "flags": [],
    "check": {
     "tier": "Looks live",
     "good": [
