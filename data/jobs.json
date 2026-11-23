@@ -1,5 +1,5 @@
 {
- "updated": "20 Nov 2026",
+ "updated": "23 Nov 2026",
  "jobs": [
   {
    "title": "Affiliate & Partnerships Manager",
@@ -3010,6 +3010,156 @@
    },
    "fitAdjust": -2.0,
    "adjustWhy": "A revenue target role in travel, a sector he has not worked in, and the posting gives little detail."
+  },
+  {
+   "id": "partyhat-social-media-manager",
+   "title": "Social Media Manager",
+   "company": "Partyhat",
+   "country": "Remote",
+   "city": "Anywhere (Croatia listed)",
+   "region": "r",
+   "tier": "stretch",
+   "mode": "Remote",
+   "posted": "2026-11-20",
+   "exp": "No years stated.",
+   "lang": "English.",
+   "visa": "Remote, Croatia is on the list of allowed countries.",
+   "visaState": "unstated",
+   "pay": "Not stated, paid in USDC or USDT.",
+   "why": "Runs a web3 brand's X, Discord and Telegram presence, which is close to his crypto community work at CryptoNewsZ. The catch is on call seven days a week, pay only in stablecoins, a little known company, and it wants hands-on video and design work.",
+   "url": "https://himalayas.app/companies/partyhat/jobs/social-media-manager-3765192854?utm_source=api",
+   "source": "Himalayas, company posting",
+   "read": true,
+   "rating": {
+    "fit": 6.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 1.8,
+     "level": 1.0,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [],
+    "missing": []
+   },
+   "check": {
+    "tier": "Check first",
+    "good": [
+     "posted in the last two weeks"
+    ],
+    "check": [
+     "text not read"
+    ]
+   },
+   "fitAdjust": -0.5,
+   "adjustWhy": "Web3 community work fits well, but the role is on call seven days a week, pays only in stablecoins and the company is little known.",
+   "fit": 5.5,
+   "below": true
+  },
+  {
+   "id": "otgs-content-marketing-lead",
+   "title": "Content Marketing Lead",
+   "company": "OnTheGoSystems",
+   "country": "Remote",
+   "city": "Anywhere",
+   "region": "r",
+   "tier": "stretch",
+   "mode": "Remote",
+   "posted": "2026-11-09",
+   "exp": "No years stated, wants proven content marketing results.",
+   "lang": "English.",
+   "visa": "Fully remote team, worldwide.",
+   "visaState": "unstated",
+   "pay": "Not stated.",
+   "why": "Owns content, SEO, AI search and email for WPML, an established WordPress product, and works with partners on content. The catch is it wants a strong writer with SaaS or WordPress experience, and his content work is in crypto media rather than software.",
+   "url": "https://weworkremotely.com/remote-jobs/onthegosystems-content-marketing-lead",
+   "source": "We Work Remotely, also on company jobs page",
+   "read": true,
+   "rating": {
+    "fit": 5.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 1.8,
+     "level": 0.5,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "b2b",
+     "content and social",
+     "seo",
+     "testing"
+    ],
+    "missing": [
+     "email marketing",
+     "impact"
+    ]
+   },
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "fit": 5.5,
+   "below": true
+  },
+  {
+   "id": "rubylabs-ua-manager-meta-snap",
+   "title": "User Acquisition Manager (Meta & SnapChat)",
+   "company": "Ruby Labs",
+   "country": "Remote",
+   "city": "Europe, within 4 hours of CET",
+   "region": "r",
+   "tier": "stretch",
+   "mode": "Remote",
+   "posted": "2026-11-21",
+   "exp": "2+ years hands-on user acquisition or performance marketing.",
+   "lang": "English.",
+   "visa": "Independent contractor, any country within about 4 hours of CET.",
+   "visaState": "unstated",
+   "pay": "Not stated, contractor agreement.",
+   "why": "Paid acquisition on Meta and Snapchat for consumer apps, remote from Croatia on CET hours. The catch is it wants two years of daily hands-on ad buying with CPA and ROAS targets, which he has not done as a main job.",
+   "url": "https://jobicy.com/jobs/150980-user-acquisition-manager-meta-snapchat",
+   "source": "Jobicy, company posting",
+   "read": true,
+   "rating": {
+    "fit": 7.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.0,
+     "level": 2.0,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [],
+    "missing": []
+   },
+   "check": {
+    "tier": "Check first",
+    "good": [
+     "posted in the last two weeks"
+    ],
+    "check": [
+     "text not read"
+    ]
+   },
+   "fitAdjust": -2.0,
+   "adjustWhy": "Wants two years of daily hands-on Meta and Snapchat ad buying to CPA and ROAS targets, which is not his main experience.",
+   "fit": 5.0,
+   "below": true
   }
  ],
  "rated": "23 Nov 2026 05:04 UTC"
