@@ -2943,19 +2943,29 @@
      "flags": -0.0
     },
     "notes": [],
-    "have": [],
-    "missing": []
+    "have": [
+     "analytics",
+     "content and social",
+     "crm",
+     "paid media",
+     "seo",
+     "testing"
+    ],
+    "missing": [
+     "api",
+     "impact",
+     "stakeholder"
+    ]
    },
    "fit": 5.5,
    "below": true,
    "check": {
-    "tier": "Check first",
+    "tier": "Looks live",
     "good": [
-     "posted in the last two weeks"
+     "posted in the last two weeks",
+     "detailed description"
     ],
-    "check": [
-     "text not read"
-    ]
+    "check": []
    },
    "fitAdjust": -0.5,
    "adjustWhy": "Heavy on automation, agentic coding and design work beyond his background."
@@ -3031,33 +3041,39 @@
    "source": "Himalayas, company posting",
    "read": true,
    "rating": {
-    "fit": 6.0,
+    "fit": 7.0,
     "conf": "Medium",
     "parts": {
      "role": 1.8,
      "level": 1.0,
      "place": 2.0,
      "pay": 0.5,
-     "sector": 0.7,
+     "sector": 1.5,
      "flags": -0.0
     },
     "notes": [],
-    "have": [],
-    "missing": []
+    "have": [
+     "analytics",
+     "content and social",
+     "testing",
+     "web3"
+    ],
+    "missing": [
+     "impact"
+    ]
    },
    "check": {
-    "tier": "Check first",
+    "tier": "Looks live",
     "good": [
-     "posted in the last two weeks"
+     "posted in the last two weeks",
+     "detailed description"
     ],
-    "check": [
-     "text not read"
-    ]
+    "check": []
    },
    "fitAdjust": -0.5,
    "adjustWhy": "Web3 community work fits well, but the role is on call seven days a week, pays only in stablecoins and the company is little known.",
-   "fit": 5.5,
-   "below": true
+   "fit": 6.5,
+   "below": false
   },
   {
    "id": "otgs-content-marketing-lead",
@@ -3105,7 +3121,6 @@
    "check": {
     "tier": "Looks live",
     "good": [
-     "posted in the last two weeks",
      "detailed description"
     ],
     "check": []
@@ -3162,5 +3177,5 @@
    "below": true
   }
  ],
- "rated": "23 Nov 2026 05:04 UTC"
+ "rated": "24 Nov 2026 05:05 UTC"
 }

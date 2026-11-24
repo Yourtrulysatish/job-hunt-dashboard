@@ -1,57 +1,7 @@
 {
- "generated": "23 Nov 2026 05:04 UTC",
- "count": 9,
+ "generated": "24 Nov 2026 05:05 UTC",
+ "count": 6,
  "items": [
-  {
-   "id": "a84e8264499",
-   "title": "Business Development Manager – Gaming / iGaming Outsourcing",
-   "company": "Emerald Zebra",
-   "country": "Remote",
-   "region": "r",
-   "tier": "auto",
-   "fit": 7.5,
-   "rating": {
-    "fit": 7.5,
-    "conf": "Medium",
-    "parts": {
-     "role": 2.5,
-     "level": 2.0,
-     "place": 2.0,
-     "pay": 0.5,
-     "sector": 0.7,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "b2b",
-     "business development",
-     "negotiation",
-     "partnerships"
-    ],
-    "missing": [
-     "commission",
-     "lead generation"
-    ]
-   },
-   "posted": "2026-11-21",
-   "firstSeen": "2026-11-22",
-   "url": "https://himalayas.app/companies/emerald-zebra/jobs/business-development-manager-gaming-igaming-outsourcing?utm_source=api",
-   "source": "himalayas",
-   "flags": [
-    "asks up to 3+ years"
-   ],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying.",
-   "mode": "Remote"
-  },
   {
    "id": "a7e5718d485",
    "title": "Business Development Manager (Freelance - B2B)",
@@ -162,52 +112,6 @@
    "mode": "Hybrid or office"
   },
   {
-   "id": "a8bfcae34f8",
-   "title": "Graduate Partnership Manager at SetSales",
-   "company": "Setsales",
-   "country": "United Kingdom",
-   "region": "e",
-   "tier": "auto",
-   "fit": 7.0,
-   "rating": {
-    "fit": 7.0,
-    "conf": "Medium",
-    "parts": {
-     "role": 3.0,
-     "level": 1.0,
-     "place": 0.8,
-     "pay": 0.5,
-     "sector": 1.5,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "business development",
-     "content and social",
-     "partnerships"
-    ],
-    "missing": [
-     "api",
-     "lead generation"
-    ]
-   },
-   "posted": "2026-11-22",
-   "firstSeen": "2026-11-23",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/setsales/graduate-partnership-manager-at-setsales-london-438099",
-   "source": "arbeitnow",
-   "flags": [],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying."
-  },
-  {
    "id": "a5ca19e2af3",
    "title": "Graduate Partnership Manager at United-Media",
    "company": "Unitedmedia",
@@ -239,51 +143,6 @@
    "posted": "2026-11-22",
    "firstSeen": "2026-11-23",
    "url": "https://www.arbeitnow.co.uk/jobs/companies/unitedmedia/graduate-partnership-manager-at-united-media-london-303347",
-   "source": "arbeitnow",
-   "flags": [],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying."
-  },
-  {
-   "id": "ab47392ed22",
-   "title": "Graduate Partnership Manager at CFO",
-   "company": "Cfoinsights",
-   "country": "United Kingdom",
-   "region": "e",
-   "tier": "auto",
-   "fit": 7.0,
-   "rating": {
-    "fit": 7.0,
-    "conf": "Medium",
-    "parts": {
-     "role": 3.0,
-     "level": 1.0,
-     "place": 0.8,
-     "pay": 0.5,
-     "sector": 1.5,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "business development",
-     "partnerships"
-    ],
-    "missing": [
-     "api",
-     "lead generation"
-    ]
-   },
-   "posted": "2026-11-22",
-   "firstSeen": "2026-11-23",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/graduate-partnership-manager-at-cfo-london-261255",
    "source": "arbeitnow",
    "flags": [],
    "check": {
@@ -396,11 +255,11 @@
    "mode": "Remote"
   },
   {
-   "id": "a156dfadb43",
-   "title": "Insurance Broker Partner Manager - Nederland (m/f/x)",
-   "company": "Eye Security",
-   "country": "Netherlands",
-   "region": "e",
+   "id": "a6c70599401",
+   "title": "Regional MSP Partner Manager, EMEA South (Paris)",
+   "company": "Everpure",
+   "country": "Remote",
+   "region": "r",
    "tier": "auto",
    "fit": 7.0,
    "rating": {
@@ -409,19 +268,25 @@
     "parts": {
      "role": 3.0,
      "level": 1.0,
-     "place": 0.9,
+     "place": 2.0,
      "pay": 0.5,
-     "sector": 1.5,
+     "sector": 0.7,
      "flags": -0.0
     },
     "notes": [],
-    "have": [],
-    "missing": []
+    "have": [
+     "content and social"
+    ],
+    "missing": [
+     "go-to-market",
+     "gtm",
+     "lifecycle"
+    ]
    },
-   "posted": "2026-11-19",
-   "firstSeen": "2026-11-19",
-   "url": "https://www.arbeitnow.nl/jobs/companies/eye-security/insurance-broker-partner-manager-nederland-the-hague-57891",
-   "source": "arbeitnow",
+   "posted": "2026-11-20",
+   "firstSeen": "2026-11-21",
+   "url": "https://remoteOK.com/remote-jobs/remote-regional-msp-partner-manager-emea-south-paris-everpure-1137868",
+   "source": "remoteok",
    "flags": [],
    "check": {
     "tier": "Looks live",
@@ -433,7 +298,7 @@
    },
    "new": false,
    "why": "Found by the daily scan. Open the posting and read it before applying.",
-   "mode": "Hybrid or office"
+   "mode": "Remote"
   }
  ]
 }
