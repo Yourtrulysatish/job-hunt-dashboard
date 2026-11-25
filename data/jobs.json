@@ -1,5 +1,5 @@
 {
- "updated": "23 Nov 2026",
+ "updated": "25 Nov 2026",
  "jobs": [
   {
    "title": "Affiliate & Partnerships Manager",
@@ -3153,7 +3153,126 @@
    "adjustWhy": "Wants two years of daily hands-on Meta and Snapchat ad buying to CPA and ROAS targets, which is not his main experience.",
    "fit": 5.0,
    "below": true
+  },
+  {
+   "id": "uphone-bdm",
+   "title": "Business Development Manager",
+   "company": "uPhone eSIM",
+   "country": "Remote",
+   "city": "Anywhere, no country restriction",
+   "region": "r",
+   "tier": "apply",
+   "mode": "Fully remote, full time",
+   "posted": "2026-11-18",
+   "exp": "Proven BD or partnerships experience taking B2B or channel deals from prospecting to live launch. No year count.",
+   "lang": "English",
+   "visa": "Work from anywhere, must have the legal right to work where you live.",
+   "visaState": "unstated",
+   "pay": "USD 47,400 to 59,400 a year (Himalayas listing), negotiable",
+   "why": "Travel eSIM marketplace wants one person to sign and grow partners, with affiliate and creator networks named as a priority channel, plus revenue share, tracking and coupon flows, which is close to his affiliate and partnerships work and open from Croatia. The catch is a small Hong Kong registered team and an email application that needs a code word from their About Us page in the subject line.",
+   "url": "https://himalayas.app/companies/uphone-esim/jobs/business-development-manager?utm_source=api",
+   "source": "Himalayas",
+   "read": true,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.5,
+     "level": 1.0,
+     "place": 1.0,
+     "pay": 1.0,
+     "sector": 1.5,
+     "flags": -0.5
+    },
+    "notes": [
+     "needs existing right to work"
+    ],
+    "have": [
+     "affiliate",
+     "analytics",
+     "b2b",
+     "business development",
+     "negotiation",
+     "partnerships",
+     "web3"
+    ],
+    "missing": [
+     "api",
+     "impact",
+     "tracking"
+    ]
+   },
+   "fit": 6.5,
+   "below": false,
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   }
+  },
+  {
+   "id": "myarchitectai-growth-lead",
+   "title": "Growth Lead (Acquisition)",
+   "company": "MyArchitectAI",
+   "country": "Remote",
+   "city": "Worldwide, a few hours overlap with CET",
+   "region": "r",
+   "tier": "stretch",
+   "mode": "Remote, async first",
+   "posted": "2026-11-17",
+   "exp": "No year count. Must have owned growth end to end, run paid ads hands on and know SEO well.",
+   "lang": "English",
+   "visa": "Worldwide remote, no restriction stated.",
+   "visaState": "unstated",
+   "pay": "EUR 3,000 to 7,500 a month (Himalayas listing)",
+   "why": "Small profitable AI rendering startup wants one person to own new paying users across SEO content, Google and Meta ads, and affiliate, creator and reseller partnerships, which overlaps his affiliate, SEO and content work and suits CET. The catch is they want proof of revenue you moved and hands on paid acquisition, and the title is a solo lead role, not a team lead.",
+   "url": "https://himalayas.app/companies/myarchitectai/jobs/growth-lead-acquisition?utm_source=api",
+   "source": "Himalayas",
+   "read": true,
+   "rating": {
+    "fit": 5.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.5,
+     "level": 0.5,
+     "place": 2.0,
+     "pay": 1.0,
+     "sector": 0.7,
+     "flags": -1.0
+    },
+    "notes": [
+     "contract rather than employee"
+    ],
+    "have": [
+     "affiliate",
+     "analytics",
+     "content and social",
+     "paid media",
+     "partnerships",
+     "seo",
+     "testing"
+    ],
+    "missing": [
+     "cac",
+     "integration",
+     "ltv",
+     "tracking"
+    ]
+   },
+   "fit": 5.5,
+   "below": true,
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   }
   }
  ],
- "rated": "25 Nov 2026 05:04 UTC"
+ "rated": "25 Nov 2026 11:38 UTC"
 }

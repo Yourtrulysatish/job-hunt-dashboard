@@ -1,21 +1,21 @@
 {
- "generated": "25 Nov 2026 05:04 UTC",
- "count": 5,
+ "generated": "25 Nov 2026 11:38 UTC",
+ "count": 4,
  "items": [
   {
-   "id": "af57d1e0ea8",
-   "title": "Business Development Executive",
-   "company": "HFM",
+   "id": "a4d82bf474d",
+   "title": "Brand Partnership Associate, Sports",
+   "company": "Coinbase",
    "country": "Remote",
    "region": "r",
    "tier": "auto",
-   "fit": 8.5,
+   "fit": 8.0,
    "rating": {
-    "fit": 8.5,
+    "fit": 8.0,
     "conf": "Medium",
     "parts": {
      "role": 3.0,
-     "level": 2.0,
+     "level": 1.0,
      "place": 2.0,
      "pay": 0.5,
      "sector": 1.5,
@@ -23,18 +23,20 @@
     },
     "notes": [],
     "have": [
-     "affiliate",
      "analytics",
-     "business development"
+     "partnerships",
+     "web3"
     ],
     "missing": [
-     "commission"
+     "gtm",
+     "impact",
+     "tracking"
     ]
    },
-   "posted": "2026-11-24",
+   "posted": "2026-11-25",
    "firstSeen": "2026-11-25",
-   "url": "https://himalayas.app/companies/hfm/jobs/business-development-executive-4295001882?utm_source=api",
-   "source": "himalayas",
+   "url": "https://weworkremotely.com/remote-jobs/coinbase-brand-partnership-associate-sports",
+   "source": "wwr",
    "flags": [
     "asks up to 2+ years"
    ],
@@ -51,45 +53,43 @@
    "mode": "Remote"
   },
   {
-   "id": "a7e5718d485",
-   "title": "Business Development Manager (Freelance - B2B)",
-   "company": "Workster Jobs",
+   "id": "a7d9c8735cb",
+   "title": "Brand Partnership Associate - esports, Gaming & Internet Culture",
+   "company": "Coinbase",
    "country": "Remote",
    "region": "r",
    "tier": "auto",
-   "fit": 7.5,
+   "fit": 8.0,
    "rating": {
-    "fit": 7.5,
+    "fit": 8.0,
     "conf": "Medium",
     "parts": {
-     "role": 2.5,
-     "level": 2.0,
+     "role": 3.0,
+     "level": 1.0,
      "place": 2.0,
      "pay": 0.5,
      "sector": 1.5,
-     "flags": -1.0
+     "flags": -0.0
     },
-    "notes": [
-     "contract rather than employee"
-    ],
+    "notes": [],
     "have": [
      "analytics",
-     "b2b",
-     "business development",
-     "negotiation",
-     "partnerships"
+     "content and social",
+     "partnerships",
+     "testing",
+     "web3"
     ],
     "missing": [
-     "commission",
-     "lead generation"
+     "gtm",
+     "impact"
     ]
    },
-   "posted": "2026-11-19",
-   "firstSeen": "2026-11-19",
-   "url": "https://himalayas.app/companies/workster-jobs/jobs/business-development-manager-freelance-b2b?utm_source=api",
-   "source": "himalayas",
+   "posted": "2026-11-25",
+   "firstSeen": "2026-11-25",
+   "url": "https://weworkremotely.com/remote-jobs/coinbase-brand-partnership-associate-esports-gaming-internet-culture",
+   "source": "wwr",
    "flags": [
-    "asks up to 3+ years"
+    "asks up to 2+ years"
    ],
    "check": {
     "tier": "Looks live",
@@ -99,7 +99,7 @@
     ],
     "check": []
    },
-   "new": false,
+   "new": true,
    "why": "Found by the daily scan. Open the posting and read it before applying.",
    "mode": "Remote"
   },
@@ -158,52 +158,6 @@
    "new": false,
    "why": "Found by the daily scan. Open the posting and read it before applying.",
    "mode": "Hybrid or office"
-  },
-  {
-   "id": "a7bd6ba22b9",
-   "title": "Regional MSP Partner Manager, Germany",
-   "company": "Everpure",
-   "country": "Remote",
-   "region": "r",
-   "tier": "auto",
-   "fit": 7.0,
-   "rating": {
-    "fit": 7.0,
-    "conf": "Medium",
-    "parts": {
-     "role": 3.0,
-     "level": 1.0,
-     "place": 2.0,
-     "pay": 0.5,
-     "sector": 0.7,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "content and social"
-    ],
-    "missing": [
-     "go-to-market",
-     "gtm",
-     "lifecycle"
-    ]
-   },
-   "posted": "2026-11-21",
-   "firstSeen": "2026-11-22",
-   "url": "https://remoteOK.com/remote-jobs/remote-regional-msp-partner-manager-germany-everpure-1137918",
-   "source": "remoteok",
-   "flags": [],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": false,
-   "why": "Found by the daily scan. Open the posting and read it before applying.",
-   "mode": "Remote"
   },
   {
    "id": "afbb4c30b79",
