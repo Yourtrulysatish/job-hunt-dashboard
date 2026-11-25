@@ -1,6 +1,6 @@
 {
- "generated": "24 Nov 2026 05:05 UTC",
- "count": 11,
+ "generated": "25 Nov 2026 05:04 UTC",
+ "count": 7,
  "items": [
   {
    "id": "a5e50d3bee4",
@@ -51,211 +51,6 @@
    "new": true,
    "why": "Found by the daily scan. Open the posting and read it before applying.",
    "mode": "Remote"
-  },
-  {
-   "id": "af07c62c9d5",
-   "title": "Outbound & Lifecycle Marketing Specialist",
-   "company": "BlackBox Strategies",
-   "country": "Remote",
-   "region": "r",
-   "tier": "auto",
-   "fit": 7.0,
-   "rating": {
-    "fit": 7.0,
-    "conf": "Medium",
-    "parts": {
-     "role": 2.0,
-     "level": 2.0,
-     "place": 2.0,
-     "pay": 0.5,
-     "sector": 0.7,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "b2b",
-     "content and social",
-     "crm",
-     "testing"
-    ],
-    "missing": [
-     "gtm",
-     "lifecycle"
-    ]
-   },
-   "posted": "2026-11-24",
-   "firstSeen": "2026-11-24",
-   "url": "https://himalayas.app/companies/blackbox-strategies/jobs/outbound-lifecycle-marketing-specialist-1377376585?utm_source=api",
-   "source": "himalayas",
-   "flags": [
-    "asks up to 4+ years"
-   ],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying.",
-   "mode": "Remote"
-  },
-  {
-   "id": "a305fd16c9e",
-   "title": "Lifecycle Marketing Specialist (B2B & B2C)",
-   "company": "BlackBox Strategies",
-   "country": "Remote",
-   "region": "r",
-   "tier": "auto",
-   "fit": 7.0,
-   "rating": {
-    "fit": 7.0,
-    "conf": "Medium",
-    "parts": {
-     "role": 2.0,
-     "level": 2.0,
-     "place": 2.0,
-     "pay": 0.5,
-     "sector": 0.7,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "b2b",
-     "content and social",
-     "crm",
-     "testing"
-    ],
-    "missing": [
-     "gtm",
-     "lifecycle"
-    ]
-   },
-   "posted": "2026-11-24",
-   "firstSeen": "2026-11-24",
-   "url": "https://himalayas.app/companies/blackbox-strategies/jobs/lifecycle-marketing-specialist-b2b-b2c-7812719506?utm_source=api",
-   "source": "himalayas",
-   "flags": [
-    "asks up to 4+ years"
-   ],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying.",
-   "mode": "Remote"
-  },
-  {
-   "id": "af5459be5ca",
-   "title": "Paid Media Specialist",
-   "company": "kinsta",
-   "country": "United Kingdom",
-   "region": "r",
-   "tier": "auto",
-   "fit": 7.0,
-   "rating": {
-    "fit": 7.0,
-    "conf": "Medium",
-    "parts": {
-     "role": 1.8,
-     "level": 2.0,
-     "place": 1.0,
-     "pay": 0.5,
-     "sector": 1.5,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "analytics",
-     "b2b",
-     "content and social",
-     "crm",
-     "paid media",
-     "testing"
-    ],
-    "missing": [
-     "attribution",
-     "lead generation",
-     "looker",
-     "tracking"
-    ]
-   },
-   "posted": "2026-11-23",
-   "firstSeen": "2026-11-24",
-   "url": "https://jobs.lever.co/kinsta/85a7e4e6-9fc5-4e6e-ae73-1673cca3db02",
-   "source": "lever",
-   "flags": [
-    "asks up to 4+ years"
-   ],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying.",
-   "mode": "Remote"
-  },
-  {
-   "id": "a880c9b02a9",
-   "title": "Business Development Manager - Enterprise",
-   "company": "Trimble",
-   "country": "United Kingdom",
-   "region": "e",
-   "tier": "auto",
-   "fit": 6.5,
-   "rating": {
-    "fit": 6.5,
-    "conf": "Medium",
-    "parts": {
-     "role": 2.5,
-     "level": 2.0,
-     "place": 0.8,
-     "pay": 0.5,
-     "sector": 0.7,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "b2b",
-     "business development",
-     "crm",
-     "negotiation"
-    ],
-    "missing": [
-     "enterprise",
-     "impact",
-     "lifecycle",
-     "stakeholder"
-    ]
-   },
-   "posted": "2026-11-23",
-   "firstSeen": "2026-11-24",
-   "url": "https://himalayas.app/companies/trimble/jobs/business-development-manager-enterprise?utm_source=api",
-   "source": "himalayas",
-   "flags": [
-    "asks up to 3+ years"
-   ],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying."
   },
   {
    "id": "ac2937e4da7",
@@ -356,7 +151,7 @@
     ],
     "check": []
    },
-   "new": true,
+   "new": false,
    "why": "Found by the daily scan. Open the posting and read it before applying.",
    "mode": "Remote"
   },
@@ -403,7 +198,7 @@
     ],
     "check": []
    },
-   "new": true,
+   "new": false,
    "why": "Found by the daily scan. Open the posting and read it before applying.",
    "mode": "Remote"
   },

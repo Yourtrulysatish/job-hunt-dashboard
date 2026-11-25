@@ -1697,28 +1697,17 @@
      "flags": -0.0
     },
     "notes": [],
-    "have": [
-     "affiliate",
-     "analytics",
-     "crm",
-     "negotiation",
-     "partnerships"
-    ],
-    "missing": [
-     "impact",
-     "ltv",
-     "retention"
-    ]
+    "have": [],
+    "missing": []
    },
    "fit": 7.0,
    "below": false,
    "check": {
     "tier": "Check first",
-    "good": [
-     "detailed description"
-    ],
+    "good": [],
     "check": [
-     "older than three weeks"
+     "older than three weeks",
+     "text not read"
     ]
    },
    "fitAdjust": 0.5,
@@ -2356,7 +2345,6 @@
    "check": {
     "tier": "Looks live",
     "good": [
-     "posted in the last two weeks",
      "detailed description"
     ],
     "check": []
@@ -2943,29 +2931,19 @@
      "flags": -0.0
     },
     "notes": [],
-    "have": [
-     "analytics",
-     "content and social",
-     "crm",
-     "paid media",
-     "seo",
-     "testing"
-    ],
-    "missing": [
-     "api",
-     "impact",
-     "stakeholder"
-    ]
+    "have": [],
+    "missing": []
    },
    "fit": 5.5,
    "below": true,
    "check": {
-    "tier": "Looks live",
+    "tier": "Check first",
     "good": [
-     "posted in the last two weeks",
-     "detailed description"
+     "posted in the last two weeks"
     ],
-    "check": []
+    "check": [
+     "text not read"
+    ]
    },
    "fitAdjust": -0.5,
    "adjustWhy": "Heavy on automation, agentic coding and design work beyond his background."
@@ -3177,5 +3155,5 @@
    "below": true
   }
  ],
- "rated": "24 Nov 2026 05:05 UTC"
+ "rated": "25 Nov 2026 05:04 UTC"
 }
