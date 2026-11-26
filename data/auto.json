@@ -1,7 +1,60 @@
 {
- "generated": "25 Nov 2026 11:38 UTC",
- "count": 4,
+ "generated": "26 Nov 2026 05:03 UTC",
+ "count": 6,
  "items": [
+  {
+   "id": "a3bbc9a1b80",
+   "title": "Affiliate Marketing Manager",
+   "company": "Source",
+   "country": "Poland",
+   "region": "e",
+   "tier": "auto",
+   "fit": 8.5,
+   "rating": {
+    "fit": 8.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.5,
+     "level": 2.0,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "affiliate",
+     "b2b",
+     "content and social",
+     "negotiation",
+     "paid media",
+     "partnerships",
+     "seo"
+    ],
+    "missing": [
+     "api",
+     "commission",
+     "tracking"
+    ]
+   },
+   "posted": "2026-11-25",
+   "firstSeen": "2026-11-26",
+   "url": "https://himalayas.app/companies/source-ai/jobs/affiliate-marketing-manager?utm_source=api",
+   "source": "himalayas",
+   "flags": [
+    "asks up to 2+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
+  },
   {
    "id": "a4d82bf474d",
    "title": "Brand Partnership Associate, Sports",
@@ -102,6 +155,62 @@
    "new": true,
    "why": "Found by the daily scan. Open the posting and read it before applying.",
    "mode": "Remote"
+  },
+  {
+   "id": "a7c954f64c7",
+   "title": "SME Sales Manager (Affiliate Marketing)",
+   "company": "awin",
+   "country": "United Kingdom",
+   "region": "e",
+   "tier": "auto",
+   "fit": 7.5,
+   "rating": {
+    "fit": 7.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.5,
+     "level": 2.0,
+     "place": 0.9,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "affiliate",
+     "analytics",
+     "b2b",
+     "business development",
+     "crm",
+     "negotiation",
+     "partnerships"
+    ],
+    "missing": [
+     "api",
+     "awin",
+     "impact",
+     "integration",
+     "stakeholder"
+    ]
+   },
+   "posted": "2026-11-25",
+   "firstSeen": "2026-11-26",
+   "url": "https://boards.greenhouse.io/awin/jobs/8217037003?gh_jid=8217037003",
+   "source": "greenhouse",
+   "flags": [
+    "asks up to 2+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Hybrid or office"
   },
   {
    "id": "a2b4346c546",

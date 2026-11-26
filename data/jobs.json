@@ -1697,17 +1697,28 @@
      "flags": -0.0
     },
     "notes": [],
-    "have": [],
-    "missing": []
+    "have": [
+     "affiliate",
+     "analytics",
+     "crm",
+     "negotiation",
+     "partnerships"
+    ],
+    "missing": [
+     "impact",
+     "ltv",
+     "retention"
+    ]
    },
    "fit": 7.0,
    "below": false,
    "check": {
     "tier": "Check first",
-    "good": [],
+    "good": [
+     "detailed description"
+    ],
     "check": [
-     "older than three weeks",
-     "text not read"
+     "older than three weeks"
     ]
    },
    "fitAdjust": 0.5,
@@ -1853,30 +1864,17 @@
      "flags": -0.0
     },
     "notes": [],
-    "have": [
-     "affiliate",
-     "analytics",
-     "b2b",
-     "content and social",
-     "partnerships"
-    ],
-    "missing": [
-     "api",
-     "attribution",
-     "impact",
-     "stakeholder",
-     "tracking"
-    ]
+    "have": [],
+    "missing": []
    },
    "fit": 7.5,
    "below": false,
    "check": {
     "tier": "Check first",
-    "good": [
-     "detailed description"
-    ],
+    "good": [],
     "check": [
-     "older than three weeks"
+     "older than three weeks",
+     "text not read"
     ]
    },
    "fitAdjust": -1.0,
@@ -2392,9 +2390,7 @@
    "below": true,
    "check": {
     "tier": "Check first",
-    "good": [
-     "posted in the last two weeks"
-    ],
+    "good": [],
     "check": [
      "text not read"
     ]
@@ -3274,5 +3270,5 @@
    }
   }
  ],
- "rated": "25 Nov 2026 11:38 UTC"
+ "rated": "26 Nov 2026 05:03 UTC"
 }
