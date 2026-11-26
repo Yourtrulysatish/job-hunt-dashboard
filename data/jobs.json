@@ -1,5 +1,5 @@
 {
- "updated": "25 Nov 2026",
+ "updated": "26 Nov 2026",
  "jobs": [
   {
    "title": "Affiliate & Partnerships Manager",
@@ -1697,28 +1697,17 @@
      "flags": -0.0
     },
     "notes": [],
-    "have": [
-     "affiliate",
-     "analytics",
-     "crm",
-     "negotiation",
-     "partnerships"
-    ],
-    "missing": [
-     "impact",
-     "ltv",
-     "retention"
-    ]
+    "have": [],
+    "missing": []
    },
    "fit": 7.0,
    "below": false,
    "check": {
     "tier": "Check first",
-    "good": [
-     "detailed description"
-    ],
+    "good": [],
     "check": [
-     "older than three weeks"
+     "older than three weeks",
+     "text not read"
     ]
    },
    "fitAdjust": 0.5,
@@ -3229,33 +3218,185 @@
    "source": "Himalayas",
    "read": true,
    "rating": {
-    "fit": 5.5,
+    "fit": 6.0,
     "conf": "Medium",
     "parts": {
-     "role": 2.5,
+     "role": 2.0,
      "level": 0.5,
      "place": 2.0,
      "pay": 1.0,
      "sector": 0.7,
-     "flags": -1.0
+     "flags": -0.0
     },
-    "notes": [
-     "contract rather than employee"
+    "notes": [],
+    "have": [],
+    "missing": []
+   },
+   "fit": 6.0,
+   "below": true,
+   "check": {
+    "tier": "Check first",
+    "good": [
+     "posted in the last two weeks"
     ],
+    "check": [
+     "text not read"
+    ]
+   }
+  },
+  {
+   "id": "tangem-affiliate-influencer",
+   "title": "Affiliate & Influencer Manager",
+   "company": "Tangem AG",
+   "country": "Remote",
+   "city": "Worldwide, schedule aligned with GMT+3",
+   "region": "r",
+   "tier": "apply",
+   "mode": "Remote",
+   "posted": "2026-11-25",
+   "exp": "No year count. Wants proven conversions or revenue from affiliate, influencer or community partnerships, ideally at a crypto exchange or fintech.",
+   "lang": "Professional English, other languages a plus.",
+   "visa": "Remote from anywhere except Russia and Belarus.",
+   "visaState": "unstated",
+   "pay": "Not stated, paid in EUR or USDT.",
+   "why": "Swiss crypto hardware wallet wants someone to recruit and run KOLs, creators and affiliates on commission and drive wallet sales, which is very close to his affiliate and CryptoNewsZ community work. The catch is the GMT+3 schedule, one hour ahead of Croatia, and they will want numbers showing partner revenue he drove.",
+   "url": "https://himalayas.app/companies/tangem-ag/jobs/affiliate-influencer-manager?utm_source=api",
+   "source": "Himalayas, listing open until 24 Jan 2027",
+   "read": true,
+   "rating": {
+    "fit": 8.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.5,
+     "level": 1.0,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
     "have": [
      "affiliate",
      "analytics",
+     "b2b",
      "content and social",
-     "paid media",
+     "crm",
+     "negotiation",
      "partnerships",
-     "seo",
-     "testing"
+     "web3"
     ],
     "missing": [
-     "cac",
-     "integration",
-     "ltv",
+     "commission",
+     "lifecycle",
      "tracking"
+    ]
+   },
+   "fit": 8.5,
+   "below": false,
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   }
+  },
+  {
+   "id": "decodo-affiliate-marketing-manager",
+   "title": "Affiliate Marketing Manager",
+   "company": "Decodo",
+   "country": "Poland",
+   "city": "Warsaw",
+   "region": "e",
+   "tier": "stretch",
+   "mode": "Full time, remote from Poland (Warsaw office, hybrid culture)",
+   "posted": "2026-11-25",
+   "exp": "2+ years hands-on affiliate or partner marketing, plus a technical side (tech product, developer audience, APIs or automation tools).",
+   "lang": "Fluent English.",
+   "visa": "Listed as remote in Warsaw, so likely needs the right to live and work in Poland. No sponsorship mentioned.",
+   "visaState": "needed",
+   "pay": "PLN 11,900 to 15,800 gross a month, open to discuss",
+   "why": "Own an established affiliate program for a web data and proxy company: recruit tech publishers and comparison sites, manage commissions, watch CPA and ROAS, and police brand bidding and coupon abuse, which is exactly his affiliate background. The catch is the Poland base, which means a work permit outside Croatia, and they want comfort with technical, developer-facing products.",
+   "url": "https://himalayas.app/companies/source-ai/jobs/affiliate-marketing-manager?utm_source=api",
+   "source": "Himalayas, also on decodo.com/careers",
+   "read": true,
+   "rating": {
+    "fit": 9.0,
+    "conf": "High",
+    "parts": {
+     "role": 3.5,
+     "level": 2.0,
+     "place": 0.9,
+     "pay": 1.0,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "affiliate",
+     "b2b",
+     "content and social",
+     "negotiation",
+     "paid media",
+     "partnerships",
+     "seo"
+    ],
+    "missing": [
+     "api",
+     "commission",
+     "tracking"
+    ]
+   },
+   "fit": 7.5,
+   "below": false,
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "fitAdjust": -1.5,
+   "adjustWhy": "Strongest role match of the day, but the job is based in Poland with no sponsorship mentioned, so he would need a Polish work permit."
+  },
+  {
+   "id": "sydlife-growth-associate",
+   "title": "Growth Associate",
+   "company": "Syd Life AI",
+   "country": "Remote",
+   "city": "Worldwide",
+   "region": "r",
+   "tier": "stretch",
+   "mode": "Remote",
+   "posted": "2026-11-23",
+   "exp": "2 to 4 years across content, marketing operations or project coordination, ideally at a startup.",
+   "lang": "Professional written English.",
+   "visa": "Remote, open to candidates anywhere in the world. Consulting agreement.",
+   "visaState": "unstated",
+   "pay": "USD 20,000 to 40,000 a year plus equity, consulting agreement",
+   "why": "Small remote health AI startup wants someone for proposals, decks, LinkedIn content, newsletters and monthly channel reports, which uses his content and social work. The catch is it is a junior support role heavy on Figma design and deck building, pay is low, and there is a 48 hour task before any interview.",
+   "url": "https://himalayas.app/companies/syd-life-ai/jobs/growth-associate?utm_source=api",
+   "source": "Himalayas, listing open until 22 Dec 2026",
+   "read": true,
+   "rating": {
+    "fit": 6.5,
+    "conf": "High",
+    "parts": {
+     "role": 2.0,
+     "level": 1.0,
+     "place": 2.0,
+     "pay": 1.0,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "content and social"
+    ],
+    "missing": [
+     "impact"
     ]
    },
    "fit": 5.5,
@@ -3267,8 +3408,124 @@
      "detailed description"
     ],
     "check": []
-   }
+   },
+   "fitAdjust": -1.0,
+   "adjustWhy": "Junior support role weighted toward Figma design and decks, with low consulting pay, so less of a fit than the formula says."
+  },
+  {
+   "id": "salveinno-junior-performance-marketing",
+   "title": "Junior Performance Marketing Specialist (Paid Acquisition & Growth)",
+   "company": "Salve.Inno Consulting",
+   "country": "Remote",
+   "city": "Europe or Asia, Croatia allowed",
+   "region": "r",
+   "tier": "stretch",
+   "mode": "Remote",
+   "posted": "2026-11-22",
+   "exp": "No year count, but must show campaigns you personally launched and improved on Meta, TikTok, Google or Reddit.",
+   "lang": "Fluent English.",
+   "visa": "Remote B2B contractor from Europe or Asia, Croatia is on the allowed list.",
+   "visaState": "unstated",
+   "pay": "Not stated, B2B contractor",
+   "why": "Hiring for a consumer AI company to run paid campaigns on Meta, TikTok, Google and Reddit and report CAC and ROAS, working with the CMO. The catch is it needs proof of hands-on ad buying he has not done as a main job, and it is a recruiter listing so the end client is not named.",
+   "url": "https://himalayas.app/companies/salve-inno-consulting/jobs/junior-performance-marketing-specialist-paid-acquisition-growth-7640827553?utm_source=api",
+   "source": "Himalayas, listing open until 21 Jan 2027",
+   "read": true,
+   "rating": {
+    "fit": 6.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.0,
+     "level": 1.0,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "b2b",
+     "paid media",
+     "testing"
+    ],
+    "missing": [
+     "api",
+     "cac"
+    ]
+   },
+   "fit": 5.0,
+   "below": true,
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "fitAdjust": -1.0,
+   "adjustWhy": "Needs proof of campaigns he personally ran and improved, and hands-on ad buying is not his main experience."
+  },
+  {
+   "id": "kinsta-paid-media-specialist",
+   "title": "Paid Media Specialist",
+   "company": "Kinsta",
+   "country": "United Kingdom",
+   "city": "London (remote)",
+   "region": "n",
+   "tier": "stretch",
+   "mode": "Full time remote, listed under London",
+   "posted": "2026-11-23",
+   "exp": "2 to 4 years hands-on paid social on Meta, LinkedIn and Reddit, plus GTM and GA4 conversion tracking.",
+   "lang": "English, other languages a bonus.",
+   "visa": "Remote but listed in London, and benefits cover hires in the US, UK, Canada and Hungary only. No sponsorship mentioned.",
+   "visaState": "needed",
+   "pay": "Not stated",
+   "why": "WordPress hosting company running paid social across LinkedIn, Meta, Reddit and X with A/B tests and conversion tracking, a good B2B tech brand that matches his growth and analytics side. The catch is it wants 2 to 4 years of daily paid social buying and tag setup, and it seems to hire only where Kinsta has an entity, so a UK or Hungary base.",
+   "url": "https://jobs.lever.co/kinsta/85a7e4e6-9fc5-4e6e-ae73-1673cca3db02",
+   "source": "Lever, company posting",
+   "read": true,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 1.8,
+     "level": 2.0,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "b2b",
+     "content and social",
+     "crm",
+     "paid media",
+     "testing"
+    ],
+    "missing": [
+     "attribution",
+     "lead generation",
+     "looker",
+     "tracking"
+    ]
+   },
+   "fit": 5.0,
+   "below": true,
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "fitAdjust": -1.5,
+   "adjustWhy": "Wants 2 to 4 years of daily paid social buying and tag setup, and seems to hire only where Kinsta has an entity (UK or Hungary in Europe)."
   }
  ],
- "rated": "26 Nov 2026 05:03 UTC"
+ "rated": "26 Nov 2026 15:07 UTC"
 }
