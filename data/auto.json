@@ -1,6 +1,6 @@
 {
- "generated": "26 Nov 2026 15:07 UTC",
- "count": 5,
+ "generated": "27 Nov 2026 05:04 UTC",
+ "count": 7,
  "items": [
   {
    "id": "a4d82bf474d",
@@ -102,6 +102,54 @@
    "new": true,
    "why": "Found by the daily scan. Open the posting and read it before applying.",
    "mode": "Remote"
+  },
+  {
+   "id": "a2e84e0908f",
+   "title": "Business Development Manager (AI Products and Solutions)",
+   "company": "Sigma Software",
+   "country": "Germany",
+   "region": "e",
+   "tier": "auto",
+   "fit": 7.5,
+   "rating": {
+    "fit": 7.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.5,
+     "level": 2.0,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "business development",
+     "crm",
+     "negotiation"
+    ],
+    "missing": [
+     "lifecycle"
+    ]
+   },
+   "posted": "2026-11-26",
+   "firstSeen": "2026-11-27",
+   "url": "https://himalayas.app/companies/sigma-software-e561c036-16e4-4b2c-aa28-a33af9f3750b/jobs/business-development-manager-ai-products-and-solutions-3021318508?utm_source=api",
+   "source": "himalayas",
+   "flags": [
+    "asks up to 3+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
   },
   {
    "id": "a7c954f64c7",
@@ -214,6 +262,53 @@
    "new": false,
    "why": "Found by the daily scan. Open the posting and read it before applying.",
    "mode": "Hybrid or office"
+  },
+  {
+   "id": "ad052254a1d",
+   "title": "Business Development Manager",
+   "company": "DNV",
+   "country": "Ireland",
+   "region": "e",
+   "tier": "auto",
+   "fit": 7.0,
+   "rating": {
+    "fit": 7.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.0,
+     "level": 1.0,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "business development",
+     "content and social",
+     "crm",
+     "negotiation"
+    ],
+    "missing": [
+     "retention"
+    ]
+   },
+   "posted": "2026-11-22",
+   "firstSeen": "2026-11-27",
+   "url": "https://himalayas.app/companies/dnv/jobs/business-development-manager-360388910?utm_source=api",
+   "source": "himalayas",
+   "flags": [],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
   },
   {
    "id": "afbb4c30b79",

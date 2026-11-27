@@ -1,46 +1,138 @@
 {
- "generated": "26 Nov 2026 15:07 UTC",
- "count": 8,
+ "generated": "27 Nov 2026 05:04 UTC",
+ "count": 10,
  "items": [
   {
-   "id": "ae0770e5d87",
-   "title": "Senior Manager, Product Partnerships",
-   "company": "Perk",
+   "id": "a359796b81e",
+   "title": "Affiliate Account Associate",
+   "company": "Quantum",
    "country": "United Kingdom",
    "region": "e",
    "tier": "auto",
-   "fit": 7.0,
+   "fit": 6.5,
    "rating": {
-    "fit": 7.0,
+    "fit": 6.5,
     "conf": "Medium",
     "parts": {
-     "role": 3.0,
-     "level": 0.5,
-     "place": 1.4,
+     "role": 3.5,
+     "level": 1.0,
+     "place": 0.9,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "affiliate",
+     "analytics",
+     "paid media",
+     "testing"
+    ],
+    "missing": [
+     "account management",
+     "impact",
+     "stakeholder",
+     "tracking"
+    ]
+   },
+   "posted": "2026-11-27",
+   "firstSeen": "2026-11-27",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/quantum/affiliate-account-associate-london-402530",
+   "source": "arbeitnow",
+   "flags": [
+    "asks up to 2+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Hybrid or office"
+  },
+  {
+   "id": "ab21111df4d",
+   "title": "Business Development & Brand Outreach Specialist",
+   "company": "Alegría Travel Services",
+   "country": "United Kingdom",
+   "region": "e",
+   "tier": "auto",
+   "fit": 6.5,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.5,
+     "level": 1.0,
+     "place": 0.8,
      "pay": 0.5,
      "sector": 1.5,
      "flags": -0.0
     },
     "notes": [],
     "have": [
+     "business development",
+     "content and social"
+    ],
+    "missing": []
+   },
+   "posted": "2026-11-26",
+   "firstSeen": "2026-11-27",
+   "url": "https://himalayas.app/companies/alegria-travel-services/jobs/business-development-brand-outreach-specialist-5650886198?utm_source=api",
+   "source": "himalayas",
+   "flags": [],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
+  },
+  {
+   "id": "af692077dfa",
+   "title": "Business Development Manager, Integrator Partners - BENELUX",
+   "company": "Dtact",
+   "country": "Netherlands",
+   "region": "r",
+   "tier": "auto",
+   "fit": 6.5,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.5,
+     "level": 1.0,
+     "place": 1.0,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
      "b2b",
      "business development",
-     "content and social",
-     "negotiation",
-     "partnerships"
+     "crm",
+     "negotiation"
     ],
     "missing": [
+     "account management",
      "api",
-     "commission",
-     "impact",
-     "integration",
-     "lifecycle",
-     "stakeholder"
+     "enterprise",
+     "impact"
     ]
    },
-   "posted": "2026-11-25",
-   "firstSeen": "2026-11-26",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/perk/senior-manager-product-partnerships-london-22266",
+   "posted": "2026-11-26",
+   "firstSeen": "2026-11-27",
+   "url": "https://www.arbeitnow.nl/jobs/companies/dtact/business-development-manager-integrator-partners-benelux-anywhere-in-the-netherlands-463097",
    "source": "arbeitnow",
    "flags": [
     "asks up to 5+ years",
@@ -56,65 +148,12 @@
    },
    "new": true,
    "why": "Found by the daily scan. Open the posting and read it before applying.",
-   "mode": "Hybrid or office"
+   "mode": "Remote"
   },
   {
-   "id": "a97eee2a472",
-   "title": "Regional Partner Manager, UK",
-   "company": "Wiz Co",
-   "country": "United Kingdom",
-   "region": "e",
-   "tier": "auto",
-   "fit": 6.5,
-   "rating": {
-    "fit": 6.5,
-    "conf": "Medium",
-    "parts": {
-     "role": 3.5,
-     "level": 1.0,
-     "place": 1.4,
-     "pay": 0.5,
-     "sector": 0.7,
-     "flags": -0.5
-    },
-    "notes": [
-     "needs existing right to work"
-    ],
-    "have": [
-     "b2b",
-     "business development",
-     "partnerships"
-    ],
-    "missing": [
-     "go-to-market",
-     "impact",
-     "integration"
-    ]
-   },
-   "posted": "2026-11-25",
-   "firstSeen": "2026-11-26",
-   "url": "https://himalayas.app/companies/wiz-co/jobs/regional-partner-manager-uk?utm_source=api",
-   "source": "himalayas",
-   "flags": [
-    "relocation/visa mentioned",
-    "needs right to work"
-   ],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": true,
-   "why": "Found by the daily scan. Open the posting and read it before applying.",
-   "mode": "Hybrid or office"
-  },
-  {
-   "id": "a0e96f20863",
-   "title": "Business Development Specialist",
-   "company": "Checkatrade",
+   "id": "a0dc06116b9",
+   "title": "Business Development Manager AI/Neocloud - West Europe",
+   "company": "Ciena",
    "country": "United Kingdom",
    "region": "e",
    "tier": "auto",
@@ -124,31 +163,32 @@
     "conf": "Medium",
     "parts": {
      "role": 2.5,
-     "level": 2.0,
+     "level": 1.0,
      "place": 0.8,
      "pay": 0.5,
-     "sector": 0.7,
+     "sector": 1.5,
      "flags": -0.0
     },
     "notes": [],
     "have": [
      "business development",
      "content and social",
-     "crm",
-     "negotiation"
+     "negotiation",
+     "partnerships"
     ],
     "missing": [
      "account management",
+     "enterprise",
      "impact",
-     "lead generation"
+     "stakeholder"
     ]
    },
-   "posted": "2026-11-25",
-   "firstSeen": "2026-11-26",
-   "url": "https://www.arbeitnow.co.uk/jobs/companies/checkatrade/business-development-specialist-moorgate-422974",
-   "source": "arbeitnow",
+   "posted": "2026-11-26",
+   "firstSeen": "2026-11-27",
+   "url": "https://himalayas.app/companies/ciena/jobs/business-development-manager-ai-neocloud-west-europe?utm_source=api",
+   "source": "himalayas",
    "flags": [
-    "asks up to 2+ years"
+    "asks up to 5+ years"
    ],
    "check": {
     "tier": "Looks live",
@@ -162,7 +202,7 @@
    "why": "Found by the daily scan. Open the posting and read it before applying."
   },
   {
-   "id": "ab8098da69c",
+   "id": "a4c31af7aee",
    "title": "Business Development Manager - New Customer Acquisition",
    "company": "Signode",
    "country": "Remote",
@@ -189,9 +229,9 @@
     ],
     "missing": []
    },
-   "posted": "2026-11-25",
-   "firstSeen": "2026-11-26",
-   "url": "https://www.arbeitnow.fr/jobs/companies/signode/remote-business-development-manager-new-customer-acquisition-creteil-337682",
+   "posted": "2026-11-26",
+   "firstSeen": "2026-11-27",
+   "url": "https://www.arbeitnow.fr/jobs/companies/signode/remote-business-development-manager-new-customer-acquisition-creteil-381862",
    "source": "arbeitnow",
    "flags": [
     "asks up to 5+ years"
@@ -351,6 +391,56 @@
    "new": false,
    "why": "Found by the daily scan. Open the posting and read it before applying.",
    "mode": "Remote"
+  },
+  {
+   "id": "ace90004fcb",
+   "title": "Partnership Channel Manager",
+   "company": "Sano Genetics",
+   "country": "United Kingdom",
+   "region": "e",
+   "tier": "auto",
+   "fit": 6.5,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.0,
+     "level": 1.0,
+     "place": 0.8,
+     "pay": 1.0,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "business development",
+     "content and social",
+     "crm",
+     "partnerships",
+     "testing"
+    ],
+    "missing": [
+     "attribution",
+     "impact",
+     "stakeholder"
+    ]
+   },
+   "posted": "2026-11-20",
+   "firstSeen": "2026-11-21",
+   "url": "https://himalayas.app/companies/sano-genetics/jobs/partnership-channel-manager?utm_source=api",
+   "source": "himalayas",
+   "flags": [],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": false,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
   },
   {
    "id": "a89822f46d8",

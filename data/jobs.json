@@ -1958,6 +1958,7 @@
     "tier": "Check first",
     "good": [],
     "check": [
+     "older than three weeks",
      "text not read"
     ]
    }
@@ -2049,6 +2050,7 @@
     "tier": "Check first",
     "good": [],
     "check": [
+     "older than three weeks",
      "text not read"
     ]
    },
@@ -2095,6 +2097,7 @@
     "tier": "Check first",
     "good": [],
     "check": [
+     "older than three weeks",
      "text not read"
     ]
    },
@@ -2144,6 +2147,7 @@
     "tier": "Check first",
     "good": [],
     "check": [
+     "older than three weeks",
      "text not read"
     ]
    }
@@ -2258,10 +2262,10 @@
    "source": "Himalayas",
    "read": true,
    "rating": {
-    "fit": 6.5,
+    "fit": 7.0,
     "conf": "Medium",
     "parts": {
-     "role": 2.0,
+     "role": 2.5,
      "level": 2.0,
      "place": 0.8,
      "pay": 0.5,
@@ -2271,17 +2275,29 @@
     "notes": [
      "needs existing right to work"
     ],
-    "have": [],
-    "missing": []
+    "have": [
+     "affiliate",
+     "analytics",
+     "content and social",
+     "testing",
+     "web3"
+    ],
+    "missing": [
+     "attribution",
+     "cac",
+     "lifecycle",
+     "sql",
+     "tracking"
+    ]
    },
-   "fit": 5.0,
+   "fit": 5.5,
    "below": true,
    "check": {
-    "tier": "Check first",
-    "good": [],
-    "check": [
-     "text not read"
-    ]
+    "tier": "Looks live",
+    "good": [
+     "detailed description"
+    ],
+    "check": []
    },
    "fitAdjust": -1.5,
    "adjustWhy": "Only open to UK or UAE residents, and the core is product growth and lifecycle tooling rather than partnerships."
@@ -2425,9 +2441,7 @@
    "below": true,
    "check": {
     "tier": "Check first",
-    "good": [
-     "posted in the last two weeks"
-    ],
+    "good": [],
     "check": [
      "text not read"
     ]
@@ -2473,9 +2487,7 @@
    "fit": 8.5,
    "check": {
     "tier": "Check first",
-    "good": [
-     "posted in the last two weeks"
-    ],
+    "good": [],
     "check": [
      "text not read"
     ]
@@ -2519,9 +2531,7 @@
    "fit": 7.5,
    "check": {
     "tier": "Check first",
-    "good": [
-     "posted in the last two weeks"
-    ],
+    "good": [],
     "check": [
      "text not read"
     ]
@@ -2569,6 +2579,7 @@
     "tier": "Check first",
     "good": [],
     "check": [
+     "older than three weeks",
      "text not read"
     ]
    }
@@ -2611,9 +2622,7 @@
    "fit": 6.0,
    "check": {
     "tier": "Check first",
-    "good": [
-     "posted in the last two weeks"
-    ],
+    "good": [],
     "check": [
      "text not read"
     ]
@@ -2659,9 +2668,7 @@
    "fit": 4.5,
    "check": {
     "tier": "Check first",
-    "good": [
-     "posted in the last two weeks"
-    ],
+    "good": [],
     "check": [
      "text not read"
     ]
@@ -3264,42 +3271,30 @@
    "source": "Himalayas, listing open until 24 Jan 2027",
    "read": true,
    "rating": {
-    "fit": 8.5,
+    "fit": 7.5,
     "conf": "Medium",
     "parts": {
      "role": 3.5,
      "level": 1.0,
      "place": 2.0,
      "pay": 0.5,
-     "sector": 1.5,
+     "sector": 0.7,
      "flags": -0.0
     },
     "notes": [],
-    "have": [
-     "affiliate",
-     "analytics",
-     "b2b",
-     "content and social",
-     "crm",
-     "negotiation",
-     "partnerships",
-     "web3"
-    ],
-    "missing": [
-     "commission",
-     "lifecycle",
-     "tracking"
-    ]
+    "have": [],
+    "missing": []
    },
-   "fit": 8.5,
+   "fit": 7.5,
    "below": false,
    "check": {
-    "tier": "Looks live",
+    "tier": "Check first",
     "good": [
-     "posted in the last two weeks",
-     "detailed description"
+     "posted in the last two weeks"
     ],
-    "check": []
+    "check": [
+     "text not read"
+    ]
    }
   },
   {
@@ -3322,41 +3317,30 @@
    "source": "Himalayas, also on decodo.com/careers",
    "read": true,
    "rating": {
-    "fit": 9.0,
+    "fit": 8.0,
     "conf": "High",
     "parts": {
      "role": 3.5,
      "level": 2.0,
      "place": 0.9,
      "pay": 1.0,
-     "sector": 1.5,
+     "sector": 0.7,
      "flags": -0.0
     },
     "notes": [],
-    "have": [
-     "affiliate",
-     "b2b",
-     "content and social",
-     "negotiation",
-     "paid media",
-     "partnerships",
-     "seo"
-    ],
-    "missing": [
-     "api",
-     "commission",
-     "tracking"
-    ]
+    "have": [],
+    "missing": []
    },
-   "fit": 7.5,
+   "fit": 6.5,
    "below": false,
    "check": {
-    "tier": "Looks live",
+    "tier": "Check first",
     "good": [
-     "posted in the last two weeks",
-     "detailed description"
+     "posted in the last two weeks"
     ],
-    "check": []
+    "check": [
+     "text not read"
+    ]
    },
    "fitAdjust": -1.5,
    "adjustWhy": "Strongest role match of the day, but the job is based in Poland with no sponsorship mentioned, so he would need a Polish work permit."
@@ -3527,5 +3511,5 @@
    "adjustWhy": "Wants 2 to 4 years of daily paid social buying and tag setup, and seems to hire only where Kinsta has an entity (UK or Hungary in Europe)."
   }
  ],
- "rated": "26 Nov 2026 15:07 UTC"
+ "rated": "27 Nov 2026 05:04 UTC"
 }
