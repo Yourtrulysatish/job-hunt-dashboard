@@ -1,5 +1,5 @@
 {
- "updated": "26 Nov 2026",
+ "updated": "27 Nov 2026",
  "jobs": [
   {
    "title": "Affiliate & Partnerships Manager",
@@ -2262,10 +2262,10 @@
    "source": "Himalayas",
    "read": true,
    "rating": {
-    "fit": 7.0,
+    "fit": 6.5,
     "conf": "Medium",
     "parts": {
-     "role": 2.5,
+     "role": 2.0,
      "level": 2.0,
      "place": 0.8,
      "pay": 0.5,
@@ -2275,29 +2275,17 @@
     "notes": [
      "needs existing right to work"
     ],
-    "have": [
-     "affiliate",
-     "analytics",
-     "content and social",
-     "testing",
-     "web3"
-    ],
-    "missing": [
-     "attribution",
-     "cac",
-     "lifecycle",
-     "sql",
-     "tracking"
-    ]
+    "have": [],
+    "missing": []
    },
-   "fit": 5.5,
+   "fit": 5.0,
    "below": true,
    "check": {
-    "tier": "Looks live",
-    "good": [
-     "detailed description"
-    ],
-    "check": []
+    "tier": "Check first",
+    "good": [],
+    "check": [
+     "text not read"
+    ]
    },
    "fitAdjust": -1.5,
    "adjustWhy": "Only open to UK or UAE residents, and the core is product growth and lifecycle tooling rather than partnerships."
@@ -3509,7 +3497,178 @@
    },
    "fitAdjust": -1.5,
    "adjustWhy": "Wants 2 to 4 years of daily paid social buying and tag setup, and seems to hire only where Kinsta has an entity (UK or Hungary in Europe)."
+  },
+  {
+   "id": "everai-affiliate-manager-remote-europe",
+   "title": "Affiliate Manager (Remote - Europe)",
+   "company": "EverAI",
+   "country": "Malta",
+   "city": "Remote, Europe",
+   "region": "r",
+   "tier": "apply",
+   "mode": "Fully remote, work from anywhere, B2B contract preferred",
+   "posted": "2026-11-27",
+   "exp": "No set years. Wants proof you personally recruited and grew affiliates, ideally where affiliates were a core channel (iGaming, dating or subscription apps), plus CPA, RevShare and hybrid deal negotiation.",
+   "lang": "Fluent English only.",
+   "visa": "Fully remote across Europe on a contractor setup, no relocation or permit needed.",
+   "visaState": "unstated",
+   "pay": "EUR 30k to 70k",
+   "why": "Pure affiliate manager role running your own book of partners on a 50M monthly visit consumer AI product, which lines up with his affiliate recruitment and deal work. The catch is the product is an AI companion app and the ad says you must be comfortable promoting NSFW content, and it is a B2B contract rather than employment.",
+   "url": "https://himalayas.app/companies/everai/jobs/affiliate-manager-remote-europe?utm_source=api",
+   "source": "Himalayas, company posting",
+   "read": true,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.5,
+     "level": 0.0,
+     "place": 1.0,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "affiliate",
+     "analytics",
+     "b2b",
+     "content and social",
+     "negotiation",
+     "partnerships",
+     "web3"
+    ],
+    "missing": [
+     "api",
+     "impact",
+     "tracking"
+    ]
+   },
+   "fit": 7.5,
+   "below": false,
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "fitAdjust": 1.0,
+   "adjustWhy": "The formula read the CFO's 25 years in the ad as a requirement; the role sets no years and is a direct affiliate recruitment and deal job, docked only for the NSFW product."
+  },
+  {
+   "id": "tide-partnerships-manager-bulgaria",
+   "title": "Partnerships Manager",
+   "company": "tide",
+   "country": "Bulgaria",
+   "city": "Sofia (remote anywhere in Bulgaria)",
+   "region": "e",
+   "tier": "stretch",
+   "mode": "Remote first, anywhere in Bulgaria, some office days encouraged",
+   "posted": "2026-11-25",
+   "exp": "No set years. Wants a strong partnerships background in a fast scale-up, ideally fintech or SME banking, CRM pipeline skills and basic forecasting.",
+   "lang": "English.",
+   "visa": "EU role so no permit needed, but you must live in Bulgaria.",
+   "visaState": "unstated",
+   "pay": "Not stated",
+   "why": "Partnerships role on the UK acquisition team, signing and growing partners like accountants and business communities with clear pipeline and new customer KPIs, which fits his partner acquisition work. The catch is it asks for fintech or SME banking partnership experience and means moving to Bulgaria.",
+   "url": "https://job-boards.greenhouse.io/tide/jobs/8204668003",
+   "source": "Greenhouse, company posting",
+   "read": true,
+   "rating": {
+    "fit": 6.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.0,
+     "level": 1.0,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "b2b",
+     "content and social",
+     "crm",
+     "partnerships"
+    ],
+    "missing": [
+     "api",
+     "impact",
+     "stakeholder"
+    ]
+   },
+   "fit": 6.0,
+   "below": true,
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   }
+  },
+  {
+   "id": "quantum-affiliate-account-associate-london",
+   "title": "Affiliate Account Associate",
+   "company": "Quantum",
+   "country": "United Kingdom",
+   "city": "London",
+   "region": "n",
+   "tier": "stretch",
+   "mode": "Hybrid, 3 days a week in the London office",
+   "posted": "2026-11-27",
+   "exp": "1 to 2 years in affiliate, performance marketing, account management or a commercial graduate role.",
+   "lang": "English.",
+   "visa": "London hybrid role, no sponsorship mentioned, so a UK work permit would be needed.",
+   "visaState": "needed",
+   "pay": "Competitive base plus company bonus, figure not stated",
+   "why": "Affiliate network role managing and activating publishers, tracking CPL and conversion, and doing publisher outreach, which is exactly his day to day affiliate work. The catch is it is a junior level role below his 4 years, and it needs UK work rights with 3 office days in London.",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/quantum/affiliate-account-associate-london-402530",
+   "source": "Arbeitnow, company posting",
+   "read": true,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.5,
+     "level": 1.0,
+     "place": 0.9,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "affiliate",
+     "analytics",
+     "paid media",
+     "testing"
+    ],
+    "missing": [
+     "account management",
+     "impact",
+     "stakeholder",
+     "tracking"
+    ]
+   },
+   "fit": 5.0,
+   "below": true,
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "fitAdjust": -1.5,
+   "adjustWhy": "Junior role asking 1 to 2 years, below his level, and it needs UK work rights with 3 office days in London."
   }
  ],
- "rated": "27 Nov 2026 05:04 UTC"
+ "rated": "27 Nov 2026 11:51 UTC"
 }
