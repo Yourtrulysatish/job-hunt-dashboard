@@ -1,5 +1,5 @@
 {
- "updated": "27 Nov 2026",
+ "updated": "28 Nov 2026",
  "jobs": [
   {
    "title": "Affiliate & Partnerships Manager",
@@ -2851,32 +2851,30 @@
    "source": "We Work Remotely, company posting",
    "read": true,
    "rating": {
-    "fit": 8.0,
+    "fit": 6.0,
     "conf": "Medium",
     "parts": {
      "role": 1.8,
-     "level": 2.0,
+     "level": 1.0,
      "place": 2.0,
      "pay": 0.5,
-     "sector": 1.5,
+     "sector": 0.7,
      "flags": -0.0
     },
     "notes": [],
-    "have": [
-     "content and social",
-     "web3"
-    ],
+    "have": [],
     "missing": []
    },
-   "fit": 6.0,
+   "fit": 4.0,
    "below": true,
    "check": {
-    "tier": "Looks live",
+    "tier": "Check first",
     "good": [
-     "posted in the last two weeks",
-     "detailed description"
+     "posted in the last two weeks"
     ],
-    "check": []
+    "check": [
+     "text not read"
+    ]
    },
    "fitAdjust": -2.0,
    "adjustWhy": "The work is mostly Crypto Twitter replies, memes and copy, not partnerships, and it may be part time."
@@ -2960,22 +2958,19 @@
      "flags": -0.0
     },
     "notes": [],
-    "have": [
-     "business development",
-     "content and social",
-     "partnerships"
-    ],
+    "have": [],
     "missing": []
    },
    "fit": 5.5,
    "below": true,
    "check": {
-    "tier": "Looks live",
+    "tier": "Check first",
     "good": [
-     "posted in the last two weeks",
-     "detailed description"
+     "posted in the last two weeks"
     ],
-    "check": []
+    "check": [
+     "text not read"
+    ]
    },
    "fitAdjust": -2.0,
    "adjustWhy": "A revenue target role in travel, a sector he has not worked in, and the posting gives little detail."
@@ -3065,24 +3060,15 @@
      "flags": -0.0
     },
     "notes": [],
-    "have": [
-     "analytics",
-     "b2b",
-     "content and social",
-     "seo",
-     "testing"
-    ],
-    "missing": [
-     "email marketing",
-     "impact"
-    ]
+    "have": [],
+    "missing": []
    },
    "check": {
-    "tier": "Looks live",
-    "good": [
-     "detailed description"
-    ],
-    "check": []
+    "tier": "Check first",
+    "good": [],
+    "check": [
+     "text not read"
+    ]
    },
    "fit": 5.5,
    "below": true
@@ -3649,7 +3635,216 @@
    },
    "fitAdjust": -1.5,
    "adjustWhy": "Junior role asking 1 to 2 years, below his level, and it needs UK work rights with 3 office days in London."
+  },
+  {
+   "id": "nextcloud-channel-marketing-manager",
+   "title": "Channel Marketing Manager",
+   "company": "Nextcloud",
+   "country": "Germany",
+   "city": "Remote",
+   "region": "e",
+   "tier": "apply",
+   "mode": "Remote, team distributed across 30 countries, listed for Germany",
+   "posted": "2026-11-28",
+   "exp": "3+ years in channel marketing, partner marketing or a related role, ideally IT or software.",
+   "lang": "Fluent English required. French, Spanish or German is a plus, not required.",
+   "visa": "Not mentioned. Listed under Germany, so check whether they hire elsewhere in the EU.",
+   "visaState": "unstated",
+   "pay": "Competitive salary, figure not stated",
+   "why": "Runs partner campaigns, partner enablement and joint marketing with resellers, which builds on his partnership and affiliate work and his 4 years clears the 3+ ask. The catch is it is B2B software channel marketing rather than affiliate, and the posting is tied to Germany.",
+   "url": "https://himalayas.app/companies/nextcloud/jobs/channel-marketing-manager?utm_source=api",
+   "source": "Himalayas, confirmed on nextcloud.com/jobs",
+   "read": true,
+   "rating": {
+    "fit": 7.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.3,
+     "level": 2.0,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "content and social",
+     "crm"
+    ],
+    "missing": [
+     "impact"
+    ]
+   },
+   "fit": 7.0,
+   "below": false,
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   }
+  },
+  {
+   "id": "indigo-vc-account-lead-game-studio-partnerships",
+   "title": "Account Lead — Game Studio Partnerships",
+   "company": "Indigo VC",
+   "country": "Remote",
+   "city": "Worldwide",
+   "region": "r",
+   "tier": "stretch",
+   "mode": "Remote worldwide, full time contractor, some US weekend coverage",
+   "posted": "2026-11-25",
+   "exp": "3+ years in account management, partner support or similar, including leading people.",
+   "lang": "Excellent written English.",
+   "visa": "Remote contractor role open worldwide, not applicable.",
+   "visaState": "unstated",
+   "pay": "USD 2,000 to 4,000 net per month",
+   "why": "Long term relationship management with Roblox studio owners across time zones, close to his partner and community work. The catch is it asks for people leadership he has not done, and it is a contractor role with modest pay.",
+   "url": "https://himalayas.app/companies/indigo-vc/jobs/account-lead-game-studio-partnerships?utm_source=api",
+   "source": "Himalayas",
+   "read": true,
+   "rating": {
+    "fit": 7.0,
+    "conf": "High",
+    "parts": {
+     "role": 3.0,
+     "level": 1.5,
+     "place": 2.0,
+     "pay": 1.0,
+     "sector": 0.7,
+     "flags": -1.0
+    },
+    "notes": [
+     "contract rather than employee"
+    ],
+    "have": [
+     "analytics",
+     "partnerships"
+    ],
+    "missing": [
+     "account management"
+    ]
+   },
+   "fit": 6.0,
+   "below": true,
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks"
+    ],
+    "check": []
+   },
+   "fitAdjust": -1.0,
+   "adjustWhy": "Asks for experience leading an account team, which he has not done, and it is a contractor role at modest pay."
+  },
+  {
+   "id": "roundtrip-corporate-bd-manager-balkans",
+   "title": "Corporate Business Development Manager Balkans",
+   "company": "Roundtrip",
+   "country": "Croatia",
+   "city": "Remote, Croatia, Serbia, Bulgaria or Greece",
+   "region": "e",
+   "tier": "stretch",
+   "mode": "Remote for residents of Croatia, Serbia, Bulgaria or Greece, about 50% business travel",
+   "posted": "2026-11-27",
+   "exp": "3+ years in B2B sales, account or business development in the travel industry.",
+   "lang": "Fluent English, other languages a plus.",
+   "visa": "Must reside in Croatia, Serbia, Bulgaria or Greece. Living in Croatia fits, check that his permit allows full time work.",
+   "visaState": "unstated",
+   "pay": "Not stated",
+   "why": "One of very few English only BD roles open to someone living in Croatia, signing and growing corporate partners for the Emerging Travel Group brand. The catch is it wants travel industry B2B experience he does not have, it is quota driven sales, and half the time is travel.",
+   "url": "https://himalayas.app/companies/roundtrip/jobs/corporate-business-development-manager-balkans?utm_source=api",
+   "source": "Himalayas",
+   "read": true,
+   "rating": {
+    "fit": 8.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.5,
+     "level": 2.0,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "b2b",
+     "business development",
+     "crm",
+     "partnerships"
+    ],
+    "missing": [
+     "account management"
+    ]
+   },
+   "fit": 6.5,
+   "below": false,
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "fitAdjust": -2.0,
+   "adjustWhy": "Requires 3+ years of B2B sales in the travel industry, which he lacks, and it is a quota driven field sales role with about 50% travel."
+  },
+  {
+   "id": "spotify-audiobook-licensing-partnerships-manager",
+   "title": "Manager, International Audiobook Licensing & Partnerships",
+   "company": "Spotify",
+   "country": "United Kingdom",
+   "city": "London or Stockholm",
+   "region": "n",
+   "tier": "stretch",
+   "mode": "Hybrid, London or Stockholm office",
+   "posted": "2026-11-24",
+   "exp": "No years stated. Wants licensing, partnerships or BD experience in digital content with rights holders.",
+   "lang": "Full professional English. Other languages for international markets are an advantage.",
+   "visa": "No sponsorship mentioned, he would need UK or Swedish work rights.",
+   "visaState": "needed",
+   "pay": "Not stated",
+   "why": "Builds and grows a publisher partner pipeline, negotiates deals and onboards partners, which mirrors his publisher side affiliate and content partnerships work. The catch is it expects audiobook or publishing licensing knowledge and needs work rights in the UK or Sweden.",
+   "url": "https://jobs.lever.co/spotify/358dac9a-7d46-432e-a1f3-2660cbe26591",
+   "source": "Spotify careers (Lever)",
+   "read": true,
+   "rating": {
+    "fit": 6.0,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.0,
+     "level": 1.0,
+     "place": 0.9,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "business development",
+     "content and social",
+     "negotiation",
+     "partnerships"
+    ],
+    "missing": []
+   },
+   "fit": 6.0,
+   "below": true,
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   }
   }
  ],
- "rated": "28 Nov 2026 05:03 UTC"
+ "rated": "28 Nov 2026 11:58 UTC"
 }
