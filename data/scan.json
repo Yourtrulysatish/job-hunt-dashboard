@@ -1,6 +1,6 @@
 {
- "generated": "27 Nov 2026 11:51 UTC",
- "count": 7,
+ "generated": "28 Nov 2026 05:03 UTC",
+ "count": 10,
  "items": [
   {
    "id": "a23a5630fb2",
@@ -41,6 +41,157 @@
    "flags": [
     "asks up to 3+ years"
    ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Remote"
+  },
+  {
+   "id": "a90f42f8293",
+   "title": "Global Marketing Program Manager 12 months FTC – BioPharma Solutions and Channel",
+   "company": "Danaher",
+   "country": "Remote",
+   "region": "r",
+   "tier": "auto",
+   "fit": 6.5,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.3,
+     "level": 1.0,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "content and social",
+     "crm"
+    ],
+    "missing": [
+     "api",
+     "impact",
+     "lead generation",
+     "stakeholder"
+    ]
+   },
+   "posted": "2026-11-28",
+   "firstSeen": "2026-11-28",
+   "url": "https://himalayas.app/companies/danaher/jobs/global-marketing-program-manager-12-months-ftc-biopharma-solutions-and-channel?utm_source=api",
+   "source": "himalayas",
+   "flags": [],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Remote"
+  },
+  {
+   "id": "a6db6180f36",
+   "title": "Performance Marketing Lead",
+   "company": "Plasma",
+   "country": "United Kingdom",
+   "region": "e",
+   "tier": "auto",
+   "fit": 6.5,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.5,
+     "level": 0.5,
+     "place": 1.4,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "b2b",
+     "paid media",
+     "testing",
+     "web3"
+    ],
+    "missing": [
+     "attribution",
+     "lifecycle",
+     "retention",
+     "tracking"
+    ]
+   },
+   "posted": "2026-11-27",
+   "firstSeen": "2026-11-28",
+   "url": "https://www.arbeitnow.co.uk/jobs/companies/plasma/performance-marketing-lead-london-133625",
+   "source": "arbeitnow",
+   "flags": [
+    "relocation/visa mentioned"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying.",
+   "mode": "Hybrid or office"
+  },
+  {
+   "id": "aa8895e189e",
+   "title": "Business Development / Sales",
+   "company": "Monetum Group AG",
+   "country": "Remote",
+   "region": "r",
+   "tier": "auto",
+   "fit": 6.5,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.5,
+     "level": 1.0,
+     "place": 2.0,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -1.0
+    },
+    "notes": [
+     "contract rather than employee"
+    ],
+    "have": [
+     "b2b",
+     "business development",
+     "negotiation",
+     "web3"
+    ],
+    "missing": [
+     "commission"
+    ]
+   },
+   "posted": "2026-11-27",
+   "firstSeen": "2026-11-28",
+   "url": "https://himalayas.app/companies/monetum-group-ag/jobs/business-development-sales?utm_source=api",
+   "source": "himalayas",
+   "flags": [],
    "check": {
     "tier": "Looks live",
     "good": [
@@ -201,53 +352,6 @@
    "mode": "Remote"
   },
   {
-   "id": "afe9f2cdbb8",
-   "title": "Business Development Specialist II, Business Development Pricer",
-   "company": "Catholic Relief Services",
-   "country": "Remote",
-   "region": "r",
-   "tier": "auto",
-   "fit": 6.5,
-   "rating": {
-    "fit": 6.5,
-    "conf": "Medium",
-    "parts": {
-     "role": 2.5,
-     "level": 1.0,
-     "place": 2.0,
-     "pay": 0.5,
-     "sector": 0.7,
-     "flags": -0.0
-    },
-    "notes": [],
-    "have": [
-     "business development",
-     "content and social",
-     "negotiation",
-     "partnerships"
-    ],
-    "missing": [
-     "stakeholder"
-    ]
-   },
-   "posted": "2026-11-22",
-   "firstSeen": "2026-11-23",
-   "url": "https://himalayas.app/companies/catholic-relief-services/jobs/business-development-specialist-ii-business-development-pricer?utm_source=api",
-   "source": "himalayas",
-   "flags": [],
-   "check": {
-    "tier": "Looks live",
-    "good": [
-     "posted in the last two weeks",
-     "detailed description"
-    ],
-    "check": []
-   },
-   "new": false,
-   "why": "Found by the daily scan. Open the posting and read it before applying.",
-   "mode": "Remote"
-  },
-  {
    "id": "a48b1e04a4a",
    "title": "Field & Partner Marketing Manager, Public Sector",
    "company": "BeyondTrust",
@@ -297,6 +401,56 @@
    "new": false,
    "why": "Found by the daily scan. Open the posting and read it before applying.",
    "mode": "Remote"
+  },
+  {
+   "id": "ace90004fcb",
+   "title": "Partnership Channel Manager",
+   "company": "Sano Genetics",
+   "country": "United Kingdom",
+   "region": "e",
+   "tier": "auto",
+   "fit": 6.5,
+   "rating": {
+    "fit": 6.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.0,
+     "level": 1.0,
+     "place": 0.8,
+     "pay": 1.0,
+     "sector": 0.7,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "business development",
+     "content and social",
+     "crm",
+     "partnerships",
+     "testing"
+    ],
+    "missing": [
+     "attribution",
+     "impact",
+     "stakeholder"
+    ]
+   },
+   "posted": "2026-11-20",
+   "firstSeen": "2026-11-21",
+   "url": "https://himalayas.app/companies/sano-genetics/jobs/partnership-channel-manager?utm_source=api",
+   "source": "himalayas",
+   "flags": [],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": false,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
   },
   {
    "id": "a89822f46d8",

@@ -1,7 +1,109 @@
 {
- "generated": "27 Nov 2026 11:51 UTC",
- "count": 3,
+ "generated": "28 Nov 2026 05:03 UTC",
+ "count": 5,
  "items": [
+  {
+   "id": "a94fc0352c7",
+   "title": "Business Development Manager, Partnerships (US market)",
+   "company": "Spotware Systems",
+   "country": "Portugal",
+   "region": "e",
+   "tier": "auto",
+   "fit": 8.5,
+   "rating": {
+    "fit": 8.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 3.5,
+     "level": 2.0,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "affiliate",
+     "analytics",
+     "b2b",
+     "business development",
+     "content and social",
+     "negotiation",
+     "partnerships"
+    ],
+    "missing": [
+     "api",
+     "integration",
+     "revenue share"
+    ]
+   },
+   "posted": "2026-11-28",
+   "firstSeen": "2026-11-28",
+   "url": "https://himalayas.app/companies/spotware-systems/jobs/business-development-manager-partnerships-us-market?utm_source=api",
+   "source": "himalayas",
+   "flags": [
+    "asks up to 4+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
+  },
+  {
+   "id": "a1a2d98e851",
+   "title": "Corporate Business Development Manager Balkans",
+   "company": "Roundtrip",
+   "country": "Greece",
+   "region": "e",
+   "tier": "auto",
+   "fit": 7.5,
+   "rating": {
+    "fit": 7.5,
+    "conf": "Medium",
+    "parts": {
+     "role": 2.5,
+     "level": 2.0,
+     "place": 0.8,
+     "pay": 0.5,
+     "sector": 1.5,
+     "flags": -0.0
+    },
+    "notes": [],
+    "have": [
+     "analytics",
+     "b2b",
+     "business development",
+     "crm",
+     "partnerships"
+    ],
+    "missing": [
+     "account management"
+    ]
+   },
+   "posted": "2026-11-27",
+   "firstSeen": "2026-11-28",
+   "url": "https://himalayas.app/companies/roundtrip/jobs/corporate-business-development-manager-balkans?utm_source=api",
+   "source": "himalayas",
+   "flags": [
+    "asks up to 3+ years"
+   ],
+   "check": {
+    "tier": "Looks live",
+    "good": [
+     "posted in the last two weeks",
+     "detailed description"
+    ],
+    "check": []
+   },
+   "new": true,
+   "why": "Found by the daily scan. Open the posting and read it before applying."
+  },
   {
    "id": "a7c954f64c7",
    "title": "SME Sales Manager (Affiliate Marketing)",
@@ -54,7 +156,7 @@
     ],
     "check": []
    },
-   "new": true,
+   "new": false,
    "why": "Found by the daily scan. Open the posting and read it before applying.",
    "mode": "Hybrid or office"
   },

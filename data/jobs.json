@@ -2284,6 +2284,7 @@
     "tier": "Check first",
     "good": [],
     "check": [
+     "older than three weeks",
      "text not read"
     ]
    },
@@ -3522,37 +3523,26 @@
     "conf": "Medium",
     "parts": {
      "role": 3.5,
-     "level": 0.0,
+     "level": 1.0,
      "place": 1.0,
      "pay": 0.5,
-     "sector": 1.5,
+     "sector": 0.7,
      "flags": -0.0
     },
     "notes": [],
-    "have": [
-     "affiliate",
-     "analytics",
-     "b2b",
-     "content and social",
-     "negotiation",
-     "partnerships",
-     "web3"
-    ],
-    "missing": [
-     "api",
-     "impact",
-     "tracking"
-    ]
+    "have": [],
+    "missing": []
    },
    "fit": 7.5,
    "below": false,
    "check": {
-    "tier": "Looks live",
+    "tier": "Check first",
     "good": [
-     "posted in the last two weeks",
-     "detailed description"
+     "posted in the last two weeks"
     ],
-    "check": []
+    "check": [
+     "text not read"
+    ]
    },
    "fitAdjust": 1.0,
    "adjustWhy": "The formula read the CFO's 25 years in the ad as a requirement; the role sets no years and is a direct affiliate recruitment and deal job, docked only for the NSFW product."
@@ -3635,7 +3625,7 @@
     "fit": 6.5,
     "conf": "Medium",
     "parts": {
-     "role": 3.5,
+     "role": 3.2,
      "level": 1.0,
      "place": 0.9,
      "pay": 0.5,
@@ -3643,32 +3633,23 @@
      "flags": -0.0
     },
     "notes": [],
-    "have": [
-     "affiliate",
-     "analytics",
-     "paid media",
-     "testing"
-    ],
-    "missing": [
-     "account management",
-     "impact",
-     "stakeholder",
-     "tracking"
-    ]
+    "have": [],
+    "missing": []
    },
    "fit": 5.0,
    "below": true,
    "check": {
-    "tier": "Looks live",
+    "tier": "Check first",
     "good": [
-     "posted in the last two weeks",
-     "detailed description"
+     "posted in the last two weeks"
     ],
-    "check": []
+    "check": [
+     "text not read"
+    ]
    },
    "fitAdjust": -1.5,
    "adjustWhy": "Junior role asking 1 to 2 years, below his level, and it needs UK work rights with 3 office days in London."
   }
  ],
- "rated": "27 Nov 2026 11:51 UTC"
+ "rated": "28 Nov 2026 05:03 UTC"
 }
